@@ -1,101 +1,101 @@
 {
-  "generated_at": "2025-08-12T12:08:53Z",
+  "generated_at": "2025-08-12T12:13:26Z",
   "items": [
     {
-      "platform": "Meta",
-      "score": 82.5,
-      "delta_7d": 0.0,
+      "platform": "Anthropic",
+      "score": 65.0,
+      "delta_7d": 47.5,
       "delta_30d": null,
       "breakdown": {
         "interest": 100.0,
-        "community": 50.0,
+        "community": 0.0,
         "updates": 100.0
       },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "Google",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "Mistral",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "Anthropic",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "Cohere",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "Perplexity",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
-    },
-    {
-      "platform": "xAI",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T12:08:53Z"
+      "last_updated": "2025-08-12T12:13:26Z"
     },
     {
       "platform": "OpenAI",
-      "score": 17.5,
-      "delta_7d": 0.0,
+      "score": 47.81,
+      "delta_7d": 30.31,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 12.5,
+        "community": 100.0,
+        "updates": 31.25
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "xAI",
+      "score": 0.0,
+      "delta_7d": -17.5,
       "delta_30d": null,
       "breakdown": {
         "interest": 0.0,
-        "community": 50.0,
+        "community": 0.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-12T12:08:53Z"
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "Cohere",
+      "score": 0.0,
+      "delta_7d": -17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 0.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "Meta",
+      "score": 0.0,
+      "delta_7d": -82.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 0.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "Google",
+      "score": 0.0,
+      "delta_7d": -17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 0.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "Mistral",
+      "score": 0.0,
+      "delta_7d": -17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 0.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
+    },
+    {
+      "platform": "Perplexity",
+      "score": 0.0,
+      "delta_7d": -17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 0.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:13:26Z"
     }
   ]
 }
