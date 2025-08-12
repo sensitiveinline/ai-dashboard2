@@ -1,0 +1,17 @@
+platforms:
+  - name: OpenAI
+    keywords: [OpenAI, ChatGPT, GPT]
+  - name: Anthropic
+    keywords: [Anthropic, Claude]
+  - name: Google
+    keywords: [Google, Gemini, Vertex AI]
+  - name: Meta
+    keywords: [Meta, Llama]
+  - name: Mistral
+    keywords: [Mistral]
+  - name: xAI
+    keywords: [xAI, Grok]
+  - name: Perplexity
+    keywords: [Perplexity]
+  - name: Cohere
+    keywords: [Cohere]
