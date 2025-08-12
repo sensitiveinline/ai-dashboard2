@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-08-12T12:08:53Z",
+  "items": [
+    {
+      "platform": "Meta",
+      "score": 82.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 100.0,
+        "community": 50.0,
+        "updates": 100.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "Google",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "Mistral",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "Anthropic",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "Cohere",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "Perplexity",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "xAI",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    },
+    {
+      "platform": "OpenAI",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-12T12:08:53Z"
+    }
+  ]
+}
