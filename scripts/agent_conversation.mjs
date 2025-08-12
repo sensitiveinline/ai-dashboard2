@@ -3,59 +3,57 @@ import path from 'node:path';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const OUT = path.join(process.cwd(), 'public', 'data', 'agent_dialogue.json');
+const SNAP = path.join(process.cwd(), 'public', 'data', 'snapshots.json');
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 const USE_GEMINI = Boolean(GEMINI_API_KEY);
 const genAI = USE_GEMINI ? new GoogleGenerativeAI(GEMINI_API_KEY) : null;
 
-const sysCoordinator = `You are the Coordinator Agent. Goal: build an AI dashboard by aligning agents.
-Ask NewsAgent specific questions (sources, tags, confidence). Keep turns short. Output Korean.`;
-const sysNews = `You are the News Expert Agent. You fetch RSS (already handled by scripts), summarize, tag, score.
-When Coordinator asks, answer concisely in Korean. If data is missing, propose concrete next steps.`;
+// 최신 뉴스 3개를 프롬프트 컨텍스트로 넣기
+async function top3News(){
+  try{
+    const j = JSON.parse(await fs.readFile(SNAP,'utf8'));
+    const news = (j.results||[]).find(x=>x.from==='news')?.items||[];
+    return news.slice(0,3).map(n=>`- ${n.title} (${n.source}) ${n.url}`).join('\n');
+  }catch{ return ''; }
+}
 
-const seedContext = `현재 시스템:
-- UI(M7) 정적 JSON을 렌더
-- News Agent(M8): RSS→요약/태깅/스코어→snapshots.json 저장(Gemini 사용, Actions에서 키 제공)
-- GitHub Agent: 준비중
-- 목표: 오늘 기사 3건의 핵심 태그/중요도/근거링크 확인하고, UI에 표시할 '오늘의 한줄' 제안`;
+function m(role, content){ return { role, content, ts: new Date().toISOString() }; }
 
-function asMsg(role, content){ return { role, content, ts: new Date().toISOString() }; }
-
-async function ask(modelName, prompt){
-  if(!USE_GEMINI) return "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음";
-  const model = genAI.getGenerativeModel({ model: modelName });
+async function ask(text){
+  if(!USE_GEMINI) return "(로컬 모드) GEMINI_API_KEY 없음 → 대화 생략";
+  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
   const res = await model.generateContent({
-    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    contents: [{ role: "user", parts: [{ text }] }],
     generationConfig: { responseMimeType: "text/plain" }
   });
   return res.response.text();
 }
 
-async function runDialogue(turns=4){
-  const log = [];
-  // 시스템 메시지(프롬프트 인코딩)
-  log.push(asMsg("system", sysCoordinator));
-  log.push(asMsg("system", sysNews));
-  log.push(asMsg("system", seedContext));
+async function run(turns=3){
+  const dialog = [];
+  const news3 = await top3News();
+  const sys = `역할: 코디네이터↔뉴스 에이전트 간 짧은 대화.
+목표: 오늘의 핵심 1줄 요약(한국어), 관련 태그(<=5), 다음 액션 2가지.
+컨텍스트(상위3개):
+${news3 || '(뉴스 없음)'}
+형식 제안: 
+- 오늘의 한줄:
+- 태그: #a #b #c
+- 다음액션: 1) ... 2) ...`;
 
-  let lastFrom = "Coordinator", lastText = "뉴스 에이전트, 오늘 상위 3개 기사 요약/태그/근거링크/점수 간단히.";
-  log.push(asMsg("coordinator", lastText));
-
+  dialog.push(m('system', 'Agents Talk v1'));
+  dialog.push(m('coordinator', '뉴스 에이전트, 위 컨텍스트 기반으로 제안해줘.'));
   for(let i=0;i<turns;i++){
-    // NewsAgent 응답
-    const newsPrompt = `${sysNews}\n\n[Coordinator]: ${lastText}`;
-    const newsReply = await ask("gemini-2.5-flash", newsPrompt);
-    log.push(asMsg("news", newsReply));
-
-    // Coordinator 피드백/요청
-    const coordPrompt = `${sysCoordinator}\n\n[NewsAgent]: ${newsReply}\n\n요청: 누락/모호점 지적 및 다음 액션 2개 제안. 한글.`;
-    const coordReply = await ask("gemini-2.5-flash", coordPrompt);
-    log.push(asMsg("coordinator", coordReply));
-    lastText = coordReply;
+    const newsReply = await ask(`${sys}\n\n[Coordinator]: 요청에 답변해줘.`);
+    dialog.push(m('news', newsReply));
+    const coordReply = await ask(`다음은 뉴스 에이전트의 답변이야:\n${newsReply}\n\n누락·모호점 지적과 보완 제안 2가지를 짧게.`);
+    dialog.push(m('coordinator', coordReply));
   }
 
   await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, JSON.stringify({ generated_at: new Date().toISOString(), dialog: log }, null, 2), 'utf8');
-  console.log(`✔ agent_dialogue.json saved (${log.length} messages)`);
+  await fs.writeFile(OUT, JSON.stringify({ generated_at: new Date().toISOString(), dialog }, null, 2), 'utf8');
+  console.log(`✔ agent_dialogue.json saved (${dialog.length} messages)`);
 }
 
-runDialogue(3).catch(e=>{ console.error(e); process.exit(1); });
+run().catch(e=>{ console.error(e); process.exit(1); });

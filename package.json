@@ -5,13 +5,16 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "m8:news": "node scripts/m8_news_agent.mjs"
+    "m8:news": "node scripts/m8_news_agent.mjs",
+    "m8:talk": "node scripts/agent_conversation.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@google/genai": "^1.13.0",
+    "@google/generative-ai": "^0.24.1",
     "rss-parser": "^3.13.0"
   }
 }

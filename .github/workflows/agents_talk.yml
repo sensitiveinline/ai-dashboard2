@@ -2,7 +2,7 @@ name: Agents Talk
 
 on:
   schedule:
-    - cron: "15 0,12 * * *"  # 뉴스 수집 후 15분 뒤 대화(예시)
+    - cron: "15 0,12 * * *"   # 뉴스 수집 15분 뒤 대화(예시)
   workflow_dispatch: {}
 
 permissions:
