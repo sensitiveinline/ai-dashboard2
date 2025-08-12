@@ -1,8 +1,8 @@
 <script>
   // --- 0) 데이터 로더: 우리 파이프라인 산출물 경로 ---
   const ENDPOINTS = {
-    rankings: "../public/data/platform_rankings.json", // 점수/랭킹
-    snap:     "../public/data/snapshots.json"          // 원시(뉴스/깃허브)
+    rankings: "public/data/platform_rankings.json", // 점수/랭킹
+    snap:     "public/data/snapshots.json"          // 원시(뉴스/깃허브)
   };
   async function fetchJson(u){
     try { const r = await fetch(u, {cache:"no-store"}); return r.ok ? r.json() : null; }
