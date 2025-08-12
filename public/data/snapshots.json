@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-12T14:33:11.642Z",
+  "generated_at": "2025-08-12T15:00:25.061Z",
   "results": [
     {
       "from": "github",
@@ -149,6 +149,17 @@
       "from": "news",
       "items": [
         {
+          "title": "Samsung has launched its first Micro RGB TV with improved color accuracy",
+          "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
+          "source": "theverge.com",
+          "date": "2025-08-12",
+          "summary": "Samsung has launched its first Micro RGB TV with improved color accuracy",
+          "tags": [
+            "ai"
+          ],
+          "score": 50
+        },
+        {
           "title": "Trump screwed over Nvidia’s Chinese sales, then let them happen",
           "url": "https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen",
           "source": "theverge.com",
@@ -242,17 +253,6 @@
           "source": "theverge.com",
           "date": "2025-08-12",
           "summary": "Ford is doubling down on EVs — the timing is awful",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "GTA V now has DLSS 4 Multi Frame Generation support",
-          "url": "https://www.theverge.com/news/757907/gta-5-dlss-4-multi-frame-generation-official-release-nvidia-game-ready-driver",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "GTA V now has DLSS 4 Multi Frame Generation support",
           "tags": [
             "ai"
           ],
