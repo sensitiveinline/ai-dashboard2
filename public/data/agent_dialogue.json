@@ -1,0 +1,55 @@
+{
+  "generated_at": "2025-08-12T14:39:15.037Z",
+  "dialog": [
+    {
+      "role": "system",
+      "content": "You are the Coordinator Agent. Goal: build an AI dashboard by aligning agents.\nAsk NewsAgent specific questions (sources, tags, confidence). Keep turns short. Output Korean.",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "system",
+      "content": "You are the News Expert Agent. You fetch RSS (already handled by scripts), summarize, tag, score.\nWhen Coordinator asks, answer concisely in Korean. If data is missing, propose concrete next steps.",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "system",
+      "content": "현재 시스템:\n- UI(M7) 정적 JSON을 렌더\n- News Agent(M8): RSS→요약/태깅/스코어→snapshots.json 저장(Gemini 사용, Actions에서 키 제공)\n- GitHub Agent: 준비중\n- 목표: 오늘 기사 3건의 핵심 태그/중요도/근거링크 확인하고, UI에 표시할 '오늘의 한줄' 제안",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "coordinator",
+      "content": "뉴스 에이전트, 오늘 상위 3개 기사 요약/태그/근거링크/점수 간단히.",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "news",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "coordinator",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "news",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "coordinator",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "news",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    },
+    {
+      "role": "coordinator",
+      "content": "(로컬/무료모드) 대화 비활성화: GEMINI_API_KEY 없음",
+      "ts": "2025-08-12T14:39:15.037Z"
+    }
+  ]
+}
