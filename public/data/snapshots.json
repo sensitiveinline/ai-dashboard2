@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-12T12:32:38Z",
+  "generated_at": "2025-08-12T13:15:56Z",
   "count": 9,
   "results": [
     {
@@ -17,26 +17,26 @@
           "releases": 1
         }
       ],
-      "id": "0597695a-afd6-4097-b310-00dc415073d2",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "1888a254-29cf-4a97-81b6-3a41b9cd4466",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "Perplexity-7d",
-      "thread": "Perplexity-7d",
+      "topic": "xAI-7d",
+      "thread": "xAI-7d",
       "items": [
         {
-          "repo": "perplexity/sample-repo",
+          "repo": "xai/sample-repo",
           "stars_delta": 42,
           "prs_merged": 7,
           "releases": 1
         }
       ],
-      "id": "2de0e4d0-6278-4675-bf38-f888017f6c59",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "289fdf72-eeb6-4eed-8f4c-e38dcfe80a16",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "github",
@@ -53,37 +53,100 @@
           "releases": 1
         }
       ],
-      "id": "3479149c-41df-47c0-9a96-649efbe492b4",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "43fa71eb-0916-4d6f-bef2-b0c569b9dda9",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "Anthropic-7d",
-      "thread": "Anthropic-7d",
+      "topic": "Meta-7d",
+      "thread": "Meta-7d",
       "items": [
         {
-          "repo": "anthropic/sample-repo",
+          "repo": "meta/sample-repo",
           "stars_delta": 42,
           "prs_merged": 7,
           "releases": 1
         }
       ],
-      "id": "3b5eeebd-8df8-4fed-9a8a-8a44677c09e2",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "4ee19315-d62e-4c31-9011-b8e4488c721c",
+      "ts": "2025-08-12T13:15:56Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "OpenAI-7d",
+      "thread": "OpenAI-7d",
+      "items": [
+        {
+          "repo": "openai/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "628a99f6-3627-4990-b29d-b6eb12726745",
+      "ts": "2025-08-12T13:15:56Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Cohere-7d",
+      "thread": "Cohere-7d",
+      "items": [
+        {
+          "repo": "cohere/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "76dc8b1b-a201-4260-8b50-0c19d2346ba7",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "news",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "xAI-7d",
-      "thread": "xAI-7d",
+      "topic": "Cohere-7d",
+      "thread": "Cohere-7d",
       "items": [
         {
-          "title": "Sample news for xAI-7d",
+          "title": "Sample news for Cohere-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for OpenAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Google-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Mistral-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
           "credibility": 0.85,
@@ -110,42 +173,6 @@
           }
         },
         {
-          "title": "Sample news for Mistral-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
-        },
-        {
-          "title": "Sample news for Google-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
-        },
-        {
-          "title": "Sample news for OpenAI-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
-        },
-        {
-          "title": "Sample news for Cohere-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
-        },
-        {
           "title": "Sample news for Meta-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
@@ -153,82 +180,55 @@
           "signals": {
             "release": true
           }
+        },
+        {
+          "title": "Sample news for xAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
         }
       ],
-      "id": "469891d5-17f5-4a2b-a391-89d29e77ba9e",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "c766a10e-329f-4650-bceb-66c8c11b3760",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "xAI-7d",
-      "thread": "xAI-7d",
+      "topic": "Anthropic-7d",
+      "thread": "Anthropic-7d",
       "items": [
         {
-          "repo": "xai/sample-repo",
+          "repo": "anthropic/sample-repo",
           "stars_delta": 42,
           "prs_merged": 7,
           "releases": 1
         }
       ],
-      "id": "53af6cf7-e71c-4814-85a7-c344983d5e73",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "e10f7b77-435b-4fb6-b789-553d573b6f8b",
+      "ts": "2025-08-12T13:15:56Z"
     },
     {
       "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "OpenAI-7d",
-      "thread": "OpenAI-7d",
+      "topic": "Perplexity-7d",
+      "thread": "Perplexity-7d",
       "items": [
         {
-          "repo": "openai/sample-repo",
+          "repo": "perplexity/sample-repo",
           "stars_delta": 42,
           "prs_merged": 7,
           "releases": 1
         }
       ],
-      "id": "8c220ddb-bb8d-45da-a283-0cd837c91526",
-      "ts": "2025-08-12T12:32:38Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Cohere-7d",
-      "thread": "Cohere-7d",
-      "items": [
-        {
-          "repo": "cohere/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "93ef8f2e-a06a-4e82-86fc-cb0b70e35fa7",
-      "ts": "2025-08-12T12:32:38Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Meta-7d",
-      "thread": "Meta-7d",
-      "items": [
-        {
-          "repo": "meta/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "ede9596b-b5b9-44f0-b1f3-bf4dca11daed",
-      "ts": "2025-08-12T12:32:38Z"
+      "id": "ec1ced55-2881-4eab-87ce-112808e7831f",
+      "ts": "2025-08-12T13:15:56Z"
     }
   ]
 }
