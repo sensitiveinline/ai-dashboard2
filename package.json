@@ -1,0 +1,17 @@
+{
+  "name": "ai-dashboard2",
+  "version": "1.0.0",
+  "description": "- Manager / News / GitHub 에이전트 기반 데이터 파이프라인 - 파일 기반 메시지 버스(agents_bus) - GitHub Actions로 일 2회 자동 업데이트",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "m8:news": "node scripts/m8_news_agent.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
