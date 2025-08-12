@@ -1,11 +1,250 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <title>AI Dashboard MVP</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI Dashboard — MVP</title>
+  <style>
+    :root { --bd:#e5e7eb; --fg:#0f172a; --mut:#64748b; --bg:#f8fafc; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; color:var(--fg); background:var(--bg); }
+    .wrap { max-width: 1100px; margin: 40px auto; padding: 0 16px; }
+
+    h1 { margin: 0 0 6px; }
+    small { color:var(--mut); }
+
+    .grid { display:grid; gap:16px; grid-template-columns:1fr; }
+    @media (min-width: 960px){ .grid{ grid-template-columns:1fr 1fr; } }
+
+    .card { background:#fff; border:1px solid var(--bd); border-radius:14px; padding:16px; }
+    .row { display:flex; align-items:center; justify-content:space-between; gap:10px; }
+
+    .pill { border:1px solid var(--bd); border-radius:999px; padding:4px 8px; font-size:12px; color:#1f2937; }
+    .mut { color:var(--mut); font-size:12px; }
+    .btn { border:1px solid var(--bd); border-radius:10px; padding:6px 10px; background:#fff; cursor:pointer; }
+    .kpi { font-weight:600; }
+
+    /* 리스트 좌정렬 & 간격 */
+    ol.rank { margin:0; padding-left:0; list-style:none; }
+    li.rank-item { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; padding:10px 0; }
+    .rank-left { display:flex; align-items:flex-start; gap:12px; min-width:0; }
+    .rank-num { width:28px; height:28px; border:1px solid var(--bd); border-radius:999px; display:flex; align-items:center; justify-content:center; font-size:12px; color:#111827; flex:0 0 28px; }
+    .rank-texts { display:flex; flex-direction:column; gap:2px; min-width:0; }
+    .rank-title { font-weight:700; line-height:1.1; }
+    .rank-sub { color:var(--mut); font-size:12px; }
+
+    /* 변화 배지 (주식 스타일) */
+    .change { display:inline-flex; align-items:center; gap:6px; font-weight:600; }
+    .change svg { width:16px; height:16px; }
+    .change.up   { color:#16a34a; }  /* 초록 */
+    .change.down { color:#dc2626; }  /* 빨강 */
+    .change.flat { color:#6b7280; }  /* 보합 */
+    .trend.down { transform: scaleY(-1); } /* 하락은 위 화살표 뒤집기 */
+  </style>
 </head>
 <body>
-  <h1>AI Dashboard MVP</h1>
-  <p>처음 성공! 이제 여기다 AI 플랫폼 순위, GitHub, 뉴스, 노트를 붙일 거예요.</p>
+  <div class="wrap">
+    <header class="row" style="margin-bottom:16px;">
+      <div>
+        <h1>AI Dashboard — MVP</h1>
+        <small>한 페이지: 1) 플랫폼 순위 · 2) GitHub · 3) 뉴스 · 4) AI Note</small>
+      </div>
+      <div class="row">
+        <input id="q" placeholder="GitHub 검색 (프로젝트/태그)" style="border:1px solid var(--bd); border-radius:10px; padding:6px 10px; width:260px;" />
+        <button class="btn" onclick="location.reload()">Refresh</button>
+      </div>
+    </header>
+
+    <main class="grid" id="grid">
+      <!-- 1. AI 플랫폼 순위 -->
+      <section class="card">
+        <div class="row" style="margin-bottom:6px;">
+          <div class="row" style="gap:8px;"><div class="pill">①</div><strong>&nbsp;AI 플랫폼 순위</strong></div>
+          <span class="mut">샘플 지표</span>
+        </div>
+        <ol id="platformList" class="rank"></ol>
+      </section>
+
+      <!-- 2. GitHub AI -->
+      <section class="card">
+        <div class="row" style="margin-bottom:6px;">
+          <div class="row" style="gap:8px;"><div class="pill">②</div><strong>&nbsp;GitHub AI</strong></div>
+          <select id="repoSort" class="btn">
+            <option value="stars">Stars(7d)</option>
+            <option value="commits">Commits(30d)</option>
+            <option value="releases">Releases(90d)</option>
+          </select>
+        </div>
+        <div id="repoList"></div>
+      </section>
+
+      <!-- 3. AI NEWS -->
+      <section class="card">
+        <div class="row" style="margin-bottom:6px;">
+          <div class="row" style="gap:8px;"><div class="pill">③</div><strong>&nbsp;AI NEWS</strong></div>
+          <span class="mut">3~5개 요약</span>
+        </div>
+        <div id="newsList"></div>
+      </section>
+
+      <!-- 4. AI Note -->
+      <section class="card">
+        <div class="row" style="margin-bottom:6px;">
+          <div class="row" style="gap:8px;"><div class="pill">④</div><strong>&nbsp;AI Note (오늘의 노트)</strong></div>
+          <span id="noteDate" class="mut"></span>
+        </div>
+        <div id="noteBox"></div>
+      </section>
+    </main>
+
+    <footer class="mut" style="margin-top:14px;">
+      Data: mock → 나중에 Make.com JSON으로 교체하세요. 각 카드에 출처 표기 권장.
+    </footer>
+  </div>
+
+  <script>
+    /* ---------- 0) 추후 Make.com JSON으로 교체할 자리 ----------
+    const ENDPOINTS = { platforms:'...', repos:'...', news:'...', note:'...' };
+    async function fetchJson(u){ const r=await fetch(u,{cache:'no-store'}); return r.json(); }
+    -------------------------------------------------------------- */
+
+    // 1) MOCK 데이터
+    const platforms = [
+      { id:"openai", name:"OpenAI",       score:93, change7d: +8.2, highlight:"모델/툴킷 업데이트", url:"https://openai.com" },
+      { id:"anthropic", name:"Anthropic",  score:88, change7d: +6.1, highlight:"Claude 개선",        url:"https://www.anthropic.com" },
+      { id:"google", name:"Google AI",     score:83, change7d: +5.4, highlight:"Gemini 워크플로",     url:"https://ai.google" },
+      { id:"perplexity", name:"Perplexity",score:79, change7d:+12.5, highlight:"검색/서핑 이슈",      url:"https://www.perplexity.ai" },
+      { id:"huggingface", name:"Hugging Face", score:76, change7d:+3.2, highlight:"Spaces/Inference", url:"https://huggingface.co" }
+      // 하락 테스트: 아무 항목 change7d를 -2.5로 바꿔보세요.
+    ];
+
+    const reposBase = [
+      { id:"All-HandsAI/OpenHands", title:"OpenHands", stars:980, commits:120, releases:4, tags:["agent","automation"], pros:["실행 환경 제어","데모 임팩트"], cons:["보안/격리 필요","일관성 튜닝"], url:"https://github.com/All-HandsAI/OpenHands" },
+      { id:"google/gemini-actions", title:"Gemini Agent Samples", stars:640, commits:66, releases:3, tags:["agent","actions"], pros:["워크플로 연계","템플릿 풍부"], cons:["권한/모델 설정","러너 비용"], url:"https://github.com/google/gemini-actions" },
+      { id:"OpenPipe/OpenPromptHub", title:"OpenPromptHub", stars:310, commits:42, releases:5, tags:["prompt","library"], pros:["프롬프트 관리","탐색 쉬움"], cons:["품질 편차","메타데이터 표준 필요"], url:"#"}
+    ];
+
+    const news = [
+      { id:"n1", title:"기업용 코딩 에이전트 확산", source:"Tech Brief", url:"#", date:new Date().toISOString().slice(0,10), summary:"테스트·PR까지 자동화 범위 확대." },
+      { id:"n2", title:"멀티모달 추론 경쟁",       source:"AI Watch",    url:"#", date:new Date().toISOString().slice(0,10), summary:"이미지+텍스트 과제에서 차별화." },
+      { id:"n3", title:"프롬프트 레지스트리 논의", source:"Dev Forum",   url:"#", date:new Date().toISOString().slice(0,10), summary:"버전/승인/배포 파이프라인 요구." }
+    ];
+
+    // 2) 변화 배지 (자동: 상승/하락/보합)
+    function changeBadge(pct) {
+      const up   = pct > 0;
+      const flat = pct === 0;
+      const cls  = flat ? 'flat' : (up ? 'up' : 'down');
+
+      const arrow = flat
+        ? `<svg viewBox="0 0 24 24" aria-hidden="true">
+             <path d="M3 12 H21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+           </svg>`
+        : `<svg viewBox="0 0 24 24" class="trend ${up ? '' : 'down'}" aria-hidden="true">
+             <path d="M3 16 L9 10 L13 14 L21 6"
+                   fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round"/>
+           </svg>`;
+
+      const text = `${up ? '+' : (flat ? '' : '')}${pct.toFixed(1)}%`;
+      return `<span class="change ${cls}">${arrow}<span>${text}</span></span>`;
+    }
+
+    // 3) 렌더링
+    function renderPlatforms(){
+      const ol = document.getElementById('platformList');
+      ol.innerHTML = platforms.slice(0,5).map((p,i)=>`
+        <li class="rank-item">
+          <div class="rank-left">
+            <div class="rank-num">${i+1}</div>
+            <div class="rank-texts">
+              <div class="rank-title">${p.name}</div>
+              <div class="rank-sub">${p.highlight}</div>
+            </div>
+          </div>
+          <div style="text-align:right;">
+            <div class="kpi">Score ${Math.round(p.score)}</div>
+            ${changeBadge(p.change7d)}
+          </div>
+        </li>
+      `).join('');
+    }
+
+    function renderRepos(){
+      const sort = document.getElementById('repoSort').value;
+      const q = document.getElementById('q').value.trim().toLowerCase();
+      let xs = reposBase.filter(r => (r.title + r.id + r.tags.join(" ")).toLowerCase().includes(q));
+      xs.sort((a,b)=>{
+        if (sort==='commits')  return b.commits  - a.commits;
+        if (sort==='releases') return b.releases - a.releases;
+        return b.stars - a.stars;
+      });
+      const box = document.getElementById('repoList');
+      box.innerHTML = xs.map((r,i)=>`
+        <div class="card" style="border:1px dashed var(--bd); padding:12px; margin-bottom:10px;">
+          <div class="row">
+            <div>
+              <div class="kpi">${i+1}. ${r.title}</div>
+              <div class="mut">${r.id} · ${r.tags.join(" / ")}</div>
+            </div>
+            <div class="mut">
+              ⭐ +${r.stars} · ⟲ ${r.commits} · ⎇ ${r.releases}
+            </div>
+          </div>
+          <div class="grid" style="grid-template-columns:1fr 1fr; margin-top:8px;">
+            <ul style="margin:0; padding-left:18px;">${r.pros.map(x=>`<li>👍 ${x}</li>`).join('')}</ul>
+            <ul style="margin:0; padding-left:18px;">${r.cons.map(x=>`<li>👎 ${x}</li>`).join('')}</ul>
+          </div>
+          <div class="mut" style="margin-top:6px;"><a href="${r.url}" target="_blank" rel="noreferrer">Source</a></div>
+        </div>
+      `).join('');
+    }
+
+    function renderNews(){
+      const box = document.getElementById('newsList');
+      box.innerHTML = news.map(n=>`
+        <div class="card" style="border:1px dashed var(--bd); padding:12px;">
+          <div class="row">
+            <div>
+              <div class="kpi">${n.title}</div>
+              <div class="mut">${n.source} · ${n.date}</div>
+            </div>
+            <a class="mut" href="${n.url}" target="_blank" rel="noreferrer">원문</a>
+          </div>
+          <p style="margin:6px 0 0;">${n.summary}</p>
+        </div>
+      `).join('');
+    }
+
+    function renderNote(){
+      const d = new Date().toISOString().slice(0,10);
+      document.getElementById('noteDate').textContent = `Date: ${d}`;
+      const topP = platforms[0];
+      const topR = reposBase.slice().sort((a,b)=>b.stars-a.stars)[0];
+      const box = document.getElementById('noteBox');
+      box.innerHTML = `
+        <div>
+          <div class="kpi" style="margin-bottom:6px;">Hot Features</div>
+          <ol style="margin:0; padding-left:18px;">
+            <li>${topP.name} 업데이트 — 👍 ${topP.highlight} / 👎 세부 문서 확인 필요</li>
+            <li>GitHub: ${topR.title} — 👍 Stars↑·커밋 활발 / 👎 환경·권한 구성 필요</li>
+            <li>멀티모달·에이전트 주간 강세 — 👍 사용사례 증가 / 👎 비용·품질 편차</li>
+          </ol>
+        </div>
+        <div style="margin-top:10px;">
+          <div class="kpi" style="margin-bottom:6px;">Top News</div>
+          <ul style="margin:0; padding-left:18px;">
+            ${news.slice(0,3).map(n=>`<li><a href="${n.url}" target="_blank" rel="noreferrer">${n.title}</a> <span class="mut">(${n.source})</span></li>`).join('')}
+          </ul>
+        </div>
+        <div style="margin-top:8px; font-style:italic;">Insight: 이번 주는 에이전트/프롬프트 레지스트리 상승세.</div>
+      `;
+    }
+
+    // 초기 렌더 & 이벤트
+    renderPlatforms(); renderRepos(); renderNews(); renderNote();
+    document.getElementById('repoSort').addEventListener('change', renderRepos);
+    document.getElementById('q').addEventListener('input', ()=>{ renderRepos(); });
+  </script>
 </body>
 </html>
