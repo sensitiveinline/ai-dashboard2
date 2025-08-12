@@ -1,0 +1,45 @@
+name: AI Dashboard Auto Update
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"   # 매일 0시/12시(UTC) = 하루 2회
+  workflow_dispatch:          # 수동 실행 버튼
+
+permissions:
+  contents: write             # 결과 커밋/푸시에 필요
+
+jobs:
+  run-dashboard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline (publish → agents → approve → merge → score)
+        env:
+          PYTHONPATH: .
+        run: |
+          python agents/manager/orchestrator.py --mode publish
+          python agents/news/news_agent.py
+          python agents/manager/approve_p2p.py
+          python agents/github/gh_agent.py
+          python agents/news/news_agent.py
+          python agents/manager/orchestrator.py --mode merge
+          python agents/manager/score_rankings.py
+
+      - name: Commit & Push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/*.json
+          git commit -m "data(auto): scheduled update [skip ci]" || echo "No changes"
+          git push
