@@ -1,0 +1,12 @@
+rss:
+  - https://www.theverge.com/rss/index.xml
+  - https://feeds.feedburner.com/TechCrunch/ArtificialIntelligence
+  - https://www.marktechpost.com/feed/
+  - https://www.semianalysis.com/feed
+  - https://www.tomshardware.com/feeds/all
+allow_domains:
+  - theverge.com
+  - techcrunch.com
+  - marktechpost.com
+  - semianalysis.com
+  - tomshardware.com
