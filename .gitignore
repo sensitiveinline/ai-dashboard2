@@ -14,3 +14,4 @@ agents_bus/inbox/*.json
 agents_bus/outbox/*.json
 agents_bus/reviews/*.json
 agents_bus/logs/*
+node_modules
