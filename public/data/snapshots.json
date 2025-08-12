@@ -1,48 +1,63 @@
 {
-  "generated_at": "2025-08-12T12:13:22Z",
-  "count": 11,
+  "generated_at": "2025-08-12T12:32:38Z",
+  "count": 9,
   "results": [
     {
-      "from": "news",
+      "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "OpenAI-7d",
-      "thread": "OpenAI-7d",
+      "topic": "Mistral-7d",
+      "thread": "Mistral-7d",
       "items": [
         {
-          "title": "Sample news for OpenAI-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
+          "repo": "mistral/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
         }
       ],
-      "id": "b36272c2-90b6-45af-9cac-2dcccd4ef618",
-      "ts": "2025-08-12T12:12:16Z"
+      "id": "0597695a-afd6-4097-b310-00dc415073d2",
+      "ts": "2025-08-12T12:32:38Z"
     },
     {
       "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
-      "topic": "OpenAI-7d",
-      "thread": "OpenAI-7d",
+      "topic": "Perplexity-7d",
+      "thread": "Perplexity-7d",
       "items": [
         {
-          "repo": "openai/sample-repo",
+          "repo": "perplexity/sample-repo",
           "stars_delta": 42,
           "prs_merged": 7,
           "releases": 1
         }
       ],
-      "id": "d1a1d0a3-c91d-4d63-9cf5-ea620faca64d",
-      "ts": "2025-08-12T12:12:16Z"
+      "id": "2de0e4d0-6278-4675-bf38-f888017f6c59",
+      "ts": "2025-08-12T12:32:38Z"
     },
     {
-      "from": "news",
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Google-7d",
+      "thread": "Google-7d",
+      "items": [
+        {
+          "repo": "google/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "3479149c-41df-47c0-9a96-649efbe492b4",
+      "ts": "2025-08-12T12:32:38Z"
+    },
+    {
+      "from": "github",
       "to": "manager",
       "type": "result",
       "status": "ok",
@@ -50,7 +65,25 @@
       "thread": "Anthropic-7d",
       "items": [
         {
-          "title": "Sample news for Anthropic-7d",
+          "repo": "anthropic/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "3b5eeebd-8df8-4fed-9a8a-8a44677c09e2",
+      "ts": "2025-08-12T12:32:38Z"
+    },
+    {
+      "from": "news",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "xAI-7d",
+      "thread": "xAI-7d",
+      "items": [
+        {
+          "title": "Sample news for xAI-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
           "credibility": 0.85,
@@ -68,16 +101,7 @@
           }
         },
         {
-          "title": "Sample news for OpenAI-7d",
-          "url": "https://example.com",
-          "summary": "요약(샘플)",
-          "credibility": 0.85,
-          "signals": {
-            "release": true
-          }
-        },
-        {
-          "title": "Sample news for xAI-7d",
+          "title": "Sample news for Anthropic-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
           "credibility": 0.85,
@@ -95,7 +119,16 @@
           }
         },
         {
-          "title": "Sample news for Meta-7d",
+          "title": "Sample news for Google-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for OpenAI-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
           "credibility": 0.85,
@@ -113,7 +146,7 @@
           }
         },
         {
-          "title": "Sample news for Google-7d",
+          "title": "Sample news for Meta-7d",
           "url": "https://example.com",
           "summary": "요약(샘플)",
           "credibility": 0.85,
@@ -122,8 +155,8 @@
           }
         }
       ],
-      "id": "0e55cf1a-be3b-4465-81e5-c389b83497b3",
-      "ts": "2025-08-12T12:13:22Z"
+      "id": "469891d5-17f5-4a2b-a391-89d29e77ba9e",
+      "ts": "2025-08-12T12:32:38Z"
     },
     {
       "from": "github",
@@ -140,116 +173,8 @@
           "releases": 1
         }
       ],
-      "id": "4a1d30a9-6ef1-450f-bec9-a720ca6aa33c",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Cohere-7d",
-      "thread": "Cohere-7d",
-      "items": [
-        {
-          "repo": "cohere/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "658d1064-5c76-4b7f-8d47-893d9ec1f7b4",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Meta-7d",
-      "thread": "Meta-7d",
-      "items": [
-        {
-          "repo": "meta/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "713ce154-0bf5-416e-b862-47764ea3d2ce",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Google-7d",
-      "thread": "Google-7d",
-      "items": [
-        {
-          "repo": "google/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "74bf5386-24ad-43a2-a41c-6588ed891542",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Mistral-7d",
-      "thread": "Mistral-7d",
-      "items": [
-        {
-          "repo": "mistral/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "b898be09-ba5d-4259-8d4d-fd355a9ccd1a",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Anthropic-7d",
-      "thread": "Anthropic-7d",
-      "items": [
-        {
-          "repo": "anthropic/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "d355c860-dd0f-47c5-8186-7714ceb62c3a",
-      "ts": "2025-08-12T12:13:22Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Perplexity-7d",
-      "thread": "Perplexity-7d",
-      "items": [
-        {
-          "repo": "perplexity/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "e4b2226f-77ce-416a-8b4e-03085f3b7a1f",
-      "ts": "2025-08-12T12:13:22Z"
+      "id": "53af6cf7-e71c-4814-85a7-c344983d5e73",
+      "ts": "2025-08-12T12:32:38Z"
     },
     {
       "from": "github",
@@ -266,8 +191,44 @@
           "releases": 1
         }
       ],
-      "id": "e8459abb-2c31-4abc-8671-4cf81c99e32d",
-      "ts": "2025-08-12T12:13:22Z"
+      "id": "8c220ddb-bb8d-45da-a283-0cd837c91526",
+      "ts": "2025-08-12T12:32:38Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Cohere-7d",
+      "thread": "Cohere-7d",
+      "items": [
+        {
+          "repo": "cohere/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "93ef8f2e-a06a-4e82-86fc-cb0b70e35fa7",
+      "ts": "2025-08-12T12:32:38Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Meta-7d",
+      "thread": "Meta-7d",
+      "items": [
+        {
+          "repo": "meta/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "ede9596b-b5b9-44f0-b1f3-bf4dca11daed",
+      "ts": "2025-08-12T12:32:38Z"
     }
   ]
 }
