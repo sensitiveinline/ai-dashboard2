@@ -1,0 +1,6 @@
+nano deploy.sh
+#!/bin/bash
+git add .
+git commit -m "업데이트: AI Dashboard Agents"
+git push origin main
+echo "🚀 GitHub에 변경사항이 푸시되었습니다."
