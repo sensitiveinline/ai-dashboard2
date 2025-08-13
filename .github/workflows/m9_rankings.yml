@@ -1,0 +1,22 @@
+name: M9 Platform Rankings
+on:
+  schedule: [ { cron: "10 0,12 * * *" } ]
+  workflow_dispatch: {}
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm ci
+      - run: npm run m9:rank
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp -f public/data/platform_rankings.json public/data/platform_rankings.prev.json || true
+          git add public/data/platform_rankings.json public/data/platform_rankings.prev.json
+          git commit -m "M9: update platform rankings [skip ci]" || echo "No changes"
+          git push

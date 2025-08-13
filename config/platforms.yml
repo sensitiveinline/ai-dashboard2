@@ -1,0 +1,25 @@
+platforms:
+  - id: cohere
+    name: Cohere
+    repos: [ "cohere-ai/cohere-python" ]
+    keywords: [cohere]
+  - id: mistral
+    name: Mistral
+    repos: [ "mistralai/mistral-src" ]
+    keywords: [mistral]
+  - id: xai
+    name: xAI
+    repos: [ "xai-org/grok" ]
+    keywords: [xai, grok]
+  - id: google
+    name: Google
+    repos: [ "google/generative-ai-js" ]
+    keywords: [google, gemini]
+  - id: meta
+    name: Meta
+    repos: [ "meta-llama/llama-recipes" ]
+    keywords: [meta, llama]
+weights:
+  interest: 0.4
+  community: 0.4
+  updates: 0.2

@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "m8:news": "node scripts/m8_news_agent.mjs",
-    "m8:talk": "node scripts/agent_conversation.mjs"
+    "m8:talk": "node scripts/agent_conversation.mjs",
+    "m9:github": "node scripts/m9_github_agent.mjs",
+    "m9:rank": "node scripts/m9_rankings_agent.mjs",
+    "m10:note": "node scripts/m10_ai_note.mjs"
   },
   "keywords": [],
   "author": "",

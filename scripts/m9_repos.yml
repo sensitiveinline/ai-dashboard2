@@ -1,0 +1,20 @@
+# 체크할 레포(필요시 자유롭게 추가/수정)
+repos:
+  - owner: openai
+    name: openai-cookbook
+    tags: [ai, examples]
+  - owner: cohere-ai
+    name: cohere-python
+    tags: [ai, sdk]
+  - owner: google
+    name: generative-ai-js
+    tags: [genai, sdk]
+  - owner: meta-llama
+    name: llama-recipes
+    tags: [llm, training]
+  - owner: microsoft
+    name: guidance
+    tags: [prompt, tooling]
+  - owner: langchain-ai
+    name: langchain
+    tags: [agent, framework]
