@@ -1,0 +1,90 @@
+name: M8 Fetch News
+
+on:
+  schedule:
+    # UTC 기준: 23:10(=KST 08:10), 11:10(=KST 20:10)
+    - cron: '10 23 * * *'
+    - cron: '10 11 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ai-dashboard-m8-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Install jq (for cache check)
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Check daily cache
+        id: cachecheck
+        run: |
+          FILE="public/data/news_snapshots.json"
+          TODAY=$(date -u +"%Y-%m-%d")   # 캐시 키(UTC 날짜)
+          if [ -f "$FILE" ]; then
+            HAS=$(jq -r --arg k "$TODAY" 'has($k)' "$FILE" 2>/dev/null || echo "false")
+          else
+            HAS="false"
+          fi
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+          echo "has_cache=$HAS" >> "$GITHUB_OUTPUT"
+          echo "Cache for $TODAY: $HAS"
+      # 캐시가 없을 때만 실행
+      - name: Run M8 News Agent (Gemini) with backoff
+        if: steps.cachecheck.outputs.has_cache != 'true'
+        run: |
+          set -e
+          # 최대 5회 재시도(지수 백오프 + 지터)
+          for i in 0 1 2 3 4; do
+            echo "Run attempt $((i+1))..."
+            if node scripts/agent_conversation.mjs; then
+              echo "Agent run success"; break
+            fi
+            # 429/임시 에러 가정, 지수 백오프 + 0~2s 지터
+            S=$(( (2**i) + RANDOM % 3 ))
+            echo "Retry in ${S}s"
+            sleep $S
+            if [ $i -eq 4 ]; then
+              echo "All retries failed"; exit 1
+            fi
+          done
+
+      - name: Commit changes (only if changed)
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          CHANGED=0
+          # 필요한 파일만 추려 추가
+          git add public/data/news_snapshots.json || true
+          # 변경 없으면 커밋 생략
+          if ! git diff --cached --quiet; then
+            git commit -m "M8: update news snapshots [skip ci]"
+            CHANGED=1
+          fi
+          echo "changed=$CHANGED" >> $GITHUB_ENV
+
+      - name: Create Pull Request (if changed)
+        if: env.changed == '1'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: chore/m8-news-${{ github.run_id }}
+          title: "M8: update news snapshots"
+          commit-message: "M8: update news snapshots [skip ci]"
+          delete-branch: true
