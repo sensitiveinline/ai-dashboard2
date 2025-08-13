@@ -1,55 +1,101 @@
 {
-  "generated_at": "2025-08-13T03:14:48.746Z",
+  "generated_at": "2025-08-13T03:43:02Z",
   "items": [
     {
-      "platform": "Cohere",
-      "score": 0,
+      "platform": "Perplexity",
+      "score": 82.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
       "breakdown": {
-        "interest": 0,
-        "community": 0,
-        "updates": 0
+        "interest": 100.0,
+        "community": 50.0,
+        "updates": 100.0
       },
-      "delta_7d": -82
-    },
-    {
-      "platform": "Mistral",
-      "score": 0,
-      "breakdown": {
-        "interest": 0,
-        "community": 0,
-        "updates": 0
-      },
-      "delta_7d": -17
+      "last_updated": "2025-08-13T03:43:02Z"
     },
     {
       "platform": "xAI",
-      "score": 0,
+      "score": 17.5,
+      "delta_7d": 17.5,
+      "delta_30d": null,
       "breakdown": {
-        "interest": 0,
-        "community": 0,
-        "updates": 0
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
       },
-      "delta_7d": -17
+      "last_updated": "2025-08-13T03:43:02Z"
     },
     {
-      "platform": "Google",
-      "score": 0,
+      "platform": "OpenAI",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
       "breakdown": {
-        "interest": 1,
-        "community": 0,
-        "updates": 0
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
       },
-      "delta_7d": -17
+      "last_updated": "2025-08-13T03:43:02Z"
+    },
+    {
+      "platform": "Mistral",
+      "score": 17.5,
+      "delta_7d": 17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-13T03:43:02Z"
     },
     {
       "platform": "Meta",
-      "score": 0,
+      "score": 17.5,
+      "delta_7d": 17.5,
+      "delta_30d": null,
       "breakdown": {
-        "interest": 0,
-        "community": 0,
-        "updates": 0
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
       },
-      "delta_7d": -17
+      "last_updated": "2025-08-13T03:43:02Z"
+    },
+    {
+      "platform": "Anthropic",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-13T03:43:02Z"
+    },
+    {
+      "platform": "Google",
+      "score": 17.5,
+      "delta_7d": 17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-13T03:43:02Z"
+    },
+    {
+      "platform": "Cohere",
+      "score": 17.5,
+      "delta_7d": 17.5,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-13T03:43:02Z"
     }
   ]
 }

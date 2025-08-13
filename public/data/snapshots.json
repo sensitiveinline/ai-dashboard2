@@ -1,673 +1,234 @@
 {
-  "generated_at": "2025-08-13T03:13:57.450Z",
+  "generated_at": "2025-08-13T03:43:02Z",
+  "count": 9,
   "results": [
     {
-      "from": "news",
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Perplexity-7d",
+      "thread": "Perplexity-7d",
       "items": [
         {
-          "title": "Samsung has launched its first Micro RGB TV with improved color accuracy",
-          "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Samsung has launched its first Micro RGB TV with improved color accuracy",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Trump screwed over Nvidia’s Chinese sales, then let them happen",
-          "url": "https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Trump screwed over Nvidia’s Chinese sales, then let them happen",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Sling TV&#8217;s $5 pass buys you one day of cable TV",
-          "url": "https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Sling TV&#8217;s $5 pass buys you one day of cable TV",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Alien: Earth is a brilliant and terrifying expansion of the franchise",
-          "url": "https://www.theverge.com/tv-reviews/719173/alien-earth-review",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Alien: Earth is a brilliant and terrifying expansion of the franchise",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "How to save a smart home company",
-          "url": "https://www.theverge.com/podcast/757679/how-insteon-came-back-from-the-dead-smart-lighting-hotline",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "How to save a smart home company",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Sam Altman is right and wrong about the future of photos",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Sam Altman is right and wrong about the future of photos",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Elon Musk says he’s suing Apple for rigging App Store rankings",
-          "url": "https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Elon Musk says he’s suing Apple for rigging App Store rankings",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Microsoft releases lightweight Office taskbar apps for Windows 11",
-          "url": "https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Microsoft releases lightweight Office taskbar apps for Windows 11",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Taylor Swift’s 12th announced at 12:12 on the 12th",
-          "url": "https://www.theverge.com/news/757921/taylor-swift-t12-album-name",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Taylor Swift’s 12th announced at 12:12 on the 12th",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Ford is doubling down on EVs — the timing is awful",
-          "url": "https://www.theverge.com/ford-motor-company/757719/ford-ev-platform-timing-sales-trump",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Ford is doubling down on EVs — the timing is awful",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Zhipu AI Releases GLM-4.5V: Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
-          "url": "https://www.marktechpost.com/2025/08/12/zhipu-ai-releases-glm-4-5v-versatile-multimodal-reasoning-with-scalable-reinforcement-learning/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Zhipu AI Releases GLM-4.5V: Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Case Studies: Real-World Applications of Context Engineering",
-          "url": "https://www.marktechpost.com/2025/08/12/case-studies-real-world-applications-of-context-engineering/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Case Studies: Real-World Applications of Context Engineering",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "NVIDIA AI Introduces End-to-End AI Stack, Cosmos Physical AI Models and New Omniverse Libraries for Advanced Robotics",
-          "url": "https://www.marktechpost.com/2025/08/11/nvidia-ai-introduces-end-to-end-ai-stack-cosmos-physical-ai-models-and-new-omniverse-libraries-for-advanced-robotics/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "NVIDIA AI Introduces End-to-End AI Stack, Cosmos Physical AI Models and New Omniverse Libraries for Advanced Robotics",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration",
-          "url": "https://www.marktechpost.com/2025/08/11/building-a-secure-and-memory-enabled-cipher-workflow-for-ai-agents-with-dynamic-llm-selection-and-api-integration/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "NuMind AI Releases NuMarkdown-8B-Thinking: A Reasoning Breakthrough in OCR and Document-to-Markdown Conversion",
-          "url": "https://www.marktechpost.com/2025/08/11/numind-ai-releases-numarkdown-8b-thinking-a-reasoning-breakthrough-in-ocr-and-document-to-markdown-conversion/",
-          "source": "marktechpost.com",
-          "date": "2025-08-11",
-          "summary": "NuMind AI Releases NuMarkdown-8B-Thinking: A Reasoning Breakthrough in OCR and Document-to-Markdown Conversion",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Genie Envisioner: A Unified Video-Generative Platform for Scalable, Instruction-Driven Robotic Manipulation",
-          "url": "https://www.marktechpost.com/2025/08/11/genie-envisioner-a-unified-video-generative-platform-for-scalable-instruction-driven-robotic-manipulation/",
-          "source": "marktechpost.com",
-          "date": "2025-08-11",
-          "summary": "Genie Envisioner: A Unified Video-Generative Platform for Scalable, Instruction-Driven Robotic Manipulation",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The Best Chinese Open Agentic/Reasoning Models (2025): Expanded Review, Comparative Insights & Use Cases",
-          "url": "https://www.marktechpost.com/2025/08/11/the-best-chinese-open-agentic-reasoning-models-2025-expanded-review-comparative-insights-use-cases/",
-          "source": "marktechpost.com",
-          "date": "2025-08-11",
-          "summary": "The Best Chinese Open Agentic/Reasoning Models (2025): Expanded Review, Comparative Insights & Use Cases",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The Complete Guide to DeepSeek-R1-0528 Inference Providers: Where to Run the Leading Open-Source Reasoning Model",
-          "url": "https://www.marktechpost.com/2025/08/11/the-complete-guide-to-deepseek-r1-0528-inference-providers-where-to-run-the-leading-open-source-reasoning-model/",
-          "source": "marktechpost.com",
-          "date": "2025-08-11",
-          "summary": "The Complete Guide to DeepSeek-R1-0528 Inference Providers: Where to Run the Leading Open-Source Reasoning Model",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Building an Advanced Portfolio Analysis and Market Intelligence Tool with OpenBB",
-          "url": "https://www.marktechpost.com/2025/08/10/building-an-advanced-portfolio-analysis-and-market-intelligence-tool-with-openbb/",
-          "source": "marktechpost.com",
-          "date": "2025-08-11",
-          "summary": "Building an Advanced Portfolio Analysis and Market Intelligence Tool with OpenBB",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-          "url": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-          "source": "semianalysis.com",
-          "date": "2025-08-12",
-          "summary": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Asus ROG Strix XG32UCWMG 4K OLED gaming monitor review: Premium high-speed gaming and stunning imagery",
-          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg32ucwmg-4k-oled-gaming-monitor-review",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Asus ROG Strix XG32UCWMG 4K OLED gaming monitor review: Premium high-speed gaming and stunning imagery",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Korean Starbucks bans desktop PCs, printers, and office partitions — power strips also forbidden in crackdown on industrious customers",
-          "url": "https://www.tomshardware.com/software/social-media/korean-starbucks-bans-desktop-pcs-printers-and-office-partitions-power-strips-also-forbidden-in-crackdown-on-industrious-customers",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Korean Starbucks bans desktop PCs, printers, and office partitions — power strips also forbidden in crackdown on industrious customers",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Samsung's benchmark-topping 4TB and 2TB 9100 Pro SSDs with attached heatsinks leap to all-time low prices at Newegg and Amazon — Act fast while they are cheaper than the non-heatsink versions",
-          "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-benchmark-topping-4tb-and-2tb-9100-pro-ssds-with-attached-heatsinks-leap-to-all-time-low-prices-at-newegg-and-amazon-act-fast-while-they-are-cheaper-than-the-non-heatsink-versions",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Samsung's benchmark-topping 4TB and 2TB 9100 Pro SSDs with attached heatsinks leap to all-time low prices at Newegg and Amazon — Act fast while they are cheaper than the non-heatsink versions",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Why I still use a Lenovo Thinkpad that debuted in 2011 — the X220 helps me stay focused on my most important tasks",
-          "url": "https://www.tomshardware.com/laptops/why-i-still-use-a-lenovo-thinkpad-that-debuted-in-2011-the-x220-helps-me-stay-focused-on-my-most-important-tasks",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Why I still use a Lenovo Thinkpad that debuted in 2011 — the X220 helps me stay focused on my most important tasks",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "This futuristic 3D-printed cyberdeck has two swiveling touchscreens — and it's powered by a Raspberry Pi 5",
-          "url": "https://www.tomshardware.com/3d-printing/this-futuristic-3d-printed-cyberdeck-has-two-swiveling-touchscreens-and-its-powered-by-a-raspberry-pi-5",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "This futuristic 3D-printed cyberdeck has two swiveling touchscreens — and it's powered by a Raspberry Pi 5",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Stablecoins gain critical mass after GENIUS Act cements rules — banks and companies rush to register new coins",
-          "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/stablecoins-gain-critical-mass-after-genius-act-cements-rules-banks-and-companies-rush-to-register-new-coins",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Stablecoins gain critical mass after GENIUS Act cements rules — banks and companies rush to register new coins",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The beige GPU of your dreams is here, and it's pricey — Asus unveils Noctua Edition RTX 5080 fitted with 3x NF-A12x25 G2 fans and custom vapor chamber to achieve 'state-of-the-art quiet cooling efficiency'",
-          "url": "https://www.tomshardware.com/pc-components/gpus/the-beige-gpu-of-your-dreams-is-here-and-its-pricey-asus-unveils-noctua-edition-rtx-5080-fitted-with-3x-nf-a12x25-g2-fans-and-custom-vapor-chamber-to-achieve-state-of-the-art-quiet-cooling-efficiency",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "The beige GPU of your dreams is here, and it's pricey — Asus unveils Noctua Edition RTX 5080 fitted with 3x NF-A12x25 G2 fans and custom vapor chamber to achieve 'state-of-the-art quiet cooling efficiency'",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "I expanded my Wi-Fi 7 network by adding a TP-Link Deco BE25-Outdoor satellite, quadrupling performance for long-distance connections in my backyard",
-          "url": "https://www.tomshardware.com/networking/i-expanded-my-wi-fi-7-network-by-adding-a-tp-link-deco-be25-outdoor-satellite-quadrupling-performance-for-long-distance-connections-in-my-backyard",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "I expanded my Wi-Fi 7 network by adding a TP-Link Deco BE25-Outdoor satellite, quadrupling performance for long-distance connections in my backyard",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia RTX 5070 Ti bought from Amazon had the box contents swapped for bag of suspicious white powder — PC hardware enthusiast bamboozled by Amazon just days after ordering a 5090 with no GPU core, finds salt instead",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-ti-bought-from-amazon-had-the-box-contents-swapped-for-bag-of-suspicious-white-powder-pc-hardware-enthusiast-bamboozled-by-amazon-just-days-after-ordering-a-5090-with-no-gpu-core-finds-salt-instead",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Nvidia RTX 5070 Ti bought from Amazon had the box contents swapped for bag of suspicious white powder — PC hardware enthusiast bamboozled by Amazon just days after ordering a 5090 with no GPU core, finds salt instead",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia responds to claim China is urging local companies to avoid Nvidia H20 — report claims authorities have sent notices discouraging use, especially for government-related purposes",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-responds-to-claim-china-is-urging-local-companies-to-avoid-nvidia-h20-report-claims-authorities-have-sent-notices-discouraging-use-especially-for-government-related-purposes",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Nvidia responds to claim China is urging local companies to avoid Nvidia H20 — report claims authorities have sent notices discouraging use, especially for government-related purposes",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Trump says Intel CEO Lip-Bu Tan and his Cabinet to discuss company's future this week, make proposals next week — Intel responds",
-          "url": "https://www.tomshardware.com/pc-components/cpus/trump-says-intel-ceo-lip-bu-tan-and-his-cabinet-to-discuss-companys-future-this-week-make-proposals-next-week",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Trump says Intel CEO Lip-Bu Tan and his Cabinet to discuss company's future this week, make proposals next week — Intel responds",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The pains of Intel: From CPU design and process technology challenges to internal clashes and political pressure",
-          "url": "https://www.tomshardware.com/pc-components/cpus/all-the-pains-of-intel-from-cpu-design-and-process-technologies-to-internal-clashes-and-political-pressure",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "The pains of Intel: From CPU design and process technology challenges to internal clashes and political pressure",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "I created a convenient PC repair kit that I can take on the road — these are the tools that have come in handy when I'm PC problem-solving away from home",
-          "url": "https://www.tomshardware.com/desktops/pc-building/i-created-a-pc-repair-kit-that-i-can-take-on-the-road-here-are-the-tools-that-come-in-handy-when-youre-in-a-pinch",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "I created a convenient PC repair kit that I can take on the road — these are the tools that have come in handy when I'm PC problem-solving away from home",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Trump may allow Nvidia to ship hobbled current-gen Blackwell AI GPUs to China — U.S. gov't would get 15% of related revenue, China firms would get access to far faster GPUs",
-          "url": "https://www.tomshardware.com/pc-components/gpus/trump-may-allow-nvidia-to-ship-hobbled-current-gen-blackwell-ai-gpus-to-china-u-s-govt-would-get-15-percent-of-related-revenue-china-firms-would-get-access-to-far-faster-gpus",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Trump may allow Nvidia to ship hobbled current-gen Blackwell AI GPUs to China — U.S. gov't would get 15% of related revenue, China firms would get access to far faster GPUs",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Undervolted Zotac RTX 5090 reportedly catches fire during Battlefield 6 session",
-          "url": "https://www.tomshardware.com/pc-components/gpus/zotac-rtx-5090-reportedly-catches-fire-during-battlefield-6-session",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Undervolted Zotac RTX 5090 reportedly catches fire during Battlefield 6 session",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "My PC won't shut off this ugly red RGB light — my motherboard has become my biggest aesthetic annoyance",
-          "url": "https://www.tomshardware.com/desktops/my-pc-wont-shut-off-this-ugly-red-rgb-light-my-motherboard-has-become-my-biggest-aesthetic-annoyance",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "My PC won't shut off this ugly red RGB light — my motherboard has become my biggest aesthetic annoyance",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Get $400 off the latest Asus ROG Zephyrus G14 gaming laptop — RTX 5060 and Ryzen 9 CPU portable drops to just $1,400",
-          "url": "https://www.tomshardware.com/pc-components/get-usd400-off-the-latest-asus-rog-zephyrus-g14-gaming-laptop-rtx-5060-and-x-cpu-portable-drops-to-just-usd1-400",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Get $400 off the latest Asus ROG Zephyrus G14 gaming laptop — RTX 5060 and Ryzen 9 CPU portable drops to just $1,400",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "GitHub folds into Microsoft following CEO resignation — once independent programming site now part of 'CoreAI' team",
-          "url": "https://www.tomshardware.com/software/programming/github-folds-into-microsoft-following-ceo-resignation-once-independent-programming-site-now-part-of-coreai-team",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "GitHub folds into Microsoft following CEO resignation — once independent programming site now part of 'CoreAI' team",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Former Intel CEO lays out radical plan to rescue the company — Suggests ousting Lip-Bu Tan and asks for $40 billion investment from Nvidia, Apple, and others",
-          "url": "https://www.tomshardware.com/tech-industry/former-intel-ceo-lays-out-radical-plan-to-rescue-the-company-suggests-outing-lip-bu-tan-and-asks-for-usd40-billion-investment-to-bolster-american-manufacturing",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Former Intel CEO lays out radical plan to rescue the company — Suggests ousting Lip-Bu Tan and asks for $40 billion investment from Nvidia, Apple, and others",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "SK hynix wants you to buy s’more HBM4 to satisfy your high-tech cravings — company's X account compares cutting-edge stacked memory to summer treat",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-wants-you-to-buy-smore-hbm4-to-satisfy-your-high-tech-cravings-companys-x-account-compares-cutting-edge-stacked-memory-to-summer-treat",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "SK hynix wants you to buy s’more HBM4 to satisfy your high-tech cravings — company's X account compares cutting-edge stacked memory to summer treat",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Eight-core Arrow Lake CPU listed for $150 overseas — Core Ultra 3 205 may not be directly available in retail, though",
-          "url": "https://www.tomshardware.com/pc-components/cpus/quad-core-arrow-lake-cpu-listed-for-usd150-overseas-core-ultra-3-205-may-not-be-directly-available-in-retail-though",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Eight-core Arrow Lake CPU listed for $150 overseas — Core Ultra 3 205 may not be directly available in retail, though",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Ryzen 7 5700X3D reportedly reaches 'end-of-life' — AMD's last eight-core Zen 3 3D V-Cache CPU ends production",
-          "url": "https://www.tomshardware.com/pc-components/cpus/ryzen-7-5700x3d-reportedly-reaches-end-of-life-amds-last-eight-core-zen-3-3d-v-cache-cpu-ends-production",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Ryzen 7 5700X3D reportedly reaches 'end-of-life' — AMD's last eight-core Zen 3 3D V-Cache CPU ends production",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "SK hynix projects HBM market to be worth tens of billions of dollars by 2030 — says AI memory industry will expand 30% annually over five years",
-          "url": "https://www.tomshardware.com/tech-industry/sk-hynix-projects-hbm-market-to-be-worth-tens-of-billions-of-dollars-by-2030-says-ai-memory-industry-will-expand-30-percent-annually-over-five-years",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "SK hynix projects HBM market to be worth tens of billions of dollars by 2030 — says AI memory industry will expand 30% annually over five years",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia introduces compact Blackwell professional graphics cards — RTX Pro 4000 SFF and Pro 2000 GPUs arrive at SIGGRAPH 2025",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-compact-blackwell-professional-graphics-cards-rtx-pro-4000-sff-and-pro-2000-gpus-launched-at-siggraph-2025",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Nvidia introduces compact Blackwell professional graphics cards — RTX Pro 4000 SFF and Pro 2000 GPUs arrive at SIGGRAPH 2025",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia unveils 2U RTX Pro 6000 servers at SIGGRAPH — double shot of Blackwell power comes to smaller rackmount form factors",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-2u-rtx-pro-6000-servers-at-siggraph-double-shot-of-blackwell-power-comes-to-smaller-rackmount-form-factors",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Nvidia unveils 2U RTX Pro 6000 servers at SIGGRAPH — double shot of Blackwell power comes to smaller rackmount form factors",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Google's AI could be tricked into enabling spam, revealing a user's location, and leaking private correspondence with a calendar invite — 'promptware' targets LLM interface to trigger malicious activity",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/googles-ai-could-be-tricked-into-enabling-spam-revealing-a-users-location-and-leaking-private-correspondence-with-a-calendar-invite-promptware-targets-llm-interface-to-trigger-malicious-activity",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Google's AI could be tricked into enabling spam, revealing a user's location, and leaking private correspondence with a calendar invite — 'promptware' targets LLM interface to trigger malicious activity",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia and AMD reportedly sharing 15% of their China GPU revenue in exchange for export licenses — 'unprecedented' export revenue sharing deal may have been struck",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-amd-reportedly-sharing-15-percent-of-their-china-gpu-revenue-in-exchange-for-export-licenses-unprecedented-export-revenue-sharing-deal-may-have-been-struck",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Nvidia and AMD reportedly sharing 15% of their China GPU revenue in exchange for export licenses — 'unprecedented' export revenue sharing deal may have been struck",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Intel CEO Lip-Bu Tan expected to visit Trump to address China links — duo tipped to have 'wide-ranging' conversation to address national security concerns",
-          "url": "https://www.tomshardware.com/tech-industry/intel-ceo-lip-bu-tan-expected-to-visit-trump-to-address-china-links-duo-tipped-to-have-wide-ranging-conversation-to-address-national-security-concerns",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Intel CEO Lip-Bu Tan expected to visit Trump to address China links — duo tipped to have 'wide-ranging' conversation to address national security concerns",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Scientists 3D print titanium fuel tank for space travel — world's first to pass critical durability test",
-          "url": "https://www.tomshardware.com/3d-printing/scientists-3d-print-titanium-fuel-tank-for-space-travel-worlds-first-to-pass-critical-durability-test",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Scientists 3D print titanium fuel tank for space travel — world's first to pass critical durability test",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Back in stock, this MSRP-priced RTX 5080 OC is the 2nd most powerful GPU available and is now just $999 for the overclocked variant",
-          "url": "https://www.tomshardware.com/pc-components/gpus/back-in-stock-this-msrp-priced-rtx-5080-oc-is-the-2nd-most-powerful-gpu-available-and-is-now-just-usd999-for-the-overclocked-variant",
-          "source": "tomshardware.com",
-          "date": "2025-08-11",
-          "summary": "Back in stock, this MSRP-priced RTX 5080 OC is the 2nd most powerful GPU available and is now just $999 for the overclocked variant",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
+          "repo": "perplexity/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
         }
-      ]
+      ],
+      "id": "08ab5f62-0dfb-4e73-8a32-ef943480667c",
+      "ts": "2025-08-13T03:43:02Z"
     },
     {
       "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "xAI-7d",
+      "thread": "xAI-7d",
       "items": [
         {
-          "id": "openai/openai-cookbook",
-          "title": "openai-cookbook",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 0,
-          "tags": [
-            "ai",
-            "examples"
-          ],
-          "url": "https://github.com/openai/openai-cookbook",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
-        },
-        {
-          "id": "cohere-ai/cohere-python",
-          "title": "cohere-python",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 1,
-          "tags": [
-            "ai",
-            "sdk"
-          ],
-          "url": "https://github.com/cohere-ai/cohere-python",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
-        },
-        {
-          "id": "google/generative-ai-js",
-          "title": "generative-ai-js",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 0,
-          "tags": [
-            "genai",
-            "sdk"
-          ],
-          "url": "https://github.com/google/generative-ai-js",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
-        },
-        {
-          "id": "meta-llama/llama-recipes",
-          "title": "llama-recipes",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 0,
-          "tags": [
-            "llm",
-            "training"
-          ],
-          "url": "https://github.com/meta-llama/llama-recipes",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
-        },
-        {
-          "id": "microsoft/guidance",
-          "title": "guidance",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 0,
-          "tags": [
-            "prompt",
-            "tooling"
-          ],
-          "url": "https://github.com/microsoft/guidance",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
-        },
-        {
-          "id": "langchain-ai/langchain",
-          "title": "langchain",
-          "stars_delta": 0,
-          "prs_merged": 0,
-          "releases": 4,
-          "tags": [
-            "agent",
-            "framework"
-          ],
-          "url": "https://github.com/langchain-ai/langchain",
-          "pros": [
-            "활동 증가"
-          ],
-          "cons": [
-            "메타데이터 보강 필요"
-          ]
+          "repo": "xai/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
         }
-      ]
+      ],
+      "id": "622776fb-8d47-4f2f-999f-4f228648ec05",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "OpenAI-7d",
+      "thread": "OpenAI-7d",
+      "items": [
+        {
+          "repo": "openai/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "63ce38d6-caa9-4f94-b742-fd46021a5353",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "news",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Perplexity-7d",
+      "thread": "Perplexity-7d",
+      "items": [
+        {
+          "title": "Sample news for Perplexity-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for xAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Google-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Anthropic-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Mistral-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Cohere-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for OpenAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Meta-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        }
+      ],
+      "id": "6e3779e1-17c5-4e85-9dd6-02055741cd96",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Mistral-7d",
+      "thread": "Mistral-7d",
+      "items": [
+        {
+          "repo": "mistral/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "7ab30b04-0d76-4436-86d1-a804d228b903",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Meta-7d",
+      "thread": "Meta-7d",
+      "items": [
+        {
+          "repo": "meta/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "7f805d78-f634-4949-b58a-6d4f716fc6b6",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Anthropic-7d",
+      "thread": "Anthropic-7d",
+      "items": [
+        {
+          "repo": "anthropic/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "a08c7a1e-504d-4b69-8e19-36fdbcf4d8f1",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Google-7d",
+      "thread": "Google-7d",
+      "items": [
+        {
+          "repo": "google/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "ac792c42-5194-40d4-a5b6-12a8b0d553ef",
+      "ts": "2025-08-13T03:43:02Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Cohere-7d",
+      "thread": "Cohere-7d",
+      "items": [
+        {
+          "repo": "cohere/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "e7450a63-e75f-459a-8106-80045487c299",
+      "ts": "2025-08-13T03:43:02Z"
     }
   ]
 }
