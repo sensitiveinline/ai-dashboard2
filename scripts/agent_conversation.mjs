@@ -1,59 +1,61 @@
-import fs from 'node:fs/promises';
-import path from 'node:path';
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import fs from 'fs/promises';
+import path from 'path';
 
-const OUT = path.join(process.cwd(), 'public', 'data', 'agent_dialogue.json');
-const SNAP = path.join(process.cwd(), 'public', 'data', 'snapshots.json');
+// -------- config --------
+const OUT = path.join(process.cwd(), 'public/data/news_snapshots.json');
+const TODAY = new Date().toISOString().slice(0,10); // YYYY-MM-DD
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
-const USE_GEMINI = Boolean(GEMINI_API_KEY);
-const genAI = USE_GEMINI ? new GoogleGenerativeAI(GEMINI_API_KEY) : null;
-
-// 최신 뉴스 3개를 프롬프트 컨텍스트로 넣기
-async function top3News(){
-  try{
-    const j = JSON.parse(await fs.readFile(SNAP,'utf8'));
-    const news = (j.results||[]).find(x=>x.from==='news')?.items||[];
-    return news.slice(0,3).map(n=>`- ${n.title} (${n.source}) ${n.url}`).join('\n');
-  }catch{ return ''; }
+// ---- helper: retry with backoff + jitter ----
+async function withRetry(fn, tries=5, baseMs=1000) {
+  let lastErr;
+  for (let i=0;i<tries;i++){
+    try { return await fn(); }
+    catch (e){
+      lastErr = e;
+      const retriable = (e?.status===429) || (e?.code==='RESOURCE_EXHAUSTED') || (e?.response?.status===429);
+      if (!retriable || i===tries-1) throw e;
+      const jitter = Math.floor(Math.random()*250);
+      const delay = Math.min(30000, baseMs * (2**i)) + jitter;
+      console.log(`retry #${i+1} in ${delay}ms (reason: ${e?.status||e?.code||'error'})`);
+      await new Promise(r=>setTimeout(r, delay));
+    }
+  }
+  throw lastErr;
 }
 
-function m(role, content){ return { role, content, ts: new Date().toISOString() }; }
-
-async function ask(text){
-  if(!USE_GEMINI) return "(로컬 모드) GEMINI_API_KEY 없음 → 대화 생략";
-  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
-  const res = await model.generateContent({
-    contents: [{ role: "user", parts: [{ text }] }],
-    generationConfig: { responseMimeType: "text/plain" }
-  });
-  return res.response.text();
+// ---- fake fetcher to replace with real Gemini call ----
+async function generateNews() {
+  // 여기에 실제 Gemini 호출 로직을 사용하세요.
+  // 예: await client.models.generateContent({model:'gemini-2.0-flash', contents:[...]} )
+  return [
+    { title: "AI News Snapshot", url: "https://example.com", summary: "Daily snapshot", ts: new Date().toISOString() }
+  ];
 }
 
-async function run(turns=3){
-  const dialog = [];
-  const news3 = await top3News();
-  const sys = `역할: 코디네이터↔뉴스 에이전트 간 짧은 대화.
-목표: 오늘의 핵심 1줄 요약(한국어), 관련 태그(<=5), 다음 액션 2가지.
-컨텍스트(상위3개):
-${news3 || '(뉴스 없음)'}
-형식 제안: 
-- 오늘의 한줄:
-- 태그: #a #b #c
-- 다음액션: 1) ... 2) ...`;
+// ---- main ----
+async function main(){
+  // 1) load cache (if exists)
+  let db = {};
+  try {
+    const raw = await fs.readFile(OUT, 'utf8');
+    db = JSON.parse(raw);
+  } catch (_) { db = {}; }
 
-  dialog.push(m('system', 'Agents Talk v1'));
-  dialog.push(m('coordinator', '뉴스 에이전트, 위 컨텍스트 기반으로 제안해줘.'));
-  for(let i=0;i<turns;i++){
-    const newsReply = await ask(`${sys}\n\n[Coordinator]: 요청에 답변해줘.`);
-    dialog.push(m('news', newsReply));
-    const coordReply = await ask(`다음은 뉴스 에이전트의 답변이야:\n${newsReply}\n\n누락·모호점 지적과 보완 제안 2가지를 짧게.`);
-    dialog.push(m('coordinator', coordReply));
+  // 2) if already have today, skip work (exit 0)
+  if (db[TODAY]) {
+    console.log(`cache exists for ${TODAY} -> skip`);
+    return;
   }
 
+  // 3) run with retry
+  const result = await withRetry(() => generateNews());
+
+  // 4) save
+  db[TODAY] = result;
+  const pretty = JSON.stringify(db, null, 2);
   await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, JSON.stringify({ generated_at: new Date().toISOString(), dialog }, null, 2), 'utf8');
-  console.log(`✔ agent_dialogue.json saved (${dialog.length} messages)`);
+  await fs.writeFile(OUT, pretty);
+  console.log(`wrote ${OUT} for ${TODAY} (${Array.isArray(result)?result.length:1} items)`);
 }
 
-run().catch(e=>{ console.error(e); process.exit(1); });
+main().catch((e)=>{ console.error(e); process.exit(1); });
