@@ -1,11 +1,12 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
-// -------- config --------
-const OUT = path.join(process.cwd(), 'public/data/news_snapshots.json');
-const TODAY = new Date().toISOString().slice(0,10); // YYYY-MM-DD
+const OUT_SNAP = path.join(process.cwd(), 'public/data/news_snapshots.json');
+const OUT_CURR = path.join(process.cwd(), 'public/data/news_current.json');
+const TODAY = new Date().toISOString().slice(0,10);
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-// ---- helper: retry with backoff + jitter ----
 async function withRetry(fn, tries=5, baseMs=1000) {
   let lastErr;
   for (let i=0;i<tries;i++){
@@ -16,46 +17,52 @@ async function withRetry(fn, tries=5, baseMs=1000) {
       if (!retriable || i===tries-1) throw e;
       const jitter = Math.floor(Math.random()*250);
       const delay = Math.min(30000, baseMs * (2**i)) + jitter;
-      console.log(`retry #${i+1} in ${delay}ms (reason: ${e?.status||e?.code||'error'})`);
+      console.log(`retry #${i+1} in ${delay}ms`);
       await new Promise(r=>setTimeout(r, delay));
     }
   }
   throw lastErr;
 }
 
-// ---- fake fetcher to replace with real Gemini call ----
 async function generateNews() {
-  // 여기에 실제 Gemini 호출 로직을 사용하세요.
-  // 예: await client.models.generateContent({model:'gemini-2.0-flash', contents:[...]} )
-  return [
-    { title: "AI News Snapshot", url: "https://example.com", summary: "Daily snapshot", ts: new Date().toISOString() }
-  ];
+  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+  const prompt = `
+오늘 날짜 기준 AI 관련 주요 뉴스 6개를
+JSON 배열로만 출력.
+각 항목은 {"title":"","url":"","summary":"","source":""} 형식.
+마크다운/코드펜스/설명 금지.
+`;
+  const res = await model.generateContent(prompt);
+  const txt = res.response.text().trim();
+  const clean = txt.startsWith('```') ? txt.replace(/```(\w+)?/g,'').trim() : txt;
+  const arr = JSON.parse(clean);
+  return arr.map(x => ({
+    title: String(x.title||'').slice(0,300),
+    url: String(x.url||''),
+    summary: String(x.summary||'').slice(0,1000),
+    source: String(x.source||new URL(x.url||'').hostname||''),
+    ts: new Date().toISOString()
+  }));
 }
 
-// ---- main ----
 async function main(){
-  // 1) load cache (if exists)
-  let db = {};
-  try {
-    const raw = await fs.readFile(OUT, 'utf8');
-    db = JSON.parse(raw);
-  } catch (_) { db = {}; }
+  let snap = {};
+  try { snap = JSON.parse(await fs.readFile(OUT_SNAP,'utf8')); } catch { snap = {}; }
 
-  // 2) if already have today, skip work (exit 0)
-  if (db[TODAY]) {
+  if (snap[TODAY]) {
     console.log(`cache exists for ${TODAY} -> skip`);
+    await fs.writeFile(OUT_CURR, JSON.stringify(snap[TODAY], null, 2));
     return;
   }
 
-  // 3) run with retry
-  const result = await withRetry(() => generateNews());
+  const todayArr = await withRetry(() => generateNews());
 
-  // 4) save
-  db[TODAY] = result;
-  const pretty = JSON.stringify(db, null, 2);
-  await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, pretty);
-  console.log(`wrote ${OUT} for ${TODAY} (${Array.isArray(result)?result.length:1} items)`);
+  snap[TODAY] = todayArr;
+  await fs.mkdir(path.dirname(OUT_SNAP), { recursive: true });
+  await fs.writeFile(OUT_SNAP, JSON.stringify(snap, null, 2));
+  await fs.writeFile(OUT_CURR, JSON.stringify(todayArr, null, 2));
+
+  console.log(`wrote ${OUT_SNAP} & ${OUT_CURR} for ${TODAY} (${todayArr.length} items)`);
 }
 
-main().catch((e)=>{ console.error(e); process.exit(1); });
+main().catch(e=>{ console.error(e); process.exit(1); });
