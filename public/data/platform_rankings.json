@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-08-13T03:43:02Z",
+  "generated_at": "2025-08-13T13:48:36Z",
   "items": [
     {
-      "platform": "Perplexity",
+      "platform": "Meta",
       "score": 82.5,
-      "delta_7d": 0.0,
+      "delta_7d": 65.0,
       "delta_30d": null,
       "breakdown": {
         "interest": 100.0,
         "community": 50.0,
         "updates": 100.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
-      "platform": "xAI",
+      "platform": "Google",
       "score": 17.5,
-      "delta_7d": 17.5,
+      "delta_7d": 0.0,
       "delta_30d": null,
       "breakdown": {
         "interest": 0.0,
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
       "platform": "OpenAI",
@@ -35,31 +35,43 @@
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
-      "platform": "Mistral",
+      "platform": "xAI",
       "score": 17.5,
-      "delta_7d": 17.5,
+      "delta_7d": 0.0,
       "delta_30d": null,
       "breakdown": {
         "interest": 0.0,
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
-      "platform": "Meta",
+      "platform": "Perplexity",
       "score": 17.5,
-      "delta_7d": 17.5,
+      "delta_7d": -65.0,
       "delta_30d": null,
       "breakdown": {
         "interest": 0.0,
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
+    },
+    {
+      "platform": "Cohere",
+      "score": 17.5,
+      "delta_7d": 0.0,
+      "delta_30d": null,
+      "breakdown": {
+        "interest": 0.0,
+        "community": 50.0,
+        "updates": 0.0
+      },
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
       "platform": "Anthropic",
@@ -71,31 +83,19 @@
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     },
     {
-      "platform": "Google",
+      "platform": "Mistral",
       "score": 17.5,
-      "delta_7d": 17.5,
+      "delta_7d": 0.0,
       "delta_30d": null,
       "breakdown": {
         "interest": 0.0,
         "community": 50.0,
         "updates": 0.0
       },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Cohere",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
+      "last_updated": "2025-08-13T13:48:36Z"
     }
   ]
 }

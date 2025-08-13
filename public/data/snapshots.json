@@ -1,78 +1,7 @@
 {
-  "generated_at": "2025-08-13T08:50:41.023Z",
+  "generated_at": "2025-08-13T13:48:36Z",
+  "count": 9,
   "results": [
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Perplexity-7d",
-      "thread": "Perplexity-7d",
-      "items": [
-        {
-          "repo": "perplexity/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "08ab5f62-0dfb-4e73-8a32-ef943480667c",
-      "ts": "2025-08-13T03:43:02Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "xAI-7d",
-      "thread": "xAI-7d",
-      "items": [
-        {
-          "repo": "xai/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "622776fb-8d47-4f2f-999f-4f228648ec05",
-      "ts": "2025-08-13T03:43:02Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "OpenAI-7d",
-      "thread": "OpenAI-7d",
-      "items": [
-        {
-          "repo": "openai/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "63ce38d6-caa9-4f94-b742-fd46021a5353",
-      "ts": "2025-08-13T03:43:02Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Mistral-7d",
-      "thread": "Mistral-7d",
-      "items": [
-        {
-          "repo": "mistral/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "7ab30b04-0d76-4436-86d1-a804d228b903",
-      "ts": "2025-08-13T03:43:02Z"
-    },
     {
       "from": "github",
       "to": "manager",
@@ -88,26 +17,8 @@
           "releases": 1
         }
       ],
-      "id": "7f805d78-f634-4949-b58a-6d4f716fc6b6",
-      "ts": "2025-08-13T03:43:02Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Anthropic-7d",
-      "thread": "Anthropic-7d",
-      "items": [
-        {
-          "repo": "anthropic/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "a08c7a1e-504d-4b69-8e19-36fdbcf4d8f1",
-      "ts": "2025-08-13T03:43:02Z"
+      "id": "2aaace67-4390-4a0c-b097-4e5d79a76e39",
+      "ts": "2025-08-13T13:48:36Z"
     },
     {
       "from": "github",
@@ -124,8 +35,146 @@
           "releases": 1
         }
       ],
-      "id": "ac792c42-5194-40d4-a5b6-12a8b0d553ef",
-      "ts": "2025-08-13T03:43:02Z"
+      "id": "2db3d62e-5396-4e84-a327-451b30cd7c9c",
+      "ts": "2025-08-13T13:48:36Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "OpenAI-7d",
+      "thread": "OpenAI-7d",
+      "items": [
+        {
+          "repo": "openai/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "45358a7b-f2cb-46ad-90e1-a1b84913c780",
+      "ts": "2025-08-13T13:48:36Z"
+    },
+    {
+      "from": "news",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Meta-7d",
+      "thread": "Meta-7d",
+      "items": [
+        {
+          "title": "Sample news for Meta-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Anthropic-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Cohere-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for OpenAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Perplexity-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Google-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for Mistral-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        },
+        {
+          "title": "Sample news for xAI-7d",
+          "url": "https://example.com",
+          "summary": "요약(샘플)",
+          "credibility": 0.85,
+          "signals": {
+            "release": true
+          }
+        }
+      ],
+      "id": "5593ab76-0bb1-4328-a6b9-de8e16dec545",
+      "ts": "2025-08-13T13:48:36Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "xAI-7d",
+      "thread": "xAI-7d",
+      "items": [
+        {
+          "repo": "xai/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "5753c9f3-651d-46f5-a500-bc53702a8568",
+      "ts": "2025-08-13T13:48:36Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Perplexity-7d",
+      "thread": "Perplexity-7d",
+      "items": [
+        {
+          "repo": "perplexity/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "8c219a99-0a57-48f0-a4e5-9330ed70860a",
+      "ts": "2025-08-13T13:48:36Z"
     },
     {
       "from": "github",
@@ -142,464 +191,44 @@
           "releases": 1
         }
       ],
-      "id": "e7450a63-e75f-459a-8106-80045487c299",
-      "ts": "2025-08-13T03:43:02Z"
+      "id": "b74719b2-02f5-44a7-8e65-67675a310c1b",
+      "ts": "2025-08-13T13:48:36Z"
     },
     {
-      "from": "news",
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Anthropic-7d",
+      "thread": "Anthropic-7d",
       "items": [
         {
-          "title": "ChatGPT won’t remove old models without warning after GPT-5 backlash",
-          "url": "https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement",
-          "source": "theverge.com",
-          "date": "2025-08-13",
-          "summary": "ChatGPT won’t remove old models without warning after GPT-5 backlash",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "How to choose which Apple Watch to buy",
-          "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
-          "source": "theverge.com",
-          "date": "2025-08-13",
-          "summary": "How to choose which Apple Watch to buy",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Elon Musk says he’s suing Apple for rigging App Store rankings",
-          "url": "https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store",
-          "source": "theverge.com",
-          "date": "2025-08-13",
-          "summary": "Elon Musk says he’s suing Apple for rigging App Store rankings",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Russia might be responsible for the PACER hack",
-          "url": "https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Russia might be responsible for the PACER hack",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The best Fitbits for your fitness and health",
-          "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "The best Fitbits for your fitness and health",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Google posts an official look at the Pixel 10 Pro Fold",
-          "url": "https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Google posts an official look at the Pixel 10 Pro Fold",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "League of Legends is testing a new WASD control scheme, 16 years in",
-          "url": "https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "League of Legends is testing a new WASD control scheme, 16 years in",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The best foldable phone you can buy",
-          "url": "https://www.theverge.com/tech/635839/best-foldable-phone",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "The best foldable phone you can buy",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Krafton claims former Subnautica 2 devs ‘lost interest’ in developing game",
-          "url": "https://www.theverge.com/news/758265/subnautica-2-lawsuit-response-krafton-unknown-worlds",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "Krafton claims former Subnautica 2 devs ‘lost interest’ in developing game",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "UK government suggests deleting files to save water",
-          "url": "https://www.theverge.com/science/758275/drought-delete-files-email-data-center-water-uk",
-          "source": "theverge.com",
-          "date": "2025-08-12",
-          "summary": "UK government suggests deleting files to save water",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Want the Latest AI Agent and Agentic AI News? These 10 Websites Are a Must-Visit! (2025 Update)",
-          "url": "https://www.marktechpost.com/2025/08/13/want-the-latest-ai-agent-and-agentic-ai-news-these-10-websites-are-a-must-visit-2025-update/",
-          "source": "marktechpost.com",
-          "date": "2025-08-13",
-          "summary": "Want the Latest AI Agent and Agentic AI News? These 10 Websites Are a Must-Visit! (2025 Update)",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Why Docker Matters for Artificial Intelligence AI Stack: Reproducibility, Portability, and Environment Parity",
-          "url": "https://www.marktechpost.com/2025/08/13/why-docker-matters-for-artificial-intelligence-ai-stack-reproducibility-portability-and-environment-parity/",
-          "source": "marktechpost.com",
-          "date": "2025-08-13",
-          "summary": "Why Docker Matters for Artificial Intelligence AI Stack: Reproducibility, Portability, and Environment Parity",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Mistral AI Unveils Mistral Medium 3.1: Enhancing AI with Superior Performance and Usability",
-          "url": "https://www.marktechpost.com/2025/08/12/mistral-ai-unveils-mistral-medium-3-1-enhancing-ai-with-superior-performance-and-usability/",
-          "source": "marktechpost.com",
-          "date": "2025-08-13",
-          "summary": "Mistral AI Unveils Mistral Medium 3.1: Enhancing AI with Superior Performance and Usability",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nebius AI Advances Open-Weight LLMs Through Reinforcement Learning for Capable SWE Agents",
-          "url": "https://www.marktechpost.com/2025/08/12/nebius-ai-advances-open-weight-llms-through-reinforcement-learning-for-capable-swe-agents/",
-          "source": "marktechpost.com",
-          "date": "2025-08-13",
-          "summary": "Nebius AI Advances Open-Weight LLMs Through Reinforcement Learning for Capable SWE Agents",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "NVIDIA AI Releases ProRLv2: Advancing Reasoning in Language Models with Extended Reinforcement Learning RL",
-          "url": "https://www.marktechpost.com/2025/08/12/nvidia-ai-releases-prorlv2-advancing-reasoning-in-language-models-with-extended-reinforcement-learning-rl/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "NVIDIA AI Releases ProRLv2: Advancing Reasoning in Language Models with Extended Reinforcement Learning RL",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Meet LEANN: The Tiniest Vector Database that Democratizes Personal AI with Storage-Efficient Approximate Nearest Neighbor (ANN) Search Index",
-          "url": "https://www.marktechpost.com/2025/08/12/meet-leann-the-tiniest-vector-database-that-democratizes-personal-ai-with-storage-efficient-approximate-nearest-neighbor-ann-search-index/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Meet LEANN: The Tiniest Vector Database that Democratizes Personal AI with Storage-Efficient Approximate Nearest Neighbor (ANN) Search Index",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Zhipu AI Releases GLM-4.5V: Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
-          "url": "https://www.marktechpost.com/2025/08/12/zhipu-ai-releases-glm-4-5v-versatile-multimodal-reasoning-with-scalable-reinforcement-learning/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Zhipu AI Releases GLM-4.5V: Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Case Studies: Real-World Applications of Context Engineering",
-          "url": "https://www.marktechpost.com/2025/08/12/case-studies-real-world-applications-of-context-engineering/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Case Studies: Real-World Applications of Context Engineering",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "NVIDIA AI Introduces End-to-End AI Stack, Cosmos Physical AI Models and New Omniverse Libraries for Advanced Robotics",
-          "url": "https://www.marktechpost.com/2025/08/11/nvidia-ai-introduces-end-to-end-ai-stack-cosmos-physical-ai-models-and-new-omniverse-libraries-for-advanced-robotics/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "NVIDIA AI Introduces End-to-End AI Stack, Cosmos Physical AI Models and New Omniverse Libraries for Advanced Robotics",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration",
-          "url": "https://www.marktechpost.com/2025/08/11/building-a-secure-and-memory-enabled-cipher-workflow-for-ai-agents-with-dynamic-llm-selection-and-api-integration/",
-          "source": "marktechpost.com",
-          "date": "2025-08-12",
-          "summary": "Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
-          "url": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
-          "source": "semianalysis.com",
-          "date": "2025-08-13",
-          "summary": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-          "url": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-          "source": "semianalysis.com",
-          "date": "2025-08-12",
-          "summary": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Anker’s massive laptop power bank is down to $110 on Amazon —  TSA-friendly, triple USB-C charging and max output of 165W battery is perfect for back to school",
-          "url": "https://www.tomshardware.com/pc-components/ankers-massive-laptop-power-bank-is-down-to-usd110-on-amazon-tsa-friendly-triple-usb-c-charging-and-max-output-of-165w-battery-is-perfect-for-back-to-school",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Anker’s massive laptop power bank is down to $110 on Amazon —  TSA-friendly, triple USB-C charging and max output of 165W battery is perfect for back to school",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia RTX 5090D V2 limits AI performance even more with 25% less VRAM and bandwidth — downgraded gaming flagship keeps same $2299 MSRP in China",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090d-v2-limits-ai-performance-even-more-with-25-percent-less-vram-and-bandwidth-downgraded-gaming-flagship-keeps-same-usd2299-msrp-in-china",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Nvidia RTX 5090D V2 limits AI performance even more with 25% less VRAM and bandwidth — downgraded gaming flagship keeps same $2299 MSRP in China",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "UK government inexplicably tells citizens to delete old emails and pictures to save water during national drought — 'data centres require vast amounts of water to cool their systems'",
-          "url": "https://www.tomshardware.com/tech-industry/uk-government-inexplicably-tells-citizens-to-delete-old-emails-and-pictures-to-save-water-during-national-drought-data-centres-require-vast-amounts-of-water-to-cool-their-systems",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "UK government inexplicably tells citizens to delete old emails and pictures to save water during national drought — 'data centres require vast amounts of water to cool their systems'",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Modder builds gaming handheld powered by an RTX 4090 laptop GPU and Intel i9-14900HX  — system sports 12.5-inch 4K display, 175W mobile GPU",
-          "url": "https://www.tomshardware.com/video-games/handheld-gaming/modder-builds-gaming-handheld-powered-by-an-rtx-4090-laptop-gpu-and-intel-i9-14900hx-system-sports-12-5-inch-4k-display-175w-mobile-gpu",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Modder builds gaming handheld powered by an RTX 4090 laptop GPU and Intel i9-14900HX  — system sports 12.5-inch 4K display, 175W mobile GPU",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Our favorite 2TB SSD stick hits an all-time low — keep all your schoolwork backed up and in your backpack with this back-to-school deal",
-          "url": "https://www.tomshardware.com/pc-components/usb-flash-drives/backup-all-your-schoolwork-with-this-2tb-back-to-school-deal-on-the-sk-hynix-tube-31-flash-drive-its-lowest-ever-price",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Our favorite 2TB SSD stick hits an all-time low — keep all your schoolwork backed up and in your backpack with this back-to-school deal",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "I created a Time Machine volume for Macs with a TP-Link router to simplify my backup tasks, and it was surprisingly easy — one central backup point can back up all the Apple devices on your network",
-          "url": "https://www.tomshardware.com/networking/routers/i-created-a-time-machine-volume-for-macs-with-a-tp-link-router-to-simplify-my-backup-tasks-and-it-was-surprisingly-easy-one-central-backup-point-can-back-up-all-the-apple-devices-on-your-network",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "I created a Time Machine volume for Macs with a TP-Link router to simplify my backup tasks, and it was surprisingly easy — one central backup point can back up all the Apple devices on your network",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "AMD's new RX 9060 ripped out of OEM PC and benchmarked — beats the RTX 5050 by 20 percent, basically ties the RTX 5060 in gaming and productivity",
-          "url": "https://www.tomshardware.com/pc-components/gpus/amds-new-rx-9060-ripped-out-of-oem-pc-and-benchmarked-beats-the-rtx-5050-by-20-percent-basically-ties-the-rtx-5060-in-gaming-and-productivity",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "AMD's new RX 9060 ripped out of OEM PC and benchmarked — beats the RTX 5050 by 20 percent, basically ties the RTX 5060 in gaming and productivity",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "AI's soaring energy consumption is causing skyrocketing power bills for households across the US — States reporting spikes in energy costs of up to 36%",
-          "url": "https://www.tomshardware.com/tech-industry/ai-data-centers-soaring-energy-consumption-is-causing-skyrocketing-power-bills-for-households-across-the-us-states-reporting-spikes-in-energy-costs-of-up-to-36-percent",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "AI's soaring energy consumption is causing skyrocketing power bills for households across the US — States reporting spikes in energy costs of up to 36%",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Asus ROG Strix XG32UCWMG 4K OLED gaming monitor review: Premium high-speed gaming and stunning imagery",
-          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg32ucwmg-4k-oled-gaming-monitor-review",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Asus ROG Strix XG32UCWMG 4K OLED gaming monitor review: Premium high-speed gaming and stunning imagery",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Korean Starbucks bans desktop PCs, printers, and office partitions — power strips also forbidden in crackdown on industrious customers",
-          "url": "https://www.tomshardware.com/software/social-media/korean-starbucks-bans-desktop-pcs-printers-and-office-partitions-power-strips-also-forbidden-in-crackdown-on-industrious-customers",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Korean Starbucks bans desktop PCs, printers, and office partitions — power strips also forbidden in crackdown on industrious customers",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Samsung's benchmark-topping 4TB and 2TB 9100 Pro SSDs with attached heatsinks leap to all-time low prices at Newegg and Amazon — Act fast while they are cheaper than the non-heatsink versions",
-          "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-benchmark-topping-4tb-and-2tb-9100-pro-ssds-with-attached-heatsinks-leap-to-all-time-low-prices-at-newegg-and-amazon-act-fast-while-they-are-cheaper-than-the-non-heatsink-versions",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Samsung's benchmark-topping 4TB and 2TB 9100 Pro SSDs with attached heatsinks leap to all-time low prices at Newegg and Amazon — Act fast while they are cheaper than the non-heatsink versions",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Why I still use a Lenovo Thinkpad that debuted in 2011 — the X220 helps me stay focused on my most important tasks",
-          "url": "https://www.tomshardware.com/laptops/why-i-still-use-a-lenovo-thinkpad-that-debuted-in-2011-the-x220-helps-me-stay-focused-on-my-most-important-tasks",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Why I still use a Lenovo Thinkpad that debuted in 2011 — the X220 helps me stay focused on my most important tasks",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "This futuristic 3D-printed cyberdeck has two swiveling touchscreens — and it's powered by a Raspberry Pi 5",
-          "url": "https://www.tomshardware.com/3d-printing/this-futuristic-3d-printed-cyberdeck-has-two-swiveling-touchscreens-and-its-powered-by-a-raspberry-pi-5",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "This futuristic 3D-printed cyberdeck has two swiveling touchscreens — and it's powered by a Raspberry Pi 5",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Stablecoins gain critical mass after GENIUS Act cements rules — banks and companies rush to register new coins",
-          "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/stablecoins-gain-critical-mass-after-genius-act-cements-rules-banks-and-companies-rush-to-register-new-coins",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Stablecoins gain critical mass after GENIUS Act cements rules — banks and companies rush to register new coins",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "The beige GPU of your dreams is here, and it's pricey — Asus unveils Noctua Edition RTX 5080 fitted with 3x NF-A12x25 G2 fans and custom vapor chamber to achieve 'state-of-the-art quiet cooling efficiency'",
-          "url": "https://www.tomshardware.com/pc-components/gpus/the-beige-gpu-of-your-dreams-is-here-and-its-pricey-asus-unveils-noctua-edition-rtx-5080-fitted-with-3x-nf-a12x25-g2-fans-and-custom-vapor-chamber-to-achieve-state-of-the-art-quiet-cooling-efficiency",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "The beige GPU of your dreams is here, and it's pricey — Asus unveils Noctua Edition RTX 5080 fitted with 3x NF-A12x25 G2 fans and custom vapor chamber to achieve 'state-of-the-art quiet cooling efficiency'",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "I expanded my Wi-Fi 7 network by adding a TP-Link Deco BE25-Outdoor satellite, quadrupling performance for long-distance connections in my backyard",
-          "url": "https://www.tomshardware.com/networking/i-expanded-my-wi-fi-7-network-by-adding-a-tp-link-deco-be25-outdoor-satellite-quadrupling-performance-for-long-distance-connections-in-my-backyard",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "I expanded my Wi-Fi 7 network by adding a TP-Link Deco BE25-Outdoor satellite, quadrupling performance for long-distance connections in my backyard",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia RTX 5070 Ti bought from Amazon had the box contents swapped for bag of suspicious white powder — PC hardware enthusiast bamboozled by Amazon just days after ordering a 5090 with no GPU core, finds salt instead",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-ti-bought-from-amazon-had-the-box-contents-swapped-for-bag-of-suspicious-white-powder-pc-hardware-enthusiast-bamboozled-by-amazon-just-days-after-ordering-a-5090-with-no-gpu-core-finds-salt-instead",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Nvidia RTX 5070 Ti bought from Amazon had the box contents swapped for bag of suspicious white powder — PC hardware enthusiast bamboozled by Amazon just days after ordering a 5090 with no GPU core, finds salt instead",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Nvidia responds to claim China is urging local companies to avoid Nvidia H20 — report claims authorities have sent notices discouraging use, especially for government-related purposes",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-responds-to-claim-china-is-urging-local-companies-to-avoid-nvidia-h20-report-claims-authorities-have-sent-notices-discouraging-use-especially-for-government-related-purposes",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Nvidia responds to claim China is urging local companies to avoid Nvidia H20 — report claims authorities have sent notices discouraging use, especially for government-related purposes",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
-        },
-        {
-          "title": "Trump says Intel CEO Lip-Bu Tan and his Cabinet to discuss company's future this week, make proposals next week — Intel responds",
-          "url": "https://www.tomshardware.com/pc-components/cpus/trump-says-intel-ceo-lip-bu-tan-and-his-cabinet-to-discuss-companys-future-this-week-make-proposals-next-week",
-          "source": "tomshardware.com",
-          "date": "2025-08-12",
-          "summary": "Trump says Intel CEO Lip-Bu Tan and his Cabinet to discuss company's future this week, make proposals next week — Intel responds",
-          "tags": [
-            "ai"
-          ],
-          "score": 50
+          "repo": "anthropic/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
         }
-      ]
+      ],
+      "id": "c71c7956-3bf5-46dc-9538-787fdc99fad5",
+      "ts": "2025-08-13T13:48:36Z"
+    },
+    {
+      "from": "github",
+      "to": "manager",
+      "type": "result",
+      "status": "ok",
+      "topic": "Mistral-7d",
+      "thread": "Mistral-7d",
+      "items": [
+        {
+          "repo": "mistral/sample-repo",
+          "stars_delta": 42,
+          "prs_merged": 7,
+          "releases": 1
+        }
+      ],
+      "id": "da049207-d4f2-4b7f-953b-dcd1a7b8d871",
+      "ts": "2025-08-13T13:48:36Z"
     }
   ]
 }
