@@ -1,150 +1,6 @@
 {
-  "generated_at": "2025-08-12T15:00:25.061Z",
+  "generated_at": "2025-08-13T03:13:57.450Z",
   "results": [
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Mistral-7d",
-      "thread": "Mistral-7d",
-      "items": [
-        {
-          "repo": "mistral/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "1888a254-29cf-4a97-81b6-3a41b9cd4466",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "xAI-7d",
-      "thread": "xAI-7d",
-      "items": [
-        {
-          "repo": "xai/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "289fdf72-eeb6-4eed-8f4c-e38dcfe80a16",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Google-7d",
-      "thread": "Google-7d",
-      "items": [
-        {
-          "repo": "google/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "43fa71eb-0916-4d6f-bef2-b0c569b9dda9",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Meta-7d",
-      "thread": "Meta-7d",
-      "items": [
-        {
-          "repo": "meta/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "4ee19315-d62e-4c31-9011-b8e4488c721c",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "OpenAI-7d",
-      "thread": "OpenAI-7d",
-      "items": [
-        {
-          "repo": "openai/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "628a99f6-3627-4990-b29d-b6eb12726745",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Cohere-7d",
-      "thread": "Cohere-7d",
-      "items": [
-        {
-          "repo": "cohere/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "76dc8b1b-a201-4260-8b50-0c19d2346ba7",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Anthropic-7d",
-      "thread": "Anthropic-7d",
-      "items": [
-        {
-          "repo": "anthropic/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "e10f7b77-435b-4fb6-b789-553d573b6f8b",
-      "ts": "2025-08-12T13:15:56Z"
-    },
-    {
-      "from": "github",
-      "to": "manager",
-      "type": "result",
-      "status": "ok",
-      "topic": "Perplexity-7d",
-      "thread": "Perplexity-7d",
-      "items": [
-        {
-          "repo": "perplexity/sample-repo",
-          "stars_delta": 42,
-          "prs_merged": 7,
-          "releases": 1
-        }
-      ],
-      "id": "ec1ced55-2881-4eab-87ce-112808e7831f",
-      "ts": "2025-08-12T13:15:56Z"
-    },
     {
       "from": "news",
       "items": [
@@ -697,6 +553,119 @@
             "ai"
           ],
           "score": 50
+        }
+      ]
+    },
+    {
+      "from": "github",
+      "items": [
+        {
+          "id": "openai/openai-cookbook",
+          "title": "openai-cookbook",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 0,
+          "tags": [
+            "ai",
+            "examples"
+          ],
+          "url": "https://github.com/openai/openai-cookbook",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
+        },
+        {
+          "id": "cohere-ai/cohere-python",
+          "title": "cohere-python",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 1,
+          "tags": [
+            "ai",
+            "sdk"
+          ],
+          "url": "https://github.com/cohere-ai/cohere-python",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
+        },
+        {
+          "id": "google/generative-ai-js",
+          "title": "generative-ai-js",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 0,
+          "tags": [
+            "genai",
+            "sdk"
+          ],
+          "url": "https://github.com/google/generative-ai-js",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
+        },
+        {
+          "id": "meta-llama/llama-recipes",
+          "title": "llama-recipes",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 0,
+          "tags": [
+            "llm",
+            "training"
+          ],
+          "url": "https://github.com/meta-llama/llama-recipes",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
+        },
+        {
+          "id": "microsoft/guidance",
+          "title": "guidance",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 0,
+          "tags": [
+            "prompt",
+            "tooling"
+          ],
+          "url": "https://github.com/microsoft/guidance",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
+        },
+        {
+          "id": "langchain-ai/langchain",
+          "title": "langchain",
+          "stars_delta": 0,
+          "prs_merged": 0,
+          "releases": 4,
+          "tags": [
+            "agent",
+            "framework"
+          ],
+          "url": "https://github.com/langchain-ai/langchain",
+          "pros": [
+            "활동 증가"
+          ],
+          "cons": [
+            "메타데이터 보강 필요"
+          ]
         }
       ]
     }
