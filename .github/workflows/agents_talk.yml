@@ -1,30 +1,24 @@
 name: Agents Talk
 
 on:
-  schedule:
-    - cron: "15 0,12 * * *"   # 뉴스 수집 15분 뒤 대화(예시)
   workflow_dispatch: {}
 
-permissions:
-  contents: write
+concurrency:
+  group: ai-dashboard-talk
+  cancel-in-progress: true
 
 jobs:
-  talk:
+  run:
     runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
-      - run: npm ci
-      - name: Run Multi-Agent Dialogue (Gemini)
-        run: npm run m8:talk
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      - name: Commit & Push dialogue
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/agent_dialogue.json
-          git commit -m "Agents talk: update dialogue [skip ci]" || echo "No changes"
-          git push
+          node-version: '20'
+      - name: Install deps
+        run: npm ci
+      - name: Run talk (single-call, cached)
+        run: npm run m8:talk-once
+        continue-on-error: true
