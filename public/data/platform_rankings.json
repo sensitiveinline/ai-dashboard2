@@ -1,101 +1,55 @@
 {
-  "generated_at": "2025-08-12T13:15:56Z",
+  "generated_at": "2025-08-13T03:14:48.746Z",
   "items": [
     {
       "platform": "Cohere",
-      "score": 82.5,
-      "delta_7d": 65.0,
-      "delta_30d": null,
+      "score": 0,
       "breakdown": {
-        "interest": 100.0,
-        "community": 50.0,
-        "updates": 100.0
+        "interest": 0,
+        "community": 0,
+        "updates": 0
       },
-      "last_updated": "2025-08-12T13:15:56Z"
+      "delta_7d": -82
     },
     {
       "platform": "Mistral",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
+      "score": 0,
       "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
+        "interest": 0,
+        "community": 0,
+        "updates": 0
       },
-      "last_updated": "2025-08-12T13:15:56Z"
+      "delta_7d": -17
     },
     {
       "platform": "xAI",
-      "score": 17.5,
-      "delta_7d": -65.0,
-      "delta_30d": null,
+      "score": 0,
       "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
+        "interest": 0,
+        "community": 0,
+        "updates": 0
       },
-      "last_updated": "2025-08-12T13:15:56Z"
+      "delta_7d": -17
     },
     {
       "platform": "Google",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
+      "score": 0,
       "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
+        "interest": 1,
+        "community": 0,
+        "updates": 0
       },
-      "last_updated": "2025-08-12T13:15:56Z"
+      "delta_7d": -17
     },
     {
       "platform": "Meta",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
+      "score": 0,
       "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
+        "interest": 0,
+        "community": 0,
+        "updates": 0
       },
-      "last_updated": "2025-08-12T13:15:56Z"
-    },
-    {
-      "platform": "OpenAI",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T13:15:56Z"
-    },
-    {
-      "platform": "Anthropic",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T13:15:56Z"
-    },
-    {
-      "platform": "Perplexity",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-12T13:15:56Z"
+      "delta_7d": -17
     }
   ]
 }
