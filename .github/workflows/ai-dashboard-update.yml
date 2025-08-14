@@ -1,4 +1,7 @@
 name: AI Dashboard Auto Update
+permissions:
+  contents: write
+  pull-requests: write
 on:
   workflow_dispatch: {}
 jobs:
@@ -9,6 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -21,3 +27,17 @@ jobs:
         run: bash -lc "test -s public/data/news_current.json && node -e \"const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0)process.exit(1)\""
       - name: Guard snapshots
         run: bash -lc "test -s public/data/news_snapshots.json"
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dashboard-json
+          path: public/data/*.json
+      - name: Create Pull Request (auto-merge)
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: chore/ai-update-${{ github.run_id }}
+          title: "AI Dashboard: data update"
+          commit-message: "chore(data): update dashboard JSONs [skip ci]"
+          delete-branch: true
+          merge-method: squash
+          auto-merge: true
