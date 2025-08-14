@@ -7,7 +7,7 @@
       "summary": "",
       "source": "code.ffmpeg.org",
       "ts": "2025-08-13T10:19:35Z",
-      "score": 606.82
+      "score": 607.73
     },
     {
       "id": "hn-44889941",
@@ -16,7 +16,7 @@
       "summary": "",
       "source": "blog.nginx.org",
       "ts": "2025-08-13T15:41:55Z",
-      "score": 460.56
+      "score": 463.84
     },
     {
       "id": "hn-44892209",
@@ -25,7 +25,7 @@
       "summary": "",
       "source": "astral.sh",
       "ts": "2025-08-13T18:42:49Z",
-      "score": 439.86
+      "score": 441.92
     },
     {
       "id": "hn-44889627",
@@ -34,7 +34,7 @@
       "summary": "",
       "source": "localghost.dev",
       "ts": "2025-08-13T15:19:53Z",
-      "score": 404.83
+      "score": 405.11
     },
     {
       "id": "hn-44893254",
@@ -43,7 +43,7 @@
       "summary": "",
       "source": "washingtonpost.com",
       "ts": "2025-08-13T20:11:50Z",
-      "score": 289.78
+      "score": 290.02
     },
     {
       "id": "hn-44891759",
@@ -52,7 +52,7 @@
       "summary": "",
       "source": "xvw.lol",
       "ts": "2025-08-13T18:05:05Z",
-      "score": 252.3
+      "score": 252.56
     },
     {
       "id": "hn-44886913",
@@ -61,7 +61,7 @@
       "summary": "",
       "source": "news.sky.com",
       "ts": "2025-08-13T10:56:50Z",
-      "score": 220.62
+      "score": 222.13
     },
     {
       "id": "hn-44887853",
@@ -70,7 +70,7 @@
       "summary": "",
       "source": "youtube.com",
       "ts": "2025-08-13T12:54:45Z",
-      "score": 212.45
+      "score": 213.35
     },
     {
       "id": "hn-44887965",
@@ -79,7 +79,7 @@
       "summary": "",
       "source": "lostpixels.io",
       "ts": "2025-08-13T13:06:29Z",
-      "score": 208.52
+      "score": 208.21
     },
     {
       "id": "hn-44888236",
@@ -88,7 +88,7 @@
       "summary": "",
       "source": "jackpoulson.substack.com",
       "ts": "2025-08-13T13:33:45Z",
-      "score": 179.14
+      "score": 180.04
     },
     {
       "id": "hn-44875270",
@@ -97,7 +97,7 @@
       "summary": "",
       "source": "cnn.com",
       "ts": "2025-08-12T12:15:13Z",
-      "score": 177.76
+      "score": 177.58
     },
     {
       "id": "hn-44889715",
@@ -106,7 +106,7 @@
       "summary": "",
       "source": "arstechnica.com",
       "ts": "2025-08-13T15:26:28Z",
-      "score": 163.79
+      "score": 163.47
     },
     {
       "id": "hn-44893600",
@@ -115,7 +115,7 @@
       "summary": "",
       "source": "nist.gov",
       "ts": "2025-08-13T20:43:46Z",
-      "score": 155.02
+      "score": 155.27
     },
     {
       "id": "hn-44896085",
@@ -124,7 +124,7 @@
       "summary": "",
       "source": "zenobiapay.com",
       "ts": "2025-08-14T02:19:37Z",
-      "score": 153.15
+      "score": 153.35
     },
     {
       "id": "hn-44891302",
@@ -133,7 +133,7 @@
       "summary": "",
       "source": "words.filippo.io",
       "ts": "2025-08-13T17:31:08Z",
-      "score": 150.64
+      "score": 150.31
     },
     {
       "id": "hn-44895222",
@@ -142,7 +142,7 @@
       "summary": "",
       "source": "bitsaboutmoney.com",
       "ts": "2025-08-13T23:44:18Z",
-      "score": 143.81
+      "score": 144.63
     },
     {
       "id": "hn-44889359",
@@ -151,7 +151,7 @@
       "summary": "",
       "source": "abacusnoir.com",
       "ts": "2025-08-13T15:00:33Z",
-      "score": 134.37
+      "score": 134.06
     },
     {
       "id": "hn-44896489",
@@ -160,7 +160,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-14T03:34:11Z",
-      "score": 133.22
+      "score": 133.41
     },
     {
       "id": "hn-44895497",
@@ -169,16 +169,7 @@
       "summary": "",
       "source": "scotthyoung.com",
       "ts": "2025-08-14T00:29:46Z",
-      "score": 131.31
-    },
-    {
-      "id": "hn-44891090",
-      "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-      "url": "https://video.golpoai.com/",
-      "summary": "",
-      "source": "video.golpoai.com",
-      "ts": "2025-08-13T17:11:35Z",
-      "score": 125.55
+      "score": 130.93
     },
     {
       "id": "hn-44896433",
@@ -187,7 +178,16 @@
       "summary": "",
       "source": "dri.es",
       "ts": "2025-08-14T03:24:17Z",
-      "score": 125.12
+      "score": 126.51
+    },
+    {
+      "id": "hn-44891090",
+      "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+      "url": "https://video.golpoai.com/",
+      "summary": "",
+      "source": "video.golpoai.com",
+      "ts": "2025-08-13T17:11:35Z",
+      "score": 125.82
     },
     {
       "id": "hn-44888210",
@@ -196,7 +196,7 @@
       "summary": "",
       "source": "pub.aimind.so",
       "ts": "2025-08-13T13:31:16Z",
-      "score": 116.68
+      "score": 116.38
     },
     {
       "id": "hn-44897098",
@@ -205,7 +205,7 @@
       "summary": "",
       "source": "learn.convo-lang.ai",
       "ts": "2025-08-14T05:40:19Z",
-      "score": 108.4
+      "score": 108.57
     },
     {
       "id": "hn-44851019",
@@ -214,16 +214,7 @@
       "summary": "",
       "source": "servethehome.com",
       "ts": "2025-08-09T22:41:36Z",
-      "score": 102.66
-    },
-    {
-      "id": "hn-44897754",
-      "title": "New Zealand woman and six-year-old son detained for three weeks",
-      "url": "https://www.theguardian.com/world/2025/aug/13/new-zealand-woman-six-year-old-son-ice-detention-us-ntwnfb",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-08-14T07:36:43Z",
-      "score": 102.63
+      "score": 103.81
     },
     {
       "id": "3647820f437f",
@@ -232,7 +223,7 @@
       "summary": "Recently, GPT-4o has garnered significant attention for its strong\nperformance in image generation, yet open-source models still lag behind.\nSeveral studies have explored distilling image data from GPT-4o to enhance\nopen-source models, achieving notable progress. However, a key question\nremains: given that real-world image datasets already constitute a natural\nsource of high-quality data, why should we use GPT-4o-generated synthetic data?\nIn this work, we identify two key advantages of synthetic images. First, they\ncan complement rare scenarios in real-world datasets, such as surreal fantasy\nor multi-reference image generation, which frequently occur in user queries.\nSecond, they provide clean and controllable supervision. Real-world data often\ncontains complex background noise and inherent misalignment between text\ndescriptions and image content, whereas synthetic images offer pure backgrounds\nand long-tailed supervision signals, facilitating more accurate text-to-image\nalignment. Building on these insights, we introduce Echo-4o-Image, a 180K-scale\nsynthetic dataset generated by GPT-4o, harnessing the power of synthetic image\ndata to address blind spots in real-world coverage. Using this dataset, we\nfine-tune the unified multimodal generation baseline Bagel to obtain Echo-4o.\nIn addition, we propose two new evaluation benchmarks for a more accurate and\nchallenging assessment of image generation capabilities: GenEval++, which\nincreases instruction complexity to mitigate score saturation, and\nImagine-Bench, which focuses on evaluating both the understanding and\ngeneration of imaginative content. Echo-4o demonstrates strong performance\nacross standard benchmarks. Moreover, applying Echo-4o-Image to other\nfoundation models (e.g., OmniGen2, BLIP3-o) yields consistent performance gains\nacross multiple metrics, highlighting the datasets strong transferability.",
       "source": "arxiv.org",
       "ts": "2025-08-13T17:59:28Z",
-      "score": 94.58
+      "score": 94.14
     },
     {
       "id": "4e7dff7e7148",
@@ -241,7 +232,7 @@
       "summary": "Igor Babuschkin is leaving xAI less than three years after he co-founded the startup with Elon Musk, following a series of scandals at company.",
       "source": "techcrunch.com",
       "ts": "2025-08-13T21:53:30Z",
-      "score": 86.8
+      "score": 86.4
     },
     {
       "id": "53276e883ac2",
@@ -250,7 +241,7 @@
       "summary": "Waymo now lets you stream music straight from Spotify, which makes the back seat of a robotaxi feel more like your own private space.",
       "source": "techcrunch.com",
       "ts": "2025-08-13T20:03:03Z",
-      "score": 83.54
+      "score": 83.15
     },
     {
       "id": "hn-44872984",
@@ -259,16 +250,7 @@
       "summary": "",
       "source": "blog.voyageai.com",
       "ts": "2025-08-12T06:12:32Z",
-      "score": 80.72
-    },
-    {
-      "id": "99b464916a99",
-      "title": "Creating AI agent solutions for warehouse data access and security",
-      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
-      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-13T22:05:07Z",
-      "score": 79.23
+      "score": 81.76
     },
     {
       "id": "hn-44873341",
@@ -277,7 +259,16 @@
       "summary": "",
       "source": "forgefed.org",
       "ts": "2025-08-12T07:19:13Z",
-      "score": 79.13
+      "score": 79.57
+    },
+    {
+      "id": "99b464916a99",
+      "title": "Creating AI agent solutions for warehouse data access and security",
+      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
+      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-08-13T22:05:07Z",
+      "score": 78.87
     },
     {
       "id": "150df4fe148a",
@@ -286,7 +277,7 @@
       "summary": "In this post, we explore how Amazon Bedrock AgentCore Runtime simplifies the deployment and management of AI agents.",
       "source": "aws.amazon.com",
       "ts": "2025-08-13T21:59:24Z",
-      "score": 79.07
+      "score": 78.71
     },
     {
       "id": "74bfdfbb9c8d",
@@ -295,7 +286,7 @@
       "summary": "Pocket FM is building LLM to help users write faster and in turn, produce more audio shows.",
       "source": "techcrunch.com",
       "ts": "2025-08-13T16:48:49Z",
-      "score": 78.09
+      "score": 77.73
     },
     {
       "id": "be9f7b7e1d79",
@@ -304,7 +295,7 @@
       "summary": "Google is rolling out an update for Gemini that will allow the AI chatbot to “remember” your past conversations without prompting. With the setting turned on, Gemini will automatically recall your “key details and preferences” and use them to personalize its output. This expands upon an update that Google introduced last year, which lets you [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-13T16:00:00Z",
-      "score": 76.78
+      "score": 76.42
     },
     {
       "id": "hn-44881109",
@@ -313,7 +304,7 @@
       "summary": "",
       "source": "10print.org",
       "ts": "2025-08-12T19:53:17Z",
-      "score": 75.91
+      "score": 75.69
     },
     {
       "id": "d45b534f68cf",
@@ -322,7 +313,7 @@
       "summary": "This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.",
       "source": "aws.amazon.com",
       "ts": "2025-08-13T19:32:01Z",
-      "score": 75.13
+      "score": 74.78
     },
     {
       "id": "56f9d128ebae",
@@ -331,7 +322,7 @@
       "summary": "We’ve heard about upskilling and re-skilling due to AI — but how about de-skilling? A new study published this week found that doctors who frequently use AI to detect cancer in one medical procedure got significantly worse at doing so. The researchers set out to discover whether continuous exposure to AI impacted doctors’ behavior when [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-13T14:48:13Z",
-      "score": 74.89
+      "score": 74.54
     },
     {
       "id": "hn-44889874",
@@ -340,7 +331,7 @@
       "summary": "",
       "source": "vaultrice.com",
       "ts": "2025-08-13T15:37:04Z",
-      "score": 74.64
+      "score": 74.32
     },
     {
       "id": "52b2710b763c",
@@ -349,7 +340,7 @@
       "summary": "Years before ChatGPT jump-started the generative AI wave, OpenAI technology powered a game called AI Dungeon 2 that essentially let you improvise an open-ended, anything-goes story with an AI narrator. Hidden Door, a new platform that's now in early access, also lets you cowrite a choose-your-own-adventure-style story with AI. But this narrator won't let you [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-13T14:00:00Z",
-      "score": 73.64
+      "score": 73.3
     },
     {
       "id": "hn-44865908",
@@ -358,7 +349,7 @@
       "summary": "",
       "source": "shaneosullivan.wordpress.com",
       "ts": "2025-08-11T16:11:16Z",
-      "score": 71.98
+      "score": 72.46
     },
     {
       "id": "hn-44890956",
@@ -367,7 +358,7 @@
       "summary": "",
       "source": "readme.com",
       "ts": "2025-08-13T17:00:37Z",
-      "score": 71.88
+      "score": 71.55
     },
     {
       "id": "c37a765969f8",
@@ -376,7 +367,7 @@
       "summary": "In this post, Amazon shares how they developed a multi-node inference solution for Rufus, their generative AI shopping assistant, using Amazon Trainium chips and vLLM to serve large language models at scale. The solution combines a leader/follower orchestration model, hybrid parallelism strategies, and a multi-node inference unit abstraction layer built on Amazon ECS to deploy models across multiple nodes while maintaining high performance and reliability.",
       "source": "aws.amazon.com",
       "ts": "2025-08-13T17:01:52Z",
-      "score": 71.31
+      "score": 70.98
     },
     {
       "id": "hn-44872948",
@@ -385,7 +376,7 @@
       "summary": "",
       "source": "clearsky.dev",
       "ts": "2025-08-12T06:07:14Z",
-      "score": 56.66
+      "score": 57.7
     },
     {
       "id": "hn-44880139",
@@ -394,7 +385,7 @@
       "summary": "",
       "source": "gmays.com",
       "ts": "2025-08-12T18:33:20Z",
-      "score": 50.65
+      "score": 52.84
     },
     {
       "id": "hn-44875154",
@@ -403,7 +394,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-12T12:01:56Z",
-      "score": 48.58
+      "score": 48.4
     },
     {
       "id": "hn-44868563",
@@ -412,7 +403,16 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-11T19:40:47Z",
-      "score": 47.52
+      "score": 47.39
+    },
+    {
+      "id": "hn-44849834",
+      "title": "Myths About Floating-Point Numbers (2021)",
+      "url": "https://www.asawicki.info/news_1741_myths_about_floating-point_numbers",
+      "summary": "",
+      "source": "asawicki.info",
+      "ts": "2025-08-09T20:22:37Z",
+      "score": 45.1
     },
     {
       "id": "hn-44860080",
@@ -421,7 +421,7 @@
       "summary": "",
       "source": "lwn.net",
       "ts": "2025-08-11T01:46:22Z",
-      "score": 43.69
+      "score": 43.6
     },
     {
       "id": "490d88914984",
@@ -430,7 +430,7 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 39.43
+      "score": 39.25
     },
     {
       "id": "641fd4a816f8",
@@ -439,7 +439,7 @@
       "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 39.43
+      "score": 39.25
     },
     {
       "id": "hn-44854498",
@@ -448,7 +448,7 @@
       "summary": "",
       "source": "burntsushi.net",
       "ts": "2025-08-10T11:35:10Z",
-      "score": 35.81
+      "score": 36.94
     },
     {
       "id": "hn-44858693",
@@ -457,7 +457,7 @@
       "summary": "",
       "source": "sutrasphere.com",
       "ts": "2025-08-10T22:01:49Z",
-      "score": 33.86
+      "score": 36.18
     },
     {
       "id": "f20ef515ed9f",
@@ -466,7 +466,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 25.68
+      "score": 25.56
     },
     {
       "id": "3d45d3872df2",
@@ -475,7 +475,7 @@
       "summary": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.",
       "source": "openai.com",
       "ts": "2025-08-07T10:00:00Z",
-      "score": 3.99
+      "score": 3.97
     },
     {
       "id": "c636f03ec0b5",
@@ -484,7 +484,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 2.19
+      "score": 2.18
     }
   ]
 }
