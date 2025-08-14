@@ -1,3 +1,4 @@
+console.log('AI-Dashboard build: 20250814-090556');
 // ---- safe utils ----
 function toArray(x){ if(Array.isArray(x))return x; if(x&&Array.isArray(x.items))return x.items; if(x&&typeof x==="object"){const v=Object.values(x); if(v.length===1&&Array.isArray(v[0])) return v[0]; return v;} return []; }
 function assertArray(label,v){ if(!Array.isArray(v)) console.warn(`[warn]  expected array, got:`, v); }
