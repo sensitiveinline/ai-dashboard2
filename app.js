@@ -116,11 +116,11 @@ async function loadJSON(url, {bust=false} = {}){
 
 async function loadAll({bust=false} = {}){
   const [curRaw, prevRaw, news, ghRepos, aiNote] = await Promise.all([
-    loadJSON("public/data/platform_rankings.json",      {bust}),
-    loadJSON("public/data/platform_rankings.prev.json", {bust}),
-    loadJSON("public/data/news_snapshots.json",         {bust}),
-    loadJSON("public/data/gh_repos.json",               {bust}),
-    loadJSON("public/data/ai_note.json",                {bust}),
+    loadJSON("data/platform_rankings.json",      {bust}),
+    loadJSON("data/platform_rankings.prev.json", {bust}),
+    loadJSON("data/news_snapshots.json",         {bust}),
+    loadJSON("data/gh_repos.json",               {bust}),
+    loadJSON("data/ai_note.json",                {bust}),
   ]);
 
   // ✅ 계약 원천 보장: 최상위는 항상 배열
