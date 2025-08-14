@@ -17,3 +17,7 @@ jobs:
         run: npm ci
       - name: Run News Agent
         run: node scripts/agent_conversation.mjs
+      - name: Guard news_current.json
+        run: bash -lc "test -s public/data/news_current.json && node -e \"const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0)process.exit(1)\""
+      - name: Guard snapshots
+        run: bash -lc "test -s public/data/news_snapshots.json"
