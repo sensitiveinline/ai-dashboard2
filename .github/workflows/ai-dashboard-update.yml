@@ -1,43 +1,54 @@
 name: AI Dashboard Auto Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 23,11 * * *'   # KST 08:10, 20:10
+
 permissions:
   contents: write
   pull-requests: write
-on:
-  workflow_dispatch: {}
+
+concurrency:
+  group: ai-dashboard-auto-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - name: Install deps
-        run: npm ci
-      - name: Run News Agent
-        run: node scripts/agent_conversation.mjs
-      - name: Guard news_current.json
-        run: bash -lc "test -s public/data/news_current.json && node -e \"const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0)process.exit(1)\""
-      - name: Guard snapshots
-        run: bash -lc "test -s public/data/news_snapshots.json"
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: dashboard-json
-          path: public/data/*.json
-      - name: Create Pull Request (auto-merge)
+
+      - name: Set up git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run updater
+        run: ./scripts/update_news.sh
+
+      - name: Commit changes (if any)
+        id: commit
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git checkout -B chore/auto-update
+            git add -A
+            git commit -m "chore: AI Dashboard auto update"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create PR
+        if: steps.commit.outputs.changed == 'true'
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
-          branch: chore/ai-update-${{ github.run_id }}
-          title: "AI Dashboard: data update"
-          commit-message: "chore(data): update dashboard JSONs [skip ci]"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: chore/auto-update
+          title: "chore: AI Dashboard auto update"
+          body: "Automated content update."
           delete-branch: true
-          merge-method: squash
-          auto-merge: true
