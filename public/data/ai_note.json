@@ -1,19 +1,3 @@
 {
-  "generated_at": "2025-08-13T13:49:49.670Z",
-  "one_liner": "지난 한 주간 Meta가 점수 82.5로 압도적인 선두를 유지하며 65점 급등했고, Perplexity는 65점 하락하며 부진을 면치 못했습니다.",
-  "bullets": [
-    "Meta가 주간 65점 상승하며 총점 82.5로 압도적인 1위를 차지했습니다.",
-    "Meta는 특히 '관심도'와 '업데이트' 지표에서 각각 100점을 기록하며 강력한 성장 동력을 보여주었습니다.",
-    "Perplexity는 주간 65점 급락하여 17.5점으로 하위권으로 떨어졌습니다.",
-    "Google, OpenAI, xAI는 17.5점으로 변화 없이 정체된 모습을 보였습니다."
-  ],
-  "risks": [
-    "Meta의 독주로 인한 시장 내 경쟁 불균형이 심화될 수 있습니다.",
-    "Perplexity와 같이 급락하는 플랫폼의 지속적인 경쟁력 약화는 전반적인 시장 다양성을 감소시킬 수 있습니다."
-  ],
-  "actions": [
-    "Meta의 '관심도' 및 '업데이트' 전략을 면밀히 분석하여 성공 요인을 파악하고 벤치마킹합니다.",
-    "Perplexity 등 하락세를 보이는 플랫폼의 부진 원인을 심층 분석하여 잠재적 개선 기회를 모색합니다.",
-    "정체된 Google, OpenAI 등의 잠재적 움직임을 주시하여 시장 변화에 선제적으로 대비합니다."
-  ]
+  "markdown": "Insights (fallback):\n- FFmpeg 8.0 adds Whisper support (code.ffmpeg.org)\n- Nginx introduces native support for ACME protocol (blog.nginx.org)\n- PYX: The next step in Python packaging (astral.sh)\n- This website is for humans (localghost.dev)\n- Illinois limits the use of AI in therapy and psychotherapy (washingtonpost.com)\n- New treatment eliminates bladder cancer in 82% of patients (news.keckmedicine.org)\n- OCaml as my primary language (xvw.lol)\n- Pebble Time 2 Design Reveal [video] (youtube.com)"
 }
