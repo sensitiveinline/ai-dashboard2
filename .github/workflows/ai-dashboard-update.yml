@@ -1,4 +1,4 @@
-name: AI Dashboard Update
+name: AI Dashboard Auto Update
 
 permissions:
   contents: write
@@ -22,67 +22,40 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
+        with: { ref: main, fetch-depth: 0 }
 
       - name: Setup Node
         uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+        with: { node-version: '20' }
 
       - name: Install deps
         run: npm ci
 
-      # ---------- 모듈 실행 (있으면 실행, 없으면 건너뜀) ----------
-      - name: M8 News (Gemini, with retry/cache)
+      # --- M8: 뉴스 (필수) ---
+      - name: Run News Agent
         run: |
           if [ -f scripts/agent_conversation.mjs ]; then
             node scripts/agent_conversation.mjs
           else
-            echo "skip: scripts/agent_conversation.mjs not found"
+            echo "scripts/agent_conversation.mjs not found" && exit 1
           fi
 
+      # --- 가드: 파일 존재 & 비어있지 않음 ---
       - name: Guard: news_current.json must exist & non-empty
         run: |
           test -s public/data/news_current.json
           node -e "const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0){throw new Error('Empty news_current.json')}"
-      
-      - name: M7 AI Note (optional)
-        run: |
-          if [ -f scripts/m7_ainote.mjs ]; then
-            node scripts/m7_ainote.mjs || true
-          else
-            echo "skip: scripts/m7_ainote.mjs not found"
-          fi
+      - name: Guard: snapshots must exist
+        run: test -s public/data/news_snapshots.json
 
-      - name: M6 GitHub (optional)
-        run: |
-          if [ -f scripts/m6_github.mjs ]; then
-            node scripts/m6_github.mjs || true
-          else
-            echo "skip: scripts/m6_github.mjs not found"
-          fi
-
-      - name: M5 Platforms Ranking (optional)
-        run: |
-          if [ -f scripts/m5_platforms.mjs ]; then
-            node scripts/m5_platforms.mjs || true
-          else
-            echo "skip: scripts/m5_platforms.mjs not found"
-          fi
-
-      # ---------- 디버깅용 산출물 ----------
+      # --- 디버그 아티팩트 ---
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dashboard-json
-          path: |
-            public/data/news_current.json
-            public/data/news_snapshots.json
-            public/data/*.json
+          path: public/data/*.json
 
-      # ---------- 변경 있을 때만 PR 자동 생성/병합 ----------
+      # --- PR 자동 생성/병합(권한 없으면 PR만 생성) ---
       - name: Create Pull Request (auto-merge)
         uses: peter-evans/create-pull-request@v6
         with:
