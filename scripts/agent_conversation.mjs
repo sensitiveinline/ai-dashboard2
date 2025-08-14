@@ -1,59 +1,68 @@
-import fs from 'node:fs/promises';
-import path from 'node:path';
+import fs from 'fs/promises';
+import path from 'path';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const OUT = path.join(process.cwd(), 'public', 'data', 'agent_dialogue.json');
-const SNAP = path.join(process.cwd(), 'public', 'data', 'snapshots.json');
+const OUT_SNAP = path.join(process.cwd(), 'public/data/news_snapshots.json');
+const OUT_CURR = path.join(process.cwd(), 'public/data/news_current.json');
+const TODAY = new Date().toISOString().slice(0,10);
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
-const USE_GEMINI = Boolean(GEMINI_API_KEY);
-const genAI = USE_GEMINI ? new GoogleGenerativeAI(GEMINI_API_KEY) : null;
-
-// 최신 뉴스 3개를 프롬프트 컨텍스트로 넣기
-async function top3News(){
-  try{
-    const j = JSON.parse(await fs.readFile(SNAP,'utf8'));
-    const news = (j.results||[]).find(x=>x.from==='news')?.items||[];
-    return news.slice(0,3).map(n=>`- ${n.title} (${n.source}) ${n.url}`).join('\n');
-  }catch{ return ''; }
+async function withRetry(fn, tries=5, baseMs=1000) {
+  let lastErr;
+  for (let i=0;i<tries;i++){
+    try { return await fn(); }
+    catch (e){
+      lastErr = e;
+      const retriable = (e?.status===429) || (e?.code==='RESOURCE_EXHAUSTED') || (e?.response?.status===429);
+      if (!retriable || i===tries-1) throw e;
+      const jitter = Math.floor(Math.random()*250);
+      const delay = Math.min(30000, baseMs * (2**i)) + jitter;
+      console.log(`retry #${i+1} in ${delay}ms`);
+      await new Promise(r=>setTimeout(r, delay));
+    }
+  }
+  throw lastErr;
 }
 
-function m(role, content){ return { role, content, ts: new Date().toISOString() }; }
-
-async function ask(text){
-  if(!USE_GEMINI) return "(로컬 모드) GEMINI_API_KEY 없음 → 대화 생략";
-  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
-  const res = await model.generateContent({
-    contents: [{ role: "user", parts: [{ text }] }],
-    generationConfig: { responseMimeType: "text/plain" }
-  });
-  return res.response.text();
+async function generateNews() {
+  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+  const prompt = `
+오늘 날짜 기준 AI 관련 주요 뉴스 6개를
+JSON 배열로만 출력.
+각 항목은 {"title":"","url":"","summary":"","source":""} 형식.
+마크다운/코드펜스/설명 금지.
+`;
+  const res = await model.generateContent(prompt);
+  const txt = res.response.text().trim();
+  const clean = txt.startsWith('```') ? txt.replace(/```(\w+)?/g,'').trim() : txt;
+  const arr = JSON.parse(clean);
+  return arr.map(x => ({
+    title: String(x.title||'').slice(0,300),
+    url: String(x.url||''),
+    summary: String(x.summary||'').slice(0,1000),
+    source: String(x.source||new URL(x.url||'').hostname||''),
+    ts: new Date().toISOString()
+  }));
 }
 
-async function run(turns=3){
-  const dialog = [];
-  const news3 = await top3News();
-  const sys = `역할: 코디네이터↔뉴스 에이전트 간 짧은 대화.
-목표: 오늘의 핵심 1줄 요약(한국어), 관련 태그(<=5), 다음 액션 2가지.
-컨텍스트(상위3개):
-${news3 || '(뉴스 없음)'}
-형식 제안: 
-- 오늘의 한줄:
-- 태그: #a #b #c
-- 다음액션: 1) ... 2) ...`;
+async function main(){
+  let snap = {};
+  try { snap = JSON.parse(await fs.readFile(OUT_SNAP,'utf8')); } catch { snap = {}; }
 
-  dialog.push(m('system', 'Agents Talk v1'));
-  dialog.push(m('coordinator', '뉴스 에이전트, 위 컨텍스트 기반으로 제안해줘.'));
-  for(let i=0;i<turns;i++){
-    const newsReply = await ask(`${sys}\n\n[Coordinator]: 요청에 답변해줘.`);
-    dialog.push(m('news', newsReply));
-    const coordReply = await ask(`다음은 뉴스 에이전트의 답변이야:\n${newsReply}\n\n누락·모호점 지적과 보완 제안 2가지를 짧게.`);
-    dialog.push(m('coordinator', coordReply));
+  if (snap[TODAY]) {
+    console.log(`cache exists for ${TODAY} -> skip`);
+    await fs.writeFile(OUT_CURR, JSON.stringify(snap[TODAY], null, 2));
+    return;
   }
 
-  await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, JSON.stringify({ generated_at: new Date().toISOString(), dialog }, null, 2), 'utf8');
-  console.log(`✔ agent_dialogue.json saved (${dialog.length} messages)`);
+  const todayArr = await withRetry(() => generateNews());
+
+  snap[TODAY] = todayArr;
+  await fs.mkdir(path.dirname(OUT_SNAP), { recursive: true });
+  await fs.writeFile(OUT_SNAP, JSON.stringify(snap, null, 2));
+  await fs.writeFile(OUT_CURR, JSON.stringify(todayArr, null, 2));
+
+  console.log(`wrote ${OUT_SNAP} & ${OUT_CURR} for ${TODAY} (${todayArr.length} items)`);
 }
 
-run().catch(e=>{ console.error(e); process.exit(1); });
+main().catch(e=>{ console.error(e); process.exit(1); });

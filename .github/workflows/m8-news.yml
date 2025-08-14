@@ -1,0 +1,58 @@
+name: M8 Fetch News
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  schedule:
+    - cron: '10 23 * * *'   # 08:10 KST
+    - cron: '10 11 * * *'   # 20:10 KST
+  workflow_dispatch: {}
+
+concurrency:
+  group: ai-dashboard-m8-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install deps
+        run: npm ci
+      - name: Run M8 News Agent (Gemini) with backoff
+        run: node scripts/agent_conversation.mjs
+
+      # Guards: 데이터가 없으면 실패시켜서 '초록불인데 비어있음' 방지
+      - name: Guard: files must exist and be non-empty
+        run: |
+          test -s public/data/news_current.json
+          test -s public/data/news_snapshots.json
+          node -e "const j=require('fs').readFileSync('public/data/news_current.json','utf8');const a=JSON.parse(j);if(!Array.isArray(a)||a.length===0){console.error('Empty news_current.json');process.exit(1)}"
+
+      - name: Upload data artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: m8-news-json
+          path: |
+            public/data/news_current.json
+            public/data/news_snapshots.json
+
+      - name: Create Pull Request (auto-merge)
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: chore/m8-news-${{ github.run_id }}
+          title: "M8: update news"
+          commit-message: "M8: update news [skip ci]"
+          delete-branch: true
+          merge-method: squash
+          auto-merge: true

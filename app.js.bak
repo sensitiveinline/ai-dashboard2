@@ -195,22 +195,3 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   $('repoSort')?.addEventListener('change', renderRepos);
   $('q')?.addEventListener('input', renderRepos);
 });
-
-// --- safe loaders (idempotent append) ---
-async function loadNews(){
-  try{
-    const res = await fetch('./data/news_current.json', { cache: 'no-store' });
-    if(!res.ok) throw new Error('news_current.json fetch failed');
-    const items = await res.json();
-    if (typeof renderNews === 'function') renderNews(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[NEWS] load failed:', e); if (typeof renderNews==='function') renderNews([]); }
-}
-async function loadAINotes(){
-  try{
-    const res = await fetch('./data/ai_note.json', { cache: 'no-store' });
-    if(!res.ok) throw new Error('ai_note.json fetch failed');
-    const items = await res.json();
-    if (typeof renderNotes === 'function') renderNotes(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[AI NOTE] load failed:', e); if (typeof renderNotes==='function') renderNotes([]); }
-}
-document.addEventListener('DOMContentLoaded', ()=>{ try{ loadNews(); loadAINotes(); }catch{} });
