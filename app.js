@@ -214,3 +214,33 @@ async function loadAINotes(){
   }catch(e){ console.error('[AI NOTE] load failed:', e); if (typeof renderNotes==='function') renderNotes([]); }
 }
 document.addEventListener('DOMContentLoaded', ()=>{ try{ loadNews(); loadAINotes(); }catch{} });
+// ---------- robust fetch helper (tries ./data then ./public/data) ----------
+async function fetchJsonWithFallback(file){
+  const tryPaths = [`./data/${file}`, `./public/data/${file}`];
+  for (const p of tryPaths){
+    try {
+      const res = await fetch(p, { cache: 'no-store' });
+      if (res.ok) return await res.json();
+    } catch (_) {}
+  }
+  throw new Error(`${file} fetch failed from: ${tryPaths.join(', ')}`);
+}
+
+// ---- replace your loaders to use fallback ----
+async function loadNews(){
+  try{
+    const items = await fetchJsonWithFallback('news_current.json');
+    if (typeof renderNews === 'function') renderNews(Array.isArray(items)?items:[]);
+  }catch(e){ console.error('[NEWS] load failed:', e); if (typeof renderNews==='function') renderNews([]); }
+}
+
+async function loadAINotes(){
+  try{
+    const items = await fetchJsonWithFallback('ai_note.json');
+    if (typeof renderNotes === 'function') renderNotes(Array.isArray(items)?items:[]);
+  }catch(e){ console.error('[AI NOTE] load failed:', e); if (typeof renderNotes==='function') renderNotes([]); }
+}
+
+if (typeof document !== 'undefined') {
+  document.addEventListener('DOMContentLoaded', ()=>{ try{ loadNews(); loadAINotes(); }catch{} });
+}
