@@ -1,19 +1,15 @@
 name: AI Dashboard Auto Update
-
 permissions:
   contents: write
   pull-requests: write
-
 on:
   schedule:
-    - cron: '10 23 * * *'   # KST 08:10
-    - cron: '10 11 * * *'   # KST 20:10
+    - cron: '10 23 * * *'
+    - cron: '10 11 * * *'
   workflow_dispatch: {}
-
 concurrency:
   group: ai-dashboard-update
   cancel-in-progress: false
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -25,32 +21,23 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Install dependencies
         run: npm ci
-
       - name: Run News Agent
         run: node scripts/agent_conversation.mjs
-
       - name: Guard: news_current.json must exist & non-empty
-        run: |
-          test -s public/data/news_current.json
-          node -e "const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0)process.exit(1)"
-
+        run: bash -lc "test -s public/data/news_current.json && node -e \"const fs=require('fs');const a=JSON.parse(fs.readFileSync('public/data/news_current.json','utf8'));if(!Array.isArray(a)||a.length===0)process.exit(1)\""
       - name: Guard: snapshots must exist
-        run: test -s public/data/news_snapshots.json
-
+        run: bash -lc "test -s public/data/news_snapshots.json"
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dashboard-json
           path: public/data/*.json
-
       - name: Create Pull Request (auto-merge)
         uses: peter-evans/create-pull-request@v6
         with:
