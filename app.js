@@ -1,246 +1,317 @@
-/* M7: Bind UI to JSON in public/data */
+(() => {
+  // ---------- Util ----------
+  const $ = (sel, el=document) => el.querySelector(sel);
+  const $$ = (sel, el=document) => Array.from(el.querySelectorAll(sel));
+  const fmt = n => Intl.NumberFormat('en', {notation:'compact'}).format(n);
+  const todayISO = () => new Date().toISOString().slice(0,10);
+  const nowISO = () => new Date().toISOString();
 
-// -------- small helpers --------
-const $ = (id) => document.getElementById(id);
-const setHTML = (id, html) => { const el = $(id); if (el) el.innerHTML = html; };
+  // Detect base path for GitHub Pages (/user/repo/) and local (/)
+  const seg = location.pathname.split("/").filter(Boolean)[0];
+  const BASE = seg ? `/${seg}/` : "/";
+  const DATA = `${BASE}data/`;
 
-// GH Pages(리포 서브경로)에서도 동작하도록 상대경로 사용
-const ENDPOINTS = {
-  rankings: 'public/data/platform_rankings.json',
-  snap:     'public/data/snapshots.json',
-};
+  // localStorage helper with TTL
+  const store = {
+    get(k){ try{ const o=JSON.parse(localStorage.getItem(k)||"null"); if(!o) return null;
+      if (o.exp && Date.now()>o.exp) { localStorage.removeItem(k); return null; }
+      return o.val; }catch(e){return null}},
+    set(k,v,ttlMs){ const o={val:v}; if(ttlMs) o.exp=Date.now()+ttlMs; localStorage.setItem(k,JSON.stringify(o)); },
+    del(k){ localStorage.removeItem(k); }
+  };
 
-async function fetchJson(url){
-  try{
-    const r = await fetch(url, { cache: 'no-store' });
-    if(!r.ok) throw new Error(`${r.status} ${r.statusText}`);
-    return await r.json();
-  }catch(err){
-    console.error('fetch failed:', url, err);
-    return null;
-  }
-}
-
-// -------- state --------
-let platforms = [];
-let reposBase  = [];
-let newsItems  = [];
-
-// -------- UI bits --------
-function changeBadge(pct){
-  const n = Number(pct || 0);
-  const up = n > 0, flat = n === 0;
-  const cls = flat ? 'flat' : (up ? 'up' : 'down');
-  const arrow = flat
-    ? '<svg viewBox="0 0 24 24"><path d="M3 12 H21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'
-    : `<svg viewBox="0 0 24 24" class="trend ${up ? '' : 'down'}"><path d="M3 16 L9 10 L13 14 L21 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-  return `<span class="change ${cls}">${arrow}<span>${(up?'+':'') + n.toFixed(1)}%</span></span>`;
-}
-
-// -------- renderers --------
-function renderPlatforms(){
-  const ol = $('platformList');
-  if(!ol) return;
-  if(!platforms.length){ ol.innerHTML = '<li class="mut">데이터 없음</li>'; return; }
-  ol.innerHTML = platforms.slice(0,5).map((p,i)=>`
-    <li class="rank-item">
-      <div class="rank-left">
-        <div class="rank-num">${i+1}</div>
-        <div class="rank-texts">
-          <div class="rank-title">${p.name}</div>
-          <div class="rank-sub">${p.highlight || ''}</div>
-        </div>
-      </div>
-      <div style="text-align:right;">
-        <div class="kpi">Score ${Math.round(p.score || 0)}</div>
-        ${changeBadge(p.change7d || 0)}
-      </div>
-    </li>
-  `).join('');
-}
-
-function renderRepos(){
-  const sort = $('repoSort')?.value || 'stars';
-  const q = ($('q')?.value || '').toLowerCase();
-  let xs = reposBase.filter(r =>
-    (r.title + r.id + (r.tags || []).join(' ')).toLowerCase().includes(q)
-  );
-  xs.sort((a,b)=>{
-    if(sort==='commits')  return (b.commits || 0) - (a.commits || 0);
-    if(sort==='releases') return (b.releases || 0) - (a.releases || 0);
-    return (b.stars || 0) - (a.stars || 0);
-  });
-  const box = $('repoList');
-  if(!box) return;
-  if(!xs.length){ box.innerHTML = '<div class="mut">레포 데이터 없음</div>'; return; }
-  box.innerHTML = xs.slice(0,8).map((r,i)=>`
-    <div class="card" style="border:1px dashed var(--bd); padding:12px; margin-bottom:10px;">
-      <div class="row">
-        <div>
-          <div class="kpi">${i+1}. ${r.title}</div>
-          <div class="mut">${r.id} · ${(r.tags || []).join(' / ')}</div>
-        </div>
-        <div class="mut">⭐ +${r.stars || 0} · ⟲ ${r.commits || 0} · ⎇ ${r.releases || 0}</div>
-      </div>
-      <div class="grid" style="grid-template-columns:1fr 1fr; margin-top:8px;">
-        <ul style="margin:0; padding-left:18px;">${(r.pros || []).map(x=>`<li>👍 ${x}</li>`).join('')}</ul>
-        <ul style="margin:0; padding-left:18px;">${(r.cons || []).map(x=>`<li>👎 ${x}</li>`).join('')}</ul>
-      </div>
-      <div class="mut" style="margin-top:6px;"><a href="${r.url || '#'}" target="_blank" rel="noreferrer">Source</a></div>
-    </div>
-  `).join('');
-}
-
-function renderNews(){
-  const box = $('newsList');
-  if(!box) return;
-  if(!newsItems.length){ box.innerHTML = '<div class="mut">뉴스 데이터 없음</div>'; return; }
-  box.innerHTML = newsItems.slice(0,6).map(n=>`
-    <div class="card" style="border:1px dashed var(--bd); padding:12px;">
-      <div class="row">
-        <div>
-          <div class="kpi">${n.title}</div>
-          <div class="mut">${n.source || ''} · ${n.date || ''}</div>
-        </div>
-        <a class="mut" href="${n.url || '#'}" target="_blank" rel="noreferrer">원문</a>
-      </div>
-      <p style="margin:6px 0 0;">${n.summary || ''}</p>
-    </div>
-  `).join('');
-}
-
-function renderNote(){
-  const d = new Date().toISOString().slice(0,10);
-  const topP = platforms[0] || { name: '—', highlight: '' };
-  const topR = (reposBase.slice().sort((a,b)=>(b.stars||0)-(a.stars||0))[0]) || { title: '—' };
-  setHTML('noteDate', `Date: ${d}`);
-  setHTML('noteBox', `
-    <div>
-      <div class="kpi" style="margin-bottom:6px;">Hot Features</div>
-      <ol style="margin:0; padding-left:18px;">
-        <li>${topP.name} 업데이트 — 👍 ${topP.highlight || '업데이트'} / 문서 확인 필요</li>
-        <li>GitHub: ${topR.title} — 👍 Stars↑·커밋 활발 / 👎 환경·권한 구성 필요</li>
-        <li>멀티모달·에이전트 주간 강세 — 👍 사용사례 증가 / 👎 비용·품질 편차</li>
-      </ol>
-    </div>
-  `);
-}
-
-// -------- mappers --------
-function mapFromRankings(r){
-  platforms = (r?.items || []).map(x=>({
-    id: (x.platform || '').toLowerCase(),
-    name: x.platform,
-    score: x.score,
-    change7d: x.delta_7d ?? 0,
-    highlight: `interest ${Math.round(x.breakdown?.interest || 0)} · community ${Math.round(x.breakdown?.community || 0)} · updates ${Math.round(x.breakdown?.updates || 0)}`,
-  }));
-}
-
-function mapFromSnapshot(s){
-  const repos = [], news = [];
-  (s?.results || []).forEach(r=>{
-    if(r.from === 'github'){
-      (r.items || []).forEach(it=>{
-        repos.push({
-          id: it.repo || 'org/name',
-          title: (it.repo || 'repo').split('/').slice(-1)[0],
-          stars: it.stars_delta || 0,
-          commits: it.prs_merged || 0,
-          releases: it.releases || 0,
-          tags: ['ai','agent'],
-          pros: ['활동 증가','릴리즈 감지'],
-          cons: ['메타데이터 보강 필요'],
-          url: it.repo ? `https://github.com/${it.repo}` : '#',
-        });
-      });
+  async function getJSON(url, {ttl=5*60_000, bust=false, key=url}={}){
+    if(!bust){
+      const cached = store.get(key);
+      if(cached) return cached;
     }
-    if(r.from === 'news'){
-      (r.items || []).forEach(it=>{
-        news.push({
-          title: it.title || 'Untitled',
-          source: 'news',
-          url: it.url || '#',
-          date: (s.generated_at || '').slice(0,10),
-          summary: it.summary || '',
-        });
-      });
-    }
-  });
-  // de-dup
-  const seen = new Set();
-  reposBase = repos.filter(x => !seen.has(x.id) && seen.add(x.id)).slice(0,12);
-  newsItems = news;
-}
-
-// -------- boot --------
-document.addEventListener('DOMContentLoaded', async ()=>{
-  setHTML('platformList','<li class="mut">불러오는 중…</li>');
-  setHTML('repoList','<div class="mut">불러오는 중…</div>');
-  setHTML('newsList','<div class="mut">불러오는 중…</div>');
-
-  const [rankings, snap] = await Promise.all([
-    fetchJson(ENDPOINTS.rankings),
-    fetchJson(ENDPOINTS.snap),
-  ]);
-
-  if(rankings) mapFromRankings(rankings);
-  if(snap)     mapFromSnapshot(snap);
-
-  renderPlatforms();
-  renderRepos();
-  renderNews();
-  renderNote();
-
-  $('repoSort')?.addEventListener('change', renderRepos);
-  $('q')?.addEventListener('input', renderRepos);
-});
-
-// --- safe loaders (idempotent append) ---
-async function loadNews(){
-  try{
-    const res = await fetch('../data/news_current.json', { cache: 'no-store' });
-    if(!res.ok) throw new Error('news_current.json fetch failed');
-    const items = await res.json();
-    if (typeof renderNews === 'function') renderNews(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[NEWS] load failed:', e); if (typeof renderNews==='function') renderNews([]); }
-}
-async function loadAINotes(){
-  try{
-    const res = await fetch('../data/ai_note.json', { cache: 'no-store' });
-    if(!res.ok) throw new Error('ai_note.json fetch failed');
-    const items = await res.json();
-    if (typeof renderNotes === 'function') renderNotes(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[AI NOTE] load failed:', e); if (typeof renderNotes==='function') renderNotes([]); }
-}
-document.addEventListener('DOMContentLoaded', ()=>{ try{ loadNews(); loadAINotes(); }catch{} });
-// ---------- robust fetch helper (tries ./data then ./public/data) ----------
-async function fetchJsonWithFallback(file){
-  const tryPaths = [`./data/${file}`, `./public/data/${file}`];
-  for (const p of tryPaths){
-    try {
-      const res = await fetch(p, { cache: 'no-store' });
-      if (res.ok) return await res.json();
-    } catch (_) {}
+    const res = await fetch(url, {cache:"no-store"});
+    if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+    const data = await res.json();
+    store.set(key, data, ttl);
+    return data;
   }
-  throw new Error(`${file} fetch failed from: ${tryPaths.join(', ')}`);
-}
 
-// ---- replace your loaders to use fallback ----
-async function loadNews(){
-  try{
-    const items = await fetchJsonWithFallback('news_current.json');
-    if (typeof renderNews === 'function') renderNews(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[NEWS] load failed:', e); if (typeof renderNews==='function') renderNews([]); }
-}
+  // ---------- Memory (user prefs) ----------
+  const MEMKEY = "ai_dash_prefs_v1";
+  const prefs = Object.assign({
+    repoSort: "stars",
+    q: "",
+    hiddenNews: {},   // {id: true}
+    bookmarked: {},   // {id: true}
+    seenNews: {},     // {id: ISO}
+  }, store.get(MEMKEY) || {});
+  const savePrefs = () => store.set(MEMKEY, prefs);
 
-async function loadAINotes(){
-  try{
-    const items = await fetchJsonWithFallback('ai_note.json');
-    if (typeof renderNotes === 'function') renderNotes(Array.isArray(items)?items:[]);
-  }catch(e){ console.error('[AI NOTE] load failed:', e); if (typeof renderNotes==='function') renderNotes([]); }
-}
+  // ---------- DOM refs ----------
+  const elPlatform = $("#platformList");
+  const elRepo = $("#repoList");
+  const elNews = $("#newsList");
+  const elNote = $("#noteBox");
+  const elNoteDate = $("#noteDate");
+  const elRepoSort = $("#repoSort");
+  const elQ = $("#q");
 
-if (typeof document !== 'undefined') {
-  document.addEventListener('DOMContentLoaded', ()=>{ try{ loadNews(); loadAINotes(); }catch{} });
-}
+  // init controls from memory
+  elRepoSort.value = prefs.repoSort;
+  elQ.value = prefs.q;
+
+  // ---------- Data loaders ----------
+  const loadAll = async (opts={}) => {
+    const bust = !!opts.bust;
+
+    const [
+      platforms, platformsPrev, newsCurrent, newsSnaps, aiNote,
+      // optional data your updater may produce:
+      ghRepos
+    ] = await Promise.all([
+      getJSON(`${DATA}platform_rankings.json`, {ttl:30*60_000, bust}),
+      getJSON(`${DATA}platform_rankings.prev.json`, {ttl:30*60_000, bust}).catch(()=>null),
+      getJSON(`${DATA}news_current.json`, {ttl:10*60_000, bust}),
+      getJSON(`${DATA}news_snapshots.json`, {ttl:6*60_000, bust}).catch(()=>({items:[]})),
+      getJSON(`${DATA}ai_note.json`, {ttl:10*60_000, bust}).catch(()=>null),
+      getJSON(`${DATA}snapshots.json`, {ttl:30*60_000, bust}).catch(()=>null),
+    ]);
+
+    return {platforms, platformsPrev, newsCurrent, newsSnaps, aiNote, ghRepos};
+  };
+
+  // ---------- Platform scoring & render ----------
+  function scorePlatform(p){
+    // Flexible scoring: use provided score if exists; otherwise compute
+    if (typeof p.score === "number") return p.score;
+    // Heuristic from common fields
+    const stars7d = p.stars7d ?? 0;
+    const webTrend = p.webTrend ?? 0;   // e.g., Google trends delta
+    const ghTrend = p.ghTrend ?? 0;     // e.g., repo trend/composite
+    // weights can be tuned
+    return Math.round(stars7d*0.6 + ghTrend*0.3 + webTrend*0.1);
+  }
+  function deltaFromPrev(cur, prevMap){
+    if(!prevMap) return null;
+    const prev = prevMap.get(cur.id||cur.name);
+    if(!prev) return null;
+    const d = (scorePlatform(cur) - scorePlatform(prev));
+    if (d===0) return {dir:"flat", val:0};
+    return {dir: d>0?"up":"down", val: Math.abs(d)};
+  }
+  function renderPlatforms(platforms, platformsPrev){
+    const prevMap = platformsPrev ? new Map(platformsPrev.map(p=>[(p.id||p.name), p])) : null;
+    const ranked = platforms
+      .map(p=>({ ...p, _score: scorePlatform(p), _delta: deltaFromPrev(p, prevMap) }))
+      .sort((a,b)=>b._score-a._score)
+      .slice(0, 20);
+
+    elPlatform.innerHTML = ranked.map((p,i)=>{
+      const d = p._delta;
+      const arrow = d?.dir==="up" ? upIcon : d?.dir==="down" ? downIcon : flatIcon;
+      const delta = d ? `<span class="change ${d.dir}">${arrow}<span> ${d.val}</span></span>` : "";
+      const sub = [p.desc||p.tagline||"", p.url?new URL(p.url).hostname:""].filter(Boolean).join(" · ");
+      return `
+        <li class="rank-item">
+          <div class="rank-left">
+            <div class="rank-num">${i+1}</div>
+            <div class="rank-texts">
+              <div class="rank-title"><a href="${p.url||'#'}" target="_blank" rel="noopener">${p.name||p.id}</a></div>
+              <div class="rank-sub">${sub}</div>
+            </div>
+          </div>
+          <div>
+            <div class="kpi" title="score">${p._score}</div>
+            ${delta}
+          </div>
+        </li>
+      `;
+    }).join("");
+  }
+
+  // ---------- GitHub AI (repos) ----------
+  function computeRepoScore(r, mode){
+    if (mode==="commits") return r.commits30d ?? 0;
+    if (mode==="releases") return r.releases90d ?? 0;
+    // default: stars in last 7d if present else total
+    return r.stars7d ?? r.stargazers_count ?? 0;
+  }
+  function renderRepos(repos, mode, q){
+    if (!repos || !Array.isArray(repos.items||repos)) {
+      elRepo.innerHTML = `<div class="mut">데이터가 없습니다.</div>`;
+      return;
+    }
+    const arr = repos.items || repos;
+    const normQ = (q||"").trim().toLowerCase();
+    const filtered = arr.filter(r=>{
+      if(!normQ) return true;
+      const hay = [r.full_name, r.name, r.description, (r.topics||[]).join(" ")].join(" ").toLowerCase();
+      return hay.includes(normQ);
+    });
+    const sorted = filtered
+      .map(r=>({ ...r, _score: computeRepoScore(r, mode)}))
+      .sort((a,b)=>b._score-a._score)
+      .slice(0, 30);
+
+    elRepo.innerHTML = sorted.map(r=>{
+      const meta = [
+        r.language,
+        r.license?.spdx_id,
+        r._score ? `${prefs.repoSort}:${fmt(r._score)}` : null
+      ].filter(Boolean).join(" · ");
+      const url = r.html_url || r.url || "#";
+      return `
+        <article class="card" style="padding:12px; border:none; border-top:1px solid var(--bd); border-radius:0;">
+          <div class="row">
+            <a href="${url}" target="_blank" rel="noopener"><strong>${r.full_name||r.name}</strong></a>
+            <span class="mut">${meta}</span>
+          </div>
+          <div class="mut" style="margin-top:6px;">${r.description||""}</div>
+          <div class="mut" style="margin-top:6px;">⭐ ${fmt(r.stargazers_count||0)} · ⑂ ${fmt(r.forks_count||0)} · ⧗ ${fmt(r.open_issues_count||0)}</div>
+        </article>
+      `;
+    }).join("");
+  }
+
+  // ---------- AI NEWS ----------
+  function uniqueBy(arr, keyer){
+    const set=new Set(); const out=[];
+    for(const x of arr){ const k=keyer(x); if(set.has(k)) continue; set.add(k); out.push(x); }
+    return out;
+  }
+  function domainOf(url){ try{ return new URL(url).hostname.replace(/^www\./,''); }catch(e){ return ""; } }
+
+  function normalizeNews(news){
+    // expect {items:[{id,title,url,summary,source,ts}]}
+    const items = news.items || news || [];
+    return items.map((n,i)=>({
+      id: n.id || n.url || `n${i}`,
+      title: n.title || n.headline || "(제목 없음)",
+      url: n.url,
+      summary: n.summary || n.desc || "",
+      source: n.source || domainOf(n.url),
+      ts: n.ts || n.date || n.published_at || null,
+      score: n.score ?? 0
+    }));
+  }
+
+  function renderNews(news, q){
+    const items0 = normalizeNews(news);
+
+    // 1) 중복 제거: 같은 URL, 같은 도메인 과도한 반복 제거
+    const byUrl = uniqueBy(items0, x=>x.url||x.id);
+    // 도메인별 최대 3개로 제한
+    const domainCount = {};
+    const items1 = [];
+    for(const it of byUrl){
+      const d = it.source || domainOf(it.url);
+      domainCount[d] = (domainCount[d]||0) + 1;
+      if (domainCount[d] <= 3) items1.push(it);
+    }
+
+    // 2) 검색
+    const normQ = (q||"").trim().toLowerCase();
+    let arr = items1.filter(n=>{
+      if(!normQ) return true;
+      const hay = [n.title, n.summary, n.source].join(" ").toLowerCase();
+      return hay.includes(normQ);
+    });
+
+    // 3) 사용자 메모리 반영(숨김/북마크/보기순서)
+    arr = arr.filter(n => !prefs.hiddenNews[n.id]);
+
+    // 4) 정렬: 점수/시간 우선
+    arr.sort((a,b)=> (b.score - a.score) || ((b.ts||"") > (a.ts||"") ? 1 : -1));
+
+    elNews.innerHTML = arr.map(n=>{
+      const bookmarked = !!prefs.bookmarked[n.id];
+      const seen = prefs.seenNews[n.id];
+      const meta = [
+        n.source,
+        n.ts ? new Date(n.ts).toLocaleString() : null
+      ].filter(Boolean).join(" · ");
+      return `
+        <article class="card" style="padding:12px; border:none; border-top:1px solid var(--bd); border-radius:0;">
+          <div class="row">
+            <a href="${n.url}" target="_blank" rel="noopener"><strong>${n.title}</strong></a>
+            <div class="row" style="gap:8px;">
+              <button class="btn" data-act="bookmark" data-id="${n.id}">${bookmarked?"★":"☆"}</button>
+              <button class="btn" data-act="hide" data-id="${n.id}">숨김</button>
+            </div>
+          </div>
+          <div class="mut" style="margin-top:6px;">${n.summary||""}</div>
+          <div class="mut" style="margin-top:6px;">${meta}${seen?` · viewed ${new Date(seen).toLocaleTimeString()}`:""}</div>
+        </article>
+      `;
+    }).join("");
+
+    // click actions
+    elNews.onclick = (e)=>{
+      const btn = e.target.closest("button[data-act]");
+      if(!btn) return;
+      const id = btn.dataset.id;
+      const act = btn.dataset.act;
+      if(act==="hide"){ prefs.hiddenNews[id]=true; savePrefs(); renderNews(news, elQ.value); }
+      if(act==="bookmark"){ prefs.bookmarked[id]=!prefs.bookmarked[id]; savePrefs(); renderNews(news, elQ.value); }
+    };
+    // mark seen on link click
+    elNews.addEventListener("click", (e)=>{
+      const a = e.target.closest("a[href]");
+      if(!a) return;
+      const card = a.closest("article");
+      const id = card?.querySelector('button[data-id]')?.dataset.id;
+      if(id){ prefs.seenNews[id]=nowISO(); savePrefs(); }
+    }, {capture:true});
+  }
+
+  // ---------- AI NOTE ----------
+  function renderNote(aiNote, news, repos){
+    elNoteDate.textContent = todayISO();
+    // 1) server-generated ai_note.json 우선
+    if (aiNote && (aiNote.html || aiNote.markdown || aiNote.text)){
+      if (aiNote.html) { elNote.innerHTML = aiNote.html; return; }
+      const text = aiNote.markdown || aiNote.text;
+      elNote.innerHTML = `<pre style="white-space:pre-wrap">${text}</pre>`;
+      return;
+    }
+    // 2) fallback: 클라이언트에서 간단한 인사이트 생성(요약 아님, 신호 중심)
+    const items = normalizeNews(news).slice(0,8);
+    const bullets = items.map(n=>`- ${n.title} (${n.source})`).join("\n");
+    elNote.innerHTML = `
+      <div class="mut">서버 AI 노트가 없어 임시로 생성된 클라이언트 노트입니다.</div>
+      <h3>오늘의 핵심 신호</h3>
+      <pre style="white-space:pre-wrap">${bullets}</pre>
+    `;
+  }
+
+  // ---------- Icons ----------
+  const upIcon = `<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 4l6 6h-4v6H10V10H6l6-6z"/></svg>`;
+  const downIcon = `<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="trend down"><path d="M12 20l-6-6h4V8h4v6h4l-6 6z"/></svg>`;
+  const flatIcon = `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 12h16v2H4z"/></svg>`;
+
+  // ---------- Wire up ----------
+  function applyFilters(state){
+    const {platforms, platformsPrev, newsCurrent, ghRepos} = state;
+    renderPlatforms(platforms, platformsPrev);
+    renderRepos(ghRepos||[], elRepoSort.value, elQ.value);
+    renderNews(newsCurrent, elQ.value);
+    renderNote(state.aiNote, state.newsCurrent, state.ghRepos);
+  }
+
+  // initial load
+  let state = null;
+  (async () => {
+    try{
+      state = await loadAll({bust:false});
+      applyFilters(state);
+    }catch(e){
+      console.error(e);
+      $("#grid").insertAdjacentHTML("afterbegin", `<div class="card" style="grid-column:1/-1;color:#dc2626;">데이터 로드 오류: ${e.message}</div>`);
+    }
+  })();
+
+  // UI events
+  elRepoSort.onchange = () => { prefs.repoSort = elRepoSort.value; savePrefs(); applyFilters(state); };
+  elQ.oninput = (e) => { prefs.q = e.target.value; savePrefs(); applyFilters(state); };
+
+  // Refresh button already in HTML → full bust on reload
+  window.addEventListener('keydown', (e)=>{
+    if((e.ctrlKey||e.metaKey) && e.key==='k'){ e.preventDefault(); elQ.focus(); }
+  });
+})();
