@@ -6,12 +6,39 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: ai-dashboard-auto-update
+  cancel-in-progress: false
 
 jobs:
-  ping:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Say hello
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up git user
         run: |
-          echo "Hello from run $GITHUB_RUN_ID on $(date -u +%FT%TZ)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run updater
+        run: ./scripts/update_news.sh
+
+      - name: Commit changes (if any)
+        id: commit
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: AI Dashboard auto update"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Push to main (no PR)
+        if: steps.commit.outputs.changed == 'true'
+        run: git push origin HEAD:main
