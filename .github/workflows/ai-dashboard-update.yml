@@ -4,6 +4,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -13,3 +15,5 @@ jobs:
           node-version: '20'
       - name: Install deps
         run: npm ci
+      - name: Run News Agent
+        run: node scripts/agent_conversation.mjs
