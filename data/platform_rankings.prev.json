@@ -1,101 +1,27 @@
-{
-  "generated_at": "2025-08-13T03:43:02Z",
-  "items": [
-    {
-      "platform": "Perplexity",
-      "score": 82.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 100.0,
-        "community": 50.0,
-        "updates": 100.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "xAI",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "OpenAI",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Mistral",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Meta",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Anthropic",
-      "score": 17.5,
-      "delta_7d": 0.0,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Google",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    },
-    {
-      "platform": "Cohere",
-      "score": 17.5,
-      "delta_7d": 17.5,
-      "delta_30d": null,
-      "breakdown": {
-        "interest": 0.0,
-        "community": 50.0,
-        "updates": 0.0
-      },
-      "last_updated": "2025-08-13T03:43:02Z"
-    }
-  ]
-}
+[
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "score": 80
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "score": 81
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "score": 84
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "score": 85
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "score": 84
+  }
+]
