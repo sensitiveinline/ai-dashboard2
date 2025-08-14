@@ -4,7 +4,7 @@ from urllib.parse import urlparse, quote
 import requests, feedparser
 from dateutil import parser as dtp
 
-OUT = "public/data"
+OUT = "data"
 os.makedirs(OUT, exist_ok=True)
 NOW = datetime.now(timezone.utc)
 
