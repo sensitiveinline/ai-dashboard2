@@ -1,1 +1,58 @@
-[{"title":"probe","url":"https://example.com","summary":"ok","source":"example.com","ts":"2025-08-14T01:58:48Z"}]
+[
+  {
+    "title": "Google DeepMind, 새로운 AI 모델 'Veo' 공개",
+    "url": "https://deepmind.google/discover/veo/",
+    "summary": "Google DeepMind는 1분 이상의 고화질 영상을 생성할 수 있는 새로운 생성 AI 모델 'Veo'를 발표했습니다. 텍스트 프롬프트 또는 이미지 프롬프트를 사용하여 영상을 제작할 수 있으며, 영화 같은 장면과 다양한 시각적 스타일을 구현할 수 있습니다.",
+    "source": "deepmind.google",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "OpenAI, 기업용 ChatGPT 출시",
+    "url": "https://openai.com/blog/introducing-chatgpt-team",
+    "summary": "OpenAI는 기업 고객을 위한 새로운 ChatGPT 구독 플랜인 'ChatGPT Team'을 출시했습니다. 팀 협업 기능 강화, 데이터 보안 강화, 사용자 관리 기능 등을 제공하며, 소규모 팀부터 대규모 조직까지 효율적인 AI 활용을 지원합니다.",
+    "source": "openai.com",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 기반 칩 설계 자동화 기술 발전",
+    "url": "https://www.semianalysis.com/p/nvidia-automates-chip-design-with",
+    "summary": "Nvidia를 비롯한 여러 기업들이 AI를 활용하여 칩 설계 프로세스를 자동화하는 기술을 개발하고 있습니다. AI는 칩 레이아웃 최적화, 성능 예측, 오류 검출 등 다양한 단계에서 활용되어 설계 시간 단축 및 비용 절감에 기여할 수 있습니다.",
+    "source": "semianalysis.com",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 모델의 '환각' 현상 해결 노력",
+    "url": "https://spectrum.ieee.org/ai-hallucinations",
+    "summary": "AI 모델이 사실과 다른 정보를 생성하는 '환각' 현상은 AI 시스템의 신뢰성을 저해하는 주요 문제입니다. 연구자들은 데이터 품질 향상, 모델 아키텍처 개선, 검증 기술 개발 등을 통해 환각 현상 해결에 힘쓰고 있습니다.",
+    "source": "spectrum.ieee.org",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 규제 논의 활발, 각국 정부 움직임",
+    "url": "https://www.brookings.edu/articles/regulating-ai-a-global-overview/",
+    "summary": "AI 기술의 급속한 발전에 따라 AI 규제에 대한 논의가 전 세계적으로 활발하게 이루어지고 있습니다. 미국, 유럽, 중국 등 각국 정부는 AI 윤리, 책임, 투명성 확보를 위한 법률 및 정책 마련에 나서고 있습니다.",
+    "source": "brookings.edu",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 챗봇, 고객 서비스 영역 확대",
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2024-05-07-gartner-says-generative-ai-will-enable-customer-service-to-automate-90-percent-of-conversations-by-2026",
+    "summary": "AI 챗봇은 24시간 응대, 개인 맞춤형 정보 제공 등의 장점을 바탕으로 고객 서비스 영역에서 활용이 확대되고 있습니다. Gartner는 2026년까지 생성형 AI가 고객 서비스 대화의 90%를 자동화할 것으로 예측했습니다.",
+    "source": "gartner.com",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 기반 의료 진단 기술 발전",
+    "url": "https://news.mit.edu/2024/artificial-intelligence-boosts-cancer-detection-0514",
+    "summary": "AI는 의료 영상 분석, 유전자 데이터 분석 등을 통해 질병 진단 정확도를 높이는 데 기여하고 있습니다. 특히 암 진단 분야에서 AI 기반 기술은 초기 진단 및 맞춤형 치료에 대한 가능성을 제시하고 있습니다.",
+    "source": "news.mit.edu",
+    "ts": "2025-08-14T04:15:56.839Z"
+  },
+  {
+    "title": "AI 윤리 교육 중요성 강조",
+    "url": "https://hai.stanford.edu/news/how-we-teach-ai-ethics-matters",
+    "summary": "AI 기술 개발 및 활용 과정에서 발생할 수 있는 윤리적 문제를 해결하기 위해 AI 윤리 교육의 중요성이 강조되고 있습니다. AI 개발자, 정책 입안자, 사용자 모두에게 AI 윤리 교육은 책임감 있는 AI 활용을 위한 필수적인 요소입니다.",
+    "source": "hai.stanford.edu",
+    "ts": "2025-08-14T04:15:56.839Z"
+  }
+]
