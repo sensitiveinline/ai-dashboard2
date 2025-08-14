@@ -8,7 +8,7 @@ tasks = consume(Path("agents_bus/inbox"), agent=ME, delete=True)
 items = []
 
 for t in tasks:
-    if t["type"] != "collect":
+    if t.get("type") != "collect":
         continue
     # 샘플 데이터 생성 (실제 구현 시 RSS/API 호출)
     items.append({
@@ -19,7 +19,7 @@ for t in tasks:
         "signals": {"release": True}
     })
 
-if tasks:
+if items:
     publish_outbox({
         "from": ME, "to": "manager", "type": "result", "status": "ok",
         "topic": tasks[0]["topic"], "thread": tasks[0]["thread"], "items": items
