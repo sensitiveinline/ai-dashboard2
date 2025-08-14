@@ -38,8 +38,8 @@ function deltaFromPrev(cur, prevMap){
 
 // ---------- Render: Platforms (single definition) ----------
 function renderPlatforms(platforms, platformsPrev){
-  platforms = normalizeItems(platforms);
-  platformsPrev = normalizeItems(platformsPrev);
+  platforms = toArray(platforms);
+  platformsPrev = toArray(platformsPrev);
 
   console.debug("[renderPlatforms call]", {ap:Array.isArray(platforms), an:Array.isArray(platformsPrev), lenP:platforms?.length??null, lenN:platformsPrev?.length??null});
 
