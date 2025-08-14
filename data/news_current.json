@@ -1,427 +1,22 @@
 {
   "items": [
     {
-      "id": "hn-44886647",
-      "title": "FFmpeg 8.0 adds Whisper support",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b",
+      "id": "hn-44902148",
+      "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
       "summary": "",
-      "source": "code.ffmpeg.org",
-      "ts": "2025-08-13T10:19:35Z",
-      "score": 618.89
+      "source": "developers.googleblog.com",
+      "ts": "2025-08-14T16:08:36Z",
+      "score": 496.58
     },
     {
-      "id": "hn-44889941",
-      "title": "Nginx introduces native support for ACME protocol",
-      "url": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+      "id": "hn-44903803",
+      "title": "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
+      "url": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
       "summary": "",
-      "source": "blog.nginx.org",
-      "ts": "2025-08-13T15:41:55Z",
-      "score": 479.49
-    },
-    {
-      "id": "hn-44892209",
-      "title": "PYX: The next step in Python packaging",
-      "url": "https://astral.sh/blog/introducing-pyx",
-      "summary": "",
-      "source": "astral.sh",
-      "ts": "2025-08-13T18:42:49Z",
-      "score": 457.97
-    },
-    {
-      "id": "hn-44889627",
-      "title": "This website is for humans",
-      "url": "https://localghost.dev/blog/this-website-is-for-humans/",
-      "summary": "",
-      "source": "localghost.dev",
-      "ts": "2025-08-13T15:19:53Z",
-      "score": 408.79
-    },
-    {
-      "id": "hn-44893254",
-      "title": "Illinois limits the use of AI in therapy and psychotherapy",
-      "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
-      "summary": "",
-      "source": "washingtonpost.com",
-      "ts": "2025-08-13T20:11:50Z",
-      "score": 290.38
-    },
-    {
-      "id": "hn-44891759",
-      "title": "OCaml as my primary language",
-      "url": "https://xvw.lol/en/articles/why-ocaml.html",
-      "summary": "",
-      "source": "xvw.lol",
-      "ts": "2025-08-13T18:05:05Z",
-      "score": 259.06
-    },
-    {
-      "id": "hn-44886913",
-      "title": "Facial recognition vans to be rolled out across police forces in England",
-      "url": "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613",
-      "summary": "",
-      "source": "news.sky.com",
-      "ts": "2025-08-13T10:56:50Z",
-      "score": 241.06
-    },
-    {
-      "id": "hn-44887853",
-      "title": "Pebble Time 2 Design Reveal [video]",
-      "url": "https://www.youtube.com/watch?v=pcPzmDePH3E",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-08-13T12:54:45Z",
-      "score": 218.36
-    },
-    {
-      "id": "hn-44887965",
-      "title": "So what's the difference between plotted and printed artwork?",
-      "url": "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork",
-      "summary": "",
-      "source": "lostpixels.io",
-      "ts": "2025-08-13T13:06:29Z",
-      "score": 207.82
-    },
-    {
-      "id": "hn-44875270",
-      "title": "Kodak says it might have to cease operations",
-      "url": "https://www.cnn.com/2025/08/12/business/kodak-survival-warning",
-      "summary": "",
-      "source": "cnn.com",
-      "ts": "2025-08-12T12:15:13Z",
-      "score": 190.31
-    },
-    {
-      "id": "hn-44888236",
-      "title": "When DEF CON partners with the U.S. Army",
-      "url": "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge",
-      "summary": "",
-      "source": "jackpoulson.substack.com",
-      "ts": "2025-08-13T13:33:45Z",
-      "score": 179.61
-    },
-    {
-      "id": "hn-44896085",
-      "title": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
-      "url": "https://zenobiapay.com/blog/open-source-payments",
-      "summary": "",
-      "source": "zenobiapay.com",
-      "ts": "2025-08-14T02:19:37Z",
-      "score": 168.87
-    },
-    {
-      "id": "hn-44889715",
-      "title": "Study: Social media probably can't be fixed",
-      "url": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-08-13T15:26:28Z",
-      "score": 167.74
-    },
-    {
-      "id": "hn-44893600",
-      "title": "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
-      "url": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
-      "summary": "",
-      "source": "nist.gov",
-      "ts": "2025-08-13T20:43:46Z",
-      "score": 158.59
-    },
-    {
-      "id": "hn-44895222",
-      "title": "Open Banking and Payments Competition",
-      "url": "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/",
-      "summary": "",
-      "source": "bitsaboutmoney.com",
-      "ts": "2025-08-13T23:44:18Z",
-      "score": 148.94
-    },
-    {
-      "id": "hn-44891302",
-      "title": "Cross-Site Request Forgery",
-      "url": "https://words.filippo.io/csrf/",
-      "summary": "",
-      "source": "words.filippo.io",
-      "ts": "2025-08-13T17:31:08Z",
-      "score": 148.44
-    },
-    {
-      "id": "hn-44896433",
-      "title": "Funding Open Source like public infrastructure",
-      "url": "https://dri.es/funding-open-source-like-public-infrastructure",
-      "summary": "",
-      "source": "dri.es",
-      "ts": "2025-08-14T03:24:17Z",
-      "score": 144.34
-    },
-    {
-      "id": "hn-44896489",
-      "title": "Show HN: Yet another memory system for LLMs",
-      "url": "https://github.com/trvon/yams",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-14T03:34:11Z",
-      "score": 141.03
-    },
-    {
-      "id": "hn-44895497",
-      "title": "What Medieval People Got Right About Learning (2019)",
-      "url": "https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/",
-      "summary": "",
-      "source": "scotthyoung.com",
-      "ts": "2025-08-14T00:29:46Z",
-      "score": 136.38
-    },
-    {
-      "id": "hn-44898242",
-      "title": "iPhone DevOps",
-      "url": "https://clearsky.dev/blog/iphone-devops-ssh/",
-      "summary": "",
-      "source": "clearsky.dev",
-      "ts": "2025-08-14T08:47:27Z",
-      "score": 132.76
-    },
-    {
-      "id": "hn-44891090",
-      "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-      "url": "https://video.golpoai.com/",
-      "summary": "",
-      "source": "video.golpoai.com",
-      "ts": "2025-08-13T17:11:35Z",
-      "score": 125.18
-    },
-    {
-      "id": "hn-44898300",
-      "title": "Arch shares its wiki strategy with Debian",
-      "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-08-14T08:58:39Z",
-      "score": 121.13
-    },
-    {
-      "id": "hn-44897098",
-      "title": "Convo-Lang: LLM Programming Language and Runtime",
-      "url": "https://learn.convo-lang.ai/",
-      "summary": "",
-      "source": "learn.convo-lang.ai",
-      "ts": "2025-08-14T05:40:19Z",
-      "score": 114.82
-    },
-    {
-      "id": "hn-44898934",
-      "title": "Meta accessed women's health data from Flo app without consent, says court",
-      "url": "https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court",
-      "summary": "",
-      "source": "malwarebytes.com",
-      "ts": "2025-08-14T10:51:40Z",
-      "score": 109.34
-    },
-    {
-      "id": "hn-44851019",
-      "title": "PCIe 8.0 announced by the PCI-Sig will double throughput again",
-      "url": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
-      "summary": "",
-      "source": "servethehome.com",
-      "ts": "2025-08-09T22:41:36Z",
-      "score": 106.95
-    },
-    {
-      "id": "hn-44897998",
-      "title": "What I look for in typeface licenses",
-      "url": "https://davesmyth.com/typeface-licenses",
-      "summary": "",
-      "source": "davesmyth.com",
-      "ts": "2025-08-14T08:11:51Z",
-      "score": 96.2
-    },
-    {
-      "id": "3647820f437f",
-      "title": "Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved\n  Image Generation",
-      "url": "http://arxiv.org/abs/2508.09987v1",
-      "summary": "Recently, GPT-4o has garnered significant attention for its strong\nperformance in image generation, yet open-source models still lag behind.\nSeveral studies have explored distilling image data from GPT-4o to enhance\nopen-source models, achieving notable progress. However, a key question\nremains: given that real-world image datasets already constitute a natural\nsource of high-quality data, why should we use GPT-4o-generated synthetic data?\nIn this work, we identify two key advantages of synthetic images. First, they\ncan complement rare scenarios in real-world datasets, such as surreal fantasy\nor multi-reference image generation, which frequently occur in user queries.\nSecond, they provide clean and controllable supervision. Real-world data often\ncontains complex background noise and inherent misalignment between text\ndescriptions and image content, whereas synthetic images offer pure backgrounds\nand long-tailed supervision signals, facilitating more accurate text-to-image\nalignment. Building on these insights, we introduce Echo-4o-Image, a 180K-scale\nsynthetic dataset generated by GPT-4o, harnessing the power of synthetic image\ndata to address blind spots in real-world coverage. Using this dataset, we\nfine-tune the unified multimodal generation baseline Bagel to obtain Echo-4o.\nIn addition, we propose two new evaluation benchmarks for a more accurate and\nchallenging assessment of image generation capabilities: GenEval++, which\nincreases instruction complexity to mitigate score saturation, and\nImagine-Bench, which focuses on evaluating both the understanding and\ngeneration of imaginative content. Echo-4o demonstrates strong performance\nacross standard benchmarks. Moreover, applying Echo-4o-Image to other\nfoundation models (e.g., OmniGen2, BLIP3-o) yields consistent performance gains\nacross multiple metrics, highlighting the datasets strong transferability.",
-      "source": "arxiv.org",
-      "ts": "2025-08-13T17:59:28Z",
-      "score": 90.12
-    },
-    {
-      "id": "ebbd7cb4a3f6",
-      "title": "Vision-driven River Following of UAV via Safe Reinforcement Learning\n  using Semantic Dynamics Model",
-      "url": "http://arxiv.org/abs/2508.09971v1",
-      "summary": "Vision-driven autonomous river following by Unmanned Aerial Vehicles is\ncritical for applications such as rescue, surveillance, and environmental\nmonitoring, particularly in dense riverine environments where GPS signals are\nunreliable. We formalize river following as a coverage control problem in which\nthe reward function is submodular, yielding diminishing returns as more unique\nriver segments are visited, thereby framing the task as a Submodular Markov\nDecision Process. First, we introduce Marginal Gain Advantage Estimation, which\nrefines the reward advantage function by using a sliding window baseline\ncomputed from historical episodic returns, thus aligning the advantage\nestimation with the agent's evolving recognition of action value in\nnon-Markovian settings. Second, we develop a Semantic Dynamics Model based on\npatchified water semantic masks that provides more interpretable and\ndata-efficient short-term prediction of future observations compared to latent\nvision dynamics models. Third, we present the Constrained Actor Dynamics\nEstimator architecture, which integrates the actor, the cost estimator, and SDM\nfor cost advantage estimation to form a model-based SafeRL framework capable of\nsolving partially observable Constrained Submodular Markov Decision Processes.\nSimulation results demonstrate that MGAE achieves faster convergence and\nsuperior performance over traditional critic-based methods like Generalized\nAdvantage Estimation. SDM provides more accurate short-term state predictions\nthat enable the cost estimator to better predict potential violations. Overall,\nCADE effectively integrates safety regulation into model-based RL, with the\nLagrangian approach achieving the soft balance of reward and safety during\ntraining, while the safety layer enhances performance during inference by hard\naction overlay.",
-      "source": "arxiv.org",
-      "ts": "2025-08-13T17:39:09Z",
-      "score": 89.49
-    },
-    {
-      "id": "32668a3c4435",
-      "title": "January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation\n  Suite for Multimodal Food Analysis",
-      "url": "http://arxiv.org/abs/2508.09966v1",
-      "summary": "Progress in AI for automated nutritional analysis is critically hampered by\nthe lack of standardized evaluation methodologies and high-quality, real-world\nbenchmark datasets. To address this, we introduce three primary contributions.\nFirst, we present the January Food Benchmark (JFB), a publicly available\ncollection of 1,000 food images with human-validated annotations. Second, we\ndetail a comprehensive benchmarking framework, including robust metrics and a\nnovel, application-oriented overall score designed to assess model performance\nholistically. Third, we provide baseline results from both general-purpose\nVision-Language Models (VLMs) and our own specialized model,\njanuary/food-vision-v1. Our evaluation demonstrates that the specialized model\nachieves an Overall Score of 86.2, a 12.1-point improvement over the\nbest-performing general-purpose configuration. This work offers the research\ncommunity a valuable new evaluation dataset and a rigorous framework to guide\nand benchmark future developments in automated nutritional analysis.",
-      "source": "arxiv.org",
-      "ts": "2025-08-13T17:32:40Z",
-      "score": 89.29
-    },
-    {
-      "id": "hn-44873341",
-      "title": "ForgeFed: ActivityPub-based forge federation protocol",
-      "url": "https://forgefed.org",
-      "summary": "",
-      "source": "forgefed.org",
-      "ts": "2025-08-12T07:19:13Z",
-      "score": 86.47
-    },
-    {
-      "id": "4e7dff7e7148",
-      "title": "Co-founder of Elon Musk’s xAI departs the company",
-      "url": "https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/",
-      "summary": "Igor Babuschkin is leaving xAI less than three years after he co-founded the startup with Elon Musk, following a series of scandals at company.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-13T21:53:30Z",
-      "score": 82.71
-    },
-    {
-      "id": "hn-44880139",
-      "title": "500 Days of Math",
-      "url": "https://gmays.com/500-days-of-math/",
-      "summary": "",
-      "source": "gmays.com",
-      "ts": "2025-08-12T18:33:20Z",
-      "score": 82.14
-    },
-    {
-      "id": "hn-44872984",
-      "title": "Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers",
-      "url": "https://blog.voyageai.com/2025/08/11/rerank-2-5/",
-      "summary": "",
-      "source": "blog.voyageai.com",
-      "ts": "2025-08-12T06:12:32Z",
-      "score": 82.09
-    },
-    {
-      "id": "53276e883ac2",
-      "title": "Waymo finally has a music experience worthy of its robotaxi",
-      "url": "https://techcrunch.com/2025/08/13/waymo-finally-has-a-music-experience-worthy-of-its-robotaxi/",
-      "summary": "Waymo now lets you stream music straight from Spotify, which makes the back seat of a robotaxi feel more like your own private space.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-13T20:03:03Z",
-      "score": 79.6
-    },
-    {
-      "id": "hn-44881109",
-      "title": "Print, a one-line BASIC program",
-      "url": "https://10print.org",
-      "summary": "",
-      "source": "10print.org",
-      "ts": "2025-08-12T19:53:17Z",
-      "score": 77.94
-    },
-    {
-      "id": "hn-44889874",
-      "title": "Show HN: Vaultrice – A real-time key-value store with a localStorage API",
-      "url": "https://www.vaultrice.com/",
-      "summary": "",
-      "source": "vaultrice.com",
-      "ts": "2025-08-13T15:37:04Z",
-      "score": 77.38
-    },
-    {
-      "id": "99b464916a99",
-      "title": "Creating AI agent solutions for warehouse data access and security",
-      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
-      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-13T22:05:07Z",
-      "score": 75.5
-    },
-    {
-      "id": "150df4fe148a",
-      "title": "Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securely-launch-and-scale-your-agents-and-tools-on-amazon-bedrock-agentcore-runtime/",
-      "summary": "In this post, we explore how Amazon Bedrock AgentCore Runtime simplifies the deployment and management of AI agents.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-13T21:59:24Z",
-      "score": 75.35
-    },
-    {
-      "id": "74bfdfbb9c8d",
-      "title": "Pocket FM gives its writers an AI tool to transform narratives, write cliffhangers, and more",
-      "url": "https://techcrunch.com/2025/08/13/pocket-fm-gives-its-writers-an-ai-tool-to-transform-narratives-write-cliffhangers-and-more/",
-      "summary": "Pocket FM is building LLM to help users write faster and in turn, produce more audio shows.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-13T16:48:49Z",
-      "score": 74.41
-    },
-    {
-      "id": "be9f7b7e1d79",
-      "title": "Google&#8217;s Gemini AI will get more personalized by remembering details automatically",
-      "url": "https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update",
-      "summary": "Google is rolling out an update for Gemini that will allow the AI chatbot to “remember” your past conversations without prompting. With the setting turned on, Gemini will automatically recall your “key details and preferences” and use them to personalize its output. This expands upon an update that Google introduced last year, which lets you [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-13T16:00:00Z",
-      "score": 73.16
-    },
-    {
-      "id": "hn-44865908",
-      "title": "Fighting with YouTube to show a preview image",
-      "url": "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/",
-      "summary": "",
-      "source": "shaneosullivan.wordpress.com",
-      "ts": "2025-08-11T16:11:16Z",
-      "score": 72.56
-    },
-    {
-      "id": "d45b534f68cf",
-      "title": "PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/",
-      "summary": "This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-13T19:32:01Z",
-      "score": 71.59
-    },
-    {
-      "id": "56f9d128ebae",
-      "title": "Some doctors got worse at detecting cancer after relying on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai",
-      "summary": "We’ve heard about upskilling and re-skilling due to AI — but how about de-skilling? A new study published this week found that doctors who frequently use AI to detect cancer in one medical procedure got significantly worse at doing so. The researchers set out to discover whether continuous exposure to AI impacted doctors’ behavior when [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-13T14:48:13Z",
-      "score": 71.36
-    },
-    {
-      "id": "52b2710b763c",
-      "title": "Hidden Door is an AI storytelling game that actually makes sense",
-      "url": "https://www.theverge.com/games/757816/hidden-door-early-access-ai-story",
-      "summary": "Years before ChatGPT jump-started the generative AI wave, OpenAI technology powered a game called AI Dungeon 2 that essentially let you improvise an open-ended, anything-goes story with an AI narrator. Hidden Door, a new platform that's now in early access, also lets you cowrite a choose-your-own-adventure-style story with AI. But this narrator won't let you [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-13T14:00:00Z",
-      "score": 70.17
-    },
-    {
-      "id": "hn-44890956",
-      "title": "ReadMe (YC W15) Is Hiring a Developer Experience PM",
-      "url": "https://readme.com/careers#product-manager-developer-experience",
-      "summary": "",
-      "source": "readme.com",
-      "ts": "2025-08-13T17:00:37Z",
-      "score": 68.52
-    },
-    {
-      "id": "c37a765969f8",
-      "title": "How Amazon scaled Rufus by building multi-node inference using AWS Trainium chips and vLLM",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-scaled-rufus-by-building-multi-node-inference-using-aws-trainium-chips-and-vllm/",
-      "summary": "In this post, Amazon shares how they developed a multi-node inference solution for Rufus, their generative AI shopping assistant, using Amazon Trainium chips and vLLM to serve large language models at scale. The solution combines a leader/follower orchestration model, hybrid parallelism strategies, and a multi-node inference unit abstraction layer built on Amazon ECS to deploy models across multiple nodes while maintaining high performance and reliability.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-13T17:01:52Z",
-      "score": 67.95
-    },
-    {
-      "id": "hn-44872948",
-      "title": "Show HN: XR2000: A science fiction programming challenge",
-      "url": "https://clearsky.dev/blog/xr2000/",
-      "summary": "",
-      "source": "clearsky.dev",
-      "ts": "2025-08-12T06:07:14Z",
-      "score": 64.03
+      "source": "yro.slashdot.org",
+      "ts": "2025-08-14T18:19:42Z",
+      "score": 349.97
     },
     {
       "id": "hn-44875848",
@@ -430,7 +25,313 @@
       "summary": "",
       "source": "seangoedecke.com",
       "ts": "2025-08-12T13:15:34Z",
-      "score": 63.3
+      "score": 319.45
+    },
+    {
+      "id": "hn-44902797",
+      "title": "Streaming services are driving viewers back to piracy",
+      "url": "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy",
+      "summary": "",
+      "source": "theguardian.com",
+      "ts": "2025-08-14T16:56:31Z",
+      "score": 277.22
+    },
+    {
+      "id": "hn-44898300",
+      "title": "Arch shares its wiki strategy with Debian",
+      "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-08-14T08:58:39Z",
+      "score": 277.11
+    },
+    {
+      "id": "hn-44899999",
+      "title": "Blood oxygen monitoring returning to Apple Watch in the US",
+      "url": "https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/",
+      "summary": "",
+      "source": "apple.com",
+      "ts": "2025-08-14T13:14:35Z",
+      "score": 270.17
+    },
+    {
+      "id": "hn-44903351",
+      "title": "\"Privacy preserving age verification\" is bullshit",
+      "url": "https://pluralistic.net/2025/08/14/bellovin/",
+      "summary": "",
+      "source": "pluralistic.net",
+      "ts": "2025-08-14T17:40:51Z",
+      "score": 209.57
+    },
+    {
+      "id": "hn-44896085",
+      "title": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+      "url": "https://zenobiapay.com/blog/open-source-payments",
+      "summary": "",
+      "source": "zenobiapay.com",
+      "ts": "2025-08-14T02:19:37Z",
+      "score": 206.98
+    },
+    {
+      "id": "hn-44899339",
+      "title": "New protein therapy shows promise as antidote for carbon monoxide poisoning",
+      "url": "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html",
+      "summary": "",
+      "source": "medschool.umaryland.edu",
+      "ts": "2025-08-14T11:56:20Z",
+      "score": 200.81
+    },
+    {
+      "id": "hn-44902127",
+      "title": "I made a real-time C/C++/Rust build visualizer",
+      "url": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "summary": "",
+      "source": "danielchasehooper.com",
+      "ts": "2025-08-14T16:06:55Z",
+      "score": 189.33
+    },
+    {
+      "id": "hn-44905808",
+      "title": "We rewrote the Ghostty GTK application",
+      "url": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "summary": "",
+      "source": "mitchellh.com",
+      "ts": "2025-08-14T21:19:00Z",
+      "score": 170.32
+    },
+    {
+      "id": "hn-44899935",
+      "title": "NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem",
+      "url": "https://allenai.org/blog/nsf-nvidia",
+      "summary": "",
+      "source": "allenai.org",
+      "ts": "2025-08-14T13:08:16Z",
+      "score": 169.79
+    },
+    {
+      "id": "hn-44894910",
+      "title": "What does Palantir actually do?",
+      "url": "https://www.wired.com/story/palantir-what-the-company-does/",
+      "summary": "",
+      "source": "wired.com",
+      "ts": "2025-08-13T23:03:16Z",
+      "score": 168.55
+    },
+    {
+      "id": "hn-44899415",
+      "title": "How to rig elections [video]",
+      "url": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "summary": "",
+      "source": "media.ccc.de",
+      "ts": "2025-08-14T12:04:05Z",
+      "score": 160.82
+    },
+    {
+      "id": "hn-44859049",
+      "title": "1976 Soviet edition of 'The Hobbit' (2015)",
+      "url": "https://mashable.com/archive/soviet-hobbit",
+      "summary": "",
+      "source": "mashable.com",
+      "ts": "2025-08-10T22:54:35Z",
+      "score": 156.14
+    },
+    {
+      "id": "hn-44898242",
+      "title": "iPhone DevOps (2023)",
+      "url": "https://clearsky.dev/blog/iphone-devops-ssh/",
+      "summary": "",
+      "source": "clearsky.dev",
+      "ts": "2025-08-14T08:47:27Z",
+      "score": 153.83
+    },
+    {
+      "id": "hn-44906305",
+      "title": "Blurry rendering of games on macOS",
+      "url": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
+      "summary": "",
+      "source": "colincornaby.me",
+      "ts": "2025-08-14T22:11:47Z",
+      "score": 139.69
+    },
+    {
+      "id": "hn-44901853",
+      "title": "Show HN: OWhisper – Ollama for realtime speech-to-text",
+      "url": "https://docs.hyprnote.com/owhisper/what-is-this",
+      "summary": "",
+      "source": "docs.hyprnote.com",
+      "ts": "2025-08-14T15:47:43Z",
+      "score": 139.56
+    },
+    {
+      "id": "hn-44905791",
+      "title": "Time travel is self-suppressing",
+      "url": "https://arxiv.org/abs/2508.09157",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-08-14T21:17:21Z",
+      "score": 133.99
+    },
+    {
+      "id": "hn-44902763",
+      "title": "Bluesky: Updated Terms and Policies",
+      "url": "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies",
+      "summary": "",
+      "source": "bsky.social",
+      "ts": "2025-08-14T16:54:14Z",
+      "score": 133.75
+    },
+    {
+      "id": "hn-44903995",
+      "title": "Claude Code Output Styles",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/output-styles",
+      "summary": "",
+      "source": "docs.anthropic.com",
+      "ts": "2025-08-14T18:37:33Z",
+      "score": 129.64
+    },
+    {
+      "id": "hn-44880139",
+      "title": "500 days of math",
+      "url": "https://gmays.com/500-days-of-math/",
+      "summary": "",
+      "source": "gmays.com",
+      "ts": "2025-08-12T18:33:20Z",
+      "score": 124.91
+    },
+    {
+      "id": "hn-44904993",
+      "title": "DINOv3",
+      "url": "https://github.com/facebookresearch/dinov3",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-14T20:02:46Z",
+      "score": 124.63
+    },
+    {
+      "id": "hn-44904869",
+      "title": "Airbrush art of the 80s was Chrome-tastic (2015)",
+      "url": "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/",
+      "summary": "",
+      "source": "coolandcollected.com",
+      "ts": "2025-08-14T19:53:12Z",
+      "score": 117.72
+    },
+    {
+      "id": "hn-44905595",
+      "title": "Big Tech's A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
+      "url": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+      "summary": "",
+      "source": "nytimes.com",
+      "ts": "2025-08-14T20:54:57Z",
+      "score": 113.73
+    },
+    {
+      "id": "hn-44889354",
+      "title": "Org-social is a decentralized social network that runs on Org Mode",
+      "url": "https://github.com/tanrax/org-social",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-13T15:00:25Z",
+      "score": 111.89
+    },
+    {
+      "id": "hn-44906231",
+      "title": "AI Slop and the Destruction of Knowledge",
+      "url": "https://irisvanrooijcogsci.com/2025/08/12/ai-slop-and-the-destruction-of-knowledge/",
+      "summary": "",
+      "source": "irisvanrooijcogsci.com",
+      "ts": "2025-08-14T22:04:33Z",
+      "score": 104.04
+    },
+    {
+      "id": "39e8ef1b37dd",
+      "title": "US government is reportedly in discussions to take stake in Intel",
+      "url": "https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/",
+      "summary": "This deal would be meant to help Intel bulk up its U.S. chip manufacturing, including its much-delayed Ohio factory.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-14T20:38:20Z",
+      "score": 103.38
+    },
+    {
+      "id": "6c4db4a98e75",
+      "title": "Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down",
+      "url": "https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/",
+      "summary": "Cohere's market proposition has always been to offer secure LLMs specifically geared for enterprise use, not for consumers.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-14T17:40:27Z",
+      "score": 97.19
+    },
+    {
+      "id": "ad39b3409599",
+      "title": "Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode",
+      "url": "https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai",
+      "summary": "A new letter to the Federal Trade Commission, and US attorneys general for all 50 states and the District of Columbia, calls for an urgent investigation into Elon Musk's Grok - especially its new \"Imagine\" tool for AI-generated image and video. The tool, released by xAI earlier this month, encourages users to create NSFW content [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-14T17:37:01Z",
+      "score": 97.08
+    },
+    {
+      "id": "3586bdc716e3",
+      "title": "Meta’s AI policies let chatbots get romantic with minors",
+      "url": "https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors",
+      "summary": "In an internal document, Meta included policies that allowed its AI chatbots to flirt and speak with children using romantic language, according to a report from Reuters.  Quotes from the document highlighted by Reuters include letting Meta’s AI chatbots “engage a child in conversations that are romantic or sensual,” “describe a child in terms that [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-14T17:10:21Z",
+      "score": 96.18
+    },
+    {
+      "id": "hn-44905647",
+      "title": "OneSignal (YC S11) Is Hiring Engineers",
+      "url": "https://onesignal.com/careers",
+      "summary": "",
+      "source": "onesignal.com",
+      "ts": "2025-08-14T21:01:04Z",
+      "score": 95.33
+    },
+    {
+      "id": "3ee7e8025684",
+      "title": "Google Flights can help you book a trip when you don’t know where to go",
+      "url": "https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas",
+      "summary": "It seems like Google is looking for a way to put AI into everything these days, and now its efforts have reached its airfare-booking service, Flights. On Thursday, Google announced that it’s testing a new AI-powered Flight Deals tool, which could come in handy if you’re planning a trip on a budget but aren’t quite [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-14T16:05:28Z",
+      "score": 94.04
+    },
+    {
+      "id": "88d517724ec4",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "url": "https://techcrunch.com/2025/08/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-14T15:50:05Z",
+      "score": 93.54
+    },
+    {
+      "id": "4a2445b37527",
+      "title": "Scalable intelligent document processing using Amazon Bedrock Data Automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock-data-automation/",
+      "summary": "In the blog post Scalable intelligent document processing using Amazon Bedrock, we demonstrated how to build a scalable IDP pipeline using Anthropic foundation models on Amazon Bedrock. Although that approach delivered robust performance, the introduction of Amazon Bedrock Data Automation brings a new level of efficiency and flexibility to IDP solutions. This post explores how Amazon Bedrock Data Automation enhances document processing capabilities and streamlines the automation journey.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-14T17:53:40Z",
+      "score": 88.76
+    },
+    {
+      "id": "92b8751d1ec1",
+      "title": "Whiteboard to cloud in minutes using Amazon Q, Amazon Bedrock Data Automation, and Model Context Protocol",
+      "url": "https://aws.amazon.com/blogs/machine-learning/whiteboard-to-cloud-in-minutes-using-amazon-q-amazon-bedrock-data-automation-and-model-context-protocol/",
+      "summary": "We’re excited to share the Amazon Bedrock Data Automation Model Context Protocol (MCP) server, for seamless integration between Amazon Q and your enterprise data. In this post, you will learn how to use the Amazon Bedrock Data Automation MCP server to securely integrate with AWS Services, use Bedrock Data Automation operations as callable MCP tools, and build a conversational development experience with Amazon Q.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-14T17:31:51Z",
+      "score": 88.09
+    },
+    {
+      "id": "ec24a66eca9b",
+      "title": "Bringing agentic Retrieval Augmented Generation to Amazon Q Business",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/",
+      "summary": "In this blog post, we explore how Amazon Q Business is transforming enterprise data interaction through Agentic Retrieval Augmented Generation (RAG).",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-14T17:14:30Z",
+      "score": 87.56
     },
     {
       "id": "hn-44860080",
@@ -439,25 +340,97 @@
       "summary": "",
       "source": "lwn.net",
       "ts": "2025-08-11T01:46:22Z",
-      "score": 48.19
+      "score": 86.16
     },
     {
-      "id": "hn-44868563",
-      "title": "Show HN: Real-time privacy protection for smart glasses",
-      "url": "https://github.com/PrivacyIsAllYouNeed/protector",
+      "id": "hn-44893522",
+      "title": "All Souls exam questions and the limits of machine reasoning",
+      "url": "https://resobscura.substack.com/p/all-souls-exam-questions-and-the",
+      "summary": "",
+      "source": "resobscura.substack.com",
+      "ts": "2025-08-13T20:34:27Z",
+      "score": 83.33
+    },
+    {
+      "id": "hn-44873635",
+      "title": "Architecting large software projects [video]",
+      "url": "https://www.youtube.com/watch?v=sSpULGNHyoI",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-08-12T08:05:39Z",
+      "score": 71.02
+    },
+    {
+      "id": "3647820f437f",
+      "title": "Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved\n  Image Generation",
+      "url": "http://arxiv.org/abs/2508.09987v1",
+      "summary": "Recently, GPT-4o has garnered significant attention for its strong\nperformance in image generation, yet open-source models still lag behind.\nSeveral studies have explored distilling image data from GPT-4o to enhance\nopen-source models, achieving notable progress. However, a key question\nremains: given that real-world image datasets already constitute a natural\nsource of high-quality data, why should we use GPT-4o-generated synthetic data?\nIn this work, we identify two key advantages of synthetic images. First, they\ncan complement rare scenarios in real-world datasets, such as surreal fantasy\nor multi-reference image generation, which frequently occur in user queries.\nSecond, they provide clean and controllable supervision. Real-world data often\ncontains complex background noise and inherent misalignment between text\ndescriptions and image content, whereas synthetic images offer pure backgrounds\nand long-tailed supervision signals, facilitating more accurate text-to-image\nalignment. Building on these insights, we introduce Echo-4o-Image, a 180K-scale\nsynthetic dataset generated by GPT-4o, harnessing the power of synthetic image\ndata to address blind spots in real-world coverage. Using this dataset, we\nfine-tune the unified multimodal generation baseline Bagel to obtain Echo-4o.\nIn addition, we propose two new evaluation benchmarks for a more accurate and\nchallenging assessment of image generation capabilities: GenEval++, which\nincreases instruction complexity to mitigate score saturation, and\nImagine-Bench, which focuses on evaluating both the understanding and\ngeneration of imaginative content. Echo-4o demonstrates strong performance\nacross standard benchmarks. Moreover, applying Echo-4o-Image to other\nfoundation models (e.g., OmniGen2, BLIP3-o) yields consistent performance gains\nacross multiple metrics, highlighting the datasets strong transferability.",
+      "source": "arxiv.org",
+      "ts": "2025-08-13T17:59:28Z",
+      "score": 70.13
+    },
+    {
+      "id": "ebbd7cb4a3f6",
+      "title": "Vision-driven River Following of UAV via Safe Reinforcement Learning\n  using Semantic Dynamics Model",
+      "url": "http://arxiv.org/abs/2508.09971v1",
+      "summary": "Vision-driven autonomous river following by Unmanned Aerial Vehicles is\ncritical for applications such as rescue, surveillance, and environmental\nmonitoring, particularly in dense riverine environments where GPS signals are\nunreliable. We formalize river following as a coverage control problem in which\nthe reward function is submodular, yielding diminishing returns as more unique\nriver segments are visited, thereby framing the task as a Submodular Markov\nDecision Process. First, we introduce Marginal Gain Advantage Estimation, which\nrefines the reward advantage function by using a sliding window baseline\ncomputed from historical episodic returns, thus aligning the advantage\nestimation with the agent's evolving recognition of action value in\nnon-Markovian settings. Second, we develop a Semantic Dynamics Model based on\npatchified water semantic masks that provides more interpretable and\ndata-efficient short-term prediction of future observations compared to latent\nvision dynamics models. Third, we present the Constrained Actor Dynamics\nEstimator architecture, which integrates the actor, the cost estimator, and SDM\nfor cost advantage estimation to form a model-based SafeRL framework capable of\nsolving partially observable Constrained Submodular Markov Decision Processes.\nSimulation results demonstrate that MGAE achieves faster convergence and\nsuperior performance over traditional critic-based methods like Generalized\nAdvantage Estimation. SDM provides more accurate short-term state predictions\nthat enable the cost estimator to better predict potential violations. Overall,\nCADE effectively integrates safety regulation into model-based RL, with the\nLagrangian approach achieving the soft balance of reward and safety during\ntraining, while the safety layer enhances performance during inference by hard\naction overlay.",
+      "source": "arxiv.org",
+      "ts": "2025-08-13T17:39:09Z",
+      "score": 69.64
+    },
+    {
+      "id": "99b464916a99",
+      "title": "Creating AI agent solutions for warehouse data access and security",
+      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
+      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-08-13T22:05:07Z",
+      "score": 58.75
+    },
+    {
+      "id": "hn-44870905",
+      "title": "SIMD Binary Heap Operations",
+      "url": "http://0x80.pl/notesen/2025-01-18-simd-heap.html",
+      "summary": "",
+      "source": "0x80.pl",
+      "ts": "2025-08-12T00:09:32Z",
+      "score": 53.17
+    },
+    {
+      "id": "hn-44864212",
+      "title": "Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard",
+      "url": "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html",
+      "summary": "",
+      "source": "startwithawhy.com",
+      "ts": "2025-08-11T14:05:24Z",
+      "score": 44.1
+    },
+    {
+      "id": "hn-44875388",
+      "title": "Managing time shiftable devices (2024)",
+      "url": "https://bitsandtheorems.com/managing-time-shiftable-devices/",
+      "summary": "",
+      "source": "bitsandtheorems.com",
+      "ts": "2025-08-12T12:28:15Z",
+      "score": 32.77
+    },
+    {
+      "id": "hn-44870664",
+      "title": "Lambdas, Nested Functions, and Blocks (2021)",
+      "url": "https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my",
+      "summary": "",
+      "source": "thephd.dev",
+      "ts": "2025-08-11T23:31:24Z",
+      "score": 31.87
+    },
+    {
+      "id": "hn-44861536",
+      "title": "Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit",
+      "url": "https://github.com/rcarmo/homekit-steam-user-switcher",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-08-11T19:40:47Z",
-      "score": 46.22
-    },
-    {
-      "id": "hn-44854498",
-      "title": "Index 1.6B Keys with Automata and Rust (2015)",
-      "url": "https://burntsushi.net/transducers/",
-      "summary": "",
-      "source": "burntsushi.net",
-      "ts": "2025-08-10T11:35:10Z",
-      "score": 39.94
+      "ts": "2025-08-11T07:18:13Z",
+      "score": 29.68
     },
     {
       "id": "490d88914984",
@@ -466,7 +439,7 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 37.57
+      "score": 29.24
     },
     {
       "id": "641fd4a816f8",
@@ -475,7 +448,7 @@
       "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 37.57
+      "score": 29.24
     },
     {
       "id": "f20ef515ed9f",
@@ -484,25 +457,16 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 24.47
+      "score": 19.04
     },
     {
-      "id": "hn-44857267",
-      "title": "Usage – a shell completion / manpage / help documentation generator",
-      "url": "https://usage.jdx.dev/",
-      "summary": "",
-      "source": "usage.jdx.dev",
-      "ts": "2025-08-10T18:42:34Z",
-      "score": 19.9
-    },
-    {
-      "id": "3d45d3872df2",
-      "title": "Introducing GPT-5 for developers",
-      "url": "https://openai.com/index/introducing-gpt-5-for-developers",
-      "summary": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.",
+      "id": "3712dd3d94ef",
+      "title": "GPT-5 and the new era of work",
+      "url": "https://openai.com/index/gpt-5-new-era-of-work",
+      "summary": "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.",
       "source": "openai.com",
       "ts": "2025-08-07T10:00:00Z",
-      "score": 3.8
+      "score": 2.96
     },
     {
       "id": "c636f03ec0b5",
@@ -511,7 +475,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 2.09
+      "score": 1.62
     }
   ]
 }
