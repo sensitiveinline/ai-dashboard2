@@ -1,0 +1,44 @@
+name: AI Dashboard Auto Update
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/30 * * * *"  # 30분마다 (UTC)
+permissions:
+  contents: write
+concurrency:
+  group: ai-dashboard-data
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { persist-credentials: true }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Python (optional)
+        uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Install deps (best-effort)
+        run: |
+          pip install -r requirements.txt || true
+          npm ci || true
+      - name: Run agents (multi-entry runner)
+        run: scripts/run_agents.sh
+      - name: Normalize schema
+        run: node scripts/fix_schema.cjs || true
+      - name: Write version
+        run: |
+          mkdir -p data
+          echo "{\"build\":\"${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}\",\"updated_at\":\"$(date -u +%FT%TZ)\"}" > data/version.json
+          cat data/version.json
+      - name: Validate
+        run: node scripts/validate_data.cjs
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git commit -m "data: refresh $(date -u +%F-%TZ)" || echo "no changes"
+          git pull --rebase --autostash origin ${{ github.ref_name || 'main' }} || true
+          git push
