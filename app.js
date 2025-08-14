@@ -1,3 +1,7 @@
+
+// --- normalize for {items:[]} or [] ---
+const normalizeItems = v => Array.isArray(v) ? v : (v && v.items) || [];
+
 /* app.js — client-only, single file
    - 데이터 경로: /data/*.json  (리포의 public/data/* 가 Pages에선 /<repo>/data/* 로 노출)
    - 파일이 404면 화면에서만 보이는 임시 데이터로 대체 (저장은 안 함)
