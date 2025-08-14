@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', async ()=>{
 // --- safe loaders (idempotent append) ---
 async function loadNews(){
   try{
-    const res = await fetch('./data/news_current.json', { cache: 'no-store' });
+    const res = await fetch('../data/news_current.json', { cache: 'no-store' });
     if(!res.ok) throw new Error('news_current.json fetch failed');
     const items = await res.json();
     if (typeof renderNews === 'function') renderNews(Array.isArray(items)?items:[]);
@@ -207,7 +207,7 @@ async function loadNews(){
 }
 async function loadAINotes(){
   try{
-    const res = await fetch('./data/ai_note.json', { cache: 'no-store' });
+    const res = await fetch('../data/ai_note.json', { cache: 'no-store' });
     if(!res.ok) throw new Error('ai_note.json fetch failed');
     const items = await res.json();
     if (typeof renderNotes === 'function') renderNotes(Array.isArray(items)?items:[]);
