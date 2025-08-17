@@ -7,16 +7,7 @@
       "summary": "",
       "source": "seangoedecke.com",
       "ts": "2025-08-16T07:38:46Z",
-      "score": 492.42
-    },
-    {
-      "id": "hn-44916783",
-      "title": "The future of large files in Git is Git",
-      "url": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
-      "summary": "",
-      "source": "tylercipriani.com",
-      "ts": "2025-08-15T20:07:06Z",
-      "score": 366.09
+      "score": 539.58
     },
     {
       "id": "hn-44919891",
@@ -25,16 +16,7 @@
       "summary": "",
       "source": "putty.software",
       "ts": "2025-08-16T03:35:06Z",
-      "score": 365.64
-    },
-    {
-      "id": "hn-44892283",
-      "title": "AI is different",
-      "url": "https://www.antirez.com/news/155",
-      "summary": "",
-      "source": "antirez.com",
-      "ts": "2025-08-13T18:49:42Z",
-      "score": 300.43
+      "score": 370.09
     },
     {
       "id": "hn-44925380",
@@ -43,25 +25,7 @@
       "summary": "",
       "source": "derwiki.medium.com",
       "ts": "2025-08-16T17:33:08Z",
-      "score": 279.09
-    },
-    {
-      "id": "hn-44922571",
-      "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
-      "url": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
-      "summary": "",
-      "source": "kcl.ac.uk",
-      "ts": "2025-08-16T12:13:12Z",
-      "score": 253.0
-    },
-    {
-      "id": "hn-44924055",
-      "title": "Making Your Own Merchant Service Provider",
-      "url": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
-      "summary": "",
-      "source": "voidfox.com",
-      "ts": "2025-08-16T15:01:20Z",
-      "score": 215.15
+      "score": 340.02
     },
     {
       "id": "hn-44924461",
@@ -70,7 +34,16 @@
       "summary": "",
       "source": "progress.openai.com",
       "ts": "2025-08-16T15:47:12Z",
-      "score": 197.21
+      "score": 320.23
+    },
+    {
+      "id": "hn-44922571",
+      "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
+      "url": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+      "summary": "",
+      "source": "kcl.ac.uk",
+      "ts": "2025-08-16T12:13:12Z",
+      "score": 293.18
     },
     {
       "id": "hn-44923465",
@@ -79,7 +52,7 @@
       "summary": "",
       "source": "pudding.cool",
       "ts": "2025-08-16T13:54:19Z",
-      "score": 188.03
+      "score": 240.78
     },
     {
       "id": "hn-44921609",
@@ -88,7 +61,34 @@
       "summary": "",
       "source": "en.wikipedia.org",
       "ts": "2025-08-16T09:07:49Z",
-      "score": 184.48
+      "score": 217.94
+    },
+    {
+      "id": "hn-44924055",
+      "title": "Making Your Own Merchant Service Provider",
+      "url": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
+      "summary": "",
+      "source": "voidfox.com",
+      "ts": "2025-08-16T15:01:20Z",
+      "score": 212.88
+    },
+    {
+      "id": "hn-44928497",
+      "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
+      "url": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
+      "summary": "",
+      "source": "neowin.net",
+      "ts": "2025-08-17T02:49:48Z",
+      "score": 208.29
+    },
+    {
+      "id": "hn-44929260",
+      "title": "Node.js can now execute TypeScript files",
+      "url": "https://nodejs.org/en/blog/release/v22.18.0",
+      "summary": "",
+      "source": "nodejs.org",
+      "ts": "2025-08-17T06:03:27Z",
+      "score": 197.9
     },
     {
       "id": "hn-44922020",
@@ -97,124 +97,7 @@
       "summary": "",
       "source": "qouteall.fun",
       "ts": "2025-08-16T10:34:35Z",
-      "score": 176.54
-    },
-    {
-      "id": "hn-44924581",
-      "title": "Woz: 'I Am the Happiest Person'",
-      "url": "https://daringfireball.net/linked/2025/08/15/woz-on-slashdot",
-      "summary": "",
-      "source": "daringfireball.net",
-      "ts": "2025-08-16T16:01:30Z",
-      "score": 175.52
-    },
-    {
-      "id": "hn-44925966",
-      "title": "Pirate Library Operator Arrested, Study Canceled for 330K Members",
-      "url": "https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/",
-      "summary": "",
-      "source": "torrentfreak.com",
-      "ts": "2025-08-16T18:50:07Z",
-      "score": 133.88
-    },
-    {
-      "id": "hn-44925466",
-      "title": "Rust in 2025: Targeting foundational software",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/",
-      "summary": "",
-      "source": "smallcultfollowing.com",
-      "ts": "2025-08-16T17:45:00Z",
-      "score": 133.65
-    },
-    {
-      "id": "hn-44925847",
-      "title": "Office on HP-UX and Unix",
-      "url": "https://www.openpa.net/hp-ux_office.html",
-      "summary": "",
-      "source": "openpa.net",
-      "ts": "2025-08-16T18:36:46Z",
-      "score": 131.06
-    },
-    {
-      "id": "hn-44926414",
-      "title": "Dyna – Logic Programming for Machine Learning",
-      "url": "https://dyna.org/",
-      "summary": "",
-      "source": "dyna.org",
-      "ts": "2025-08-16T19:50:15Z",
-      "score": 127.99
-    },
-    {
-      "id": "hn-44925123",
-      "title": "Tversky Neural Networks",
-      "url": "https://gonzoml.substack.com/p/tversky-neural-networks",
-      "summary": "",
-      "source": "gonzoml.substack.com",
-      "ts": "2025-08-16T16:59:51Z",
-      "score": 122.67
-    },
-    {
-      "id": "hn-44925476",
-      "title": "Monday – A personality experiment",
-      "url": "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday",
-      "summary": "",
-      "source": "chatgpt.com",
-      "ts": "2025-08-16T17:46:32Z",
-      "score": 121.1
-    },
-    {
-      "id": "hn-44925597",
-      "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
-      "url": "https://github.com/superstarryeyes/lue",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-16T18:00:33Z",
-      "score": 120.33
-    },
-    {
-      "id": "hn-44926758",
-      "title": "Apple's new Processor Trace instrument is incredible",
-      "url": "https://victorwynne.com/processor-trace-instrument/",
-      "summary": "",
-      "source": "victorwynne.com",
-      "ts": "2025-08-16T20:42:28Z",
-      "score": 120.08
-    },
-    {
-      "id": "hn-44925853",
-      "title": "A Lisp in 99LOC",
-      "url": "https://github.com/Robert-van-Engelen/tinylisp",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-16T18:37:17Z",
-      "score": 110.07
-    },
-    {
-      "id": "hn-44923962",
-      "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
-      "url": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
-      "summary": "",
-      "source": "energy-reporters.com",
-      "ts": "2025-08-16T14:49:49Z",
-      "score": 109.82
-    },
-    {
-      "id": "hn-44926965",
-      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-      "url": "https://www.bbc.com/news/health-26888280",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-08-16T21:12:40Z",
-      "score": 108.48
-    },
-    {
-      "id": "hn-44926990",
-      "title": "China develops first pregnancy robot, sparking ethical debate",
-      "url": "https://www.thestandard.com.hk/china-news/article/308815/China-develops-worlds-first-pregnancy-robot-sparking-ethical-debate",
-      "summary": "",
-      "source": "thestandard.com.hk",
-      "ts": "2025-08-16T21:16:23Z",
-      "score": 105.6
+      "score": 193.91
     },
     {
       "id": "hn-44927244",
@@ -223,25 +106,106 @@
       "summary": "",
       "source": "treeform.github.io",
       "ts": "2025-08-16T22:04:29Z",
-      "score": 105.41
+      "score": 173.42
     },
     {
-      "id": "5bf566515235",
-      "title": "AI-powered stuffed animals are coming for your kids",
-      "url": "https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/",
-      "summary": "Do A.I. chatbots packaged inside cute-looking plushies offer a viable alternative to screen time for kids? Maybe not.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-16T19:39:40Z",
-      "score": 101.48
+      "id": "hn-44927271",
+      "title": "Visualising how close random GUIDs come to being the same",
+      "url": "https://www.guidsmash.com",
+      "summary": "",
+      "source": "guidsmash.com",
+      "ts": "2025-08-16T22:11:09Z",
+      "score": 159.19
     },
     {
-      "id": "hn-44927450",
-      "title": "AI may make dubbing for film and TV easier",
-      "url": "https://www.bbc.com/news/articles/c36xy6r91kwo",
+      "id": "hn-44926414",
+      "title": "Dyna – Logic Programming for Machine Learning",
+      "url": "https://dyna.org/",
+      "summary": "",
+      "source": "dyna.org",
+      "ts": "2025-08-16T19:50:15Z",
+      "score": 147.17
+    },
+    {
+      "id": "hn-44929478",
+      "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "url": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+      "summary": "",
+      "source": "finkelstein.fr",
+      "ts": "2025-08-17T06:51:50Z",
+      "score": 141.21
+    },
+    {
+      "id": "hn-44926965",
+      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
+      "url": "https://www.bbc.com/news/health-26888280",
       "summary": "",
       "source": "bbc.com",
-      "ts": "2025-08-16T22:39:55Z",
-      "score": 100.34
+      "ts": "2025-08-16T21:12:40Z",
+      "score": 130.07
+    },
+    {
+      "id": "hn-44930186",
+      "title": "Why LinkedIn Rewards Mediocrity",
+      "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
+      "summary": "",
+      "source": "elliotcsmith.com",
+      "ts": "2025-08-17T09:29:56Z",
+      "score": 128.94
+    },
+    {
+      "id": "hn-44925123",
+      "title": "Tversky Neural Networks",
+      "url": "https://gonzoml.substack.com/p/tversky-neural-networks",
+      "summary": "",
+      "source": "gonzoml.substack.com",
+      "ts": "2025-08-16T16:59:51Z",
+      "score": 127.43
+    },
+    {
+      "id": "hn-44923962",
+      "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
+      "url": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
+      "summary": "",
+      "source": "energy-reporters.com",
+      "ts": "2025-08-16T14:49:49Z",
+      "score": 124.42
+    },
+    {
+      "id": "hn-44930222",
+      "title": "IQ Tests Results for AI",
+      "url": "https://www.trackingai.org/home",
+      "summary": "",
+      "source": "trackingai.org",
+      "ts": "2025-08-17T09:36:22Z",
+      "score": 121.95
+    },
+    {
+      "id": "hn-44925597",
+      "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
+      "url": "https://github.com/superstarryeyes/lue",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-16T18:00:33Z",
+      "score": 120.48
+    },
+    {
+      "id": "hn-44925853",
+      "title": "A Lisp in 99LOC",
+      "url": "https://github.com/Robert-van-Engelen/tinylisp",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-16T18:37:17Z",
+      "score": 119.57
+    },
+    {
+      "id": "hn-44928997",
+      "title": "Wan – Open-source alternative to VEO 3",
+      "url": "https://github.com/Wan-Video/Wan2.2",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-17T05:00:40Z",
+      "score": 114.97
     },
     {
       "id": "hn-44926785",
@@ -250,43 +214,7 @@
       "summary": "",
       "source": "unsafehttp.benren.au",
       "ts": "2025-08-16T20:46:15Z",
-      "score": 98.61
-    },
-    {
-      "id": "hn-44926277",
-      "title": "Turn your dumb messages into cuneiform tablets",
-      "url": "https://dumbcuneiform.com",
-      "summary": "",
-      "source": "dumbcuneiform.com",
-      "ts": "2025-08-16T19:30:13Z",
-      "score": 94.95
-    },
-    {
-      "id": "0ec10a8b6407",
-      "title": "Anthropic says some Claude models can now end ‘harmful or abusive’ conversations",
-      "url": "https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/",
-      "summary": "Anthropic says new capabilities allow its latest AI models to protect themselves by ending abusive conversations.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-16T15:50:05Z",
-      "score": 93.7
-    },
-    {
-      "id": "hn-44922484",
-      "title": "Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA",
-      "url": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405",
-      "summary": "",
-      "source": "ashbyhq.com",
-      "ts": "2025-08-16T12:00:59Z",
-      "score": 79.27
-    },
-    {
-      "id": "hn-44889163",
-      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
-      "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
-      "summary": "",
-      "source": "gautiersblog.blogspot.com",
-      "ts": "2025-08-13T14:47:01Z",
-      "score": 69.0
+      "score": 111.39
     },
     {
       "id": "hn-44886202",
@@ -295,43 +223,88 @@
       "summary": "",
       "source": "raft.github.io",
       "ts": "2025-08-13T09:09:34Z",
-      "score": 67.69
+      "score": 109.22
     },
     {
-      "id": "0ec7bb058412",
-      "title": "Sam Altman, over bread rolls, explores life after GPT-5",
-      "url": "https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/",
-      "summary": "At a dinner with reporters in San Francisco, OpenAI CEO Sam Altman spilled details on the company's ambitions beyond ChatGPT.",
+      "id": "hn-44929424",
+      "title": "OpenAI Misled You on RLHF",
+      "url": "https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff",
+      "summary": "",
+      "source": "aerial-toothpaste-34a.notion.site",
+      "ts": "2025-08-17T06:37:10Z",
+      "score": 104.15
+    },
+    {
+      "id": "hn-44929630",
+      "title": "Israeli gov. official arrested in Nevada internet crimes against children sting",
+      "url": "https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official",
+      "summary": "",
+      "source": "theguardian.com",
+      "ts": "2025-08-17T07:25:37Z",
+      "score": 103.88
+    },
+    {
+      "id": "hn-44927953",
+      "title": "Passive Microwave Repeaters",
+      "url": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+      "summary": "",
+      "source": "computer.rip",
+      "ts": "2025-08-17T00:25:27Z",
+      "score": 102.81
+    },
+    {
+      "id": "hn-44930111",
+      "title": "Nuvistor Valves",
+      "url": "http://www.r-type.org/articles/art-150.htm",
+      "summary": "",
+      "source": "r-type.org",
+      "ts": "2025-08-17T09:15:31Z",
+      "score": 97.86
+    },
+    {
+      "id": "hn-44889163",
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+      "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
+      "summary": "",
+      "source": "gautiersblog.blogspot.com",
+      "ts": "2025-08-13T14:47:01Z",
+      "score": 81.09
+    },
+    {
+      "id": "5bf566515235",
+      "title": "AI-powered stuffed animals are coming for your kids",
+      "url": "https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/",
+      "summary": "Do A.I. chatbots packaged inside cute-looking plushies offer a viable alternative to screen time for kids? Maybe not.",
       "source": "techcrunch.com",
-      "ts": "2025-08-15T22:20:59Z",
-      "score": 65.09
+      "ts": "2025-08-16T19:39:40Z",
+      "score": 79.1
     },
     {
-      "id": "hn-44884077",
-      "title": "Dokploy is the sweet spot between PaaS and EC2",
-      "url": "https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)",
+      "id": "hn-44922383",
+      "title": "Eliminating JavaScript cold starts on AWS Lambda",
+      "url": "https://goose.icu/lambda/",
       "summary": "",
-      "source": "nikodunk.com",
-      "ts": "2025-08-13T02:24:18Z",
-      "score": 61.17
+      "source": "goose.icu",
+      "ts": "2025-08-16T11:44:42Z",
+      "score": 77.18
     },
     {
-      "id": "hn-44898560",
-      "title": "How randomness improves algorithms (2023)",
-      "url": "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/",
+      "id": "hn-44893118",
+      "title": "That 16B password story (a.k.a. \"data troll\")",
+      "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
       "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-08-14T09:43:53Z",
-      "score": 59.4
+      "source": "troyhunt.com",
+      "ts": "2025-08-13T20:01:21Z",
+      "score": 73.17
     },
     {
-      "id": "8fede583c20d",
-      "title": "Anthropic has new rules for a more dangerous AI landscape",
-      "url": "https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape",
-      "summary": "Anthropic has updated the usage policy for its Claude AI chatbot in response to growing concerns about safety. In addition to introducing stricter cybersecurity rules, Anthropic now specifies some of the most dangerous weapons that people should not develop using Claude. Anthropic doesn’t highlight the tweaks made to its weapons policy in the post summarizing [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-15T17:05:16Z",
-      "score": 58.34
+      "id": "0ec10a8b6407",
+      "title": "Anthropic says some Claude models can now end ‘harmful or abusive’ conversations",
+      "url": "https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/",
+      "summary": "Anthropic says new capabilities allow its latest AI models to protect themselves by ending abusive conversations.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-16T15:50:05Z",
+      "score": 73.04
     },
     {
       "id": "hn-44899516",
@@ -340,16 +313,43 @@
       "summary": "",
       "source": "science.org",
       "ts": "2025-08-14T12:17:18Z",
-      "score": 57.31
+      "score": 65.29
     },
     {
-      "id": "hn-44904667",
-      "title": "Solving the Nostr web clients attack vector",
-      "url": "https://fiatjaf.com/6829ad8b.html",
+      "id": "hn-44889673",
+      "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+      "url": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
       "summary": "",
-      "source": "fiatjaf.com",
-      "ts": "2025-08-14T19:36:57Z",
-      "score": 54.31
+      "source": "jeclark.net",
+      "ts": "2025-08-13T15:23:11Z",
+      "score": 63.88
+    },
+    {
+      "id": "hn-44887744",
+      "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
+      "url": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
+      "summary": "",
+      "source": "marnetto.net",
+      "ts": "2025-08-13T12:42:00Z",
+      "score": 60.08
+    },
+    {
+      "id": "0ec7bb058412",
+      "title": "Sam Altman, over bread rolls, explores life after GPT-5",
+      "url": "https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/",
+      "summary": "At a dinner with reporters in San Francisco, OpenAI CEO Sam Altman spilled details on the company's ambitions beyond ChatGPT.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-15T22:20:59Z",
+      "score": 50.74
+    },
+    {
+      "id": "8fede583c20d",
+      "title": "Anthropic has new rules for a more dangerous AI landscape",
+      "url": "https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape",
+      "summary": "Anthropic has updated the usage policy for its Claude AI chatbot in response to growing concerns about safety. In addition to introducing stricter cybersecurity rules, Anthropic now specifies some of the most dangerous weapons that people should not develop using Claude. Anthropic doesn’t highlight the tweaks made to its weapons policy in the post summarizing [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-15T17:05:16Z",
+      "score": 45.47
     },
     {
       "id": "b847f312364a",
@@ -358,7 +358,7 @@
       "summary": "As economists speculate whether the stock market is in an AI bubble that could soon burst, OpenAI CEO Sam Altman has just admitted to believing we're in one. \"Are we in a phase where investors as a whole are overexcited about AI?\" Altman said during a lengthy interview with The Verge and other reporters last [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-15T13:35:22Z",
-      "score": 54.24
+      "score": 42.28
     },
     {
       "id": "3fb144d34100",
@@ -367,7 +367,7 @@
       "summary": "In this post, we discuss Amazon Bedrock AgentCore Gateway, a fully managed service that revolutionizes how enterprises connect AI agents with tools and services by providing a centralized tool server with unified interface for agent-tool communication. The service offers key capabilities including Security Guard, Translation, Composition, Target extensibility, Infrastructure Manager, and Semantic Tool Selection, while implementing sophisticated dual-sided security architecture for both inbound and outbound connections.",
       "source": "aws.amazon.com",
       "ts": "2025-08-15T18:04:57Z",
-      "score": 54.14
+      "score": 42.2
     },
     {
       "id": "00abc18337f7",
@@ -376,7 +376,7 @@
       "summary": "Last week, on GPT-5 launch day, AI hype was at an all-time high. In a press briefing beforehand, OpenAI CEO Sam Altman said GPT-5 is \"something that I just don't wanna ever have to go back from,\" a milestone akin to the first iPhone with a Retina display. The night before the announcement livestream, Altman [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-15T12:47:40Z",
-      "score": 53.34
+      "score": 41.58
     },
     {
       "id": "e2a810593840",
@@ -385,7 +385,7 @@
       "summary": "In a traditional SDLC, a lot of time is spent in the different phases researching approaches that can deliver on requirements: iterating over design changes, writing, testing and reviewing code, and configuring infrastructure. In this post, you learned about the experience and saw productivity gains you can realize by using Amazon Q Developer as a coding assistant to build a scalable MERN stack web application on AWS.",
       "source": "aws.amazon.com",
       "ts": "2025-08-15T16:45:40Z",
-      "score": 52.67
+      "score": 41.06
     },
     {
       "id": "41f0e6774886",
@@ -394,61 +394,16 @@
       "summary": "In this post, we share how the Salesforce AI Platform team optimized GPU utilization, improved resource efficiency and achieved cost savings using Amazon SageMaker AI, specifically inference components.",
       "source": "aws.amazon.com",
       "ts": "2025-08-15T16:41:28Z",
-      "score": 52.6
+      "score": 41.0
     },
     {
-      "id": "7a289dc97923",
-      "title": "Empirical Investigation into Configuring Echo State Networks for\n  Representative Benchmark Problem Domains",
-      "url": "http://arxiv.org/abs/2508.10887v1",
-      "summary": "This paper examines Echo State Network, a reservoir computer, performance\nusing four different benchmark problems, then proposes heuristics or rules of\nthumb for configuring the architecture, as well as the selection of parameters\nand their values, which are applicable to problems within the same domain, to\nhelp serve to fill the experience gap needed by those entering this field of\nstudy. The influence of various parameter selections and their value\nadjustments, as well as architectural changes made to an Echo State Network, a\npowerful recurrent neural network configured as a reservoir computer, can be\nchallenging to fully comprehend without experience in the field, and even some\nhyperparameter optimization algorithms may have difficulty adjusting parameter\nvalues without proper manual selections made first. Therefore, it is imperative\nto understand the effects of parameters and their value selection on Echo State\nNetwork architecture performance for a successful build. Thus, to address the\nrequirement for an extensive background in Echo State Network architecture, as\nwell as examine how Echo State Network performance is affected with respect to\nvariations in architecture, design, and parameter selection and values, a\nseries of benchmark tasks representing different problem domains, including\ntime series prediction, pattern generation, chaotic system prediction, and time\nseries classification, were modeled and experimented on to show the impact on\nthe performance of Echo State Network.",
-      "source": "arxiv.org",
-      "ts": "2025-08-14T17:55:47Z",
-      "score": 42.56
-    },
-    {
-      "id": "979b83684336",
-      "title": "ToonComposer: Streamlining Cartoon Production with Generative\n  Post-Keyframing",
-      "url": "http://arxiv.org/abs/2508.10881v1",
-      "summary": "Traditional cartoon and anime production involves keyframing, inbetweening,\nand colorization stages, which require intensive manual effort. Despite recent\nadvances in AI, existing methods often handle these stages separately, leading\nto error accumulation and artifacts. For instance, inbetweening approaches\nstruggle with large motions, while colorization methods require dense per-frame\nsketches. To address this, we introduce ToonComposer, a generative model that\nunifies inbetweening and colorization into a single post-keyframing stage.\nToonComposer employs a sparse sketch injection mechanism to provide precise\ncontrol using keyframe sketches. Additionally, it uses a cartoon adaptation\nmethod with the spatial low-rank adapter to tailor a modern video foundation\nmodel to the cartoon domain while keeping its temporal prior intact. Requiring\nas few as a single sketch and a colored reference frame, ToonComposer excels\nwith sparse inputs, while also supporting multiple sketches at any temporal\nlocation for more precise motion control. This dual capability reduces manual\nworkload and improves flexibility, empowering artists in real-world scenarios.\nTo evaluate our model, we further created PKBench, a benchmark featuring\nhuman-drawn sketches that simulate real-world use cases. Our evaluation\ndemonstrates that ToonComposer outperforms existing methods in visual quality,\nmotion consistency, and production efficiency, offering a superior and more\nflexible solution for AI-assisted cartoon production.",
-      "source": "arxiv.org",
-      "ts": "2025-08-14T17:50:11Z",
-      "score": 42.47
-    },
-    {
-      "id": "e9e09b6adddf",
-      "title": "Searching for Privacy Risks in LLM Agents via Simulation",
-      "url": "http://arxiv.org/abs/2508.10880v1",
-      "summary": "The widespread deployment of LLM-based agents is likely to introduce a\ncritical privacy threat: malicious agents that proactively engage others in\nmulti-turn interactions to extract sensitive information. These dynamic\ndialogues enable adaptive attack strategies that can cause severe privacy\nviolations, yet their evolving nature makes it difficult to anticipate and\ndiscover sophisticated vulnerabilities manually. To tackle this problem, we\npresent a search-based framework that alternates between improving attacker and\ndefender instructions by simulating privacy-critical agent interactions. Each\nsimulation involves three roles: data subject, data sender, and data recipient.\nWhile the data subject's behavior is fixed, the attacker (data recipient)\nattempts to extract sensitive information from the defender (data sender)\nthrough persistent and interactive exchanges. To explore this interaction space\nefficiently, our search algorithm employs LLMs as optimizers, using parallel\nsearch with multiple threads and cross-thread propagation to analyze simulation\ntrajectories and iteratively propose new instructions. Through this process, we\nfind that attack strategies escalate from simple direct requests to\nsophisticated multi-turn tactics such as impersonation and consent forgery,\nwhile defenses advance from rule-based constraints to identity-verification\nstate machines. The discovered attacks and defenses transfer across diverse\nscenarios and backbone models, demonstrating strong practical utility for\nbuilding privacy-aware agents.",
-      "source": "arxiv.org",
-      "ts": "2025-08-14T17:49:09Z",
-      "score": 42.46
-    },
-    {
-      "id": "hn-44897255",
-      "title": "James Baldwin's Apotheosis",
-      "url": "https://hudsonreview.com/2025/08/james-baldwins-apotheosis/",
+      "id": "hn-44903923",
+      "title": "Running Wayland Clients as Non-Root Users on Yocto",
+      "url": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
       "summary": "",
-      "source": "hudsonreview.com",
-      "ts": "2025-08-14T06:14:34Z",
-      "score": 41.86
-    },
-    {
-      "id": "hn-44893118",
-      "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
-      "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
-      "summary": "",
-      "source": "troyhunt.com",
-      "ts": "2025-08-13T20:01:21Z",
-      "score": 36.34
-    },
-    {
-      "id": "99b464916a99",
-      "title": "Creating AI agent solutions for warehouse data access and security",
-      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
-      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-13T22:05:07Z",
-      "score": 21.65
+      "source": "embeddeduse.com",
+      "ts": "2025-08-14T18:30:27Z",
+      "score": 40.83
     },
     {
       "id": "hn-44885127",
@@ -457,7 +412,61 @@
       "summary": "",
       "source": "aeon.co",
       "ts": "2025-08-13T06:12:08Z",
-      "score": 18.55
+      "score": 36.72
+    },
+    {
+      "id": "7a289dc97923",
+      "title": "Empirical Investigation into Configuring Echo State Networks for\n  Representative Benchmark Problem Domains",
+      "url": "http://arxiv.org/abs/2508.10887v1",
+      "summary": "This paper examines Echo State Network, a reservoir computer, performance\nusing four different benchmark problems, then proposes heuristics or rules of\nthumb for configuring the architecture, as well as the selection of parameters\nand their values, which are applicable to problems within the same domain, to\nhelp serve to fill the experience gap needed by those entering this field of\nstudy. The influence of various parameter selections and their value\nadjustments, as well as architectural changes made to an Echo State Network, a\npowerful recurrent neural network configured as a reservoir computer, can be\nchallenging to fully comprehend without experience in the field, and even some\nhyperparameter optimization algorithms may have difficulty adjusting parameter\nvalues without proper manual selections made first. Therefore, it is imperative\nto understand the effects of parameters and their value selection on Echo State\nNetwork architecture performance for a successful build. Thus, to address the\nrequirement for an extensive background in Echo State Network architecture, as\nwell as examine how Echo State Network performance is affected with respect to\nvariations in architecture, design, and parameter selection and values, a\nseries of benchmark tasks representing different problem domains, including\ntime series prediction, pattern generation, chaotic system prediction, and time\nseries classification, were modeled and experimented on to show the impact on\nthe performance of Echo State Network.",
+      "source": "arxiv.org",
+      "ts": "2025-08-14T17:55:47Z",
+      "score": 33.17
+    },
+    {
+      "id": "979b83684336",
+      "title": "ToonComposer: Streamlining Cartoon Production with Generative\n  Post-Keyframing",
+      "url": "http://arxiv.org/abs/2508.10881v1",
+      "summary": "Traditional cartoon and anime production involves keyframing, inbetweening,\nand colorization stages, which require intensive manual effort. Despite recent\nadvances in AI, existing methods often handle these stages separately, leading\nto error accumulation and artifacts. For instance, inbetweening approaches\nstruggle with large motions, while colorization methods require dense per-frame\nsketches. To address this, we introduce ToonComposer, a generative model that\nunifies inbetweening and colorization into a single post-keyframing stage.\nToonComposer employs a sparse sketch injection mechanism to provide precise\ncontrol using keyframe sketches. Additionally, it uses a cartoon adaptation\nmethod with the spatial low-rank adapter to tailor a modern video foundation\nmodel to the cartoon domain while keeping its temporal prior intact. Requiring\nas few as a single sketch and a colored reference frame, ToonComposer excels\nwith sparse inputs, while also supporting multiple sketches at any temporal\nlocation for more precise motion control. This dual capability reduces manual\nworkload and improves flexibility, empowering artists in real-world scenarios.\nTo evaluate our model, we further created PKBench, a benchmark featuring\nhuman-drawn sketches that simulate real-world use cases. Our evaluation\ndemonstrates that ToonComposer outperforms existing methods in visual quality,\nmotion consistency, and production efficiency, offering a superior and more\nflexible solution for AI-assisted cartoon production.",
+      "source": "arxiv.org",
+      "ts": "2025-08-14T17:50:11Z",
+      "score": 33.11
+    },
+    {
+      "id": "hn-44887643",
+      "title": "Counting Words at SIMD Speed",
+      "url": "https://healeycodes.com/counting-words-at-simd-speed",
+      "summary": "",
+      "source": "healeycodes.com",
+      "ts": "2025-08-13T12:30:31Z",
+      "score": 30.02
+    },
+    {
+      "id": "hn-44896529",
+      "title": "Good multipliers for congruential pseudorandom number generators",
+      "url": "https://arxiv.org/abs/2001.05304",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-08-14T03:43:05Z",
+      "score": 27.01
+    },
+    {
+      "id": "hn-44897043",
+      "title": "Clinical genetics and the problem of uncertain significance",
+      "url": "https://stetson.substack.com/p/solving-the-problem-of-uncertain",
+      "summary": "",
+      "source": "stetson.substack.com",
+      "ts": "2025-08-14T05:32:35Z",
+      "score": 24.51
+    },
+    {
+      "id": "99b464916a99",
+      "title": "Creating AI agent solutions for warehouse data access and security",
+      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
+      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-08-13T22:05:07Z",
+      "score": 16.88
     },
     {
       "id": "490d88914984",
@@ -466,7 +475,7 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 10.78
+      "score": 8.4
     },
     {
       "id": "641fd4a816f8",
@@ -475,7 +484,7 @@
       "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 10.78
+      "score": 8.4
     },
     {
       "id": "f20ef515ed9f",
@@ -484,7 +493,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 7.02
+      "score": 5.47
     },
     {
       "id": "3712dd3d94ef",
@@ -493,7 +502,7 @@
       "summary": "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.",
       "source": "openai.com",
       "ts": "2025-08-07T10:00:00Z",
-      "score": 1.09
+      "score": 0.85
     },
     {
       "id": "c636f03ec0b5",
@@ -502,7 +511,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 0.6
+      "score": 0.47
     }
   ]
 }
