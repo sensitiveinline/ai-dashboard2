@@ -7,25 +7,7 @@
       "summary": "",
       "source": "annas-archive.org",
       "ts": "2025-08-18T16:31:48Z",
-      "score": 533.4
-    },
-    {
-      "id": "hn-44923520",
-      "title": "Show HN: I built an app to block Shorts and Reels",
-      "url": "https://scrollguard.app/",
-      "summary": "",
-      "source": "scrollguard.app",
-      "ts": "2025-08-16T14:01:38Z",
-      "score": 301.37
-    },
-    {
-      "id": "hn-44940485",
-      "title": "FFmpeg Assembly Language Lessons",
-      "url": "https://github.com/FFmpeg/asm-lessons",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-18T13:39:53Z",
-      "score": 255.4
+      "score": 642.14
     },
     {
       "id": "hn-44945532",
@@ -34,7 +16,16 @@
       "summary": "",
       "source": "help.obsidian.md",
       "ts": "2025-08-18T21:28:05Z",
-      "score": 225.96
+      "score": 402.84
+    },
+    {
+      "id": "hn-44923520",
+      "title": "Show HN: I built an app to block Shorts and Reels",
+      "url": "https://scrollguard.app/",
+      "summary": "",
+      "source": "scrollguard.app",
+      "ts": "2025-08-16T14:01:38Z",
+      "score": 383.52
     },
     {
       "id": "hn-44942731",
@@ -43,34 +34,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-18T16:52:29Z",
-      "score": 223.82
-    },
-    {
-      "id": "hn-44937550",
-      "title": "SystemD Service Hardening",
-      "url": "https://roguesecurity.dev/blog/systemd-hardening",
-      "summary": "",
-      "source": "roguesecurity.dev",
-      "ts": "2025-08-18T04:57:47Z",
-      "score": 211.3
-    },
-    {
-      "id": "hn-44944291",
-      "title": "T-Mobile claimed selling location data without consent is legal–judges disagree",
-      "url": "https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-08-18T19:25:01Z",
-      "score": 203.96
-    },
-    {
-      "id": "hn-44938818",
-      "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
-      "url": "https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html",
-      "summary": "",
-      "source": "medicalxpress.com",
-      "ts": "2025-08-18T09:35:17Z",
-      "score": 203.17
+      "score": 320.43
     },
     {
       "id": "hn-44941369",
@@ -79,7 +43,16 @@
       "summary": "",
       "source": "nytimes.com",
       "ts": "2025-08-18T14:59:26Z",
-      "score": 191.07
+      "score": 293.82
+    },
+    {
+      "id": "hn-44946996",
+      "title": "OpenMower – An open source lawn mower",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-19T00:35:08Z",
+      "score": 287.25
     },
     {
       "id": "hn-44942936",
@@ -88,70 +61,25 @@
       "summary": "",
       "source": "graic.net",
       "ts": "2025-08-18T17:08:36Z",
-      "score": 190.11
+      "score": 272.81
     },
     {
-      "id": "hn-44941963",
-      "title": "Who Invented Backpropagation?",
-      "url": "https://people.idsia.ch/~juergen/who-invented-backpropagation.html",
+      "id": "hn-44944291",
+      "title": "T-Mobile claimed selling location data without consent is legal–judges disagree",
+      "url": "https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/",
       "summary": "",
-      "source": "people.idsia.ch",
-      "ts": "2025-08-18T15:50:21Z",
-      "score": 185.97
+      "source": "arstechnica.com",
+      "ts": "2025-08-18T19:25:01Z",
+      "score": 271.32
     },
     {
-      "id": "hn-44944620",
-      "title": "GenAI FOMO has spurred businesses to light nearly $40B on fire",
-      "url": "https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/",
+      "id": "hn-44946762",
+      "title": "Croatian freediver held breath for 29 minutes",
+      "url": "https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/",
       "summary": "",
-      "source": "theregister.com",
-      "ts": "2025-08-18T19:54:53Z",
-      "score": 168.31
-    },
-    {
-      "id": "hn-44942602",
-      "title": "My Retro TVs",
-      "url": "https://www.myretrotvs.com/",
-      "summary": "",
-      "source": "myretrotvs.com",
-      "ts": "2025-08-18T16:40:48Z",
-      "score": 164.07
-    },
-    {
-      "id": "hn-44945925",
-      "title": "Newsmax agrees to pay $67M in defamation case over bogus 2020 election claims",
-      "url": "https://apnews.com/article/dominion-voting-newsmax-defamation-trump-2020-3b2366dfdae3a8432afe822bf14fe1ef",
-      "summary": "",
-      "source": "apnews.com",
-      "ts": "2025-08-18T22:23:37Z",
-      "score": 149.83
-    },
-    {
-      "id": "hn-44943420",
-      "title": "How much do electric car batteries degrade?",
-      "url": "https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation",
-      "summary": "",
-      "source": "sustainabilitybynumbers.com",
-      "ts": "2025-08-18T17:53:20Z",
-      "score": 147.08
-    },
-    {
-      "id": "hn-44945966",
-      "title": "What could have been",
-      "url": "https://coppolaemilio.com/entries/what-could-have-been/",
-      "summary": "",
-      "source": "coppolaemilio.com",
-      "ts": "2025-08-18T22:29:44Z",
-      "score": 145.24
-    },
-    {
-      "id": "hn-44943160",
-      "title": "TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training",
-      "url": "https://arxiv.org/abs/2501.04765",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-08-18T17:29:16Z",
-      "score": 140.33
+      "source": "divernet.com",
+      "ts": "2025-08-19T00:04:11Z",
+      "score": 219.8
     },
     {
       "id": "hn-44945379",
@@ -160,61 +88,25 @@
       "summary": "",
       "source": "fractionaljobs.io",
       "ts": "2025-08-18T21:10:39Z",
-      "score": 139.59
+      "score": 214.59
     },
     {
-      "id": "hn-44943986",
-      "title": "Show HN: We started building an AI dev tool but it turned into a Sims-style game",
-      "url": "https://www.youtube.com/watch?v=sRPnX_f2V_c",
+      "id": "hn-44938818",
+      "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
+      "url": "https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html",
       "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-08-18T18:51:23Z",
-      "score": 139.29
-    },
-    {
-      "id": "hn-44941711",
-      "title": "The Weight of a Cell",
-      "url": "https://www.asimov.press/p/cell-weight",
-      "summary": "",
-      "source": "asimov.press",
-      "ts": "2025-08-18T15:29:27Z",
-      "score": 128.35
+      "source": "medicalxpress.com",
+      "ts": "2025-08-18T09:35:17Z",
+      "score": 213.68
     },
     {
       "id": "hn-44945008",
-      "title": "A minimal tensor processing unit (TPU), inspired by Google's TPU",
+      "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
       "url": "https://github.com/tiny-tpu-v2/tiny-tpu",
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-18T20:34:37Z",
-      "score": 125.8
-    },
-    {
-      "id": "hn-44942761",
-      "title": "The lottery ticket hypothesis: why neural networks work",
-      "url": "https://nearlyright.com/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong/",
-      "summary": "",
-      "source": "nearlyright.com",
-      "ts": "2025-08-18T16:54:25Z",
-      "score": 123.08
-    },
-    {
-      "id": "hn-44941580",
-      "title": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
-      "url": "https://www.realitydefender.com/platform/api",
-      "summary": "",
-      "source": "realitydefender.com",
-      "ts": "2025-08-18T15:16:34Z",
-      "score": 121.97
-    },
-    {
-      "id": "hn-44945660",
-      "title": "Phrack 72",
-      "url": "https://phrack.org/issues/72/1",
-      "summary": "",
-      "source": "phrack.org",
-      "ts": "2025-08-18T21:43:22Z",
-      "score": 117.27
+      "score": 195.67
     },
     {
       "id": "hn-44945943",
@@ -223,7 +115,61 @@
       "summary": "",
       "source": "nadia.xyz",
       "ts": "2025-08-18T22:27:01Z",
-      "score": 115.14
+      "score": 189.59
+    },
+    {
+      "id": "hn-44938920",
+      "title": "MCP doesn't need tools, it needs code",
+      "url": "https://lucumr.pocoo.org/2025/8/18/code-mcps/",
+      "summary": "",
+      "source": "lucumr.pocoo.org",
+      "ts": "2025-08-18T09:53:03Z",
+      "score": 184.64
+    },
+    {
+      "id": "hn-44915897",
+      "title": "Lazy-brush – smooth drawing with mouse or finger",
+      "url": "https://lazybrush.dulnan.net",
+      "summary": "",
+      "source": "lazybrush.dulnan.net",
+      "ts": "2025-08-15T18:30:47Z",
+      "score": 177.06
+    },
+    {
+      "id": "hn-44949162",
+      "title": "Prime Number Grid",
+      "url": "https://susam.net/primegrid.html",
+      "summary": "",
+      "source": "susam.net",
+      "ts": "2025-08-19T07:33:09Z",
+      "score": 171.89
+    },
+    {
+      "id": "hn-44945959",
+      "title": "Lab-grown salmon hits the menu",
+      "url": "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/",
+      "summary": "",
+      "source": "smithsonianmag.com",
+      "ts": "2025-08-18T22:29:14Z",
+      "score": 163.24
+    },
+    {
+      "id": "hn-44946774",
+      "title": "Ted Chiang: The Secret Third Thing",
+      "url": "https://linch.substack.com/p/ted-chiang-review",
+      "summary": "",
+      "source": "linch.substack.com",
+      "ts": "2025-08-19T00:05:59Z",
+      "score": 162.25
+    },
+    {
+      "id": "hn-44943986",
+      "title": "Show HN: We started building an AI dev tool but it turned into a Sims-style game",
+      "url": "https://www.youtube.com/watch?v=sRPnX_f2V_c",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-08-18T18:51:23Z",
+      "score": 146.89
     },
     {
       "id": "hn-44944592",
@@ -232,52 +178,25 @@
       "summary": "",
       "source": "tinytpu.com",
       "ts": "2025-08-18T19:52:14Z",
-      "score": 113.63
+      "score": 139.4
     },
     {
-      "id": "hn-44945959",
-      "title": "Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights",
-      "url": "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/",
+      "id": "hn-44948352",
+      "title": "How to Build a Medieval Castle",
+      "url": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/",
       "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-08-18T22:29:14Z",
-      "score": 110.42
+      "source": "archaeology.org",
+      "ts": "2025-08-19T04:49:35Z",
+      "score": 137.41
     },
     {
-      "id": "hn-44946404",
-      "title": "HR Giant Workday Got Hacked",
-      "url": "https://gizmodo.com/hr-giant-workday-got-hacked-2000644474",
+      "id": "hn-44942761",
+      "title": "The lottery ticket hypothesis: why neural networks work",
+      "url": "https://nearlyright.com/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong/",
       "summary": "",
-      "source": "gizmodo.com",
-      "ts": "2025-08-18T23:22:14Z",
-      "score": 101.54
-    },
-    {
-      "id": "hn-44916339",
-      "title": "Typechecker Zoo",
-      "url": "https://sdiehl.github.io/typechecker-zoo/",
-      "summary": "",
-      "source": "sdiehl.github.io",
-      "ts": "2025-08-15T19:11:16Z",
-      "score": 100.78
-    },
-    {
-      "id": "hn-44945783",
-      "title": "Structured (Synchronous) Concurrency",
-      "url": "https://fsantanna.github.io/sc.html",
-      "summary": "",
-      "source": "fsantanna.github.io",
-      "ts": "2025-08-18T22:02:15Z",
-      "score": 100.51
-    },
-    {
-      "id": "hn-44942949",
-      "title": "Macintosh Drawing Software Compared (2021)",
-      "url": "https://blog.gingerbeardman.com/2021/04/24/macintosh-drawing-software-compared/",
-      "summary": "",
-      "source": "blog.gingerbeardman.com",
-      "ts": "2025-08-18T17:09:17Z",
-      "score": 100.13
+      "source": "nearlyright.com",
+      "ts": "2025-08-18T16:54:25Z",
+      "score": 125.48
     },
     {
       "id": "hn-44945730",
@@ -286,16 +205,133 @@
       "summary": "",
       "source": "newgrounds.com",
       "ts": "2025-08-18T21:54:13Z",
-      "score": 99.04
+      "score": 125.12
     },
     {
-      "id": "49167aae3b52",
-      "title": "Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims",
-      "url": "https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/",
-      "summary": "Texas attorney general Ken Paxton is investigating Meta and CharacterAI over claims they deceptively market chatbots as mental health tools, raising concerns about child safety, data privacy, and targeted advertising.",
+      "id": "hn-44916339",
+      "title": "Typechecker Zoo",
+      "url": "https://sdiehl.github.io/typechecker-zoo/",
+      "summary": "",
+      "source": "sdiehl.github.io",
+      "ts": "2025-08-15T19:11:16Z",
+      "score": 120.88
+    },
+    {
+      "id": "hn-44949895",
+      "title": "Custom telescope mount using harmonic drives and ESP32",
+      "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
+      "summary": "",
+      "source": "svendewaerhert.com",
+      "ts": "2025-08-19T09:46:27Z",
+      "score": 118.06
+    },
+    {
+      "id": "hn-44922540",
+      "title": "Walkie-Textie Wireless Communicator",
+      "url": "http://www.technoblogy.com/show?2AON",
+      "summary": "",
+      "source": "technoblogy.com",
+      "ts": "2025-08-16T12:08:45Z",
+      "score": 115.61
+    },
+    {
+      "id": "hn-44941580",
+      "title": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
+      "url": "https://www.realitydefender.com/platform/api",
+      "summary": "",
+      "source": "realitydefender.com",
+      "ts": "2025-08-18T15:16:34Z",
+      "score": 115.41
+    },
+    {
+      "id": "hn-44949857",
+      "title": "Google is killing the open web",
+      "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
+      "summary": "",
+      "source": "wok.oblomov.eu",
+      "ts": "2025-08-19T09:38:48Z",
+      "score": 113.6
+    },
+    {
+      "id": "hn-44946813",
+      "title": "A general Fortran code for solutions of problems in space mechanics [pdf]",
+      "url": "https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf",
+      "summary": "",
+      "source": "jonathanadams.pro",
+      "ts": "2025-08-19T00:12:17Z",
+      "score": 109.02
+    },
+    {
+      "id": "49a4bccb1956",
+      "title": "AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees",
+      "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+      "summary": "Firecrawl nabbed Shopify’s CEO Tobias Lütke as an investor from a gutsy email after they discovered he was using the product.",
       "source": "techcrunch.com",
-      "ts": "2025-08-18T17:59:29Z",
-      "score": 97.98
+      "ts": "2025-08-19T11:00:00Z",
+      "score": 107.73
+    },
+    {
+      "id": "bbb232cb00ad",
+      "title": "Eight Sleep raises $100M to expand its AI-powered sleep tech",
+      "url": "https://techcrunch.com/2025/08/19/eight-sleep-grabs-100m-to-bring-ai-into-your-bed/",
+      "summary": "The sleep tech company raised  from HSG, Valor Equity Partners, Founders Fund, Y Combinator and big F1 names like Charles Leclerc and Zak Brown.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-19T10:00:00Z",
+      "score": 106.6
+    },
+    {
+      "id": "hn-44926855",
+      "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
+      "url": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/",
+      "summary": "",
+      "source": "popsci.com",
+      "ts": "2025-08-16T20:54:54Z",
+      "score": 104.54
+    },
+    {
+      "id": "310813db57ea",
+      "title": "OpenAI launches a sub-$5 ChatGPT plan in India",
+      "url": "https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/",
+      "summary": "This plan will offer 10x more messages and image generation than the free tier, among other benefits.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-19T03:57:15Z",
+      "score": 93.99
+    },
+    {
+      "id": "ac9a1e92d1a8",
+      "title": "RepreGuard: Detecting LLM-Generated Text by Revealing Hidden\n  Representation Patterns",
+      "url": "http://arxiv.org/abs/2508.13152v1",
+      "summary": "Detecting content generated by large language models (LLMs) is crucial for\npreventing misuse and building trustworthy AI systems. Although existing\ndetection methods perform well, their robustness in out-of-distribution (OOD)\nscenarios is still lacking. In this paper, we hypothesize that, compared to\nfeatures used by existing detection methods, the internal representations of\nLLMs contain more comprehensive and raw features that can more effectively\ncapture and distinguish the statistical pattern differences between\nLLM-generated texts (LGT) and human-written texts (HWT). We validated this\nhypothesis across different LLMs and observed significant differences in neural\nactivation patterns when processing these two types of texts. Based on this, we\npropose RepreGuard, an efficient statistics-based detection method.\nSpecifically, we first employ a surrogate model to collect representation of\nLGT and HWT, and extract the distinct activation feature that can better\nidentify LGT. We can classify the text by calculating the projection score of\nthe text representations along this feature direction and comparing with a\nprecomputed threshold. Experimental results show that RepreGuard outperforms\nall baselines with average 94.92% AUROC on both in-distribution (ID) and OOD\nscenarios, while also demonstrating robust resilience to various text sizes and\nmainstream attacks. Data and code are publicly available at:\nhttps://github.com/NLP2CT/RepreGuard",
+      "source": "arxiv.org",
+      "ts": "2025-08-18T17:59:15Z",
+      "score": 90.25
+    },
+    {
+      "id": "2f9916a0a925",
+      "title": "Exploring Autonomous Agents: A Closer Look at Why They Fail When\n  Completing Tasks",
+      "url": "http://arxiv.org/abs/2508.13143v1",
+      "summary": "Autonomous agent systems powered by Large Language Models (LLMs) have\ndemonstrated promising capabilities in automating complex tasks. However,\ncurrent evaluations largely rely on success rates without systematically\nanalyzing the interactions, communication mechanisms, and failure causes within\nthese systems. To bridge this gap, we present a benchmark of 34 representative\nprogrammable tasks designed to rigorously assess autonomous agents. Using this\nbenchmark, we evaluate three popular open-source agent frameworks combined with\ntwo LLM backbones, observing a task completion rate of approximately 50%.\nThrough in-depth failure analysis, we develop a three-tier taxonomy of failure\ncauses aligned with task phases, highlighting planning errors, task execution\nissues, and incorrect response generation. Based on these insights, we propose\nactionable improvements to enhance agent planning and self-diagnosis\ncapabilities. Our failure taxonomy, together with mitigation advice, provides\nan empirical foundation for developing more robust and effective autonomous\nagent systems in the future.",
+      "source": "arxiv.org",
+      "ts": "2025-08-18T17:55:22Z",
+      "score": 90.13
+    },
+    {
+      "id": "400359388353",
+      "title": "Spot the BlindSpots: Systematic Identification and Quantification of\n  Fine-Grained LLM Biases in Contact Center Summaries",
+      "url": "http://arxiv.org/abs/2508.13124v1",
+      "summary": "Abstractive summarization is a core application in contact centers, where\nLarge Language Models (LLMs) generate millions of summaries of call transcripts\ndaily. Despite their apparent quality, it remains unclear whether LLMs\nsystematically under- or over-attend to specific aspects of the transcript,\npotentially introducing biases in the generated summary. While prior work has\nexamined social and positional biases, the specific forms of bias pertinent to\ncontact center operations - which we term Operational Bias - have remained\nunexplored. To address this gap, we introduce BlindSpot, a framework built upon\na taxonomy of 15 operational bias dimensions (e.g., disfluency, speaker, topic)\nfor the identification and quantification of these biases. BlindSpot leverages\nan LLM as a zero-shot classifier to derive categorical distributions for each\nbias dimension in a pair of transcript and its summary. The bias is then\nquantified using two metrics: Fidelity Gap (the JS Divergence between\ndistributions) and Coverage (the percentage of source labels omitted). Using\nBlindSpot, we conducted an empirical study with 2500 real call transcripts and\ntheir summaries generated by 20 LLMs of varying scales and families (e.g., GPT,\nLlama, Claude). Our analysis reveals that biases are systemic and present\nacross all evaluated models, regardless of size or family.",
+      "source": "arxiv.org",
+      "ts": "2025-08-18T17:31:03Z",
+      "score": 89.37
+    },
+    {
+      "id": "hn-44927778",
+      "title": "An IRC-Enabled Lawn Mower (2021)",
+      "url": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
+      "summary": "",
+      "source": "jotunheimr.idlerpg.net",
+      "ts": "2025-08-16T23:48:35Z",
+      "score": 88.23
     },
     {
       "id": "hn-44945562",
@@ -304,16 +340,16 @@
       "summary": "",
       "source": "ycombinator.com",
       "ts": "2025-08-18T21:31:49Z",
-      "score": 96.49
+      "score": 75.34
     },
     {
-      "id": "a35397a37f34",
-      "title": "‘Crazy conspiracist’ and ‘unhinged comedian’: Grok’s AI persona prompts exposed",
-      "url": "https://techcrunch.com/2025/08/18/crazy-conspiracist-and-unhinged-comedian-groks-ai-persona-prompts-exposed/",
-      "summary": "The website for xAI's Grok chatbot is exposing the system prompts for several of its AI personas, including a “crazy conspiracist” that seems designed to handhold a user into believing that \"a secret global cabal\" controls the world.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-18T16:01:06Z",
-      "score": 94.03
+      "id": "hn-44907133",
+      "title": "The rising returns to R&D: Ideas are not getting harder to find",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171",
+      "summary": "",
+      "source": "papers.ssrn.com",
+      "ts": "2025-08-14T23:58:12Z",
+      "score": 74.24
     },
     {
       "id": "e1746aa9af4c",
@@ -322,25 +358,7 @@
       "summary": "In this post, we explore how to build a travel planning solution using AI agents. The agent uses Amazon Nova, which offers an optimal balance of performance and cost compared to other commercial LLMs. By combining accurate but cost-efficient Amazon Nova models with LangGraph orchestration capabilities, we create a practical travel assistant that can handle complex planning tasks while keeping operational costs manageable for production deployments.",
       "source": "aws.amazon.com",
       "ts": "2025-08-18T20:30:15Z",
-      "score": 93.86
-    },
-    {
-      "id": "0cca30dcf465",
-      "title": "Why Paradigm built a spreadsheet with an AI agent in every cell",
-      "url": "https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/",
-      "summary": "Paradigm raised a $5 million seed round and is releasing it's AI-powered spreadsheet to the general public.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-18T15:00:55Z",
-      "score": 92.09
-    },
-    {
-      "id": "hn-44938309",
-      "title": "Mindless Machines, Mindless Myths",
-      "url": "https://lareviewofbooks.org/article/mindless-machines-mindless-myths/",
-      "summary": "",
-      "source": "lareviewofbooks.org",
-      "ts": "2025-08-18T07:47:44Z",
-      "score": 90.63
+      "score": 73.16
     },
     {
       "id": "247bd15a573f",
@@ -349,16 +367,7 @@
       "summary": "Anthropic’s Claude AI chatbot can now end conversations deemed “persistently harmful or abusive,” as spotted earlier by TechCrunch. The capability is now available in Opus 4 and 4.1 models, and will allow the chatbot to end conversations as a “last resort” after users repeatedly ask it to generate harmful content despite multiple refusals and attempts [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-18T14:13:37Z",
-      "score": 90.59
-    },
-    {
-      "id": "hn-44938046",
-      "title": "Finding a Successor to the FHS",
-      "url": "https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-08-18T06:48:40Z",
-      "score": 89.16
+      "score": 70.61
     },
     {
       "id": "f346f300c742",
@@ -367,7 +376,7 @@
       "summary": "Grammarly is launching several new AI agents for specific writing challenges, from educators trying to detect plagiarism and AI-generated text to students looking to gauge reader reaction to their paper, needing help with citations, and even seeing their predicted grade. The specialized AI agents are available in docs — which is Grammarly’s new “AI-native writing [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-18T13:00:00Z",
-      "score": 88.3
+      "score": 68.83
     },
     {
       "id": "a1252b677c89",
@@ -376,70 +385,61 @@
       "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
       "source": "openai.com",
       "ts": "2025-08-18T00:00:00Z",
-      "score": 79.6
+      "score": 62.04
     },
     {
-      "id": "hn-44921780",
-      "title": "The Cutaway Illustrations of Fred Freeman (2016)",
-      "url": "https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/",
+      "id": "hn-44924261",
+      "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
+      "url": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/",
       "summary": "",
-      "source": "5wgraphicsblog.com",
-      "ts": "2025-08-16T09:41:57Z",
-      "score": 67.77
+      "source": "infoq.com",
+      "ts": "2025-08-16T15:27:27Z",
+      "score": 44.63
     },
     {
-      "id": "hn-44921879",
-      "title": "Countrywide natural experiment links built environment to physical activity",
-      "url": "https://www.nature.com/articles/s41586-025-09321-3",
+      "id": "hn-44919527",
+      "title": "Association for the Preservation of Spiritualist and Occult Periodicals",
+      "url": "https://iapsop.com",
       "summary": "",
-      "source": "nature.com",
-      "ts": "2025-08-16T10:02:35Z",
-      "score": 59.57
+      "source": "iapsop.com",
+      "ts": "2025-08-16T02:12:45Z",
+      "score": 39.39
     },
     {
-      "id": "hn-44927778",
-      "title": "An IRC-Enabled Lawn Mower",
-      "url": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
+      "id": "hn-44923451",
+      "title": "How to Use Snprintf",
+      "url": "https://bernsteinbear.com/blog/snprintf/",
       "summary": "",
-      "source": "jotunheimr.idlerpg.net",
-      "ts": "2025-08-16T23:48:35Z",
-      "score": 45.39
+      "source": "bernsteinbear.com",
+      "ts": "2025-08-16T13:53:39Z",
+      "score": 34.25
     },
     {
-      "id": "hn-44907133",
-      "title": "The Rising Returns to R&D: Ideas Are Not Getting Harder to Find",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171",
+      "id": "hn-44915228",
+      "title": "Precision mapping tracks woody plant spread across Great Plains grasslands",
+      "url": "https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html",
       "summary": "",
-      "source": "papers.ssrn.com",
-      "ts": "2025-08-14T23:58:12Z",
-      "score": 34.65
+      "source": "phys.org",
+      "ts": "2025-08-15T17:39:24Z",
+      "score": 27.98
     },
     {
-      "id": "hn-44915939",
-      "title": "Sikkim and the Himalayan Chess Game (2016)",
-      "url": "https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game",
+      "id": "hn-44910300",
+      "title": "The Life and Death of London's Crystal Palace (2021)",
+      "url": "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/",
       "summary": "",
-      "source": "historytoday.com",
-      "ts": "2025-08-15T18:34:24Z",
-      "score": 32.12
+      "source": "heritagecalling.com",
+      "ts": "2025-08-15T09:35:15Z",
+      "score": 20.8
     },
     {
-      "id": "b9893dfef5ce",
-      "title": "Is ChatGPT-5 Ready for Mammogram VQA?",
-      "url": "http://arxiv.org/abs/2508.11628v1",
-      "summary": "Mammogram visual question answering (VQA) integrates image interpretation\nwith clinical reasoning and has potential to support breast cancer screening.\nWe systematically evaluated the GPT-5 family and GPT-4o model on four public\nmammography datasets (EMBED, InBreast, CMMD, CBIS-DDSM) for BI-RADS assessment,\nabnormality detection, and malignancy classification tasks. GPT-5 consistently\nwas the best performing model but lagged behind both human experts and\ndomain-specific fine-tuned models. On EMBED, GPT-5 achieved the highest scores\namong GPT variants in density (56.8%), distortion (52.5%), mass (64.5%),\ncalcification (63.5%), and malignancy (52.8%) classification. On InBreast, it\nattained 36.9% BI-RADS accuracy, 45.9% abnormality detection, and 35.0%\nmalignancy classification. On CMMD, GPT-5 reached 32.3% abnormality detection\nand 55.0% malignancy accuracy. On CBIS-DDSM, it achieved 69.3% BI-RADS\naccuracy, 66.0% abnormality detection, and 58.2% malignancy accuracy. Compared\nwith human expert estimations, GPT-5 exhibited lower sensitivity (63.5%) and\nspecificity (52.3%). While GPT-5 exhibits promising capabilities for screening\ntasks, its performance remains insufficient for high-stakes clinical imaging\napplications without targeted domain adaptation and optimization. However, the\ntremendous improvements in performance from GPT-4o to GPT-5 show a promising\ntrend in the potential for general large language models (LLMs) to assist with\nmammography VQA tasks.",
-      "source": "arxiv.org",
-      "ts": "2025-08-15T17:56:24Z",
-      "score": 25.81
-    },
-    {
-      "id": "41c3acf8ec1c",
-      "title": "Controlling Multimodal LLMs via Reward-guided Decoding",
-      "url": "http://arxiv.org/abs/2508.11616v1",
-      "summary": "As Multimodal Large Language Models (MLLMs) gain widespread applicability, it\nis becoming increasingly desirable to adapt them for diverse user needs. In\nthis paper, we study the adaptation of MLLMs through controlled decoding. To\nachieve this, we introduce the first method for reward-guided decoding of MLLMs\nand demonstrate its application in improving their visual grounding. Our method\ninvolves building reward models for visual grounding and using them to guide\nthe MLLM's decoding process. Concretely, we build two separate reward models to\nindependently control the degree of object precision and recall in the model's\noutput. Our approach enables on-the-fly controllability of an MLLM's inference\nprocess in two ways: first, by giving control over the relative importance of\neach reward function during decoding, allowing a user to dynamically trade off\nobject precision for recall in image captioning tasks; second, by giving\ncontrol over the breadth of the search during decoding, allowing the user to\ncontrol the trade-off between the amount of test-time compute and the degree of\nvisual grounding. We evaluate our method on standard object hallucination\nbenchmarks, showing that it provides significant controllability over MLLM\ninference, while consistently outperforming existing hallucination mitigation\nmethods.",
-      "source": "arxiv.org",
-      "ts": "2025-08-15T17:29:06Z",
-      "score": 25.57
+      "id": "hn-44912881",
+      "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
+      "url": "https://www.hitachi.com/New/cnews/060206.html",
+      "summary": "",
+      "source": "hitachi.com",
+      "ts": "2025-08-15T14:28:56Z",
+      "score": 20.4
     },
     {
       "id": "8fede583c20d",
@@ -448,7 +448,7 @@
       "summary": "Anthropic has updated the usage policy for its Claude AI chatbot in response to growing concerns about safety. In addition to introducing stricter cybersecurity rules, Anthropic now specifies some of the most dangerous weapons that people should not develop using Claude. Anthropic doesn’t highlight the tweaks made to its weapons policy in the post summarizing [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-15T17:05:16Z",
-      "score": 21.45
+      "score": 16.72
     },
     {
       "id": "3fb144d34100",
@@ -457,7 +457,7 @@
       "summary": "In this post, we discuss Amazon Bedrock AgentCore Gateway, a fully managed service that revolutionizes how enterprises connect AI agents with tools and services by providing a centralized tool server with unified interface for agent-tool communication. The service offers key capabilities including Security Guard, Translation, Composition, Target extensibility, Infrastructure Manager, and Semantic Tool Selection, while implementing sophisticated dual-sided security architecture for both inbound and outbound connections.",
       "source": "aws.amazon.com",
       "ts": "2025-08-15T18:04:57Z",
-      "score": 19.91
+      "score": 15.52
     },
     {
       "id": "e2a810593840",
@@ -466,7 +466,7 @@
       "summary": "In a traditional SDLC, a lot of time is spent in the different phases researching approaches that can deliver on requirements: iterating over design changes, writing, testing and reviewing code, and configuring infrastructure. In this post, you learned about the experience and saw productivity gains you can realize by using Amazon Q Developer as a coding assistant to build a scalable MERN stack web application on AWS.",
       "source": "aws.amazon.com",
       "ts": "2025-08-15T16:45:40Z",
-      "score": 19.37
+      "score": 15.1
     },
     {
       "id": "99b464916a99",
@@ -475,16 +475,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 7.96
-    },
-    {
-      "id": "641fd4a816f8",
-      "title": "Scaling accounting capacity with OpenAI",
-      "url": "https://openai.com/index/basis",
-      "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
-      "source": "openai.com",
-      "ts": "2025-08-12T00:00:00Z",
-      "score": 3.96
+      "score": 6.21
     },
     {
       "id": "490d88914984",
@@ -493,7 +484,16 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 3.96
+      "score": 3.09
+    },
+    {
+      "id": "641fd4a816f8",
+      "title": "Scaling accounting capacity with OpenAI",
+      "url": "https://openai.com/index/basis",
+      "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
+      "source": "openai.com",
+      "ts": "2025-08-12T00:00:00Z",
+      "score": 3.09
     },
     {
       "id": "f20ef515ed9f",
@@ -502,7 +502,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 2.58
+      "score": 2.01
     },
     {
       "id": "c636f03ec0b5",
@@ -511,7 +511,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 0.22
+      "score": 0.17
     }
   ]
 }
