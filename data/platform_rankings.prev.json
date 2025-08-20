@@ -7,12 +7,12 @@
   {
     "id": "deepseek",
     "name": "DeepSeek",
-    "score": 81
+    "score": 83
   },
   {
     "id": "anthropic",
     "name": "Anthropic",
-    "score": 84
+    "score": 82
   },
   {
     "id": "google",
@@ -22,6 +22,6 @@
   {
     "id": "meta",
     "name": "Meta",
-    "score": 86
+    "score": 84
   }
 ]
