@@ -7,250 +7,25 @@
       "summary": "",
       "source": "research.kudelskisecurity.com",
       "ts": "2025-08-19T15:55:15Z",
-      "score": 356.53
+      "score": 433.1
     },
     {
-      "id": "hn-44915897",
-      "title": "Lazy-brush – smooth drawing with mouse or finger",
-      "url": "https://lazybrush.dulnan.net",
+      "id": "hn-44957443",
+      "title": "AGENTS.md – Open format for guiding coding agents",
+      "url": "https://agents.md/",
       "summary": "",
-      "source": "lazybrush.dulnan.net",
-      "ts": "2025-08-15T18:30:47Z",
-      "score": 342.79
+      "source": "agents.md",
+      "ts": "2025-08-20T00:15:03Z",
+      "score": 415.7
     },
     {
-      "id": "hn-44952185",
-      "title": "\"Remove mentions of XSLT from the html spec\"",
-      "url": "https://github.com/whatwg/html/pull/11563",
+      "id": "hn-44957454",
+      "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+      "url": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-19T14:48:54Z",
-      "score": 280.78
-    },
-    {
-      "id": "hn-44949162",
-      "title": "Prime Number Grid",
-      "url": "https://susam.net/primegrid.html",
-      "summary": "",
-      "source": "susam.net",
-      "ts": "2025-08-19T07:33:09Z",
-      "score": 230.07
-    },
-    {
-      "id": "hn-44949895",
-      "title": "Custom telescope mount using harmonic drives and ESP32",
-      "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
-      "summary": "",
-      "source": "svendewaerhert.com",
-      "ts": "2025-08-19T09:46:27Z",
-      "score": 226.27
-    },
-    {
-      "id": "hn-44946774",
-      "title": "Ted Chiang: The Secret Third Thing",
-      "url": "https://linch.substack.com/p/ted-chiang-review",
-      "summary": "",
-      "source": "linch.substack.com",
-      "ts": "2025-08-19T00:05:59Z",
-      "score": 224.57
-    },
-    {
-      "id": "hn-44951563",
-      "title": "Without the futex, it's futile",
-      "url": "https://h4x0r.org/futex/",
-      "summary": "",
-      "source": "h4x0r.org",
-      "ts": "2025-08-19T13:53:42Z",
-      "score": 213.8
-    },
-    {
-      "id": "hn-44955457",
-      "title": "Vendors that treat single sign-on as a luxury feature",
-      "url": "https://sso.tax/",
-      "summary": "",
-      "source": "sso.tax",
-      "ts": "2025-08-19T19:38:38Z",
-      "score": 206.81
-    },
-    {
-      "id": "hn-44954524",
-      "title": "D2 (text to diagram tool) now supports ASCII renders",
-      "url": "https://d2lang.com/blog/ascii/",
-      "summary": "",
-      "source": "d2lang.com",
-      "ts": "2025-08-19T18:14:41Z",
-      "score": 189.76
-    },
-    {
-      "id": "hn-44953316",
-      "title": "Emacs as your video-trimming tool",
-      "url": "https://xenodium.com/emacs-as-your-video-trimming-tool",
-      "summary": "",
-      "source": "xenodium.com",
-      "ts": "2025-08-19T16:22:01Z",
-      "score": 185.72
-    },
-    {
-      "id": "hn-44954665",
-      "title": "Notion releases offline mode",
-      "url": "https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know",
-      "summary": "",
-      "source": "notion.com",
-      "ts": "2025-08-19T18:27:34Z",
-      "score": 181.16
-    },
-    {
-      "id": "hn-44951862",
-      "title": "Positron, a New Data Science IDE",
-      "url": "https://posit.co/blog/positron-product-announcement-aug-2025/",
-      "summary": "",
-      "source": "posit.co",
-      "ts": "2025-08-19T14:20:25Z",
-      "score": 158.76
-    },
-    {
-      "id": "hn-44921195",
-      "title": "Candle Flame Oscillations as a Clock",
-      "url": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
-      "summary": "",
-      "source": "cpldcpu.com",
-      "ts": "2025-08-16T07:49:51Z",
-      "score": 149.89
-    },
-    {
-      "id": "hn-44950981",
-      "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
-      "summary": "",
-      "source": "lists.thekelleys.org.uk",
-      "ts": "2025-08-19T12:56:47Z",
-      "score": 147.4
-    },
-    {
-      "id": "hn-44955624",
-      "title": "Perfect Freehand – Draw perfect pressure-sensitive freehand lines",
-      "url": "https://www.perfectfreehand.com/",
-      "summary": "",
-      "source": "perfectfreehand.com",
-      "ts": "2025-08-19T19:53:51Z",
-      "score": 145.5
-    },
-    {
-      "id": "hn-44950091",
-      "title": "PyPI Preventing Domain Resurrection Attacks",
-      "url": "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/",
-      "summary": "",
-      "source": "blog.pypi.org",
-      "ts": "2025-08-19T10:32:41Z",
-      "score": 141.08
-    },
-    {
-      "id": "hn-44953575",
-      "title": "Why Semantic Layers Matter (and how to build one with DuckDB)",
-      "url": "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/",
-      "summary": "",
-      "source": "motherduck.com",
-      "ts": "2025-08-19T16:49:15Z",
-      "score": 127.74
-    },
-    {
-      "id": "hn-44956730",
-      "title": "The forgotten meaning of \"jerk\"",
-      "url": "https://languagehat.com/the-forgotten-meaning-of-jerk/",
-      "summary": "",
-      "source": "languagehat.com",
-      "ts": "2025-08-19T22:11:29Z",
-      "score": 126.03
-    },
-    {
-      "id": "hn-44954823",
-      "title": "AnduinOS",
-      "url": "https://www.anduinos.com/",
-      "summary": "",
-      "source": "anduinos.com",
-      "ts": "2025-08-19T18:42:25Z",
-      "score": 125.82
-    },
-    {
-      "id": "hn-44954040",
-      "title": "Forklifts require training",
-      "url": "https://www.zacsweers.dev/forklifts-require-training/",
-      "summary": "",
-      "source": "zacsweers.dev",
-      "ts": "2025-08-19T17:30:26Z",
-      "score": 124.19
-    },
-    {
-      "id": "hn-44952789",
-      "title": "A renovation project in Turkey led to the discovery of a lost city (2023)",
-      "url": "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps",
-      "summary": "",
-      "source": "atlasobscura.com",
-      "ts": "2025-08-19T15:34:55Z",
-      "score": 120.72
-    },
-    {
-      "id": "hn-44954702",
-      "title": "Medical cannabis patient data exposed by unsecured database",
-      "url": "https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/",
-      "summary": "",
-      "source": "wired.com",
-      "ts": "2025-08-19T18:30:57Z",
-      "score": 120.67
-    },
-    {
-      "id": "hn-44955459",
-      "title": "CRDT: Text Buffer",
-      "url": "https://madebyevan.com/algos/crdt-text-buffer/",
-      "summary": "",
-      "source": "madebyevan.com",
-      "ts": "2025-08-19T19:38:45Z",
-      "score": 117.41
-    },
-    {
-      "id": "hn-44952672",
-      "title": "As Alaska's salmon plummet, scientists home in on the killer",
-      "url": "https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer",
-      "summary": "",
-      "source": "science.org",
-      "ts": "2025-08-19T15:25:42Z",
-      "score": 115.65
-    },
-    {
-      "id": "hn-44953282",
-      "title": "CRLite: Certificate Revocation Checking in Firefox",
-      "url": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "summary": "",
-      "source": "hacks.mozilla.org",
-      "ts": "2025-08-19T16:18:27Z",
-      "score": 113.62
-    },
-    {
-      "id": "hn-44955576",
-      "title": "Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life",
-      "url": "https://github.com/openai/openai-reflect",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-19T19:48:38Z",
-      "score": 112.93
-    },
-    {
-      "id": "hn-44956581",
-      "title": "Drunken Bishop (2023)",
-      "url": "https://re.factorcode.org/2023/08/drunken-bishop.html",
-      "summary": "",
-      "source": "re.factorcode.org",
-      "ts": "2025-08-19T21:48:30Z",
-      "score": 110.26
-    },
-    {
-      "id": "hn-44950952",
-      "title": "Vim Macros for Beancount",
-      "url": "https://tangled.sh/@adam.tngl.sh/vim-beancounting",
-      "summary": "",
-      "source": "tangled.sh",
-      "ts": "2025-08-19T12:52:11Z",
-      "score": 110.07
+      "source": "pistachioapp.com",
+      "ts": "2025-08-20T00:18:00Z",
+      "score": 400.78
     },
     {
       "id": "hn-44956915",
@@ -259,43 +34,151 @@
       "summary": "",
       "source": "muffinman.io",
       "ts": "2025-08-19T22:41:16Z",
-      "score": 108.74
+      "score": 284.16
     },
     {
-      "id": "be9adbd135af",
-      "title": "Google Gemini can now read your Docs aloud",
-      "url": "https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud",
-      "summary": "Google Docs will now let you generate an audio version of your documents using AI. In a post announcing the rollout, Google says you can customize Gemini’s AI audio output with different voices and playback speeds. This feature isn’t just for a document’s creator, as Google says readers can access a shared document’s AI-generated audio [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-19T21:48:21Z",
-      "score": 106.1
-    },
-    {
-      "id": "bcf66651e7cb",
-      "title": "Google announced the next step in its nuclear energy plans",
-      "url": "https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility",
-      "summary": "Google is one step closer to reaching its nuclear ambitions now that it’s working with public power utility Tennessee Valley Authority (TVA) to purchase electricity from a next-generation reactor. It’s the first power purchase agreement for technology this advanced that a US utility has made, according to the companies.  The plan is for TVA to [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-19T20:45:58Z",
-      "score": 103.83
-    },
-    {
-      "id": "173790283dda",
-      "title": "Microsoft employees occupy headquarters in protest of Israel contracts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid",
-      "summary": "On Tuesday, a group of current and former Microsoft employees, as well as community members, took over a plaza at Microsoft's headquarters in Redmond, Washington, as part of a No Azure for Apartheid protest. They declared the area a \"Liberated Zone\" encampment and said they had changed its name from East Campus Plaza to \"The [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-19T20:22:39Z",
-      "score": 102.99
-    },
-    {
-      "id": "hn-44944241",
-      "title": "Show HN: Chroma Cloud – serverless search database for AI",
-      "url": "https://trychroma.com/cloud",
+      "id": "hn-44954524",
+      "title": "D2 (text to diagram tool) now supports ASCII renders",
+      "url": "https://d2lang.com/blog/ascii/",
       "summary": "",
-      "source": "trychroma.com",
-      "ts": "2025-08-18T19:20:01Z",
-      "score": 101.77
+      "source": "d2lang.com",
+      "ts": "2025-08-19T18:14:41Z",
+      "score": 266.0
+    },
+    {
+      "id": "hn-44949895",
+      "title": "Custom telescope mount using harmonic drives and ESP32",
+      "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
+      "summary": "",
+      "source": "svendewaerhert.com",
+      "ts": "2025-08-19T09:46:27Z",
+      "score": 233.1
+    },
+    {
+      "id": "hn-44951563",
+      "title": "Without the futex, it's futile",
+      "url": "https://h4x0r.org/futex/",
+      "summary": "",
+      "source": "h4x0r.org",
+      "ts": "2025-08-19T13:53:42Z",
+      "score": 226.35
+    },
+    {
+      "id": "hn-44953316",
+      "title": "Emacs as your video-trimming tool",
+      "url": "https://xenodium.com/emacs-as-your-video-trimming-tool",
+      "summary": "",
+      "source": "xenodium.com",
+      "ts": "2025-08-19T16:22:01Z",
+      "score": 215.32
+    },
+    {
+      "id": "hn-44921195",
+      "title": "Candle Flame Oscillations as a Clock",
+      "url": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
+      "summary": "",
+      "source": "cpldcpu.com",
+      "ts": "2025-08-16T07:49:51Z",
+      "score": 191.34
+    },
+    {
+      "id": "hn-44953575",
+      "title": "Why Semantic Layers Matter (and how to build one with DuckDB)",
+      "url": "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/",
+      "summary": "",
+      "source": "motherduck.com",
+      "ts": "2025-08-19T16:49:15Z",
+      "score": 151.16
+    },
+    {
+      "id": "hn-44955459",
+      "title": "CRDT: Text Buffer",
+      "url": "https://madebyevan.com/algos/crdt-text-buffer/",
+      "summary": "",
+      "source": "madebyevan.com",
+      "ts": "2025-08-19T19:38:45Z",
+      "score": 150.46
+    },
+    {
+      "id": "hn-44954823",
+      "title": "AnduinOS",
+      "url": "https://www.anduinos.com/",
+      "summary": "",
+      "source": "anduinos.com",
+      "ts": "2025-08-19T18:42:25Z",
+      "score": 150.27
+    },
+    {
+      "id": "hn-44958020",
+      "title": "The value of hitting the HN front page",
+      "url": "https://www.mooreds.com/wordpress/archives/3530",
+      "summary": "",
+      "source": "mooreds.com",
+      "ts": "2025-08-20T02:00:11Z",
+      "score": 147.44
+    },
+    {
+      "id": "hn-44958400",
+      "title": "Modern CI is too complex and misdirected (2021)",
+      "url": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
+      "summary": "",
+      "source": "gregoryszorc.com",
+      "ts": "2025-08-20T03:30:06Z",
+      "score": 144.04
+    },
+    {
+      "id": "hn-44957157",
+      "title": "Tiny microbe challenges the definition of cellular life",
+      "url": "https://nautil.us/a-rogue-new-life-form-1232095/",
+      "summary": "",
+      "source": "nautil.us",
+      "ts": "2025-08-19T23:18:48Z",
+      "score": 140.57
+    },
+    {
+      "id": "hn-44958145",
+      "title": "We’re Not So Special: A new book challenges human exceptionalism",
+      "url": "https://democracyjournal.org/magazine/78/were-not-so-special/",
+      "summary": "",
+      "source": "democracyjournal.org",
+      "ts": "2025-08-20T02:25:53Z",
+      "score": 133.77
+    },
+    {
+      "id": "hn-44943666",
+      "title": "How to Think About GPUs",
+      "url": "https://jax-ml.github.io/scaling-book/gpus/",
+      "summary": "",
+      "source": "jax-ml.github.io",
+      "ts": "2025-08-18T18:18:36Z",
+      "score": 128.79
+    },
+    {
+      "id": "hn-44959092",
+      "title": "Databricks is raising a Series K Investment at >$100B valuation",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation",
+      "summary": "",
+      "source": "databricks.com",
+      "ts": "2025-08-20T06:06:15Z",
+      "score": 118.16
+    },
+    {
+      "id": "hn-44956581",
+      "title": "Drunken Bishop (2023)",
+      "url": "https://re.factorcode.org/2023/08/drunken-bishop.html",
+      "summary": "",
+      "source": "re.factorcode.org",
+      "ts": "2025-08-19T21:48:30Z",
+      "score": 116.57
+    },
+    {
+      "id": "hn-44960316",
+      "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
+      "url": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
+      "summary": "",
+      "source": "tidewave.ai",
+      "ts": "2025-08-20T09:43:04Z",
+      "score": 115.54
     },
     {
       "id": "hn-44938622",
@@ -304,79 +187,7 @@
       "summary": "",
       "source": "3d.ameo.design",
       "ts": "2025-08-18T08:54:48Z",
-      "score": 101.72
-    },
-    {
-      "id": "hn-44956662",
-      "title": "How Flu Shots Prevent Heart Attacks",
-      "url": "https://www.psychologytoday.com/us/blog/fevered-mind/202508/how-flu-shots-prevent-heart-attacks",
-      "summary": "",
-      "source": "psychologytoday.com",
-      "ts": "2025-08-19T21:59:41Z",
-      "score": 101.64
-    },
-    {
-      "id": "f1728fc963ec",
-      "title": "Meta is shaking up its AI org, again",
-      "url": "https://techcrunch.com/2025/08/19/meta-is-shaking-up-its-ai-org-again/",
-      "summary": "On Friday, The Information reported that Meta was preparing to tear down its existing AI org and reorganize it into four new groups. Four days later, the change has been made official with an internal memo.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-19T18:27:37Z",
-      "score": 98.96
-    },
-    {
-      "id": "483614d19a93",
-      "title": "Meta rolls out AI-powered translations to creators globally, starting with English and Spanish",
-      "url": "https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/",
-      "summary": "The new feature, which is available in any market where Meta AI is available, allows creators to translate content into other languages for a broader audience.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-19T17:20:01Z",
-      "score": 96.66
-    },
-    {
-      "id": "31da74bf263b",
-      "title": "Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?",
-      "url": "https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/",
-      "summary": "There’s still time to book your exhibit table, but space is disappearing fast. The brands that move now will be the ones getting the face time, the leads, and the traction that matters most.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-19T17:07:51Z",
-      "score": 96.25
-    },
-    {
-      "id": "hn-44939460",
-      "title": "The new geography of stolen goods",
-      "url": "https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods",
-      "summary": "",
-      "source": "economist.com",
-      "ts": "2025-08-18T11:29:13Z",
-      "score": 94.59
-    },
-    {
-      "id": "67a7f011f427",
-      "title": "Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/",
-      "summary": "In this post, we explore how to enable and use trusted identity propagation in Amazon SageMaker Studio, which allows organizations to simplify access management by granting permissions to existing AWS IAM Identity Center identities. The solution demonstrates how to implement fine-grained access controls based on a physical user's identity, maintain detailed audit logs across supported AWS services, and support long-running user background sessions for training jobs.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-19T20:00:45Z",
-      "score": 92.92
-    },
-    {
-      "id": "e25cd59990c6",
-      "title": "Benchmarking document information localization with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/",
-      "summary": "This post demonstrates how to use foundation models (FMs) in Amazon Bedrock, specifically Amazon Nova Pro, to achieve high-accuracy document field localization while dramatically simplifying implementation. We show how these models can precisely locate and interpret document fields with minimal frontend effort, reducing processing errors and manual intervention.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-19T18:17:36Z",
-      "score": 89.65
-    },
-    {
-      "id": "6aec16c444fd",
-      "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/",
-      "summary": "We built an advanced RAG solution using Amazon Bedrock leveraging Infosys Topaz™ AI capabilities, tailored for the oil and gas sector. This solution excels in handling multimodal data sources, seamlessly processing text, diagrams, and numerical data while maintaining context and relationships between different data elements. In this post, we provide insights on the solution and walk you through different approaches and architecture patterns explored, like different chunking, multi-vector retrieval, and hybrid search during the development.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-19T18:04:25Z",
-      "score": 89.24
+      "score": 110.45
     },
     {
       "id": "hn-44922362",
@@ -385,43 +196,88 @@
       "summary": "",
       "source": "figma.com",
       "ts": "2025-08-16T11:41:02Z",
-      "score": 73.83
+      "score": 108.98
     },
     {
-      "id": "ac9a1e92d1a8",
-      "title": "RepreGuard: Detecting LLM-Generated Text by Revealing Hidden\n  Representation Patterns",
-      "url": "http://arxiv.org/abs/2508.13152v1",
-      "summary": "Detecting content generated by large language models (LLMs) is crucial for\npreventing misuse and building trustworthy AI systems. Although existing\ndetection methods perform well, their robustness in out-of-distribution (OOD)\nscenarios is still lacking. In this paper, we hypothesize that, compared to\nfeatures used by existing detection methods, the internal representations of\nLLMs contain more comprehensive and raw features that can more effectively\ncapture and distinguish the statistical pattern differences between\nLLM-generated texts (LGT) and human-written texts (HWT). We validated this\nhypothesis across different LLMs and observed significant differences in neural\nactivation patterns when processing these two types of texts. Based on this, we\npropose RepreGuard, an efficient statistics-based detection method.\nSpecifically, we first employ a surrogate model to collect representation of\nLGT and HWT, and extract the distinct activation feature that can better\nidentify LGT. We can classify the text by calculating the projection score of\nthe text representations along this feature direction and comparing with a\nprecomputed threshold. Experimental results show that RepreGuard outperforms\nall baselines with average 94.92% AUROC on both in-distribution (ID) and OOD\nscenarios, while also demonstrating robust resilience to various text sizes and\nmainstream attacks. Data and code are publicly available at:\nhttps://github.com/NLP2CT/RepreGuard",
-      "source": "arxiv.org",
-      "ts": "2025-08-18T17:59:15Z",
-      "score": 70.24
-    },
-    {
-      "id": "2f9916a0a925",
-      "title": "Exploring Autonomous Agents: A Closer Look at Why They Fail When\n  Completing Tasks",
-      "url": "http://arxiv.org/abs/2508.13143v1",
-      "summary": "Autonomous agent systems powered by Large Language Models (LLMs) have\ndemonstrated promising capabilities in automating complex tasks. However,\ncurrent evaluations largely rely on success rates without systematically\nanalyzing the interactions, communication mechanisms, and failure causes within\nthese systems. To bridge this gap, we present a benchmark of 34 representative\nprogrammable tasks designed to rigorously assess autonomous agents. Using this\nbenchmark, we evaluate three popular open-source agent frameworks combined with\ntwo LLM backbones, observing a task completion rate of approximately 50%.\nThrough in-depth failure analysis, we develop a three-tier taxonomy of failure\ncauses aligned with task phases, highlighting planning errors, task execution\nissues, and incorrect response generation. Based on these insights, we propose\nactionable improvements to enhance agent planning and self-diagnosis\ncapabilities. Our failure taxonomy, together with mitigation advice, provides\nan empirical foundation for developing more robust and effective autonomous\nagent systems in the future.",
-      "source": "arxiv.org",
-      "ts": "2025-08-18T17:55:22Z",
-      "score": 70.14
-    },
-    {
-      "id": "400359388353",
-      "title": "Spot the BlindSpots: Systematic Identification and Quantification of\n  Fine-Grained LLM Biases in Contact Center Summaries",
-      "url": "http://arxiv.org/abs/2508.13124v1",
-      "summary": "Abstractive summarization is a core application in contact centers, where\nLarge Language Models (LLMs) generate millions of summaries of call transcripts\ndaily. Despite their apparent quality, it remains unclear whether LLMs\nsystematically under- or over-attend to specific aspects of the transcript,\npotentially introducing biases in the generated summary. While prior work has\nexamined social and positional biases, the specific forms of bias pertinent to\ncontact center operations - which we term Operational Bias - have remained\nunexplored. To address this gap, we introduce BlindSpot, a framework built upon\na taxonomy of 15 operational bias dimensions (e.g., disfluency, speaker, topic)\nfor the identification and quantification of these biases. BlindSpot leverages\nan LLM as a zero-shot classifier to derive categorical distributions for each\nbias dimension in a pair of transcript and its summary. The bias is then\nquantified using two metrics: Fidelity Gap (the JS Divergence between\ndistributions) and Coverage (the percentage of source labels omitted). Using\nBlindSpot, we conducted an empirical study with 2500 real call transcripts and\ntheir summaries generated by 20 LLMs of varying scales and families (e.g., GPT,\nLlama, Claude). Our analysis reveals that biases are systemic and present\nacross all evaluated models, regardless of size or family.",
-      "source": "arxiv.org",
-      "ts": "2025-08-18T17:31:03Z",
-      "score": 69.55
-    },
-    {
-      "id": "hn-44937893",
-      "title": "Staff disquiet as Alan Turing Institute faces identity crisis",
-      "url": "https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis",
+      "id": "hn-44958752",
+      "title": "Type-machine",
+      "url": "https://arthi-chaud.github.io/posts/type-machine/",
       "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-08-18T06:18:58Z",
-      "score": 66.97
+      "source": "arthi-chaud.github.io",
+      "ts": "2025-08-20T04:59:27Z",
+      "score": 102.91
+    },
+    {
+      "id": "hn-44959833",
+      "title": "Mirrorshades, the Cyberpunk Anthology",
+      "url": "https://www.rudyrucker.com/mirrorshades/HTML/",
+      "summary": "",
+      "source": "rudyrucker.com",
+      "ts": "2025-08-20T08:15:00Z",
+      "score": 95.84
+    },
+    {
+      "id": "0e7d72746c1e",
+      "title": "ComputerRL: Scaling End-to-End Online Reinforcement Learning for\n  Computer Use Agents",
+      "url": "http://arxiv.org/abs/2508.14040v1",
+      "summary": "We introduce ComputerRL, a framework for autonomous desktop intelligence that\nenables agents to operate complex digital workspaces skillfully. ComputerRL\nfeatures the API-GUI paradigm, which unifies programmatic API calls and direct\nGUI interaction to address the inherent mismatch between machine agents and\nhuman-centric desktop environments. Scaling end-to-end RL training is crucial\nfor improvement and generalization across diverse desktop tasks, yet remains\nchallenging due to environmental inefficiency and instability in extended\ntraining. To support scalable and robust training, we develop a distributed RL\ninfrastructure capable of orchestrating thousands of parallel virtual desktop\nenvironments to accelerate large-scale online RL. Furthermore, we propose\nEntropulse, a training strategy that alternates reinforcement learning with\nsupervised fine-tuning, effectively mitigating entropy collapse during extended\ntraining runs. We employ ComputerRL on open models GLM-4-9B-0414 and\nQwen2.5-14B, and evaluate them on the OSWorld benchmark. The AutoGLM-OS-9B\nbased on GLM-4-9B-0414 achieves a new state-of-the-art accuracy of 48.1%,\ndemonstrating significant improvements for general agents in desktop\nautomation. The algorithm and framework are adopted in building AutoGLM (Liu et\nal., 2024a)",
+      "source": "arxiv.org",
+      "ts": "2025-08-19T17:59:45Z",
+      "score": 90.26
+    },
+    {
+      "id": "048c5214d682",
+      "title": "GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation",
+      "url": "http://arxiv.org/abs/2508.14036v1",
+      "summary": "Modern 3D generation methods can rapidly create shapes from sparse or single\nviews, but their outputs often lack geometric detail due to computational\nconstraints. We present DetailGen3D, a generative approach specifically\ndesigned to enhance these generated 3D shapes. Our key insight is to model the\ncoarse-to-fine transformation directly through data-dependent flows in latent\nspace, avoiding the computational overhead of large-scale 3D generative models.\nWe introduce a token matching strategy that ensures accurate spatial\ncorrespondence during refinement, enabling local detail synthesis while\npreserving global structure. By carefully designing our training data to match\nthe characteristics of synthesized coarse shapes, our method can effectively\nenhance shapes produced by various 3D generation and reconstruction approaches,\nfrom single-view to sparse multi-view inputs. Extensive experiments demonstrate\nthat DetailGen3D achieves high-fidelity geometric detail synthesis while\nmaintaining efficiency in training.",
+      "source": "arxiv.org",
+      "ts": "2025-08-19T17:58:51Z",
+      "score": 90.24
+    },
+    {
+      "id": "edc3c0024009",
+      "title": "Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation",
+      "url": "http://arxiv.org/abs/2508.14031v1",
+      "summary": "Beyond simple text generation, Large Language Models (LLMs) have evolved into\nagentic systems capable of planning and interacting with external tools to\nsolve complex tasks. This evolution involves fine-tuning LLMs on agent-specific\ntasks to enhance their proficiency. However, safety concerns are frequently\noverlooked during this fine-tuning process. In this work, we show that aligned\nLLMs can become unintentionally misaligned, leading to a higher likelihood of\nexecuting harmful tasks and a reduced tendency to refuse them when fine-tuned\nto execute agentic tasks. To address these safety challenges, we propose Prefix\nINjection Guard (PING), a simple yet effective method that prepends\nautomatically generated natural language prefixes to agent responses, guiding\nthem to refuse harmful requests while preserving performance on benign tasks.\nSpecifically, we introduce an iterative approach that alternates between (1)\ngenerating candidate prefixes and (2) selecting those that optimize both task\nperformance and refusal behavior. Experimental results demonstrate that PING\nsignificantly enhances the safety of fine-tuned LLM agents without sacrificing\ntheir effectiveness. PING consistently outperforms existing prompting\napproaches across diverse benchmarks in both web navigation and code generation\ntasks. Our analysis of internal hidden states via linear probes reveals that\nprefix tokens are crucial for behavior modification, explaining the performance\ngains. WARNING: This paper contains contents that are unethical or offensive in\nnature.",
+      "source": "arxiv.org",
+      "ts": "2025-08-19T17:53:35Z",
+      "score": 90.07
+    },
+    {
+      "id": "hn-44939460",
+      "title": "The new geography of stolen goods",
+      "url": "https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods",
+      "summary": "",
+      "source": "economist.com",
+      "ts": "2025-08-18T11:29:13Z",
+      "score": 89.57
+    },
+    {
+      "id": "be9adbd135af",
+      "title": "Google Gemini can now read your Docs aloud",
+      "url": "https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud",
+      "summary": "Google Docs will now let you generate an audio version of your documents using AI. In a post announcing the rollout, Google says you can customize Gemini’s AI audio output with different voices and playback speeds. This feature isn’t just for a document’s creator, as Google says readers can access a shared document’s AI-generated audio [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-19T21:48:21Z",
+      "score": 82.69
+    },
+    {
+      "id": "bcf66651e7cb",
+      "title": "Google announced the next step in its nuclear energy plans",
+      "url": "https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility",
+      "summary": "Google is one step closer to reaching its nuclear ambitions now that it’s working with public power utility Tennessee Valley Authority (TVA) to purchase electricity from a next-generation reactor. It’s the first power purchase agreement for technology this advanced that a US utility has made, according to the companies.  The plan is for TVA to [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-19T20:45:58Z",
+      "score": 80.92
+    },
+    {
+      "id": "173790283dda",
+      "title": "Microsoft employees occupy headquarters in protest of Israel contracts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid",
+      "summary": "On Tuesday, a group of current and former Microsoft employees, as well as community members, took over a plaza at Microsoft's headquarters in Redmond, Washington, as part of a No Azure for Apartheid protest. They declared the area a \"Liberated Zone\" encampment and said they had changed its name from East Campus Plaza to \"The [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-19T20:22:39Z",
+      "score": 80.26
     },
     {
       "id": "hn-44938354",
@@ -430,25 +286,142 @@
       "summary": "",
       "source": "jrsinclair.com",
       "ts": "2025-08-18T07:57:30Z",
-      "score": 64.24
+      "score": 79.17
     },
     {
-      "id": "hn-44927953",
-      "title": "Passive Microwave Repeaters",
-      "url": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+      "id": "f1728fc963ec",
+      "title": "Meta is shaking up its AI org, again",
+      "url": "https://techcrunch.com/2025/08/19/meta-is-shaking-up-its-ai-org-again/",
+      "summary": "On Friday, The Information reported that Meta was preparing to tear down its existing AI org and reorganize it into four new groups. Four days later, the change has been made official with an internal memo.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-19T18:27:37Z",
+      "score": 77.12
+    },
+    {
+      "id": "483614d19a93",
+      "title": "Meta rolls out AI-powered translations to creators globally, starting with English and Spanish",
+      "url": "https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/",
+      "summary": "The new feature, which is available in any market where Meta AI is available, allows creators to translate content into other languages for a broader audience.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-19T17:20:01Z",
+      "score": 75.33
+    },
+    {
+      "id": "31da74bf263b",
+      "title": "Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?",
+      "url": "https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/",
+      "summary": "There’s still time to book your exhibit table, but space is disappearing fast. The brands that move now will be the ones getting the face time, the leads, and the traction that matters most.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-19T17:07:51Z",
+      "score": 75.01
+    },
+    {
+      "id": "67a7f011f427",
+      "title": "Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/",
+      "summary": "In this post, we explore how to enable and use trusted identity propagation in Amazon SageMaker Studio, which allows organizations to simplify access management by granting permissions to existing AWS IAM Identity Center identities. The solution demonstrates how to implement fine-grained access controls based on a physical user's identity, maintain detailed audit logs across supported AWS services, and support long-running user background sessions for training jobs.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-19T20:00:45Z",
+      "score": 72.41
+    },
+    {
+      "id": "hn-44939849",
+      "title": "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node",
+      "url": "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc",
       "summary": "",
-      "source": "computer.rip",
-      "ts": "2025-08-17T00:25:27Z",
-      "score": 63.53
+      "source": "hothardware.com",
+      "ts": "2025-08-18T12:31:18Z",
+      "score": 72.37
     },
     {
-      "id": "hn-44921467",
-      "title": "Guile bindings for Sway window manager",
-      "url": "https://github.com/ebeem/guile-swayer",
+      "id": "e25cd59990c6",
+      "title": "Benchmarking document information localization with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/",
+      "summary": "This post demonstrates how to use foundation models (FMs) in Amazon Bedrock, specifically Amazon Nova Pro, to achieve high-accuracy document field localization while dramatically simplifying implementation. We show how these models can precisely locate and interpret document fields with minimal frontend effort, reducing processing errors and manual intervention.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-19T18:17:36Z",
+      "score": 69.87
+    },
+    {
+      "id": "6aec16c444fd",
+      "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/",
+      "summary": "We built an advanced RAG solution using Amazon Bedrock leveraging Infosys Topaz™ AI capabilities, tailored for the oil and gas sector. This solution excels in handling multimodal data sources, seamlessly processing text, diagrams, and numerical data while maintaining context and relationships between different data elements. In this post, we provide insights on the solution and walk you through different approaches and architecture patterns explored, like different chunking, multi-vector retrieval, and hybrid search during the development.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-19T18:04:25Z",
+      "score": 69.55
+    },
+    {
+      "id": "hn-44939423",
+      "title": "How I Made Ruby Faster Than Ruby",
+      "url": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster",
+      "summary": "",
+      "source": "noteflakes.com",
+      "ts": "2025-08-18T11:22:22Z",
+      "score": 66.69
+    },
+    {
+      "id": "hn-44951200",
+      "title": "Show HN: I've made an easy to extend and flexible JavaScript logger",
+      "url": "https://github.com/inshinrei/halua",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-08-16T08:43:19Z",
-      "score": 56.59
+      "ts": "2025-08-19T13:20:37Z",
+      "score": 65.42
+    },
+    {
+      "id": "hn-44938667",
+      "title": "Rails Charts Using ECharts from Apache",
+      "url": "https://github.com/railsjazz/rails_charts",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-18T09:00:53Z",
+      "score": 64.93
+    },
+    {
+      "id": "hn-44939165",
+      "title": "The End of Handwriting",
+      "url": "https://www.wired.com/story/the-end-of-handwriting/",
+      "summary": "",
+      "source": "wired.com",
+      "ts": "2025-08-18T10:37:25Z",
+      "score": 61.32
+    },
+    {
+      "id": "hn-44939902",
+      "title": "Gaussian Processes for Machine Learning (2006) [pdf]",
+      "url": "https://gaussianprocess.org/gpml/chapters/RW.pdf",
+      "summary": "",
+      "source": "gaussianprocess.org",
+      "ts": "2025-08-18T12:37:06Z",
+      "score": 57.45
+    },
+    {
+      "id": "hn-44939654",
+      "title": "Customizing Lisp REPLs",
+      "url": "https://aartaka.me/customize-repl.html",
+      "summary": "",
+      "source": "aartaka.me",
+      "ts": "2025-08-18T11:57:19Z",
+      "score": 51.53
+    },
+    {
+      "id": "hn-44938718",
+      "title": "Fast and observable background job processing for .NET",
+      "url": "https://github.com/mikasjp/BusyBee",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-18T09:11:16Z",
+      "score": 48.25
+    },
+    {
+      "id": "hn-44926143",
+      "title": "Tiny, removable \"mini SSD\" could eventually be a big deal for gaming handhelds",
+      "url": "https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-08-16T19:14:01Z",
+      "score": 47.7
     },
     {
       "id": "a1252b677c89",
@@ -457,7 +430,16 @@
       "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
       "source": "openai.com",
       "ts": "2025-08-18T00:00:00Z",
-      "score": 48.29
+      "score": 37.63
+    },
+    {
+      "id": "hn-44937819",
+      "title": "The Block Stacking Problem",
+      "url": "https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html",
+      "summary": "",
+      "source": "sites.pitt.edu",
+      "ts": "2025-08-18T06:01:44Z",
+      "score": 35.22
     },
     {
       "id": "99b464916a99",
@@ -466,7 +448,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 4.83
+      "score": 3.76
     },
     {
       "id": "490d88914984",
@@ -475,7 +457,7 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 2.4
+      "score": 1.87
     },
     {
       "id": "641fd4a816f8",
@@ -484,7 +466,7 @@
       "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 2.4
+      "score": 1.87
     },
     {
       "id": "f20ef515ed9f",
@@ -493,7 +475,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 1.57
+      "score": 1.22
     },
     {
       "id": "c636f03ec0b5",
@@ -502,7 +484,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 0.13
+      "score": 0.1
     }
   ]
 }
