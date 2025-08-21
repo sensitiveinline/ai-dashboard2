@@ -7,79 +7,7 @@
       "summary": "",
       "source": "visualrambling.space",
       "ts": "2025-08-20T14:02:47Z",
-      "score": 429.49
-    },
-    {
-      "id": "hn-44956915",
-      "title": "How to Draw a Space Invader",
-      "url": "https://muffinman.io/blog/invaders/",
-      "summary": "",
-      "source": "muffinman.io",
-      "ts": "2025-08-19T22:41:16Z",
-      "score": 360.81
-    },
-    {
-      "id": "hn-44963939",
-      "title": "Pixel 10 Phones",
-      "url": "https://blog.google/products/pixel/google-pixel-10-pro-xl/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-08-20T17:24:10Z",
-      "score": 353.91
-    },
-    {
-      "id": "hn-44964916",
-      "title": "Zedless: Zed fork focused on privacy and being local-first",
-      "url": "https://github.com/zedless-editor/zed",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-20T18:47:03Z",
-      "score": 294.01
-    },
-    {
-      "id": "hn-44962059",
-      "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
-      "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-20T14:01:26Z",
-      "score": 249.45
-    },
-    {
-      "id": "hn-44943666",
-      "title": "How to Think About GPUs",
-      "url": "https://jax-ml.github.io/scaling-book/gpus/",
-      "summary": "",
-      "source": "jax-ml.github.io",
-      "ts": "2025-08-18T18:18:36Z",
-      "score": 247.8
-    },
-    {
-      "id": "hn-44961172",
-      "title": "Sequoia backs Zed",
-      "url": "https://zed.dev/blog/sequoia-backs-zed",
-      "summary": "",
-      "source": "zed.dev",
-      "ts": "2025-08-20T12:13:16Z",
-      "score": 233.83
-    },
-    {
-      "id": "hn-44960316",
-      "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
-      "url": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
-      "summary": "",
-      "source": "tidewave.ai",
-      "ts": "2025-08-20T09:43:04Z",
-      "score": 228.01
-    },
-    {
-      "id": "hn-44962844",
-      "title": "AWS in 2025: Stuff you think you know that's now wrong",
-      "url": "https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/",
-      "summary": "",
-      "source": "lastweekinaws.com",
-      "ts": "2025-08-20T15:30:07Z",
-      "score": 225.02
+      "score": 534.95
     },
     {
       "id": "hn-44962529",
@@ -88,43 +16,70 @@
       "summary": "",
       "source": "lock.cmpxchg8b.com",
       "ts": "2025-08-20T14:54:45Z",
-      "score": 187.38
+      "score": 429.92
     },
     {
-      "id": "hn-44958621",
-      "title": "Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025",
-      "url": "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+      "id": "hn-44963939",
+      "title": "Pixel 10 Phones",
+      "url": "https://blog.google/products/pixel/google-pixel-10-pro-xl/",
       "summary": "",
-      "source": "gfw.report",
-      "ts": "2025-08-20T04:27:29Z",
-      "score": 175.83
+      "source": "blog.google",
+      "ts": "2025-08-20T17:24:10Z",
+      "score": 411.3
     },
     {
-      "id": "hn-44959092",
-      "title": "Databricks is raising a Series K Investment at >$100B valuation",
-      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation",
+      "id": "hn-44956915",
+      "title": "How to Draw a Space Invader",
+      "url": "https://muffinman.io/blog/invaders/",
       "summary": "",
-      "source": "databricks.com",
-      "ts": "2025-08-20T06:06:15Z",
-      "score": 161.97
+      "source": "muffinman.io",
+      "ts": "2025-08-19T22:41:16Z",
+      "score": 360.84
     },
     {
-      "id": "hn-44962869",
-      "title": "Closer to the Metal: Leaving Playwright for CDP",
-      "url": "https://browser-use.com/posts/playwright-to-cdp",
+      "id": "hn-44961172",
+      "title": "Sequoia backs Zed",
+      "url": "https://zed.dev/blog/sequoia-backs-zed",
       "summary": "",
-      "source": "browser-use.com",
-      "ts": "2025-08-20T15:32:44Z",
-      "score": 160.29
+      "source": "zed.dev",
+      "ts": "2025-08-20T12:13:16Z",
+      "score": 307.57
     },
     {
-      "id": "hn-44959833",
-      "title": "Mirrorshades: The Cyberpunk Anthology (1986)",
-      "url": "https://www.rudyrucker.com/mirrorshades/HTML/",
+      "id": "hn-44962059",
+      "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
+      "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
       "summary": "",
-      "source": "rudyrucker.com",
-      "ts": "2025-08-20T08:15:00Z",
-      "score": 153.15
+      "source": "github.com",
+      "ts": "2025-08-20T14:01:26Z",
+      "score": 296.12
+    },
+    {
+      "id": "hn-44967469",
+      "title": "Code review can be better",
+      "url": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+      "summary": "",
+      "source": "tigerbeetle.com",
+      "ts": "2025-08-20T23:10:37Z",
+      "score": 255.55
+    },
+    {
+      "id": "hn-44960316",
+      "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
+      "url": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
+      "summary": "",
+      "source": "tidewave.ai",
+      "ts": "2025-08-20T09:43:04Z",
+      "score": 230.04
+    },
+    {
+      "id": "hn-44967796",
+      "title": "A statistical analysis of Rotten Tomatoes",
+      "url": "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable",
+      "summary": "",
+      "source": "statsignificant.com",
+      "ts": "2025-08-21T00:10:07Z",
+      "score": 172.57
     },
     {
       "id": "hn-44965233",
@@ -133,7 +88,52 @@
       "summary": "",
       "source": "mackuba.eu",
       "ts": "2025-08-20T19:13:09Z",
-      "score": 150.83
+      "score": 172.03
+    },
+    {
+      "id": "hn-44958621",
+      "title": "Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025",
+      "url": "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+      "summary": "",
+      "source": "gfw.report",
+      "ts": "2025-08-20T04:27:29Z",
+      "score": 171.77
+    },
+    {
+      "id": "hn-44962869",
+      "title": "Closer to the Metal: Leaving Playwright for CDP",
+      "url": "https://browser-use.com/posts/playwright-to-cdp",
+      "summary": "",
+      "source": "browser-use.com",
+      "ts": "2025-08-20T15:32:44Z",
+      "score": 167.38
+    },
+    {
+      "id": "hn-44962771",
+      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts",
+      "url": "https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/",
+      "summary": "",
+      "source": "petapixel.com",
+      "ts": "2025-08-20T15:23:19Z",
+      "score": 167.17
+    },
+    {
+      "id": "hn-44969622",
+      "title": "Show HN: I replaced vector databases with Git for AI memory (PoC)",
+      "url": "https://github.com/Growth-Kinetics/DiffMem",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-21T06:20:11Z",
+      "score": 159.39
+    },
+    {
+      "id": "hn-44959833",
+      "title": "Mirrorshades: The Cyberpunk Anthology (1986)",
+      "url": "https://www.rudyrucker.com/mirrorshades/HTML/",
+      "summary": "",
+      "source": "rudyrucker.com",
+      "ts": "2025-08-20T08:15:00Z",
+      "score": 159.28
     },
     {
       "id": "hn-44962969",
@@ -142,88 +142,151 @@
       "summary": "",
       "source": "blog.openpolicyagent.org",
       "ts": "2025-08-20T15:44:33Z",
-      "score": 148.64
+      "score": 147.25
     },
     {
-      "id": "hn-44939456",
-      "title": "MapLibre Tile: A next generation geospatial format optimized for rendering",
-      "url": "https://arxiv.org/abs/2508.10791",
+      "id": "hn-44932401",
+      "title": "D4d4",
+      "url": "https://www.nmichaels.org/musings/d4d4/d4d4/",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-08-18T11:28:32Z",
-      "score": 144.07
-    },
-    {
-      "id": "hn-44961847",
-      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-      "url": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
-      "summary": "",
-      "source": "tarides.com",
-      "ts": "2025-08-20T13:37:15Z",
-      "score": 134.77
-    },
-    {
-      "id": "hn-44966170",
-      "title": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python",
-      "url": "https://github.com/plutoprint/plutoprint",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-20T20:37:58Z",
-      "score": 131.36
-    },
-    {
-      "id": "hn-44966856",
-      "title": "\"AI first\" and the Bus Factor of 0",
-      "url": "https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608",
-      "summary": "",
-      "source": "mindflash.org",
-      "ts": "2025-08-20T21:47:05Z",
-      "score": 125.25
+      "source": "nmichaels.org",
+      "ts": "2025-08-17T15:42:32Z",
+      "score": 141.37
     },
     {
       "id": "hn-44964693",
-      "title": "Lean proof of Fermat's Last Theorem [pdf]",
-      "url": "https://imperialcollegelondon.github.io/FLT/blueprint.pdf",
+      "title": "Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover",
+      "url": "https://imperialcollegelondon.github.io/FLT/",
       "summary": "",
       "source": "imperialcollegelondon.github.io",
       "ts": "2025-08-20T18:27:25Z",
-      "score": 124.19
+      "score": 140.91
     },
     {
-      "id": "hn-44962767",
-      "title": "Show HN: What country you would hit if you went straight where you're pointing",
-      "url": "https://apps.apple.com/us/app/leascope/id6608979884",
+      "id": "hn-44963135",
+      "title": "Show HN: Luminal – Open-source, search-based GPU compiler",
+      "url": "https://github.com/luminal-ai/luminal",
       "summary": "",
-      "source": "apps.apple.com",
-      "ts": "2025-08-20T15:23:01Z",
-      "score": 120.41
+      "source": "github.com",
+      "ts": "2025-08-20T16:01:13Z",
+      "score": 138.04
     },
     {
-      "id": "hn-44963226",
-      "title": "Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates",
-      "url": "https://anchor.dev/relay",
+      "id": "hn-44969221",
+      "title": "Python f-string cheat sheets (2022)",
+      "url": "https://fstring.help/cheat/",
       "summary": "",
-      "source": "anchor.dev",
-      "ts": "2025-08-20T16:13:18Z",
-      "score": 118.9
+      "source": "fstring.help",
+      "ts": "2025-08-21T05:08:08Z",
+      "score": 133.18
     },
     {
-      "id": "hn-44963391",
-      "title": "Best Options for Using AI in Chip Design",
-      "url": "https://semiengineering.com/best-options-for-using-ai-in-chip-design/",
+      "id": "hn-44969211",
+      "title": "Data, objects, and how we're railroaded into poor design (2018)",
+      "url": "https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html",
       "summary": "",
-      "source": "semiengineering.com",
-      "ts": "2025-08-20T16:29:27Z",
-      "score": 109.78
+      "source": "tedinski.com",
+      "ts": "2025-08-21T05:06:05Z",
+      "score": 124.71
     },
     {
-      "id": "hn-44964266",
-      "title": "Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links",
-      "url": "https://nestable.dev/about",
+      "id": "hn-44970401",
+      "title": "Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum",
+      "url": "https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum",
       "summary": "",
-      "source": "nestable.dev",
-      "ts": "2025-08-20T17:50:21Z",
-      "score": 106.84
+      "source": "timeextension.com",
+      "ts": "2025-08-21T08:21:35Z",
+      "score": 120.66
+    },
+    {
+      "id": "hn-44968883",
+      "title": "The Pleasure of Patterns in Art",
+      "url": "https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/",
+      "summary": "",
+      "source": "thereader.mitpress.mit.edu",
+      "ts": "2025-08-21T03:53:47Z",
+      "score": 107.54
+    },
+    {
+      "id": "hn-44967923",
+      "title": "Advice for Tech Non-Profits",
+      "url": "https://mitchellh.com/writing/advice-for-tech-nonprofits",
+      "summary": "",
+      "source": "mitchellh.com",
+      "ts": "2025-08-21T00:30:45Z",
+      "score": 105.93
+    },
+    {
+      "id": "hn-44970751",
+      "title": "To Infinity but Not Beyond",
+      "url": "https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/",
+      "summary": "",
+      "source": "meyerweb.com",
+      "ts": "2025-08-21T09:30:52Z",
+      "score": 104.94
+    },
+    {
+      "id": "hn-44936535",
+      "title": "French firm Gouach is pitching an Infinite Battery with replaceable cells",
+      "url": "https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-08-18T01:32:44Z",
+      "score": 104.53
+    },
+    {
+      "id": "hn-44933290",
+      "title": "SK hynix dethrones Samsung as world’s top DRAM maker",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834",
+      "summary": "",
+      "source": "koreajoongangdaily.joins.com",
+      "ts": "2025-08-17T17:31:33Z",
+      "score": 102.94
+    },
+    {
+      "id": "hn-44971273",
+      "title": "Mark Zuckerberg freezes AI hiring amid bubble fears",
+      "url": "https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/",
+      "summary": "",
+      "source": "telegraph.co.uk",
+      "ts": "2025-08-21T11:04:08Z",
+      "score": 102.14
+    },
+    {
+      "id": "3aa82c57e9a6",
+      "title": "Quantization Meets dLLMs: A Systematic Study of Post-training\n  Quantization for Diffusion LLMs",
+      "url": "http://arxiv.org/abs/2508.14896v1",
+      "summary": "Recent advances in diffusion large language models (dLLMs) have introduced a\npromising alternative to autoregressive (AR) LLMs for natural language\ngeneration tasks, leveraging full attention and denoising-based decoding\nstrategies. However, the deployment of these models on edge devices remains\nchallenging due to their massive parameter scale and high resource demands.\nWhile post-training quantization (PTQ) has emerged as a widely adopted\ntechnique for compressing AR LLMs, its applicability to dLLMs remains largely\nunexplored. In this work, we present the first systematic study on quantizing\ndiffusion-based language models. We begin by identifying the presence of\nactivation outliers, characterized by abnormally large activation values that\ndominate the dynamic range. These outliers pose a key challenge to low-bit\nquantization, as they make it difficult to preserve precision for the majority\nof values. More importantly, we implement state-of-the-art PTQ methods and\nconduct a comprehensive evaluation across multiple task types and model\nvariants. Our analysis is structured along four key dimensions: bit-width,\nquantization method, task category, and model type. Through this\nmulti-perspective evaluation, we offer practical insights into the quantization\nbehavior of dLLMs under different configurations. We hope our findings provide\na foundation for future research in efficient dLLM deployment. All codes and\nexperimental setups will be released to support the community.",
+      "source": "arxiv.org",
+      "ts": "2025-08-20T17:59:51Z",
+      "score": 90.27
+    },
+    {
+      "id": "5cfc69eb15a4",
+      "title": "Graph Structure Learning with Temporal Graph Information Bottleneck for\n  Inductive Representation Learning",
+      "url": "http://arxiv.org/abs/2508.14859v1",
+      "summary": "Temporal graph learning is crucial for dynamic networks where nodes and edges\nevolve over time and new nodes continuously join the system. Inductive\nrepresentation learning in such settings faces two major challenges:\neffectively representing unseen nodes and mitigating noisy or redundant graph\ninformation. We propose GTGIB, a versatile framework that integrates Graph\nStructure Learning (GSL) with Temporal Graph Information Bottleneck (TGIB). We\ndesign a novel two-step GSL-based structural enhancer to enrich and optimize\nnode neighborhoods and demonstrate its effectiveness and efficiency through\ntheoretical proofs and experiments. The TGIB refines the optimized graph by\nextending the information bottleneck principle to temporal graphs, regularizing\nboth edges and features based on our derived tractable TGIB objective function\nvia variational approximation, enabling stable and efficient optimization.\nGTGIB-based models are evaluated to predict links on four real-world datasets;\nthey outperform existing methods in all datasets under the inductive setting,\nwith significant and consistent improvement in the transductive setting.",
+      "source": "arxiv.org",
+      "ts": "2025-08-20T17:13:19Z",
+      "score": 88.83
+    },
+    {
+      "id": "fbc772a06eab",
+      "title": "Mixi reimagines communication with ChatGPT",
+      "url": "https://openai.com/index/mixi",
+      "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
+      "source": "openai.com",
+      "ts": "2025-08-20T17:00:00Z",
+      "score": 88.42
+    },
+    {
+      "id": "74b140fc9677",
+      "title": "TIME$[t] \\subseteq {\\rm SPACE}[O(\\sqrt{t})]$ via Tree Height Compression",
+      "url": "http://arxiv.org/abs/2508.14831v1",
+      "summary": "We prove a square-root space simulation for deterministic multitape Turing\nmachines, showing ${\\rm TIME}[[t] \\subseteq {\\rm SPACE}[O(\\sqrt{t})]$. The key\nstep is a Height Compression Theorem that uniformly (and in logspace) reshapes\nthe canonical left-deep succinct computation tree for a block-respecting run\ninto a binary tree whose evaluation-stack depth along any DFS path is $O(\\log\nT)$ for $T = \\lceil t/b \\rceil$, while preserving $O(b)$ work at leaves, $O(1)$\nat internal nodes, and edges that are logspace-checkable; semantic correctness\nacross merges is witnessed by an exact $O(b)$ window replay at the unique\ninterface. The proof uses midpoint (balanced) recursion, a per-path potential\nthat bounds simultaneously active interfaces by $O(\\log T)$, and an\nindegree-capping replacement of multiway merges by balanced binary combiners.\nAlgorithmically, an Algebraic Replay Engine with constant-degree maps over a\nconstant-size field, together with pointerless DFS and index-free streaming,\nensures constant-size per-level tokens and eliminates wide counters, yielding\nthe additive tradeoff $S(b)=O(b + \\log(t/b))$ for block sizes $b \\ge b_0$ with\n$b_0 = \\Theta(\\log t)$, which at the canonical choice $b = \\Theta(\\sqrt{t})$\ngives $O(\\sqrt{t})$ space; the $b_0$ threshold rules out degenerate blocks\nwhere addressing scratch would dominate the window footprint. The construction\nis uniform, relativizes, and is robust to standard model choices. Consequences\ninclude branching-program upper bounds $2^{O(\\sqrt{s})}$ for size-$s$\nbounded-fan-in circuits, tightened quadratic-time lower bounds for\nSPACE$[n]$-complete problems via the standard hierarchy argument, and\n$O(\\sqrt{t})$-space certifying interpreters; under explicit locality\nassumptions, the framework extends to geometric $d$-dimensional models.",
+      "source": "arxiv.org",
+      "ts": "2025-08-20T16:27:53Z",
+      "score": 87.43
     },
     {
       "id": "13d78adb545e",
@@ -232,16 +295,7 @@
       "summary": "Google is bringing a bundle of new features to Gemini Live, its AI assistant that you can have real-time conversations with. Next week, Gemini Live will be able to highlight things directly on your screen while sharing your camera, making it easier for the AI assistant to point out a specific item. If you’re trying [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-20T21:58:03Z",
-      "score": 106.5
-    },
-    {
-      "id": "hn-44962361",
-      "title": "Learning about GPUs through measuring memory bandwidth",
-      "url": "https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth",
-      "summary": "",
-      "source": "evolvebenchmark.com",
-      "ts": "2025-08-20T14:35:18Z",
-      "score": 105.22
+      "score": 82.97
     },
     {
       "id": "18921c4b213e",
@@ -250,7 +304,16 @@
       "summary": "Microsoft is testing out a Windows 11 update that lets you use AI to search through your files and images directly from the Copilot app. This test is currently rolling out to Windows Insiders on Copilot Plus PCs and allows you to use more descriptive language when conducting your search. You can currently use the [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-20T18:54:52Z",
-      "score": 99.94
+      "score": 77.86
+    },
+    {
+      "id": "hn-44931371",
+      "title": "Epson MX-80 Fonts",
+      "url": "https://mw.rat.bz/MX-80/",
+      "summary": "",
+      "source": "mw.rat.bz",
+      "ts": "2025-08-17T13:18:21Z",
+      "score": 77.05
     },
     {
       "id": "c3a1bbf4632a",
@@ -259,16 +322,7 @@
       "summary": "The integration positions Anthropic to better compete with command-line tools from Google and GitHub, both of which included enterprise integrations on launch.",
       "source": "techcrunch.com",
       "ts": "2025-08-20T18:00:00Z",
-      "score": 98.05
-    },
-    {
-      "id": "hn-44937819",
-      "title": "The Block Stacking Problem",
-      "url": "https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html",
-      "summary": "",
-      "source": "sites.pitt.edu",
-      "ts": "2025-08-18T06:01:44Z",
-      "score": 96.95
+      "score": 76.39
     },
     {
       "id": "d770e7ef54d7",
@@ -277,7 +331,7 @@
       "summary": "Built using Amazon Nova in Amazon Bedrock, The&nbsp;Fragrance Lab represents a comprehensive end-to-end application that illustrates the transformative power of generative AI in retail, consumer goods, advertising, and marketing. In this post, we explore the development of The Fragrance Lab. Our vision was to craft a unique blend of physical and digital experiences that would celebrate creativity, advertising, and consumer goods while capturing the spirit of the French Riviera.",
       "source": "aws.amazon.com",
       "ts": "2025-08-20T21:50:24Z",
-      "score": 96.56
+      "score": 75.23
     },
     {
       "id": "51f6a757f11a",
@@ -286,7 +340,7 @@
       "summary": "In this post, we explore how Tyson Foods collaborated with the AWS Generative AI Innovation Center to revolutionize their customer interaction through an intuitive AI assistant integrated into their website. The AI assistant was built using Amazon Bedrock,",
       "source": "aws.amazon.com",
       "ts": "2025-08-20T21:44:28Z",
-      "score": 96.36
+      "score": 75.07
     },
     {
       "id": "595151697a18",
@@ -295,7 +349,7 @@
       "summary": "It’s finally happening: Google Assistant in the home is getting its Gemini glow-up. “Gemini for Home” is an all-new voice assistant for Google Home, set to arrive later this year, the company announced today.  This new voice assistant, powered by Google’s Gemini artificial intelligence, will eventually replace Google Assistant on Google’s Nest smart speakers and [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-20T17:00:00Z",
-      "score": 96.03
+      "score": 74.81
     },
     {
       "id": "hn-44966408",
@@ -304,7 +358,7 @@
       "summary": "",
       "source": "ycombinator.com",
       "ts": "2025-08-20T21:00:14Z",
-      "score": 95.49
+      "score": 74.53
     },
     {
       "id": "31b0c65b451d",
@@ -313,7 +367,7 @@
       "summary": "Google's updates to the Pixel 10 line allow it to showcase what its latest AI technology can do when enhanced by the Tensor G5 processor, an upgrade to the company's custom silicon designed for the AI experience.",
       "source": "techcrunch.com",
       "ts": "2025-08-20T16:01:00Z",
-      "score": 94.08
+      "score": 73.3
     },
     {
       "id": "88465e6cc83f",
@@ -322,7 +376,7 @@
       "summary": "Google Photos introduces an \"ask to edit\" feature that lets you speak or text your edit requests.",
       "source": "techcrunch.com",
       "ts": "2025-08-20T16:00:00Z",
-      "score": 94.05
+      "score": 73.27
     },
     {
       "id": "ed5d6e1db4a2",
@@ -331,79 +385,43 @@
       "summary": "In this post, we demonstrate how to enhance AI agents’ capabilities by integrating predictive ML models using Amazon SageMaker AI and the MCP. By using the open source Strands Agents SDK and the flexible deployment options of SageMaker AI, developers can create sophisticated AI applications that combine conversational AI with powerful predictive analytics capabilities.",
       "source": "aws.amazon.com",
       "ts": "2025-08-20T20:26:08Z",
-      "score": 93.78
+      "score": 73.06
     },
     {
-      "id": "hn-44958004",
-      "title": "Skill issues – Dialectical Behavior Therapy and its discontents (2024)",
-      "url": "https://www.thedriftmag.com/skill-issues/",
+      "id": "hn-44931305",
+      "title": "Mirror Ball Emoji Proposal (2018) [pdf]",
+      "url": "https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf",
       "summary": "",
-      "source": "thedriftmag.com",
-      "ts": "2025-08-20T01:57:09Z",
-      "score": 88.67
+      "source": "unicode.org",
+      "ts": "2025-08-17T13:05:31Z",
+      "score": 37.99
     },
     {
-      "id": "0e7d72746c1e",
-      "title": "ComputerRL: Scaling End-to-End Online Reinforcement Learning for\n  Computer Use Agents",
-      "url": "http://arxiv.org/abs/2508.14040v1",
-      "summary": "We introduce ComputerRL, a framework for autonomous desktop intelligence that\nenables agents to operate complex digital workspaces skillfully. ComputerRL\nfeatures the API-GUI paradigm, which unifies programmatic API calls and direct\nGUI interaction to address the inherent mismatch between machine agents and\nhuman-centric desktop environments. Scaling end-to-end RL training is crucial\nfor improvement and generalization across diverse desktop tasks, yet remains\nchallenging due to environmental inefficiency and instability in extended\ntraining. To support scalable and robust training, we develop a distributed RL\ninfrastructure capable of orchestrating thousands of parallel virtual desktop\nenvironments to accelerate large-scale online RL. Furthermore, we propose\nEntropulse, a training strategy that alternates reinforcement learning with\nsupervised fine-tuning, effectively mitigating entropy collapse during extended\ntraining runs. We employ ComputerRL on open models GLM-4-9B-0414 and\nQwen2.5-14B, and evaluate them on the OSWorld benchmark. The AutoGLM-OS-9B\nbased on GLM-4-9B-0414 achieves a new state-of-the-art accuracy of 48.1%,\ndemonstrating significant improvements for general agents in desktop\nautomation. The algorithm and framework are adopted in building AutoGLM (Liu et\nal., 2024a)",
-      "source": "arxiv.org",
-      "ts": "2025-08-19T17:59:45Z",
-      "score": 70.28
-    },
-    {
-      "id": "048c5214d682",
-      "title": "GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation",
-      "url": "http://arxiv.org/abs/2508.14036v1",
-      "summary": "Modern 3D generation methods can rapidly create shapes from sparse or single\nviews, but their outputs often lack geometric detail due to computational\nconstraints. We present DetailGen3D, a generative approach specifically\ndesigned to enhance these generated 3D shapes. Our key insight is to model the\ncoarse-to-fine transformation directly through data-dependent flows in latent\nspace, avoiding the computational overhead of large-scale 3D generative models.\nWe introduce a token matching strategy that ensures accurate spatial\ncorrespondence during refinement, enabling local detail synthesis while\npreserving global structure. By carefully designing our training data to match\nthe characteristics of synthesized coarse shapes, our method can effectively\nenhance shapes produced by various 3D generation and reconstruction approaches,\nfrom single-view to sparse multi-view inputs. Extensive experiments demonstrate\nthat DetailGen3D achieves high-fidelity geometric detail synthesis while\nmaintaining efficiency in training.",
-      "source": "arxiv.org",
-      "ts": "2025-08-19T17:58:51Z",
-      "score": 70.26
-    },
-    {
-      "id": "hn-44932509",
-      "title": "Visualizing GPT-OSS-20B embeddings",
-      "url": "https://melonmars.github.io/LatentExplorer/embedding_viewer.html",
+      "id": "hn-44942099",
+      "title": "Show HN: OS X Mavericks Forever",
+      "url": "https://mavericksforever.com/",
       "summary": "",
-      "source": "melonmars.github.io",
-      "ts": "2025-08-17T15:56:36Z",
-      "score": 53.26
+      "source": "mavericksforever.com",
+      "ts": "2025-08-18T16:01:44Z",
+      "score": 30.52
     },
     {
-      "id": "hn-44936535",
-      "title": "Gouach wants you to insert and pluck the cells from its Infinite e-bike battery",
-      "url": "https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/",
+      "id": "hn-44940896",
+      "title": "Basic dependency injection in OCaml with objects",
+      "url": "https://gr-im.github.io/a/dependency-injection.html",
       "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-08-18T01:32:44Z",
-      "score": 47.88
+      "source": "gr-im.github.io",
+      "ts": "2025-08-18T14:17:01Z",
+      "score": 29.64
     },
     {
-      "id": "hn-44935850",
-      "title": "The Rise and Fall of Music Ringtones: A Statistical Analysis",
-      "url": "https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones",
+      "id": "hn-44938499",
+      "title": "The Illumos Cafe: Another Cozy Corner for OS Diversity",
+      "url": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "summary": "",
-      "source": "statsignificant.com",
-      "ts": "2025-08-17T23:29:54Z",
-      "score": 46.9
-    },
-    {
-      "id": "hn-44941049",
-      "title": "How Does a Blind Model See the Earth?",
-      "url": "https://www.lesswrong.com/posts/xwdRzJxyqFqgXTWbH/how-does-a-blind-model-see-the-earth",
-      "summary": "",
-      "source": "lesswrong.com",
-      "ts": "2025-08-18T14:29:56Z",
-      "score": 32.89
-    },
-    {
-      "id": "hn-44931079",
-      "title": "Linear scan register allocation on SSA",
-      "url": "https://bernsteinbear.com/blog/linear-scan/",
-      "summary": "",
-      "source": "bernsteinbear.com",
-      "ts": "2025-08-17T12:17:37Z",
-      "score": 32.66
+      "source": "it-notes.dragas.net",
+      "ts": "2025-08-18T08:27:57Z",
+      "score": 25.74
     },
     {
       "id": "a1252b677c89",
@@ -412,16 +430,16 @@
       "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
       "source": "openai.com",
       "ts": "2025-08-18T00:00:00Z",
-      "score": 29.3
+      "score": 22.83
     },
     {
-      "id": "hn-44933802",
-      "title": "Understanding Moravec's Paradox",
-      "url": "https://hexhowells.com/posts/moravecs-paradox.html",
+      "id": "hn-44933019",
+      "title": "Sixteen Bottles of Wine Riddle",
+      "url": "https://chriskw.xyz/2025/08/11/Wine/",
       "summary": "",
-      "source": "hexhowells.com",
-      "ts": "2025-08-17T18:36:51Z",
-      "score": 26.15
+      "source": "chriskw.xyz",
+      "ts": "2025-08-17T16:57:50Z",
+      "score": 19.96
     },
     {
       "id": "99b464916a99",
@@ -430,7 +448,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 2.93
+      "score": 2.28
     },
     {
       "id": "490d88914984",
@@ -439,16 +457,7 @@
       "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
       "source": "openai.com",
       "ts": "2025-08-12T00:00:00Z",
-      "score": 1.46
-    },
-    {
-      "id": "641fd4a816f8",
-      "title": "Scaling accounting capacity with OpenAI",
-      "url": "https://openai.com/index/basis",
-      "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
-      "source": "openai.com",
-      "ts": "2025-08-12T00:00:00Z",
-      "score": 1.46
+      "score": 1.14
     },
     {
       "id": "f20ef515ed9f",
@@ -457,7 +466,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.95
+      "score": 0.74
     },
     {
       "id": "c636f03ec0b5",
@@ -466,7 +475,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 0.08
+      "score": 0.06
     }
   ]
 }
