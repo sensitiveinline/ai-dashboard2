@@ -7,88 +7,7 @@
       "summary": "",
       "source": "ffmpeg.org",
       "ts": "2025-08-22T15:22:42Z",
-      "score": 477.39
-    },
-    {
-      "id": "hn-44986949",
-      "title": "Waymo granted permit to begin testing in New York City",
-      "url": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-08-22T17:02:48Z",
-      "score": 361.58
-    },
-    {
-      "id": "hn-44980865",
-      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
-      "summary": "",
-      "source": "blog.habets.se",
-      "ts": "2025-08-22T03:51:44Z",
-      "score": 334.59
-    },
-    {
-      "id": "hn-44989773",
-      "title": "U.S. government takes 10% stake in Intel",
-      "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-08-22T21:01:52Z",
-      "score": 288.74
-    },
-    {
-      "id": "hn-44982681",
-      "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq68j5g2nr1o",
-      "summary": "",
-      "source": "bbc.co.uk",
-      "ts": "2025-08-22T10:02:21Z",
-      "score": 280.11
-    },
-    {
-      "id": "hn-44977645",
-      "title": "Code formatting comes to uv experimentally",
-      "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-      "summary": "",
-      "source": "pydevtools.com",
-      "ts": "2025-08-21T20:26:44Z",
-      "score": 268.09
-    },
-    {
-      "id": "hn-44980004",
-      "title": "Control shopping cart wheels with your phone (2021)",
-      "url": "https://www.begaydocrime.com/",
-      "summary": "",
-      "source": "begaydocrime.com",
-      "ts": "2025-08-22T00:59:04Z",
-      "score": 222.13
-    },
-    {
-      "id": "hn-44980339",
-      "title": "Everything is correlated (2014–23)",
-      "url": "https://gwern.net/everything",
-      "summary": "",
-      "source": "gwern.net",
-      "ts": "2025-08-22T02:05:53Z",
-      "score": 205.0
-    },
-    {
-      "id": "hn-44985278",
-      "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
-      "url": "https://arxiv.org/abs/2508.12631",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-08-22T14:43:31Z",
-      "score": 187.79
-    },
-    {
-      "id": "hn-44982409",
-      "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
-      "url": "https://labplot.org/",
-      "summary": "",
-      "source": "labplot.org",
-      "ts": "2025-08-22T09:11:26Z",
-      "score": 185.79
+      "score": 580.63
     },
     {
       "id": "hn-44987380",
@@ -97,43 +16,34 @@
       "summary": "",
       "source": "giuliomagnifico.blog",
       "ts": "2025-08-22T17:41:48Z",
-      "score": 175.57
-    },
-    {
-      "id": "hn-44987539",
-      "title": "The US Department of Agriculture Bans Support for Renewables",
-      "url": "https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/",
-      "summary": "",
-      "source": "insideclimatenews.org",
-      "ts": "2025-08-22T17:55:32Z",
-      "score": 172.39
-    },
-    {
-      "id": "hn-44987422",
-      "title": "Sprinkling self-doubt on ChatGPT",
-      "url": "https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/",
-      "summary": "",
-      "source": "justin.searls.co",
-      "ts": "2025-08-22T17:45:27Z",
-      "score": 166.08
+      "score": 235.89
     },
     {
       "id": "hn-44987924",
-      "title": "The First Media over QUIC CDN: Cloudflare",
+      "title": "The first Media over QUIC CDN: Cloudflare",
       "url": "https://moq.dev/blog/first-cdn/",
       "summary": "",
       "source": "moq.dev",
       "ts": "2025-08-22T18:24:16Z",
-      "score": 163.69
+      "score": 212.31
     },
     {
-      "id": "hn-44981525",
-      "title": "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
-      "url": "https://hsivonen.fi/string-length/",
+      "id": "hn-44982409",
+      "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
+      "url": "https://labplot.org/",
       "summary": "",
-      "source": "hsivonen.fi",
-      "ts": "2025-08-22T06:18:56Z",
-      "score": 153.87
+      "source": "labplot.org",
+      "ts": "2025-08-22T09:11:26Z",
+      "score": 194.67
+    },
+    {
+      "id": "hn-44991542",
+      "title": "Computer fraud laws used to prosecute leaking air crash footage to CNN",
+      "url": "https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/",
+      "summary": "",
+      "source": "techdirt.com",
+      "ts": "2025-08-23T00:04:56Z",
+      "score": 192.32
     },
     {
       "id": "hn-44988530",
@@ -142,151 +52,7 @@
       "summary": "",
       "source": "git.vuxu.org",
       "ts": "2025-08-22T19:06:29Z",
-      "score": 151.21
-    },
-    {
-      "id": "hn-44986205",
-      "title": "Show HN: Clyp – Clipboard Manager for Linux",
-      "url": "https://github.com/murat-cileli/clyp",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-22T16:03:26Z",
-      "score": 124.6
-    },
-    {
-      "id": "hn-44983364",
-      "title": "What about using rel=\"share-url\" to expose sharing intents?",
-      "url": "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/",
-      "summary": "",
-      "source": "shkspr.mobi",
-      "ts": "2025-08-22T11:49:08Z",
-      "score": 122.76
-    },
-    {
-      "id": "hn-44989125",
-      "title": "Our Response to Mississippi's Age Assurance Law",
-      "url": "https://bsky.social/about/blog/08-22-2025-mississippi-hb1126",
-      "summary": "",
-      "source": "bsky.social",
-      "ts": "2025-08-22T20:00:10Z",
-      "score": 121.73
-    },
-    {
-      "id": "hn-44941056",
-      "title": "VHS-C: When a lazy idea stumbles towards perfection [video]",
-      "url": "https://www.youtube.com/watch?v=HFYWHeBhYbM",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-08-18T14:30:28Z",
-      "score": 117.42
-    },
-    {
-      "id": "hn-44942709",
-      "title": "How Not to Buy a SSD",
-      "url": "https://andrei.xyz/post/how-not-to-buy-a-ssd/",
-      "summary": "",
-      "source": "andrei.xyz",
-      "ts": "2025-08-18T16:49:59Z",
-      "score": 110.77
-    },
-    {
-      "id": "hn-44989373",
-      "title": "Ejabberd 25.08",
-      "url": "https://www.process-one.net/blog/ejabberd-25-08/",
-      "summary": "",
-      "source": "process-one.net",
-      "ts": "2025-08-22T20:23:35Z",
-      "score": 109.89
-    },
-    {
-      "id": "hn-44986251",
-      "title": "Closing the Nix gap: From environments to packaged applications for rust",
-      "url": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
-      "summary": "",
-      "source": "devenv.sh",
-      "ts": "2025-08-22T16:06:15Z",
-      "score": 109.68
-    },
-    {
-      "id": "b0bad7e8201f",
-      "title": "Meta partners with Midjourney on AI image and video models",
-      "url": "https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/",
-      "summary": "Meta's chief AI officer said that the company is partnering with Midjourney to license its AI image and video model technology.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-22T21:41:31Z",
-      "score": 105.88
-    },
-    {
-      "id": "0b9b3f685f6e",
-      "title": "Netflix wants its partners to follow these rules when using gen AI",
-      "url": "https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines",
-      "summary": "Netflix has already faced backlash over the use of AI in  What Jennifer Did, director Jenny Popplewell&#8217;s 2024 true crime documentary that seemingly used AI-generated images in place of real archival photos. That documentary stood out as a shining example of gen AI&#8217;s ability to distort reality in situations where people are specifically looking to [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-22T21:22:47Z",
-      "score": 105.2
-    },
-    {
-      "id": "efaf610b0769",
-      "title": "Coinbase CEO explains why he fired engineers who didn’t try AI immediately",
-      "url": "https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/",
-      "summary": "After getting licenses to cover every engineer, some at the cryptocurrency exchange warned Armstrong that adoption would be slow, predicting it would take months to get even half the engineers using AI.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-22T21:07:21Z",
-      "score": 104.64
-    },
-    {
-      "id": "00d10d906f4d",
-      "title": "Meta is going to stuff Midjourney AI images into your feed",
-      "url": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
-      "summary": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,” Wang said, suggesting the deal involves more than simply using Midjourney’s existing product across Meta services. Wang [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-22T21:07:04Z",
-      "score": 104.62
-    },
-    {
-      "id": "hn-44984958",
-      "title": "Build Log: Macintosh Classic",
-      "url": "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic",
-      "summary": "",
-      "source": "jeffgeerling.com",
-      "ts": "2025-08-22T14:14:26Z",
-      "score": 104.62
-    },
-    {
-      "id": "hn-44980064",
-      "title": "The issue of anti-cheat on Linux (2024)",
-      "url": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
-      "summary": "",
-      "source": "tulach.cc",
-      "ts": "2025-08-22T01:09:33Z",
-      "score": 104.16
-    },
-    {
-      "id": "d249771ab580",
-      "title": "The power shift inside OpenAI",
-      "url": "https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift",
-      "summary": "Fidji Simo is wrapping up her first week at OpenAI, where she is expected to oversee most of the company's roughly 3,000 employees. To investors and partners, OpenAI leaders have been describing the former Instacart CEO as the kind of steady hand the company needs. Her mandate is clear: turn a chaotic, unprofitable startup into [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-22T20:30:05Z",
-      "score": 103.29
-    },
-    {
-      "id": "450ab98798f5",
-      "title": "Apple gets ready for AI in the enterprise with new ChatGPT configuration options",
-      "url": "https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/",
-      "summary": "Apple will let businesses configure ChatGPT enterprise access in the fall.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-22T20:00:34Z",
-      "score": 102.24
-    },
-    {
-      "id": "hn-44981802",
-      "title": "The Minecraft Code (2024) [video]",
-      "url": "https://www.youtube.com/watch?v=nz2LeXwJOyI",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-08-22T07:18:48Z",
-      "score": 101.34
+      "score": 187.55
     },
     {
       "id": "hn-44990886",
@@ -295,34 +61,16 @@
       "summary": "",
       "source": "wired.com",
       "ts": "2025-08-22T22:51:27Z",
-      "score": 100.94
+      "score": 184.93
     },
     {
-      "id": "hn-44990680",
-      "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
-      "url": "https://github.com/mbuhot/glyn",
+      "id": "hn-44993797",
+      "title": "I'm too dumb for Zig's new IO interface",
+      "url": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-22T22:29:28Z",
-      "score": 100.87
-    },
-    {
-      "id": "hn-44990798",
-      "title": "Transcribe music in abc with syntax highlighting",
-      "url": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
-      "summary": "",
-      "source": "fugue-state.io",
-      "ts": "2025-08-22T22:41:20Z",
-      "score": 100.34
-    },
-    {
-      "id": "hn-44990831",
-      "title": "Microsoft calls protest a 'destructive' act by outsiders",
-      "url": "https://www.geekwire.com/2025/microsoft-calls-protest-that-led-to-20-arrests-a-destructive-act-by-outsiders-group-alleges-police-brutality/",
-      "summary": "",
-      "source": "geekwire.com",
-      "ts": "2025-08-22T22:46:11Z",
-      "score": 99.74
+      "source": "openmymind.net",
+      "ts": "2025-08-23T06:39:38Z",
+      "score": 176.91
     },
     {
       "id": "hn-44988271",
@@ -331,52 +79,115 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-22T18:47:30Z",
-      "score": 99.01
+      "score": 163.68
     },
     {
-      "id": "hn-44984599",
-      "title": "Optimizing our way through Metroid",
-      "url": "https://antithesis.com/blog/2025/metroid/",
+      "id": "hn-44992832",
+      "title": "Measuring the environmental impact of AI inference",
+      "url": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/",
       "summary": "",
-      "source": "antithesis.com",
-      "ts": "2025-08-22T13:42:01Z",
-      "score": 95.29
+      "source": "arstechnica.com",
+      "ts": "2025-08-23T03:22:33Z",
+      "score": 161.32
     },
     {
-      "id": "1400cbc54bfc",
-      "title": "Accelerating life sciences research",
-      "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
-      "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
-      "source": "openai.com",
-      "ts": "2025-08-22T08:30:00Z",
-      "score": 95.07
+      "id": "hn-44981525",
+      "title": "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
+      "url": "https://hsivonen.fi/string-length/",
+      "summary": "",
+      "source": "hsivonen.fi",
+      "ts": "2025-08-22T06:18:56Z",
+      "score": 157.1
     },
     {
-      "id": "d406b44971cd",
-      "title": "Enhance Geospatial Analysis and GIS Workflows with Amazon Bedrock Capabilities",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-geospatial-analysis-and-gis-workflows-with-amazon-bedrock-capabilities/",
-      "summary": "Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-22T17:54:38Z",
-      "score": 88.97
+      "id": "hn-44991384",
+      "title": "Popular Japanese smartphone games have introduced external payment systems",
+      "url": "https://english.kyodonews.net/articles/-/59689",
+      "summary": "",
+      "source": "english.kyodonews.net",
+      "ts": "2025-08-22T23:50:13Z",
+      "score": 155.91
     },
     {
-      "id": "4f3b81a1a725",
-      "title": "Beyond the basics: A comprehensive foundation model selection framework for generative AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-basics-a-comprehensive-foundation-model-selection-framework-for-generative-ai/",
-      "summary": "As the model landscape expands, organizations face complex scenarios when selecting the right foundation model for their applications. In this blog post we present a systematic evaluation methodology for Amazon Bedrock users, combining theoretical frameworks with practical implementation strategies that empower data scientists and machine learning (ML) engineers to make optimal model selections.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-22T17:31:28Z",
-      "score": 88.25
+      "id": "hn-44992446",
+      "title": "Japan city drafts ordinance to cap smartphone use at 2 hours per day",
+      "url": "https://english.kyodonews.net/articles/-/59582",
+      "summary": "",
+      "source": "english.kyodonews.net",
+      "ts": "2025-08-23T02:20:09Z",
+      "score": 142.11
     },
     {
-      "id": "70b480da58da",
-      "title": "Accelerate intelligent document processing with generative AI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/",
-      "summary": "In this post, we introduce our open source GenAI IDP Accelerator—a tested solution that we use to help customers across industries address their document processing challenges. Automated document processing workflows accurately extract structured information from documents, reducing manual effort. We will show you how this ready-to-deploy solution can help you build those workflows with generative AI on AWS in days instead of months.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-22T17:26:31Z",
-      "score": 88.1
+      "id": "hn-44994071",
+      "title": "Manim: Animation engine for explanatory math videos",
+      "url": "https://github.com/3b1b/manim",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-23T07:35:49Z",
+      "score": 142.09
+    },
+    {
+      "id": "hn-44991884",
+      "title": "My tips for using LLM agents to create software",
+      "url": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
+      "summary": "",
+      "source": "efitz-thoughts.blogspot.com",
+      "ts": "2025-08-23T00:59:02Z",
+      "score": 140.41
+    },
+    {
+      "id": "hn-44941056",
+      "title": "VHS-C: When a lazy idea stumbles towards perfection [video]",
+      "url": "https://www.youtube.com/watch?v=HFYWHeBhYbM",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-08-18T14:30:28Z",
+      "score": 130.55
+    },
+    {
+      "id": "hn-44980064",
+      "title": "The issue of anti-cheat on Linux (2024)",
+      "url": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
+      "summary": "",
+      "source": "tulach.cc",
+      "ts": "2025-08-22T01:09:33Z",
+      "score": 126.95
+    },
+    {
+      "id": "hn-44994590",
+      "title": "Developer's block",
+      "url": "https://underlap.org/developers-block/",
+      "summary": "",
+      "source": "underlap.org",
+      "ts": "2025-08-23T09:20:26Z",
+      "score": 122.71
+    },
+    {
+      "id": "hn-44960750",
+      "title": "Shader Academy: Learn computer graphics by solving challenges",
+      "url": "https://shaderacademy.com/",
+      "summary": "",
+      "source": "shaderacademy.com",
+      "ts": "2025-08-20T11:08:15Z",
+      "score": 117.57
+    },
+    {
+      "id": "hn-44994090",
+      "title": "World Wide Lightning Location Network",
+      "url": "https://wwlln.net/",
+      "summary": "",
+      "source": "wwlln.net",
+      "ts": "2025-08-23T07:40:44Z",
+      "score": 114.65
+    },
+    {
+      "id": "hn-44992930",
+      "title": "A visual history of Visual C++ (2017)",
+      "url": "http://www.malsmith.net/blog/visual-c-visual-history/",
+      "summary": "",
+      "source": "malsmith.net",
+      "ts": "2025-08-23T03:39:37Z",
+      "score": 112.02
     },
     {
       "id": "hn-44981088",
@@ -385,52 +196,79 @@
       "summary": "",
       "source": "thoughtbot.com",
       "ts": "2025-08-22T04:48:29Z",
-      "score": 86.31
+      "score": 111.02
     },
     {
-      "id": "fcfd40ab54ef",
-      "title": "SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass",
-      "url": "http://arxiv.org/abs/2508.15769v1",
-      "summary": "3D content generation has recently attracted significant research interest\ndue to its applications in VR/AR and embodied AI. In this work, we address the\nchallenging task of synthesizing multiple 3D assets within a single scene\nimage. Concretely, our contributions are fourfold: (i) we present SceneGen, a\nnovel framework that takes a scene image and corresponding object masks as\ninput, simultaneously producing multiple 3D assets with geometry and texture.\nNotably, SceneGen operates with no need for optimization or asset retrieval;\n(ii) we introduce a novel feature aggregation module that integrates local and\nglobal scene information from visual and geometric encoders within the feature\nextraction module. Coupled with a position head, this enables the generation of\n3D assets and their relative spatial positions in a single feedforward pass;\n(iii) we demonstrate SceneGen's direct extensibility to multi-image input\nscenarios. Despite being trained solely on single-image inputs, our\narchitectural design enables improved generation performance with multi-image\ninputs; and (iv) extensive quantitative and qualitative evaluations confirm the\nefficiency and robust generation abilities of our approach. We believe this\nparadigm offers a novel solution for high-quality 3D content generation,\npotentially advancing its practical applications in downstream tasks. The code\nand model will be publicly available at: https://mengmouxu.github.io/SceneGen.",
-      "source": "arxiv.org",
-      "ts": "2025-08-21T17:59:16Z",
-      "score": 70.26
-    },
-    {
-      "id": "44d2bffe1ce8",
-      "title": "Discovering Hidden Algebraic Structures via Transformers with Rank-Aware\n  Beam GRPO",
-      "url": "http://arxiv.org/abs/2508.15766v1",
-      "summary": "Recent efforts have extended the capabilities of transformers in logical\nreasoning and symbolic computations. In this work, we investigate their\ncapacity for non-linear latent pattern discovery in the context of functional\ndecomposition, focusing on the challenging algebraic task of multivariate\npolynomial decomposition. This problem, with widespread applications in science\nand engineering, is proved to be NP-hard, and demands both precision and\ninsight. Our contributions are threefold: First, we develop a synthetic data\ngeneration pipeline providing fine-grained control over problem complexity.\nSecond, we train transformer models via supervised learning and evaluate them\nacross four key dimensions involving scaling behavior and generalizability.\nThird, we propose Beam Grouped Relative Policy Optimization (BGRPO), a\nrank-aware reinforcement learning method suitable for hard algebraic problems.\nFinetuning with BGRPO improves accuracy while reducing beam width by up to\nhalf, resulting in approximately 75% lower inference compute. Additionally, our\nmodel demonstrates competitive performance in polynomial simplification,\noutperforming Mathematica in various cases.",
-      "source": "arxiv.org",
-      "ts": "2025-08-21T17:58:50Z",
-      "score": 70.25
-    },
-    {
-      "id": "549a8d6b7b29",
-      "title": "Scaling domain expertise in complex, regulated domains",
-      "url": "https://openai.com/index/blue-j",
-      "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.",
-      "source": "openai.com",
-      "ts": "2025-08-21T10:00:00Z",
-      "score": 59.49
-    },
-    {
-      "id": "hn-44961153",
-      "title": "Show HN: Pinch – macOS voice translation for real-time conversations",
-      "url": "https://www.startpinch.com/",
+      "id": "hn-44990680",
+      "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
+      "url": "https://github.com/mbuhot/glyn",
       "summary": "",
-      "source": "startpinch.com",
-      "ts": "2025-08-20T12:10:58Z",
-      "score": 59.05
+      "source": "github.com",
+      "ts": "2025-08-22T22:29:28Z",
+      "score": 109.94
     },
     {
-      "id": "fbc772a06eab",
-      "title": "Mixi reimagines communication with ChatGPT",
-      "url": "https://openai.com/index/mixi",
-      "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
-      "source": "openai.com",
-      "ts": "2025-08-20T17:00:00Z",
-      "score": 41.75
+      "id": "hn-44986251",
+      "title": "Closing the Nix gap: From environments to packaged applications for rust",
+      "url": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
+      "summary": "",
+      "source": "devenv.sh",
+      "ts": "2025-08-22T16:06:15Z",
+      "score": 108.83
+    },
+    {
+      "id": "hn-44993692",
+      "title": "The ROI of Exercise",
+      "url": "https://herman.bearblog.dev/exercise/",
+      "summary": "",
+      "source": "herman.bearblog.dev",
+      "ts": "2025-08-23T06:19:15Z",
+      "score": 108.47
+    },
+    {
+      "id": "hn-44990981",
+      "title": "The use of LLM assistants for kernel development",
+      "url": "https://lwn.net/Articles/1032612/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-08-22T23:02:05Z",
+      "score": 106.01
+    },
+    {
+      "id": "hn-44994587",
+      "title": "Building a computer in the 90s (2019)",
+      "url": "https://dfarq.homeip.net/building-a-computer-in-the-90s/",
+      "summary": "",
+      "source": "dfarq.homeip.net",
+      "ts": "2025-08-23T09:18:46Z",
+      "score": 105.25
+    },
+    {
+      "id": "hn-44993353",
+      "title": "Websites and web developers mostly don't care about client-side problems",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients",
+      "summary": "",
+      "source": "utcc.utoronto.ca",
+      "ts": "2025-08-23T05:09:11Z",
+      "score": 93.71
+    },
+    {
+      "id": "hn-44990798",
+      "title": "Transcribe music in abc with syntax highlighting",
+      "url": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
+      "summary": "",
+      "source": "fugue-state.io",
+      "ts": "2025-08-22T22:41:20Z",
+      "score": 89.26
+    },
+    {
+      "id": "hn-44950482",
+      "title": "I run a full Linux desktop in Docker just because I can",
+      "url": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/",
+      "summary": "",
+      "source": "howtogeek.com",
+      "ts": "2025-08-19T11:39:47Z",
+      "score": 88.59
     },
     {
       "id": "hn-44955923",
@@ -439,16 +277,214 @@
       "summary": "",
       "source": "ssp.sh",
       "ts": "2025-08-19T20:25:06Z",
-      "score": 31.12
+      "score": 88.31
     },
     {
-      "id": "hn-44947484",
-      "title": "Writing Micro Compiler in OCaml (2014)",
-      "url": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
+      "id": "b0bad7e8201f",
+      "title": "Meta partners with Midjourney on AI image and video models",
+      "url": "https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/",
+      "summary": "Meta's chief AI officer said that the company is partnering with Midjourney to license its AI image and video model technology.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-22T21:41:31Z",
+      "score": 82.59
+    },
+    {
+      "id": "0b9b3f685f6e",
+      "title": "Netflix wants its partners to follow these rules when using gen AI",
+      "url": "https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines",
+      "summary": "Netflix has already faced backlash over the use of AI in  What Jennifer Did, director Jenny Popplewell&#8217;s 2024 true crime documentary that seemingly used AI-generated images in place of real archival photos. That documentary stood out as a shining example of gen AI&#8217;s ability to distort reality in situations where people are specifically looking to [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-22T21:22:47Z",
+      "score": 82.06
+    },
+    {
+      "id": "efaf610b0769",
+      "title": "Coinbase CEO explains why he fired engineers who didn’t try AI immediately",
+      "url": "https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/",
+      "summary": "After getting licenses to cover every engineer, some at the cryptocurrency exchange warned Armstrong that adoption would be slow, predicting it would take months to get even half the engineers using AI.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-22T21:07:21Z",
+      "score": 81.62
+    },
+    {
+      "id": "00d10d906f4d",
+      "title": "Meta is going to stuff Midjourney AI images into your feed",
+      "url": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
+      "summary": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,” Wang said, suggesting the deal involves more than simply using Midjourney’s existing product across Meta services. Wang [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-22T21:07:04Z",
+      "score": 81.61
+    },
+    {
+      "id": "d249771ab580",
+      "title": "The power shift inside OpenAI",
+      "url": "https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift",
+      "summary": "Fidji Simo is wrapping up her first week at OpenAI, where she is expected to oversee most of the company's roughly 3,000 employees. To investors and partners, OpenAI leaders have been describing the former Instacart CEO as the kind of steady hand the company needs. Her mandate is clear: turn a chaotic, unprofitable startup into [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-22T20:30:05Z",
+      "score": 80.57
+    },
+    {
+      "id": "450ab98798f5",
+      "title": "Apple gets ready for AI in the enterprise with new ChatGPT configuration options",
+      "url": "https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/",
+      "summary": "Apple will let businesses configure ChatGPT enterprise access in the fall.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-22T20:00:34Z",
+      "score": 79.75
+    },
+    {
+      "id": "1400cbc54bfc",
+      "title": "Accelerating life sciences research",
+      "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+      "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
+      "source": "openai.com",
+      "ts": "2025-08-22T08:30:00Z",
+      "score": 74.15
+    },
+    {
+      "id": "d406b44971cd",
+      "title": "Enhance Geospatial Analysis and GIS Workflows with Amazon Bedrock Capabilities",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-geospatial-analysis-and-gis-workflows-with-amazon-bedrock-capabilities/",
+      "summary": "Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-22T17:54:38Z",
+      "score": 69.4
+    },
+    {
+      "id": "4f3b81a1a725",
+      "title": "Beyond the basics: A comprehensive foundation model selection framework for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-basics-a-comprehensive-foundation-model-selection-framework-for-generative-ai/",
+      "summary": "As the model landscape expands, organizations face complex scenarios when selecting the right foundation model for their applications. In this blog post we present a systematic evaluation methodology for Amazon Bedrock users, combining theoretical frameworks with practical implementation strategies that empower data scientists and machine learning (ML) engineers to make optimal model selections.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-22T17:31:28Z",
+      "score": 68.84
+    },
+    {
+      "id": "70b480da58da",
+      "title": "Accelerate intelligent document processing with generative AI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/",
+      "summary": "In this post, we introduce our open source GenAI IDP Accelerator—a tested solution that we use to help customers across industries address their document processing challenges. Automated document processing workflows accurately extract structured information from documents, reducing manual effort. We will show you how this ready-to-deploy solution can help you build those workflows with generative AI on AWS in days instead of months.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-22T17:26:31Z",
+      "score": 68.72
+    },
+    {
+      "id": "fcfd40ab54ef",
+      "title": "SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass",
+      "url": "http://arxiv.org/abs/2508.15769v1",
+      "summary": "3D content generation has recently attracted significant research interest\ndue to its applications in VR/AR and embodied AI. In this work, we address the\nchallenging task of synthesizing multiple 3D assets within a single scene\nimage. Concretely, our contributions are fourfold: (i) we present SceneGen, a\nnovel framework that takes a scene image and corresponding object masks as\ninput, simultaneously producing multiple 3D assets with geometry and texture.\nNotably, SceneGen operates with no need for optimization or asset retrieval;\n(ii) we introduce a novel feature aggregation module that integrates local and\nglobal scene information from visual and geometric encoders within the feature\nextraction module. Coupled with a position head, this enables the generation of\n3D assets and their relative spatial positions in a single feedforward pass;\n(iii) we demonstrate SceneGen's direct extensibility to multi-image input\nscenarios. Despite being trained solely on single-image inputs, our\narchitectural design enables improved generation performance with multi-image\ninputs; and (iv) extensive quantitative and qualitative evaluations confirm the\nefficiency and robust generation abilities of our approach. We believe this\nparadigm offers a novel solution for high-quality 3D content generation,\npotentially advancing its practical applications in downstream tasks. The code\nand model will be publicly available at: https://mengmouxu.github.io/SceneGen.",
+      "source": "arxiv.org",
+      "ts": "2025-08-21T17:59:16Z",
+      "score": 54.81
+    },
+    {
+      "id": "44d2bffe1ce8",
+      "title": "Discovering Hidden Algebraic Structures via Transformers with Rank-Aware\n  Beam GRPO",
+      "url": "http://arxiv.org/abs/2508.15766v1",
+      "summary": "Recent efforts have extended the capabilities of transformers in logical\nreasoning and symbolic computations. In this work, we investigate their\ncapacity for non-linear latent pattern discovery in the context of functional\ndecomposition, focusing on the challenging algebraic task of multivariate\npolynomial decomposition. This problem, with widespread applications in science\nand engineering, is proved to be NP-hard, and demands both precision and\ninsight. Our contributions are threefold: First, we develop a synthetic data\ngeneration pipeline providing fine-grained control over problem complexity.\nSecond, we train transformer models via supervised learning and evaluate them\nacross four key dimensions involving scaling behavior and generalizability.\nThird, we propose Beam Grouped Relative Policy Optimization (BGRPO), a\nrank-aware reinforcement learning method suitable for hard algebraic problems.\nFinetuning with BGRPO improves accuracy while reducing beam width by up to\nhalf, resulting in approximately 75% lower inference compute. Additionally, our\nmodel demonstrates competitive performance in polynomial simplification,\noutperforming Mathematica in various cases.",
+      "source": "arxiv.org",
+      "ts": "2025-08-21T17:58:50Z",
+      "score": 54.8
+    },
+    {
+      "id": "3d08016a4437",
+      "title": "LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on\n  Challenging Queries",
+      "url": "http://arxiv.org/abs/2508.15760v1",
+      "summary": "Tool calling has emerged as a critical capability for AI agents to interact\nwith the real world and solve complex tasks. While the Model Context Protocol\n(MCP) provides a powerful standardized framework for tool integration, there is\na significant gap in benchmarking how well AI agents can effectively solve\nmulti-step tasks using diverse MCP tools in realistic, dynamic scenarios. In\nthis work, we present LiveMCP-101, a benchmark of 101 carefully curated\nreal-world queries, refined through iterative LLM rewriting and manual review,\nthat require coordinated use of multiple MCP tools including web search, file\noperations, mathematical reasoning, and data analysis. Moreover, we introduce a\nnovel evaluation approach that leverages ground-truth execution plans rather\nthan raw API outputs, better reflecting the evolving nature of real-world\nenvironments. Experiments show that even frontier LLMs achieve a success rate\nbelow 60\\%, highlighting major challenges in tool orchestration. Detailed\nablations and error analysis further reveal distinct failure modes and\ninefficiencies in token usage, pointing to concrete directions for advancing\ncurrent models. LiveMCP-101 sets a rigorous standard for evaluating real-world\nagent capabilities, advancing toward autonomous AI systems that reliably\nexecute complex tasks through tool use.",
+      "source": "arxiv.org",
+      "ts": "2025-08-21T17:55:54Z",
+      "score": 54.74
+    },
+    {
+      "id": "hn-44964294",
+      "title": "The theory and practice of selling the Aga cooker (1935) [pdf]",
+      "url": "https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf",
       "summary": "",
-      "source": "troydm.github.io",
-      "ts": "2025-08-19T02:00:32Z",
-      "score": 20.25
+      "source": "comeadwithus.wordpress.com",
+      "ts": "2025-08-20T17:52:00Z",
+      "score": 52.51
+    },
+    {
+      "id": "hn-44949172",
+      "title": "Lightning declines over shipping lanes following regulation of sulfur emissions",
+      "url": "https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445",
+      "summary": "",
+      "source": "theconversation.com",
+      "ts": "2025-08-19T07:35:49Z",
+      "score": 52.09
+    },
+    {
+      "id": "hn-44961443",
+      "title": "Why is this hard?",
+      "url": "https://programmersstone.blog/posts/why-is-this-hard/",
+      "summary": "",
+      "source": "programmersstone.blog",
+      "ts": "2025-08-20T12:47:06Z",
+      "score": 48.74
+    },
+    {
+      "id": "549a8d6b7b29",
+      "title": "Scaling domain expertise in complex, regulated domains",
+      "url": "https://openai.com/index/blue-j",
+      "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.",
+      "source": "openai.com",
+      "ts": "2025-08-21T10:00:00Z",
+      "score": 46.4
+    },
+    {
+      "id": "hn-44952572",
+      "title": "What Happened to Egghead Software",
+      "url": "https://dfarq.homeip.net/what-happened-to-egghead-software/",
+      "summary": "",
+      "source": "dfarq.homeip.net",
+      "ts": "2025-08-19T15:18:18Z",
+      "score": 38.67
+    },
+    {
+      "id": "fbc772a06eab",
+      "title": "Mixi reimagines communication with ChatGPT",
+      "url": "https://openai.com/index/mixi",
+      "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
+      "source": "openai.com",
+      "ts": "2025-08-20T17:00:00Z",
+      "score": 32.56
+    },
+    {
+      "id": "hn-44952018",
+      "title": "WebR – R in the Browser",
+      "url": "https://docs.r-wasm.org/webr/latest/",
+      "summary": "",
+      "source": "docs.r-wasm.org",
+      "ts": "2025-08-19T14:36:10Z",
+      "score": 27.65
+    },
+    {
+      "id": "hn-44958492",
+      "title": "The Fancy Rug Dilemma",
+      "url": "https://epan.land/essays/2025-8_FancyRugDilemma",
+      "summary": "",
+      "source": "epan.land",
+      "ts": "2025-08-20T03:52:39Z",
+      "score": 26.86
+    },
+    {
+      "id": "hn-44952696",
+      "title": "David Klein's TWA Posters (2018)",
+      "url": "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/",
+      "summary": "",
+      "source": "flashbak.com",
+      "ts": "2025-08-19T15:27:33Z",
+      "score": 25.51
+    },
+    {
+      "id": "hn-44959292",
+      "title": "Echidna Enters a New Era of Symbolic Execution",
+      "url": "https://gustavo-grieco.github.io/blog/echidna-symexec/",
+      "summary": "",
+      "source": "gustavo-grieco.github.io",
+      "ts": "2025-08-20T06:43:43Z",
+      "score": 22.02
     },
     {
       "id": "99b464916a99",
@@ -457,7 +493,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 1.08
+      "score": 0.84
     },
     {
       "id": "f20ef515ed9f",
@@ -466,7 +502,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.35
+      "score": 0.27
     },
     {
       "id": "c636f03ec0b5",
@@ -475,7 +511,7 @@
       "summary": "<p>The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code changes and metadata to produce a risk score and highlight potentially risky code [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/\" rel=\"nofollow\">Diff Risk Score: AI-driven risk-aware software development</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-06T17:50:51Z",
-      "score": 0.03
+      "score": 0.02
     }
   ]
 }
