@@ -1,31 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45004846",
-      "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
-      "url": "https://twitter.com/zack_overflow/status/1959308058200551721",
+      "id": "hn-45017028",
+      "title": "Google to require developer verification to install and sideload Android apps",
+      "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
       "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-08-24T15:14:34Z",
-      "score": 400.35
-    },
-    {
-      "id": "hn-45008740",
-      "title": "Ghrc.io appears to be malicious",
-      "url": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
-      "summary": "",
-      "source": "bmitch.net",
-      "ts": "2025-08-24T23:27:52Z",
-      "score": 289.0
-    },
-    {
-      "id": "hn-45010183",
-      "title": "Ban me at the IP level if you don't like me",
-      "url": "https://boston.conman.org/2025/08/21.1",
-      "summary": "",
-      "source": "boston.conman.org",
-      "ts": "2025-08-25T04:23:29Z",
-      "score": 272.2
+      "source": "9to5google.com",
+      "ts": "2025-08-25T18:18:18Z",
+      "score": 589.24
     },
     {
       "id": "hn-45010876",
@@ -34,115 +16,88 @@
       "summary": "",
       "source": "jakub.kr",
       "ts": "2025-08-25T06:32:04Z",
-      "score": 261.74
+      "score": 507.56
     },
     {
-      "id": "hn-45006801",
-      "title": "Everything I know about good API design",
-      "url": "https://www.seangoedecke.com/good-api-design/",
+      "id": "hn-45010183",
+      "title": "Ban me at the IP level if you don't like me",
+      "url": "https://boston.conman.org/2025/08/21.1",
       "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-08-24T19:10:09Z",
-      "score": 255.94
+      "source": "boston.conman.org",
+      "ts": "2025-08-25T04:23:29Z",
+      "score": 379.7
     },
     {
-      "id": "hn-45004728",
-      "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
-      "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
+      "id": "hn-45014131",
+      "title": "Show HN: Base, an SQLite database editor for macOS",
+      "url": "https://menial.co.uk/base/",
       "summary": "",
-      "source": "marianogappa.github.io",
-      "ts": "2025-08-24T15:01:24Z",
-      "score": 247.65
+      "source": "menial.co.uk",
+      "ts": "2025-08-25T14:17:38Z",
+      "score": 361.47
     },
     {
-      "id": "hn-45005545",
-      "title": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
-      "url": "https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/",
+      "id": "hn-45014993",
+      "title": "Building the mouse Logitech won't make",
+      "url": "https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods",
       "summary": "",
-      "source": "torrentfreak.com",
-      "ts": "2025-08-24T16:30:18Z",
-      "score": 234.1
+      "source": "samwilkinson.io",
+      "ts": "2025-08-25T15:34:50Z",
+      "score": 284.51
     },
     {
-      "id": "hn-45005434",
-      "title": "We put a coding agent in a while loop",
-      "url": "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md",
+      "id": "hn-45015354",
+      "title": "FCC bars providers for non-compliance with robocall protections",
+      "url": "https://docs.fcc.gov/public/attachments/DOC-414073A1.txt",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-24T16:18:53Z",
-      "score": 223.03
+      "source": "docs.fcc.gov",
+      "ts": "2025-08-25T16:06:24Z",
+      "score": 269.84
     },
     {
-      "id": "hn-45008056",
-      "title": "Uncle Sam shouldn't own Intel stock",
-      "url": "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d",
+      "id": "hn-45013131",
+      "title": "An illustrated guide to OAuth",
+      "url": "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth",
       "summary": "",
-      "source": "wsj.com",
-      "ts": "2025-08-24T21:40:35Z",
-      "score": 202.15
+      "source": "ducktyped.org",
+      "ts": "2025-08-25T12:29:48Z",
+      "score": 251.04
     },
     {
-      "id": "hn-45001778",
-      "title": "It is worth it to buy the fast CPU",
-      "url": "https://blog.howardjohn.info/posts/buy-a-cpu/",
+      "id": "hn-45016720",
+      "title": "Google's Liquid Cooling",
+      "url": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
       "summary": "",
-      "source": "blog.howardjohn.info",
-      "ts": "2025-08-24T06:03:15Z",
-      "score": 195.13
+      "source": "chipsandcheese.com",
+      "ts": "2025-08-25T17:57:18Z",
+      "score": 218.01
     },
     {
-      "id": "hn-45007414",
-      "title": "Halt and Catch Fire Syllabus (2021)",
-      "url": "https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/",
+      "id": "hn-45002182",
+      "title": "A visual introduction to big O notation",
+      "url": "https://samwho.dev/big-o/",
       "summary": "",
-      "source": "bits.ashleyblewer.com",
-      "ts": "2025-08-24T20:19:55Z",
-      "score": 165.28
+      "source": "samwho.dev",
+      "ts": "2025-08-24T07:39:36Z",
+      "score": 208.56
     },
     {
-      "id": "hn-45010161",
-      "title": "Git-Annex",
-      "url": "https://git-annex.branchable.com/",
+      "id": "hn-45013154",
+      "title": "What is a color space?",
+      "url": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts",
       "summary": "",
-      "source": "git-annex.branchable.com",
-      "ts": "2025-08-25T04:18:56Z",
-      "score": 163.47
+      "source": "makingsoftware.com",
+      "ts": "2025-08-25T12:33:13Z",
+      "score": 186.49
     },
     {
-      "id": "hn-45008819",
-      "title": "Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye",
-      "url": "https://dseltzer.gitlab.io/sping/docs/",
+      "id": "hn-45011096",
+      "title": "Scamlexity: When agentic AI browsers get scammed",
+      "url": "https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed",
       "summary": "",
-      "source": "dseltzer.gitlab.io",
-      "ts": "2025-08-24T23:42:01Z",
-      "score": 159.78
-    },
-    {
-      "id": "hn-45003750",
-      "title": "Dynamically patch a Python function's source code at runtime",
-      "url": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/",
-      "summary": "",
-      "source": "ericmjl.github.io",
-      "ts": "2025-08-24T12:28:52Z",
-      "score": 147.68
-    },
-    {
-      "id": "hn-44986723",
-      "title": "Trees on city streets cope with drought by drinking from leaky pipes",
-      "url": "https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/",
-      "summary": "",
-      "source": "newscientist.com",
-      "ts": "2025-08-22T16:46:42Z",
-      "score": 137.1
-    },
-    {
-      "id": "hn-45003073",
-      "title": "YouTube made AI enhancements to videos without warning or permission",
-      "url": "https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-08-24T10:37:15Z",
-      "score": 135.13
+      "source": "guard.io",
+      "ts": "2025-08-25T07:03:56Z",
+      "score": 180.74
     },
     {
       "id": "hn-45009164",
@@ -151,106 +106,25 @@
       "summary": "",
       "source": "simson.net",
       "ts": "2025-08-25T00:46:22Z",
-      "score": 134.54
+      "score": 180.42
     },
     {
-      "id": "hn-44979687",
-      "title": "Y Combinator files brief supporting Epic Games, says store fees stifle startups",
-      "url": "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/",
+      "id": "hn-45013737",
+      "title": "A small change to improve browsers for keyboard navigation",
+      "url": "https://b.43z.one/2025-07-22/",
       "summary": "",
-      "source": "macrumors.com",
-      "ts": "2025-08-22T00:05:37Z",
-      "score": 129.79
+      "source": "b.43z.one",
+      "ts": "2025-08-25T13:40:11Z",
+      "score": 173.2
     },
     {
-      "id": "hn-44980940",
-      "title": "Cloudflare incident on August 21, 2025",
-      "url": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+      "id": "hn-45015814",
+      "title": "The MiniPC Revolution",
+      "url": "https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/",
       "summary": "",
-      "source": "blog.cloudflare.com",
-      "ts": "2025-08-22T04:14:10Z",
-      "score": 129.57
-    },
-    {
-      "id": "hn-44999194",
-      "title": "Materialized views are obviously useful",
-      "url": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
-      "summary": "",
-      "source": "sophiebits.com",
-      "ts": "2025-08-23T21:13:39Z",
-      "score": 128.44
-    },
-    {
-      "id": "hn-44965577",
-      "title": "Claim: GPT-5-pro can prove new interesting mathematics",
-      "url": "https://twitter.com/SebastienBubeck/status/1958198661139009862",
-      "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-08-20T19:42:45Z",
-      "score": 122.54
-    },
-    {
-      "id": "hn-44970769",
-      "title": "The two versions of Parquet",
-      "url": "https://www.jeronimo.dev/the-two-versions-of-parquet/",
-      "summary": "",
-      "source": "jeronimo.dev",
-      "ts": "2025-08-21T09:34:32Z",
-      "score": 119.8
-    },
-    {
-      "id": "hn-45006902",
-      "title": "A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision",
-      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f",
-      "summary": "",
-      "source": "iopscience.iop.org",
-      "ts": "2025-08-24T19:23:19Z",
-      "score": 119.46
-    },
-    {
-      "id": "hn-45006098",
-      "title": "Show HN: I Built a XSLT Blog Framework",
-      "url": "https://vgr.land/content/posts/20250821.xml",
-      "summary": "",
-      "source": "vgr.land",
-      "ts": "2025-08-24T17:38:30Z",
-      "score": 114.51
-    },
-    {
-      "id": "hn-44990839",
-      "title": "Busy beaver hunters reach numbers that overwhelm ordinary math",
-      "url": "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-08-22T22:47:08Z",
-      "score": 111.62
-    },
-    {
-      "id": "hn-45011096",
-      "title": "We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed",
-      "url": "https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed",
-      "summary": "",
-      "source": "guard.io",
-      "ts": "2025-08-25T07:03:56Z",
-      "score": 104.34
-    },
-    {
-      "id": "hn-45008239",
-      "title": "From Hackathon to YC",
-      "url": "https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc",
-      "summary": "",
-      "source": "producthunt.com",
-      "ts": "2025-08-24T22:08:26Z",
-      "score": 103.88
-    },
-    {
-      "id": "hn-45012191",
-      "title": "Cornell's world-first 'microwave brain' computes differently",
-      "url": "https://newatlas.com/computers/cornell-microwave-brain/",
-      "summary": "",
-      "source": "newatlas.com",
-      "ts": "2025-08-25T10:03:53Z",
-      "score": 101.22
+      "source": "jadarma.github.io",
+      "ts": "2025-08-25T16:45:19Z",
+      "score": 163.61
     },
     {
       "id": "hn-45012430",
@@ -259,106 +133,250 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-25T10:43:50Z",
-      "score": 99.74
+      "score": 140.17
     },
     {
-      "id": "hn-45001883",
-      "title": "In-Memory Filesystems in Rust",
-      "url": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/",
+      "id": "hn-45018708",
+      "title": "Llama Fund: Crowdfund AI Models",
+      "url": "https://llama.fund",
       "summary": "",
-      "source": "andre.arko.net",
-      "ts": "2025-08-24T06:33:35Z",
-      "score": 89.5
+      "source": "llama.fund",
+      "ts": "2025-08-25T20:40:39Z",
+      "score": 135.6
     },
     {
-      "id": "hn-45002776",
-      "title": "SmallJS: Smalltalk-80 that compiles to JavaScript",
-      "url": "https://small-js.org/Home/Home.html",
+      "id": "hn-45018773",
+      "title": "Social media's next evolution: decentralized, open-source, and scalable",
+      "url": "https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of",
       "summary": "",
-      "source": "small-js.org",
-      "ts": "2025-08-24T09:29:02Z",
-      "score": 87.54
+      "source": "newpublic.substack.com",
+      "ts": "2025-08-25T20:47:10Z",
+      "score": 132.81
     },
     {
-      "id": "hn-45005986",
-      "title": "The great medieval water myth (2013)",
-      "url": "https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html",
+      "id": "hn-45016542",
+      "title": "IBM's Power11 Processor Architecture",
+      "url": "https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/",
       "summary": "",
-      "source": "leslefts.blogspot.com",
-      "ts": "2025-08-24T17:25:47Z",
-      "score": 81.4
+      "source": "servethehome.com",
+      "ts": "2025-08-25T17:43:13Z",
+      "score": 131.17
     },
     {
-      "id": "hn-44998092",
-      "title": "Will at centre of legal battle over Shakespeare’s home unearthed after 150 years",
-      "url": "https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years",
+      "id": "hn-45016794",
+      "title": "How RubyGems.org protects OSS infrastructure",
+      "url": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
       "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-08-23T18:42:32Z",
-      "score": 74.53
+      "source": "blog.rubygems.org",
+      "ts": "2025-08-25T18:02:51Z",
+      "score": 124.58
     },
     {
-      "id": "3b017074a6ed",
-      "title": "Elon Musk says xAI has open sourced Grok 2.5",
-      "url": "https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/",
-      "summary": "Elon Musk’s xAI has made an older version of its AI model Grok — specifically, the model weights used to shape Grok 2.5 —  available on the open source platform Hugging Face.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-24T14:00:35Z",
-      "score": 70.28
-    },
-    {
-      "id": "hn-45002584",
-      "title": "The SD Association has an official SD card format utility [Win/OS X/Linux]",
-      "url": "https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/",
+      "id": "hn-45018494",
+      "title": "Study finds gaps in evidence for air-cleaning technologies to prevent infections",
+      "url": "https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections",
       "summary": "",
-      "source": "sdcard.org",
-      "ts": "2025-08-24T08:55:56Z",
-      "score": 68.27
+      "source": "news.cuanschutz.edu",
+      "ts": "2025-08-25T20:19:21Z",
+      "score": 115.71
     },
     {
-      "id": "hn-45003358",
-      "title": "Show HN: CasCache – multi-generational cache with optimistic concurrency control",
-      "url": "https://github.com/unkn0wn-root/cascache",
+      "id": "hn-45020109",
+      "title": "Apple wants a sysdiagnose for a feature request",
+      "url": "https://lapcatsoftware.com/articles/2025/8/7.html",
+      "summary": "",
+      "source": "lapcatsoftware.com",
+      "ts": "2025-08-25T22:50:20Z",
+      "score": 112.35
+    },
+    {
+      "id": "hn-45018081",
+      "title": "Fenster: Most minimal cross-platform GUI library",
+      "url": "https://github.com/zserge/fenster",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-08-24T11:24:40Z",
-      "score": 64.72
+      "ts": "2025-08-25T19:41:51Z",
+      "score": 110.9
     },
     {
-      "id": "hn-44979906",
-      "title": "NASA's Juno mission leaves legacy of science at Jupiter",
-      "url": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
-      "summary": "",
-      "source": "scientificamerican.com",
-      "ts": "2025-08-22T00:42:44Z",
-      "score": 64.02
-    },
-    {
-      "id": "hn-44971451",
-      "title": "Stepanov's biggest blunder? The curious case of adjacent difference",
-      "url": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder",
-      "summary": "",
-      "source": "mmapped.blog",
-      "ts": "2025-08-21T11:30:59Z",
-      "score": 51.33
-    },
-    {
-      "id": "388aded09807",
-      "title": "OpenAI warns against SPVs and other ‘unauthorized’ investments",
-      "url": "https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/",
-      "summary": "OpenAI isn't the only AI company looking to crack down on SPVs.",
+      "id": "659a284cb9b8",
+      "title": "Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/",
+      "summary": "The Startup Battlefield 2025 judging panel is getting even stronger. Our first wave of VCs brought serious firepower, and now we’re adding more top investors who will grill founders, unpack the big questions, and help crown this year’s $100,000 champion at TechCrunch Disrupt, October 27–29 in San Francisco’s Moscone West.",
       "source": "techcrunch.com",
-      "ts": "2025-08-23T20:26:46Z",
-      "score": 48.74
+      "ts": "2025-08-25T21:18:48Z",
+      "score": 105.0
     },
     {
-      "id": "5e6c0ea8eb6a",
-      "title": "Amazon AGI Labs chief defends his reverse acquihire",
-      "url": "https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/",
-      "summary": "The former Adept CEO said he hopes to be \"remembered more as \"an AI research innovator\" than a \"a deal structure innovator.\"",
+      "id": "hn-45019950",
+      "title": "Exploring the tragedy of the Counter-Strike 2 server browser",
+      "url": "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/",
+      "summary": "",
+      "source": "bphilip.uk",
+      "ts": "2025-08-25T22:31:50Z",
+      "score": 104.51
+    },
+    {
+      "id": "hn-45018933",
+      "title": "A short proof of the Hairy Ball theorem (2016) [pdf]",
+      "url": "https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf",
+      "summary": "",
+      "source": "www2.math.upenn.edu",
+      "ts": "2025-08-25T20:59:22Z",
+      "score": 104.41
+    },
+    {
+      "id": "ff1de3df638f",
+      "title": "AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit",
+      "url": "https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/",
+      "summary": "Experts say that many of the AI industry’s design decisions are likely to fuel episodes of AI psychosis. Many raised concerns about several tendencies that are unrelated to underlying capability.",
       "source": "techcrunch.com",
-      "ts": "2025-08-23T20:01:04Z",
-      "score": 48.31
+      "ts": "2025-08-25T20:50:31Z",
+      "score": 103.98
+    },
+    {
+      "id": "hn-45015838",
+      "title": "Show HN: Stagewise – frontend coding agent for real codebases",
+      "url": "https://stagewise.io/",
+      "summary": "",
+      "source": "stagewise.io",
+      "ts": "2025-08-25T16:47:11Z",
+      "score": 103.07
+    },
+    {
+      "id": "hn-45018701",
+      "title": "Make the Easy Change Hard",
+      "url": "https://blog.appliedcomputing.io/p/make-the-easy-change-hard",
+      "summary": "",
+      "source": "blog.appliedcomputing.io",
+      "ts": "2025-08-25T20:40:04Z",
+      "score": 100.78
+    },
+    {
+      "id": "hn-45018509",
+      "title": "Reverse Engineering All the Raspberry Pis",
+      "url": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
+      "summary": "",
+      "source": "jeffgeerling.com",
+      "ts": "2025-08-25T20:20:35Z",
+      "score": 99.55
+    },
+    {
+      "id": "hn-45001556",
+      "title": "How to make things slower so they go faster",
+      "url": "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/",
+      "summary": "",
+      "source": "gojiberries.io",
+      "ts": "2025-08-24T05:10:10Z",
+      "score": 98.96
+    },
+    {
+      "id": "a613c28a40cf",
+      "title": "NotebookLM’s Video Overviews feature now supports 80 languages",
+      "url": "https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/",
+      "summary": "NotebookLM’s Video Overviews now supports 80 languages, including French and Spanish.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-25T18:17:57Z",
+      "score": 98.61
+    },
+    {
+      "id": "hn-45018356",
+      "title": "Extending Kafka the Hard Way (Part 1) – Middle of Nowhere",
+      "url": "https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/",
+      "summary": "",
+      "source": "blog.evacchi.dev",
+      "ts": "2025-08-25T20:05:59Z",
+      "score": 97.27
+    },
+    {
+      "id": "hn-45018144",
+      "title": "You're loading fonts wrong (and it's crippling your performance)",
+      "url": "https://www.jonoalderson.com/conjecture/youre-loading-fonts-wrong/",
+      "summary": "",
+      "source": "jonoalderson.com",
+      "ts": "2025-08-25T19:47:00Z",
+      "score": 97.26
+    },
+    {
+      "id": "6beca1aaf0fc",
+      "title": "Elon Musk&#8217;s xAI is suing OpenAI and Apple",
+      "url": "https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit",
+      "summary": "Elon Musk is suing Apple and OpenAI over claims that their deal to build ChatGPT into the iPhone is stifling competition in the AI industry. In a lawsuit filed on Monday, the Musk-owned X Corp. and xAI also accuse Apple’s Apple Store of “deprioritizing” rival chatbots and “super” apps, including Grok and X. Musk’s companies [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-25T16:15:50Z",
+      "score": 94.52
+    },
+    {
+      "id": "67d32a889e5e",
+      "title": "AI doesn’t belong in journaling",
+      "url": "https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app",
+      "summary": "In July 2023, I deleted the Day One journaling app from my phone and laptop. It was perhaps the best thing I've done as a lifelong diarist. The decision was prompted by Apple announcing its Journal app at WWDC that year. In that keynote, Apple said it would use \"on-device machine learning\" to provide prompts [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-25T14:30:00Z",
+      "score": 91.11
+    },
+    {
+      "id": "105353ef8227",
+      "title": "Announcing the OpenAI Learning Accelerator",
+      "url": "https://openai.com/global-affairs/learning-accelerator",
+      "summary": "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.",
+      "source": "openai.com",
+      "ts": "2025-08-25T06:00:00Z",
+      "score": 90.2
+    },
+    {
+      "id": "hn-45002092",
+      "title": "DeepWiki: Understand Any Codebase",
+      "url": "https://www.aitidbits.ai/p/deepwiki",
+      "summary": "",
+      "source": "aitidbits.ai",
+      "ts": "2025-08-24T07:23:30Z",
+      "score": 86.52
+    },
+    {
+      "id": "hn-45010461",
+      "title": "Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code",
+      "url": "https://github.com/jkool702/timep",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-25T05:17:44Z",
+      "score": 74.97
+    },
+    {
+      "id": "hn-45005016",
+      "title": "Playing every game of Wordle simultaneously",
+      "url": "https://chriskw.xyz/2025/08/24/Hyper-Wordle/",
+      "summary": "",
+      "source": "chriskw.xyz",
+      "ts": "2025-08-24T15:34:26Z",
+      "score": 74.77
+    },
+    {
+      "id": "hn-45002048",
+      "title": "How to Fix Your Context",
+      "url": "https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html",
+      "summary": "",
+      "source": "dbreunig.com",
+      "ts": "2025-08-24T07:09:53Z",
+      "score": 74.32
+    },
+    {
+      "id": "hn-45001815",
+      "title": "Turning a Decommissioned iPhone into a UniFi Protect Camera",
+      "url": "https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera",
+      "summary": "",
+      "source": "caseyliss.com",
+      "ts": "2025-08-24T06:13:33Z",
+      "score": 65.08
+    },
+    {
+      "id": "hn-45002896",
+      "title": "The Annotated Transformer",
+      "url": "https://nlp.seas.harvard.edu/annotated-transformer/",
+      "summary": "",
+      "source": "nlp.seas.harvard.edu",
+      "ts": "2025-08-24T09:58:13Z",
+      "score": 52.91
     },
     {
       "id": "7d66260832a0",
@@ -367,7 +385,7 @@
       "summary": "Text-to-3D generation approaches have advanced significantly by leveraging\npretrained 2D diffusion priors, producing high-quality and 3D-consistent\noutputs. However, they often fail to produce out-of-domain (OOD) or rare\nconcepts, yielding inconsistent or inaccurate results. To this end, we propose\nMV-RAG, a novel text-to-3D pipeline that first retrieves relevant 2D images\nfrom a large in-the-wild 2D database and then conditions a multiview diffusion\nmodel on these images to synthesize consistent and accurate multiview outputs.\nTraining such a retrieval-conditioned model is achieved via a novel hybrid\nstrategy bridging structured multiview data and diverse 2D image collections.\nThis involves training on multiview data using augmented conditioning views\nthat simulate retrieval variance for view-specific reconstruction, alongside\ntraining on sets of retrieved real-world 2D images using a distinctive held-out\nview prediction objective: the model predicts the held-out view from the other\nviews to infer 3D consistency from 2D data. To facilitate a rigorous OOD\nevaluation, we introduce a new collection of challenging OOD prompts.\nExperiments against state-of-the-art text-to-3D, image-to-3D, and\npersonalization baselines show that our approach significantly improves 3D\nconsistency, photorealism, and text adherence for OOD/rare concepts, while\nmaintaining competitive performance on standard benchmarks.",
       "source": "arxiv.org",
       "ts": "2025-08-22T17:59:40Z",
-      "score": 33.2
+      "score": 25.84
     },
     {
       "id": "078a4549b9b6",
@@ -376,7 +394,7 @@
       "summary": "This paper presents a hierarchical decision-making framework for autonomous\nnavigation in four-wheel independent steering and driving (4WISD) systems. The\nproposed approach integrates deep reinforcement learning (DRL) for high-level\nnavigation with fuzzy logic for low-level control to ensure both task\nperformance and physical feasibility. The DRL agent generates global motion\ncommands, while the fuzzy logic controller enforces kinematic constraints to\nprevent mechanical strain and wheel slippage. Simulation experiments\ndemonstrate that the proposed framework outperforms traditional navigation\nmethods, offering enhanced training efficiency and stability and mitigating\nerratic behaviors compared to purely DRL-based solutions. Real-world\nvalidations further confirm the framework's ability to navigate safely and\neffectively in dynamic industrial settings. Overall, this work provides a\nscalable and reliable solution for deploying 4WISD mobile robots in complex,\nreal-world scenarios.",
       "source": "arxiv.org",
       "ts": "2025-08-22T17:57:56Z",
-      "score": 33.18
+      "score": 25.82
     },
     {
       "id": "39801ad9b7f6",
@@ -385,7 +403,7 @@
       "summary": "In this paper, we describe and benchmark a competitor-discovery component\nused within an agentic AI system for fast drug asset due diligence. A\ncompetitor-discovery AI agent, given an indication, retrieves all drugs\ncomprising the competitive landscape of that indication and extracts canonical\nattributes for these drugs. The competitor definition is investor-specific, and\ndata is paywalled/licensed, fragmented across registries, ontology-mismatched\nby indication, alias-heavy for drug names, multimodal, and rapidly changing.\nAlthough considered the best tool for this problem, the current LLM-based AI\nsystems aren't capable of reliably retrieving all competing drug names, and\nthere is no accepted public benchmark for this task. To address the lack of\nevaluation, we use LLM-based agents to transform five years of multi-modal,\nunstructured diligence memos from a private biotech VC fund into a structured\nevaluation corpus mapping indications to competitor drugs with normalized\nattributes. We also introduce a competitor validating LLM-as-a-judge agent that\nfilters out false positives from the list of predicted competitors to maximize\nprecision and suppress hallucinations. On this benchmark, our\ncompetitor-discovery agent achieves 83% recall, exceeding OpenAI Deep Research\n(65%) and Perplexity Labs (60%). The system is deployed in production with\nenterprise users; in a case study with a biotech VC investment fund, analyst\nturnaround time dropped from 2.5 days to $\\sim$3 hours ($\\sim$20x) for the\ncompetitive analysis.",
       "source": "arxiv.org",
       "ts": "2025-08-22T17:50:00Z",
-      "score": 33.09
+      "score": 25.75
     },
     {
       "id": "0b9b3f685f6e",
@@ -394,25 +412,7 @@
       "summary": "Netflix has already faced backlash over the use of AI in  What Jennifer Did, director Jenny Popplewell&#8217;s 2024 true crime documentary that seemingly used AI-generated images in place of real archival photos. That documentary stood out as a shining example of gen AI&#8217;s ability to distort reality in situations where people are specifically looking to [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-08-22T21:22:47Z",
-      "score": 30.14
-    },
-    {
-      "id": "00d10d906f4d",
-      "title": "Meta is going to stuff Midjourney AI images into your feed",
-      "url": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
-      "summary": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,” Wang said, suggesting the deal involves more than simply using Midjourney’s existing product across Meta services. Wang [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-22T21:07:04Z",
-      "score": 29.98
-    },
-    {
-      "id": "d249771ab580",
-      "title": "The power shift inside OpenAI",
-      "url": "https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift",
-      "summary": "Fidji Simo is wrapping up her first week at OpenAI, where she is expected to oversee most of the company's roughly 3,000 employees. To investors and partners, OpenAI leaders have been describing the former Instacart CEO as the kind of steady hand the company needs. Her mandate is clear: turn a chaotic, unprofitable startup into [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-22T20:30:05Z",
-      "score": 29.6
+      "score": 23.46
     },
     {
       "id": "1400cbc54bfc",
@@ -421,7 +421,7 @@
       "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
       "source": "openai.com",
       "ts": "2025-08-22T08:30:00Z",
-      "score": 27.24
+      "score": 21.2
     },
     {
       "id": "d406b44971cd",
@@ -430,7 +430,7 @@
       "summary": "Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:54:38Z",
-      "score": 25.49
+      "score": 19.84
     },
     {
       "id": "4f3b81a1a725",
@@ -439,7 +439,7 @@
       "summary": "As the model landscape expands, organizations face complex scenarios when selecting the right foundation model for their applications. In this blog post we present a systematic evaluation methodology for Amazon Bedrock users, combining theoretical frameworks with practical implementation strategies that empower data scientists and machine learning (ML) engineers to make optimal model selections.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:31:28Z",
-      "score": 25.29
+      "score": 19.68
     },
     {
       "id": "70b480da58da",
@@ -448,7 +448,7 @@
       "summary": "In this post, we introduce our open source GenAI IDP Accelerator—a tested solution that we use to help customers across industries address their document processing challenges. Automated document processing workflows accurately extract structured information from documents, reducing manual effort. We will show you how this ready-to-deploy solution can help you build those workflows with generative AI on AWS in days instead of months.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:26:31Z",
-      "score": 25.24
+      "score": 19.65
     },
     {
       "id": "549a8d6b7b29",
@@ -457,16 +457,7 @@
       "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.",
       "source": "openai.com",
       "ts": "2025-08-21T10:00:00Z",
-      "score": 17.05
-    },
-    {
-      "id": "fbc772a06eab",
-      "title": "Mixi reimagines communication with ChatGPT",
-      "url": "https://openai.com/index/mixi",
-      "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
-      "source": "openai.com",
-      "ts": "2025-08-20T17:00:00Z",
-      "score": 11.96
+      "score": 13.27
     },
     {
       "id": "99b464916a99",
@@ -475,7 +466,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 0.31
+      "score": 0.24
     },
     {
       "id": "f20ef515ed9f",
@@ -484,7 +475,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.1
+      "score": 0.08
     },
     {
       "id": "c636f03ec0b5",
