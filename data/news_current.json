@@ -7,7 +7,7 @@
       "summary": "",
       "source": "developers.googleblog.com",
       "ts": "2025-08-26T14:01:46Z",
-      "score": 660.51
+      "score": 831.97
     },
     {
       "id": "hn-45030760",
@@ -16,7 +16,16 @@
       "summary": "",
       "source": "anthropic.com",
       "ts": "2025-08-26T19:01:56Z",
-      "score": 384.41
+      "score": 621.92
+    },
+    {
+      "id": "hn-45034537",
+      "title": "Dissecting the Apple M1 GPU, the end",
+      "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "summary": "",
+      "source": "rosenzweig.io",
+      "ts": "2025-08-27T01:44:16Z",
+      "score": 397.85
     },
     {
       "id": "hn-45029764",
@@ -25,34 +34,7 @@
       "summary": "",
       "source": "reclaimthenet.org",
       "ts": "2025-08-26T17:36:57Z",
-      "score": 282.25
-    },
-    {
-      "id": "hn-45027725",
-      "title": "Framework Laptop 16",
-      "url": "https://frame.work/ro/en/laptop16?tab=whats-new",
-      "summary": "",
-      "source": "frame.work",
-      "ts": "2025-08-26T15:12:30Z",
-      "score": 280.93
-    },
-    {
-      "id": "hn-45028002",
-      "title": "Show HN: A zoomable, searchable archive of BYTE magazine",
-      "url": "https://byte.tsundoku.io",
-      "summary": "",
-      "source": "byte.tsundoku.io",
-      "ts": "2025-08-26T15:34:55Z",
-      "score": 270.18
-    },
-    {
-      "id": "hn-45028785",
-      "title": "Proposal to Ban Ghost Jobs",
-      "url": "https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-08-26T16:27:51Z",
-      "score": 268.16
+      "score": 366.54
     },
     {
       "id": "hn-45024786",
@@ -61,7 +43,52 @@
       "summary": "",
       "source": "stratechery.com",
       "ts": "2025-08-26T10:47:46Z",
-      "score": 266.94
+      "score": 340.61
+    },
+    {
+      "id": "hn-45028785",
+      "title": "Proposal to Ban Ghost Jobs",
+      "url": "https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html",
+      "summary": "",
+      "source": "cnbc.com",
+      "ts": "2025-08-26T16:27:51Z",
+      "score": 305.5
+    },
+    {
+      "id": "hn-45028002",
+      "title": "Show HN: A zoomable, searchable archive of BYTE magazine",
+      "url": "https://byte.tsundoku.io",
+      "summary": "",
+      "source": "byte.tsundoku.io",
+      "ts": "2025-08-26T15:34:55Z",
+      "score": 291.68
+    },
+    {
+      "id": "hn-45035699",
+      "title": "Uncomfortable Questions About Android Developer Verification",
+      "url": "https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html",
+      "summary": "",
+      "source": "commonsware.com",
+      "ts": "2025-08-27T05:14:19Z",
+      "score": 275.62
+    },
+    {
+      "id": "hn-45036231",
+      "title": "Scientist exposes anti-wind groups as oil-funded. Now they want to silence him",
+      "url": "https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/",
+      "summary": "",
+      "source": "electrek.co",
+      "ts": "2025-08-27T06:49:23Z",
+      "score": 255.17
+    },
+    {
+      "id": "hn-45026886",
+      "title": "A teen was suicidal. ChatGPT was the friend he confided in",
+      "url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+      "summary": "",
+      "source": "nytimes.com",
+      "ts": "2025-08-26T14:15:54Z",
+      "score": 253.29
     },
     {
       "id": "hn-45026792",
@@ -70,61 +97,7 @@
       "summary": "",
       "source": "cuimc.columbia.edu",
       "ts": "2025-08-26T14:07:42Z",
-      "score": 218.45
-    },
-    {
-      "id": "hn-45024532",
-      "title": "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
-      "url": "https://markdown-ui.com/",
-      "summary": "",
-      "source": "markdown-ui.com",
-      "ts": "2025-08-26T10:13:24Z",
-      "score": 184.43
-    },
-    {
-      "id": "hn-45029241",
-      "title": "Undisclosed financial conflicts of interest in DSM-5 (2024)",
-      "url": "https://www.bmj.com/content/384/bmj-2023-076902",
-      "summary": "",
-      "source": "bmj.com",
-      "ts": "2025-08-26T16:57:44Z",
-      "score": 167.06
-    },
-    {
-      "id": "hn-45023071",
-      "title": "Interactive map of Paul's first century travels in Roman world",
-      "url": "https://www.intofarlands.com/map-of-pauls-journeys",
-      "summary": "",
-      "source": "intofarlands.com",
-      "ts": "2025-08-26T06:42:58Z",
-      "score": 164.08
-    },
-    {
-      "id": "hn-45031673",
-      "title": "GNU Artanis – A fast web application framework for Scheme",
-      "url": "https://artanis.dev/index.html",
-      "summary": "",
-      "source": "artanis.dev",
-      "ts": "2025-08-26T20:06:29Z",
-      "score": 163.37
-    },
-    {
-      "id": "hn-45030144",
-      "title": "Why do people keep writing about the imaginary compound Cr2Gr2Te6?",
-      "url": "https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html",
-      "summary": "",
-      "source": "righto.com",
-      "ts": "2025-08-26T18:07:07Z",
-      "score": 161.98
-    },
-    {
-      "id": "hn-45031496",
-      "title": "What happens when ambassadors are summoned by the host country?",
-      "url": "https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host",
-      "summary": "",
-      "source": "politics.stackexchange.com",
-      "ts": "2025-08-26T19:52:36Z",
-      "score": 155.12
+      "score": 248.31
     },
     {
       "id": "hn-45023730",
@@ -133,43 +106,25 @@
       "summary": "",
       "source": "andre.arko.net",
       "ts": "2025-08-26T08:15:49Z",
-      "score": 142.39
+      "score": 218.73
     },
     {
-      "id": "hn-45019671",
-      "title": "iOS 18.6.1 0-click RCE POC",
-      "url": "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md",
+      "id": "hn-45031673",
+      "title": "GNU Artanis – A fast web application framework for Scheme",
+      "url": "https://artanis.dev/index.html",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-25T22:05:34Z",
-      "score": 142.29
+      "source": "artanis.dev",
+      "ts": "2025-08-26T20:06:29Z",
+      "score": 208.81
     },
     {
-      "id": "hn-45009760",
-      "title": "Japan has opened its first osmotic power plant",
-      "url": "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka",
+      "id": "hn-45029241",
+      "title": "Undisclosed financial conflicts of interest in DSM-5 (2024)",
+      "url": "https://www.bmj.com/content/384/bmj-2023-076902",
       "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-08-25T02:53:35Z",
-      "score": 140.88
-    },
-    {
-      "id": "hn-45025600",
-      "title": "The Relativity of Wrong (1988)",
-      "url": "https://hermiene.net/essays-trans/relativity_of_wrong.html",
-      "summary": "",
-      "source": "hermiene.net",
-      "ts": "2025-08-26T12:27:55Z",
-      "score": 132.85
-    },
-    {
-      "id": "hn-45026810",
-      "title": "DSLRoot, proxies, and the threat of 'legal botnets'",
-      "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
-      "summary": "",
-      "source": "krebsonsecurity.com",
-      "ts": "2025-08-26T14:08:51Z",
-      "score": 127.89
+      "source": "bmj.com",
+      "ts": "2025-08-26T16:57:44Z",
+      "score": 204.81
     },
     {
       "id": "hn-45002688",
@@ -178,196 +133,34 @@
       "summary": "",
       "source": "fortune.com",
       "ts": "2025-08-24T09:12:14Z",
-      "score": 122.11
+      "score": 204.28
     },
     {
-      "id": "hn-45030714",
-      "title": "\"Special register groups\" invaded computer dictionaries for decades (2019)",
-      "url": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "id": "hn-45009760",
+      "title": "Japan has opened its first osmotic power plant",
+      "url": "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka",
+      "summary": "",
+      "source": "theguardian.com",
+      "ts": "2025-08-25T02:53:35Z",
+      "score": 189.17
+    },
+    {
+      "id": "hn-45036294",
+      "title": "The Therac-25 Incident",
+      "url": "https://thedailywtf.com/articles/the-therac-25-incident",
+      "summary": "",
+      "source": "thedailywtf.com",
+      "ts": "2025-08-27T06:57:56Z",
+      "score": 182.84
+    },
+    {
+      "id": "hn-45030144",
+      "title": "Why do people keep writing about the imaginary compound Cr2Gr2Te6?",
+      "url": "https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html",
       "summary": "",
       "source": "righto.com",
-      "ts": "2025-08-26T18:57:22Z",
-      "score": 121.56
-    },
-    {
-      "id": "hn-45032715",
-      "title": "Why I'm declining your AI generated MR",
-      "url": "https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html",
-      "summary": "",
-      "source": "blog.stuartspence.ca",
-      "ts": "2025-08-26T21:45:58Z",
-      "score": 120.44
-    },
-    {
-      "id": "hn-45013535",
-      "title": "The McPhee method for writing deeply reported nonfiction",
-      "url": "https://jsomers.net/blog/the-mcphee-method",
-      "summary": "",
-      "source": "jsomers.net",
-      "ts": "2025-08-25T13:17:40Z",
-      "score": 120.43
-    },
-    {
-      "id": "hn-45032360",
-      "title": "Proposal: AI Content Disclosure Header",
-      "url": "https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html",
-      "summary": "",
-      "source": "ietf.org",
-      "ts": "2025-08-26T21:08:34Z",
-      "score": 112.6
-    },
-    {
-      "id": "hn-45033114",
-      "title": "The \"Wow!\" signal was likely from extraterrestrial source, and more powerful",
-      "url": "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561",
-      "summary": "",
-      "source": "iflscience.com",
-      "ts": "2025-08-26T22:25:06Z",
-      "score": 111.56
-    },
-    {
-      "id": "hn-45026584",
-      "title": "Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)",
-      "url": "https://www.laphamsquarterly.org/roundtable/deeper-deep",
-      "summary": "",
-      "source": "laphamsquarterly.org",
-      "ts": "2025-08-26T13:52:13Z",
-      "score": 108.81
-    },
-    {
-      "id": "hn-45033563",
-      "title": "Starship 10T minus 10 min",
-      "url": "https://www.spacex.com/",
-      "summary": "",
-      "source": "spacex.com",
-      "ts": "2025-08-26T23:22:14Z",
-      "score": 105.14
-    },
-    {
-      "id": "hn-45027597",
-      "title": "Show HN: Smooth – Faster, cheaper browser agent API",
-      "url": "https://www.smooth.sh/",
-      "summary": "",
-      "source": "smooth.sh",
-      "ts": "2025-08-26T15:05:02Z",
-      "score": 104.31
-    },
-    {
-      "id": "17d23d0dcde0",
-      "title": "Anthropic settles AI book piracy lawsuit",
-      "url": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
-      "summary": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-26T20:38:55Z",
-      "score": 103.64
-    },
-    {
-      "id": "4dc73d749c14",
-      "title": "AI super PACs, the hottest investment in tech",
-      "url": "https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments",
-      "summary": "Hello and welcome to Regulator, a newsletter about the collision between Big Tech and Washington (last week of summer edition). If you enjoy this, consider subscribing to get this newsletter weekly and everything The Verge has to offer. Ever since the US Supreme Court ruled in Citizens United v. FEC that corporations had the right [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-26T20:14:09Z",
-      "score": 102.76
-    },
-    {
-      "id": "f5db3f89a823",
-      "title": "Anthropic launches a Claude AI agent that lives in Chrome",
-      "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
-      "summary": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-26T20:10:59Z",
-      "score": 102.64
-    },
-    {
-      "id": "hn-45032261",
-      "title": "Das Problem mit German Strings",
-      "url": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "summary": "",
-      "source": "polarsignals.com",
-      "ts": "2025-08-26T20:59:35Z",
-      "score": 99.7
-    },
-    {
-      "id": "c0a6c71d530a",
-      "title": "Anthropic settles AI book-training lawsuit with authors",
-      "url": "https://techcrunch.com/2025/08/26/anthropic-settles-ai-book-training-lawsuit-with-authors/",
-      "summary": "Called Bartz v. Anthropic, the case deals with Anthropic's use of books as training material for its large language models.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-26T18:40:46Z",
-      "score": 99.48
-    },
-    {
-      "id": "612d5d281584",
-      "title": "Why the US government is not the savior Intel needs",
-      "url": "https://techcrunch.com/2025/08/26/why-the-u-s-government-is-not-the-savior-intel-needs/",
-      "summary": "Intel doesn't need cash. Instead, the struggling semiconductor giant needs to figure out how to drum up interest for its foundry business.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-26T18:29:01Z",
-      "score": 99.07
-    },
-    {
-      "id": "hn-45020019",
-      "title": "The Leverage Paradox in AI",
-      "url": "https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt",
-      "summary": "",
-      "source": "indiehackers.com",
-      "ts": "2025-08-25T22:40:20Z",
-      "score": 98.61
-    },
-    {
-      "id": "hn-45032276",
-      "title": "LiteLLM (YC W23) is hiring a back end engineer",
-      "url": "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-08-26T21:00:46Z",
-      "score": 95.54
-    },
-    {
-      "id": "f3545b0874a6",
-      "title": "Google is building a Duolingo rival into the Translate app",
-      "url": "https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo",
-      "summary": "Google is putting AI-powered language learning tools into its Translate app. The new feature, rolling out now in beta, can create customized language lessons based on your skill level and your purpose for picking up a new language, such as vacationing in another country. For now, Google Translate can only help English speakers practice Spanish [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-26T16:00:00Z",
-      "score": 94.08
-    },
-    {
-      "id": "aad7c4479a17",
-      "title": "Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/",
-      "summary": "In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-26T18:37:21Z",
-      "score": 90.33
-    },
-    {
-      "id": "cbf71272abd2",
-      "title": "Helping people when they need it most",
-      "url": "https://openai.com/index/helping-people-when-they-need-it-most",
-      "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.",
-      "source": "openai.com",
-      "ts": "2025-08-26T04:00:00Z",
-      "score": 86.59
-    },
-    {
-      "id": "265e85cbbb22",
-      "title": "Enabling Kotlin incremental compilation on Buck2",
-      "url": "https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/",
-      "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-26T16:00:52Z",
-      "score": 85.55
-    },
-    {
-      "id": "hn-45012191",
-      "title": "Cornell's world-first 'microwave brain' computes differently",
-      "url": "https://newatlas.com/computers/cornell-microwave-brain/",
-      "summary": "",
-      "source": "newatlas.com",
-      "ts": "2025-08-25T10:03:53Z",
-      "score": 84.24
+      "ts": "2025-08-26T18:07:07Z",
+      "score": 171.06
     },
     {
       "id": "hn-45006229",
@@ -376,16 +169,151 @@
       "summary": "",
       "source": "livescience.com",
       "ts": "2025-08-24T17:54:47Z",
-      "score": 81.94
+      "score": 168.92
     },
     {
-      "id": "hn-45013572",
-      "title": "Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool",
-      "url": "https://github.com/bkdevs/async-server",
+      "id": "hn-45037904",
+      "title": "Monodraw",
+      "url": "https://monodraw.helftone.com/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-25T13:21:19Z",
-      "score": 79.09
+      "source": "monodraw.helftone.com",
+      "ts": "2025-08-27T10:54:41Z",
+      "score": 143.37
+    },
+    {
+      "id": "hn-45013535",
+      "title": "The McPhee method for writing deeply reported nonfiction",
+      "url": "https://jsomers.net/blog/the-mcphee-method",
+      "summary": "",
+      "source": "jsomers.net",
+      "ts": "2025-08-25T13:17:40Z",
+      "score": 140.21
+    },
+    {
+      "id": "hn-45030714",
+      "title": "\"Special register groups\" invaded computer dictionaries for decades (2019)",
+      "url": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "summary": "",
+      "source": "righto.com",
+      "ts": "2025-08-26T18:57:22Z",
+      "score": 127.29
+    },
+    {
+      "id": "hn-45035685",
+      "title": "The man with a Home Computer (1967) [video]",
+      "url": "https://www.youtube.com/watch?v=w6Ka42eyudA",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-08-27T05:11:18Z",
+      "score": 117.13
+    },
+    {
+      "id": "hn-45036939",
+      "title": "WebLibre: The Privacy-Focused Browser",
+      "url": "https://docs.weblibre.eu/",
+      "summary": "",
+      "source": "docs.weblibre.eu",
+      "ts": "2025-08-27T08:38:58Z",
+      "score": 113.49
+    },
+    {
+      "id": "hn-45037621",
+      "title": "Word documents will be saved to the cloud automatically on Windows going forward",
+      "url": "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/",
+      "summary": "",
+      "source": "ghacks.net",
+      "ts": "2025-08-27T10:19:14Z",
+      "score": 111.43
+    },
+    {
+      "id": "hn-45037947",
+      "title": "QEMU 10.1.0",
+      "url": "https://wiki.qemu.org/ChangeLog/10.1",
+      "summary": "",
+      "source": "wiki.qemu.org",
+      "ts": "2025-08-27T11:02:33Z",
+      "score": 111.14
+    },
+    {
+      "id": "8f2a8a550fd2",
+      "title": "&#8216;Vibe-hacking&#8217; is now a top AI threat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/766435/anthropic-claude-threat-intelligence-report-ai-cybersecurity-hacking",
+      "summary": "\"Agentic AI systems are being weaponized.\" That's one of the first lines of Anthropic's new Threat Intelligence report, out today, which details the wide range of cases in which Claude - and likely many other leading AI agents and chatbots - are being abused. First up: \"Vibe-hacking.\" One sophisticated cybercrime ring that Anthropic says it [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-27T10:00:00Z",
+      "score": 106.68
+    },
+    {
+      "id": "cc0263e185f6",
+      "title": "Model Context Protocols in Adaptive Transport Systems: A Survey",
+      "url": "http://arxiv.org/abs/2508.19239v1",
+      "summary": "The rapid expansion of interconnected devices, autonomous systems, and AI\napplications has created severe fragmentation in adaptive transport systems,\nwhere diverse protocols and context sources remain isolated. This survey\nprovides the first systematic investigation of the Model Context Protocol (MCP)\nas a unifying paradigm, highlighting its ability to bridge protocol-level\nadaptation with context-aware decision making. Analyzing established\nliterature, we show that existing efforts have implicitly converged toward\nMCP-like architectures, signaling a natural evolution from fragmented solutions\nto standardized integration frameworks. We propose a five-category taxonomy\ncovering adaptive mechanisms, context-aware frameworks, unification models,\nintegration strategies, and MCP-enabled architectures. Our findings reveal\nthree key insights: traditional transport protocols have reached the limits of\nisolated adaptation, MCP's client-server and JSON-RPC structure enables\nsemantic interoperability, and AI-driven transport demands integration\nparadigms uniquely suited to MCP. Finally, we present a research roadmap\npositioning MCP as a foundation for next-generation adaptive, context-aware,\nand intelligent transport infrastructures.",
+      "source": "arxiv.org",
+      "ts": "2025-08-26T17:58:56Z",
+      "score": 90.31
+    },
+    {
+      "id": "d73b29c143ea",
+      "title": "StepWiser: Stepwise Generative Judges for Wiser Reasoning",
+      "url": "http://arxiv.org/abs/2508.19229v1",
+      "summary": "As models increasingly leverage multi-step reasoning strategies to solve\ncomplex problems, supervising the logical validity of these intermediate steps\nhas become a critical research challenge. Process reward models address this by\nproviding step-by-step feedback, but current approaches have two major\ndrawbacks: they typically function as classifiers without providing\nexplanations, and their reliance on supervised fine-tuning with static datasets\nlimits generalization. Inspired by recent advances, we reframe stepwise reward\nmodeling from a classification task to a reasoning task itself. We thus propose\na generative judge that reasons about the policy model's reasoning steps (i.e.,\nmeta-reasons), outputting thinking tokens before delivering a final verdict.\nOur model, StepWiser, is trained by reinforcement learning using relative\noutcomes of rollouts. We show it provides (i) better judgment accuracy on\nintermediate steps than existing methods; (ii) can be used to improve the\npolicy model at training time; and (iii) improves inference-time search.",
+      "source": "arxiv.org",
+      "ts": "2025-08-26T17:45:05Z",
+      "score": 89.87
+    },
+    {
+      "id": "e240bdefa917",
+      "title": "Assort Health nabs $50M to automate patient phone calls, sources say",
+      "url": "https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/",
+      "summary": "The company's AI voice agents are designed to take over high-volume, repetitive tasks like scheduling, cancellations, and frequently asked questions normally managed by front desk staff.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-27T01:08:13Z",
+      "score": 88.69
+    },
+    {
+      "id": "1d6fc1a29e85",
+      "title": "Microsoft headquarters go into lockdown after activists take over Brad Smith’s office",
+      "url": "https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/",
+      "summary": "The incident is the latest escalation by current and former employees who are demanding the company end its cloud contracts with Israel.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-26T23:32:17Z",
+      "score": 85.79
+    },
+    {
+      "id": "17d23d0dcde0",
+      "title": "Anthropic settles AI book piracy lawsuit",
+      "url": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
+      "summary": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-26T20:38:55Z",
+      "score": 80.78
+    },
+    {
+      "id": "4dc73d749c14",
+      "title": "AI super PACs, the hottest investment in tech",
+      "url": "https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments",
+      "summary": "Hello and welcome to Regulator, a newsletter about the collision between Big Tech and Washington (last week of summer edition). If you enjoy this, consider subscribing to get this newsletter weekly and everything The Verge has to offer. Ever since the US Supreme Court ruled in Citizens United v. FEC that corporations had the right [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-26T20:14:09Z",
+      "score": 80.09
+    },
+    {
+      "id": "f5db3f89a823",
+      "title": "Anthropic launches a Claude AI agent that lives in Chrome",
+      "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
+      "summary": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-26T20:10:59Z",
+      "score": 80.0
+    },
+    {
+      "id": "hn-45032276",
+      "title": "LiteLLM (YC W23) is hiring a back end engineer",
+      "url": "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-08-26T21:00:46Z",
+      "score": 74.59
     },
     {
       "id": "hn-45013199",
@@ -394,70 +322,7 @@
       "summary": "",
       "source": "utcc.utoronto.ca",
       "ts": "2025-08-25T12:39:46Z",
-      "score": 70.59
-    },
-    {
-      "id": "824e1f26346b",
-      "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual\n  Manipulation",
-      "url": "http://arxiv.org/abs/2508.18268v1",
-      "summary": "Bimanual manipulation has been widely applied in household services and\nmanufacturing, which enables the complex task completion with coordination\nrequirements. Recent diffusion-based policy learning approaches have achieved\npromising performance in modeling action distributions for bimanual\nmanipulation. However, they ignored the physical safety constraints of bimanual\nmanipulation, which leads to the dangerous behaviors with damage to robots and\nobjects. To this end, we propose a test-time trajectory optimization framework\nnamed SafeBimanual for any pre-trained diffusion-based bimanual manipulation\npolicies, which imposes the safety constraints on bimanual actions to avoid\ndangerous robot behaviors with improved success rate. Specifically, we design\ndiverse cost functions for safety constraints in different dual-arm cooperation\npatterns including avoidance of tearing objects and collision between arms and\nobjects, which optimizes the manipulator trajectories with guided sampling of\ndiffusion denoising process. Moreover, we employ a vision-language model (VLM)\nto schedule the cost functions by specifying keypoints and corresponding\npairwise relationship, so that the optimal safety constraint is dynamically\ngenerated in the entire bimanual manipulation process. SafeBimanual\ndemonstrates superiority on 8 simulated tasks in RoboTwin with a 13.7% increase\nin success rate and a 18.8% reduction in unsafe interactions over\nstate-of-the-art diffusion-based methods. Extensive experiments on 4 real-world\ntasks further verify its practical value by improving the success rate by\n32.5%.",
-      "source": "arxiv.org",
-      "ts": "2025-08-25T17:59:02Z",
-      "score": 70.28
-    },
-    {
-      "id": "f56f79f6e875",
-      "title": "ANO : Faster is Better in Noisy Landscape",
-      "url": "http://arxiv.org/abs/2508.18258v1",
-      "summary": "Stochastic optimizers are central to deep learning, yet widely used methods\nsuch as Adam and Adan can degrade in non-stationary or noisy environments,\npartly due to their reliance on momentum-based magnitude estimates. We\nintroduce Ano, a novel optimizer that decouples direction and magnitude:\nmomentum is used for directional smoothing, while instantaneous gradient\nmagnitudes determine step size. This design improves robustness to gradient\nnoise while retaining the simplicity and efficiency of first-order methods. We\nfurther propose Anolog, which removes sensitivity to the momentum coefficient\nby expanding its window over time via a logarithmic schedule. We establish\nnon-convex convergence guarantees with a convergence rate similar to other\nsign-based methods, and empirically show that Ano provides substantial gains in\nnoisy and non-stationary regimes such as reinforcement learning, while\nremaining competitive on low-noise tasks such as standard computer vision\nbenchmarks.",
-      "source": "arxiv.org",
-      "ts": "2025-08-25T17:51:00Z",
-      "score": 70.09
-    },
-    {
-      "id": "18c5656d475f",
-      "title": "Hermes 4 Technical Report",
-      "url": "http://arxiv.org/abs/2508.18255v1",
-      "summary": "We present Hermes 4, a family of hybrid reasoning models that combine\nstructured, multi-turn reasoning with broad instruction-following ability. We\ndescribe the challenges encountered during data curation, synthesis, training,\nand evaluation, and outline the solutions employed to address these challenges\nat scale. We comprehensively evaluate across mathematical reasoning, coding,\nknowledge, comprehension, and alignment benchmarks, and we report both\nquantitative performance and qualitative behavioral analysis. To support open\nresearch, all model weights are published publicly at\nhttps://huggingface.co/collections/NousResearch/hermes-4-collection-68a731bfd452e20816725728",
-      "source": "arxiv.org",
-      "ts": "2025-08-25T17:45:06Z",
-      "score": 69.94
-    },
-    {
-      "id": "hn-45013170",
-      "title": "All the world’s polygons",
-      "url": "https://www.sum.si/journal-articles/all-the-worlds-polygons",
-      "summary": "",
-      "source": "sum.si",
-      "ts": "2025-08-25T12:35:41Z",
-      "score": 65.12
-    },
-    {
-      "id": "hn-45012776",
-      "title": "Show HN: Diggit.dev – Git history for architecture archaeologists",
-      "url": "https://diggit.dev",
-      "summary": "",
-      "source": "diggit.dev",
-      "ts": "2025-08-25T11:42:14Z",
-      "score": 63.63
-    },
-    {
-      "id": "105353ef8227",
-      "title": "Announcing the OpenAI Learning Accelerator",
-      "url": "https://openai.com/global-affairs/learning-accelerator",
-      "summary": "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.",
-      "source": "openai.com",
-      "ts": "2025-08-25T06:00:00Z",
-      "score": 54.75
-    },
-    {
-      "id": "hn-44996641",
-      "title": "Cascata delle Marmore",
-      "url": "https://en.wikipedia.org/wiki/Cascata_delle_Marmore",
-      "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-08-23T15:24:02Z",
-      "score": 30.25
+      "score": 70.71
     },
     {
       "id": "hn-44994535",
@@ -466,7 +331,115 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-23T09:07:38Z",
-      "score": 24.94
+      "score": 70.49
+    },
+    {
+      "id": "aad7c4479a17",
+      "title": "Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/",
+      "summary": "In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-26T18:37:21Z",
+      "score": 70.4
+    },
+    {
+      "id": "cbf71272abd2",
+      "title": "Helping people when they need it most",
+      "url": "https://openai.com/index/helping-people-when-they-need-it-most",
+      "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.",
+      "source": "openai.com",
+      "ts": "2025-08-26T04:00:00Z",
+      "score": 67.48
+    },
+    {
+      "id": "265e85cbbb22",
+      "title": "Enabling Kotlin incremental compilation on Buck2",
+      "url": "https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/",
+      "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-08-26T16:00:52Z",
+      "score": 66.68
+    },
+    {
+      "id": "hn-44995865",
+      "title": "Light pollution prolongs avian activity",
+      "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
+      "summary": "",
+      "source": "gizmodo.com",
+      "ts": "2025-08-23T13:32:36Z",
+      "score": 61.53
+    },
+    {
+      "id": "hn-44996641",
+      "title": "Cascata delle Marmore",
+      "url": "https://en.wikipedia.org/wiki/Cascata_delle_Marmore",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-08-23T15:24:02Z",
+      "score": 60.29
+    },
+    {
+      "id": "hn-45000142",
+      "title": "Integer continued fractions for complex numbers",
+      "url": "https://arxiv.org/abs/2508.15078",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-08-24T00:09:57Z",
+      "score": 58.02
+    },
+    {
+      "id": "hn-45007525",
+      "title": "Reverse Engineered Raspberry Pi Compute Module 5",
+      "url": "https://github.com/schlae/cm5-reveng",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-24T20:34:49Z",
+      "score": 55.18
+    },
+    {
+      "id": "105353ef8227",
+      "title": "Announcing the OpenAI Learning Accelerator",
+      "url": "https://openai.com/global-affairs/learning-accelerator",
+      "summary": "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.",
+      "source": "openai.com",
+      "ts": "2025-08-25T06:00:00Z",
+      "score": 42.67
+    },
+    {
+      "id": "hn-45006686",
+      "title": "Show HN: FilterQL – A tiny query language for filtering structured data",
+      "url": "https://github.com/adamhl8/filterql",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-24T18:55:01Z",
+      "score": 33.86
+    },
+    {
+      "id": "hn-44998276",
+      "title": "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
+      "url": "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/",
+      "summary": "",
+      "source": "shayon.dev",
+      "ts": "2025-08-23T19:05:31Z",
+      "score": 30.26
+    },
+    {
+      "id": "hn-45005209",
+      "title": "Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering",
+      "url": "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/",
+      "summary": "",
+      "source": "jgeekstudies.org",
+      "ts": "2025-08-24T15:53:58Z",
+      "score": 29.87
+    },
+    {
+      "id": "hn-45006882",
+      "title": "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
+      "url": "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm",
+      "summary": "",
+      "source": "blog.ericgoldman.org",
+      "ts": "2025-08-24T19:20:46Z",
+      "score": 28.09
     },
     {
       "id": "1400cbc54bfc",
@@ -475,7 +448,7 @@
       "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
       "source": "openai.com",
       "ts": "2025-08-22T08:30:00Z",
-      "score": 12.87
+      "score": 10.03
     },
     {
       "id": "d406b44971cd",
@@ -484,7 +457,7 @@
       "summary": "Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:54:38Z",
-      "score": 12.04
+      "score": 9.39
     },
     {
       "id": "4f3b81a1a725",
@@ -493,7 +466,7 @@
       "summary": "As the model landscape expands, organizations face complex scenarios when selecting the right foundation model for their applications. In this blog post we present a systematic evaluation methodology for Amazon Bedrock users, combining theoretical frameworks with practical implementation strategies that empower data scientists and machine learning (ML) engineers to make optimal model selections.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:31:28Z",
-      "score": 11.95
+      "score": 9.31
     },
     {
       "id": "99b464916a99",
@@ -502,7 +475,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 0.15
+      "score": 0.11
     },
     {
       "id": "f20ef515ed9f",
@@ -511,7 +484,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.05
+      "score": 0.04
     }
   ]
 }
