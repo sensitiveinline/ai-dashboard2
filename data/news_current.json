@@ -1,49 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45034537",
-      "title": "Dissecting the Apple M1 GPU, the end",
-      "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "id": "hn-45045398",
+      "title": "Google has eliminated 35% of managers overseeing small teams in past year",
+      "url": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html",
       "summary": "",
-      "source": "rosenzweig.io",
-      "ts": "2025-08-27T01:44:16Z",
-      "score": 524.95
-    },
-    {
-      "id": "hn-45037904",
-      "title": "Monodraw",
-      "url": "https://monodraw.helftone.com/",
-      "summary": "",
-      "source": "monodraw.helftone.com",
-      "ts": "2025-08-27T10:54:41Z",
-      "score": 431.13
-    },
-    {
-      "id": "hn-45036294",
-      "title": "The Therac-25 Incident (2021)",
-      "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-      "summary": "",
-      "source": "thedailywtf.com",
-      "ts": "2025-08-27T06:57:56Z",
-      "score": 299.46
-    },
-    {
-      "id": "hn-45037947",
-      "title": "QEMU 10.1.0",
-      "url": "https://wiki.qemu.org/ChangeLog/10.1",
-      "summary": "",
-      "source": "wiki.qemu.org",
-      "ts": "2025-08-27T11:02:33Z",
-      "score": 231.34
-    },
-    {
-      "id": "hn-45034496",
-      "title": "Malicious versions of Nx and some supporting plugins were published",
-      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-27T01:38:48Z",
-      "score": 226.03
+      "source": "cnbc.com",
+      "ts": "2025-08-27T21:16:56Z",
+      "score": 360.01
     },
     {
       "id": "hn-45041286",
@@ -52,16 +16,34 @@
       "summary": "",
       "source": "lubeno.dev",
       "ts": "2025-08-27T15:48:07Z",
-      "score": 218.99
+      "score": 324.98
     },
     {
-      "id": "hn-45042461",
-      "title": "A failure of security systems at PayPal is causing concern for German banks",
-      "url": "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187",
+      "id": "hn-45046916",
+      "title": "Altered states of consciousness induced by breathwork accompanied by music",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
       "summary": "",
-      "source": "nordbayern.de",
-      "ts": "2025-08-27T17:28:20Z",
-      "score": 206.4
+      "source": "journals.plos.org",
+      "ts": "2025-08-28T00:22:24Z",
+      "score": 305.56
+    },
+    {
+      "id": "hn-45037365",
+      "title": "The GitHub website is slow on Safari",
+      "url": "https://github.com/orgs/community/discussions/170758",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-27T09:43:43Z",
+      "score": 295.49
+    },
+    {
+      "id": "hn-45034496",
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-27T01:38:48Z",
+      "score": 288.23
     },
     {
       "id": "hn-45041315",
@@ -70,115 +52,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-08-27T15:50:54Z",
-      "score": 196.27
-    },
-    {
-      "id": "hn-45033114",
-      "title": "The “Wow!” signal was likely from extraterrestrial source, and more powerful",
-      "url": "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561",
-      "summary": "",
-      "source": "iflscience.com",
-      "ts": "2025-08-26T22:25:06Z",
-      "score": 184.1
-    },
-    {
-      "id": "hn-45045398",
-      "title": "Google has eliminated 35% of managers overseeing small teams in past year",
-      "url": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-08-27T21:16:56Z",
-      "score": 174.69
-    },
-    {
-      "id": "hn-45044168",
-      "title": "Mapping connections of anti-offshore wind groups and their lawyers",
-      "url": "https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte",
-      "summary": "",
-      "source": "climatedevlab.brown.edu",
-      "ts": "2025-08-27T19:44:12Z",
-      "score": 170.46
-    },
-    {
-      "id": "hn-45041743",
-      "title": "GMP damaging Zen 5 CPUs?",
-      "url": "https://gmplib.org/gmp-zen5",
-      "summary": "",
-      "source": "gmplib.org",
-      "ts": "2025-08-27T16:24:12Z",
-      "score": 167.26
-    },
-    {
-      "id": "hn-45041807",
-      "title": "Typepad is shutting down",
-      "url": "https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html",
-      "summary": "",
-      "source": "everything.typepad.com",
-      "ts": "2025-08-27T16:28:20Z",
-      "score": 162.58
-    },
-    {
-      "id": "hn-45038260",
-      "title": "How to slow down a program and why it can be useful",
-      "url": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
-      "summary": "",
-      "source": "stefan-marr.de",
-      "ts": "2025-08-27T11:38:35Z",
-      "score": 151.92
-    },
-    {
-      "id": "hn-45023857",
-      "title": "Object-oriented design patterns in C and kernel development",
-      "url": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
-      "summary": "",
-      "source": "oshub.org",
-      "ts": "2025-08-26T08:34:15Z",
-      "score": 151.84
-    },
-    {
-      "id": "hn-45039301",
-      "title": "Implementing Forth in Go and C",
-      "url": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
-      "summary": "",
-      "source": "eli.thegreenplace.net",
-      "ts": "2025-08-27T13:19:11Z",
-      "score": 149.29
-    },
-    {
-      "id": "hn-45038710",
-      "title": "Bring Your Own Agent to Zed – Featuring Gemini CLI",
-      "url": "https://zed.dev/blog/bring-your-own-agent-to-zed",
-      "summary": "",
-      "source": "zed.dev",
-      "ts": "2025-08-27T12:25:38Z",
-      "score": 144.2
-    },
-    {
-      "id": "hn-45041397",
-      "title": "Kiwi.com flight search MCP server",
-      "url": "https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search",
-      "summary": "",
-      "source": "mcp-install-instructions.alpic.cloud",
-      "ts": "2025-08-27T15:56:40Z",
-      "score": 138.84
-    },
-    {
-      "id": "hn-45036939",
-      "title": "WebLibre: The Privacy-Focused Browser",
-      "url": "https://docs.weblibre.eu/",
-      "summary": "",
-      "source": "docs.weblibre.eu",
-      "ts": "2025-08-27T08:38:58Z",
-      "score": 136.39
-    },
-    {
-      "id": "hn-45045500",
-      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
-      "url": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
-      "summary": "",
-      "source": "news.fsu.edu",
-      "ts": "2025-08-27T21:27:13Z",
-      "score": 130.63
+      "score": 251.25
     },
     {
       "id": "hn-45045307",
@@ -187,16 +61,70 @@
       "summary": "",
       "source": "yamanot.es",
       "ts": "2025-08-27T21:08:49Z",
-      "score": 119.22
+      "score": 232.0
     },
     {
-      "id": "hn-45039661",
-      "title": "What We Find in the Sewers",
-      "url": "https://www.asimov.press/p/sewers",
+      "id": "hn-45042461",
+      "title": "A failure of security systems at PayPal is causing concern for German banks",
+      "url": "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187",
       "summary": "",
-      "source": "asimov.press",
-      "ts": "2025-08-27T13:50:59Z",
-      "score": 112.99
+      "source": "nordbayern.de",
+      "ts": "2025-08-27T17:28:20Z",
+      "score": 223.53
+    },
+    {
+      "id": "hn-45048419",
+      "title": "The Deletion of Docker.io/Bitnami",
+      "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+      "summary": "",
+      "source": "community.broadcom.com",
+      "ts": "2025-08-28T04:37:12Z",
+      "score": 222.3
+    },
+    {
+      "id": "hn-45044440",
+      "title": "Beginning 1 September, we will need to geoblock Mississippi IPs",
+      "url": "https://dw-news.dreamwidth.org/44429.html",
+      "summary": "",
+      "source": "dw-news.dreamwidth.org",
+      "ts": "2025-08-27T20:03:01Z",
+      "score": 216.52
+    },
+    {
+      "id": "hn-45048473",
+      "title": "Sci-Hub has been blocked in India",
+      "url": "https://sci-hub.se/sci-hub-blocked-india",
+      "summary": "",
+      "source": "sci-hub.se",
+      "ts": "2025-08-28T04:47:01Z",
+      "score": 199.8
+    },
+    {
+      "id": "hn-45041743",
+      "title": "GMP damaging Zen 5 CPUs?",
+      "url": "https://gmplib.org/gmp-zen5",
+      "summary": "",
+      "source": "gmplib.org",
+      "ts": "2025-08-27T16:24:12Z",
+      "score": 192.62
+    },
+    {
+      "id": "hn-45045500",
+      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
+      "url": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
+      "summary": "",
+      "source": "news.fsu.edu",
+      "ts": "2025-08-27T21:27:13Z",
+      "score": 177.88
+    },
+    {
+      "id": "hn-45023857",
+      "title": "Object-oriented design patterns in C and kernel development",
+      "url": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
+      "summary": "",
+      "source": "oshub.org",
+      "ts": "2025-08-26T08:34:15Z",
+      "score": 174.43
     },
     {
       "id": "hn-44998010",
@@ -205,133 +133,79 @@
       "summary": "",
       "source": "thedrive.com",
       "ts": "2025-08-23T18:29:05Z",
-      "score": 111.19
+      "score": 166.1
     },
     {
-      "id": "hn-45045328",
-      "title": "Nvidia Sales Jump 56%, a Sign the A.I. Boom Isn't Slowing Down",
-      "url": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
+      "id": "hn-45039301",
+      "title": "Implementing Forth in Go and C",
+      "url": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
       "summary": "",
-      "source": "nytimes.com",
-      "ts": "2025-08-27T21:11:27Z",
-      "score": 107.31
+      "source": "eli.thegreenplace.net",
+      "ts": "2025-08-27T13:19:11Z",
+      "score": 156.04
     },
     {
-      "id": "hn-45045116",
-      "title": "Show HN: Meetup.com and eventribe alternative to small groups",
-      "url": "https://github.com/polaroi8d/cactoide",
+      "id": "hn-45038260",
+      "title": "How to slow down a program and why it can be useful",
+      "url": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-27T20:53:51Z",
-      "score": 106.13
+      "source": "stefan-marr.de",
+      "ts": "2025-08-27T11:38:35Z",
+      "score": 150.27
     },
     {
-      "id": "0f9eae9e5a39",
-      "title": "Nvidia reports record sales as the AI boom continues",
-      "url": "https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/",
-      "summary": "Nvidia's revenue hit $46.7 billion in the second quarter, a 56% increase compared to the same period last year.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-27T21:18:39Z",
-      "score": 105.1
-    },
-    {
-      "id": "d71f5892568d",
-      "title": "911 centers are so understaffed, they’re turning to AI to answer calls",
-      "url": "https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/",
-      "summary": "The company offers an AI voice assistant that helps 911 centers handle non-emergency calls.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-27T20:42:12Z",
-      "score": 103.78
-    },
-    {
-      "id": "hn-45045315",
-      "title": "Hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says",
-      "url": "https://www.nbcnews.com/tech/security/hacker-used-ai-automate-unprecedented-cybercrime-spree-anthropic-says-rcna227309",
+      "id": "hn-45047659",
+      "title": "Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]",
+      "url": "https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf",
       "summary": "",
-      "source": "nbcnews.com",
-      "ts": "2025-08-27T21:09:48Z",
-      "score": 102.45
+      "source": "digitaleconomy.stanford.edu",
+      "ts": "2025-08-28T02:28:19Z",
+      "score": 136.31
     },
     {
-      "id": "hn-45046124",
-      "title": "Asahi Linux Lead Developer Steps Down",
-      "url": "https://linuxiac.com/asahi-linux-lead-developer-steps-down/",
+      "id": "hn-45050192",
+      "title": "Windows 11 Update KB5063878 Causing SSD Failures",
+      "url": "https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/",
       "summary": "",
-      "source": "linuxiac.com",
-      "ts": "2025-08-27T22:29:00Z",
-      "score": 102.11
+      "source": "old.reddit.com",
+      "ts": "2025-08-28T09:31:13Z",
+      "score": 134.42
     },
     {
-      "id": "d0a275a71f36",
-      "title": "Google and Grok are catching up to ChatGPT, says a16z’s latest AI report",
-      "url": "https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/",
-      "summary": "The report, in its fifth iteration, showcases two and a half years of data about consumers' evolving use of AI products.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-27T19:27:01Z",
-      "score": 101.1
-    },
-    {
-      "id": "c0befc27d3c6",
-      "title": "Microsoft&#8217;s Copilot AI is now inside Samsung TVs and monitors",
-      "url": "https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch",
-      "summary": "Microsoft’s Copilot AI assistant is officially coming to TVs, starting with Samsung’s 2025 lineup of TVs and smart monitors. With the integration, you can call upon Copilot and ask for movie suggestions, spoiler-free episode recaps, and other general questions. On TV, Copilot takes on a “friendly, animated presence” that resembles the opalescent Copilot Appearance Microsoft [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-27T18:48:14Z",
-      "score": 99.75
-    },
-    {
-      "id": "36bc196e70e9",
-      "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
-      "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
-      "summary": "OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.",
-      "source": "openai.com",
-      "ts": "2025-08-27T10:00:00Z",
-      "score": 98.13
-    },
-    {
-      "id": "d9814d7912cc",
-      "title": "OpenAI will add parental controls for ChatGPT following teen’s death",
-      "url": "https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death",
-      "summary": "After a 16-year-old took his own life&#160;following months of confiding in ChatGPT, OpenAI will be introducing parental controls and is considering additional safeguards, the company said in a Tuesday blog post. OpenAI said it&#8217;s exploring features like setting an emergency contact who can be&#160;reached&#160;with “one-click messages or calls” within ChatGPT, as well as an opt-in [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-27T16:19:14Z",
-      "score": 94.72
-    },
-    {
-      "id": "a44964efcd3a",
-      "title": "Google will now let everyone use its AI-powered video editor Vids",
-      "url": "https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video",
-      "summary": "Google is rolling out a basic version of Vids to everyone. Until now, the AI-powered video editor has only been available to Google Workspace or AI plan subscribers, but now users can broadly access the app with templates, stock media, and a “subset of AI capabilities,” product director Vishnu Sivaji tells The Verge. Launched last [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-27T14:04:40Z",
-      "score": 90.4
-    },
-    {
-      "id": "hn-45006882",
-      "title": "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
-      "url": "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm",
+      "id": "hn-45047897",
+      "title": "Certificates for Onion Services",
+      "url": "https://onionservices.torproject.org/research/proposals/usability/certificates/",
       "summary": "",
-      "source": "blog.ericgoldman.org",
-      "ts": "2025-08-24T19:20:46Z",
-      "score": 90.06
+      "source": "onionservices.torproject.org",
+      "ts": "2025-08-28T03:05:42Z",
+      "score": 130.79
     },
     {
-      "id": "hn-45042175",
-      "title": "Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)",
-      "url": "https://www.ycombinator.com/companies/lago/jobs",
+      "id": "hn-45047460",
+      "title": "Open Source is one person",
+      "url": "https://opensourcesecurity.io/2025/08-oss-one-person/",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-08-27T17:01:06Z",
-      "score": 87.97
+      "source": "opensourcesecurity.io",
+      "ts": "2025-08-28T01:54:59Z",
+      "score": 119.75
     },
     {
-      "id": "c33ca5038ce1",
-      "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
-      "summary": "In this post, we announce that Mercury and Mercury Coder foundation models from Inception Labs are now available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. We demonstrate how to deploy these ultra-fast diffusion-based language models that can generate up to 1,100 tokens per second on NVIDIA H100 GPUs, and showcase their capabilities in code generation and tool use scenarios.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-27T15:39:06Z",
-      "score": 84.92
+      "id": "hn-45036754",
+      "title": "Malleable Software",
+      "url": "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/",
+      "summary": "",
+      "source": "mdubakov.me",
+      "ts": "2025-08-27T08:04:02Z",
+      "score": 117.7
+    },
+    {
+      "id": "hn-45050428",
+      "title": "OpenRouter is down",
+      "url": "https://status.openrouter.ai",
+      "summary": "",
+      "source": "status.openrouter.ai",
+      "ts": "2025-08-28T10:17:59Z",
+      "score": 112.59
     },
     {
       "id": "hn-45012995",
@@ -340,34 +214,106 @@
       "summary": "",
       "source": "are.na",
       "ts": "2025-08-25T12:11:38Z",
-      "score": 80.07
+      "score": 111.45
     },
     {
-      "id": "cc0263e185f6",
-      "title": "Model Context Protocols in Adaptive Transport Systems: A Survey",
-      "url": "http://arxiv.org/abs/2508.19239v1",
-      "summary": "The rapid expansion of interconnected devices, autonomous systems, and AI\napplications has created severe fragmentation in adaptive transport systems,\nwhere diverse protocols and context sources remain isolated. This survey\nprovides the first systematic investigation of the Model Context Protocol (MCP)\nas a unifying paradigm, highlighting its ability to bridge protocol-level\nadaptation with context-aware decision making. Analyzing established\nliterature, we show that existing efforts have implicitly converged toward\nMCP-like architectures, signaling a natural evolution from fragmented solutions\nto standardized integration frameworks. We propose a five-category taxonomy\ncovering adaptive mechanisms, context-aware frameworks, unification models,\nintegration strategies, and MCP-enabled architectures. Our findings reveal\nthree key insights: traditional transport protocols have reached the limits of\nisolated adaptation, MCP's client-server and JSON-RPC structure enables\nsemantic interoperability, and AI-driven transport demands integration\nparadigms uniquely suited to MCP. Finally, we present a research roadmap\npositioning MCP as a foundation for next-generation adaptive, context-aware,\nand intelligent transport infrastructures.",
-      "source": "arxiv.org",
-      "ts": "2025-08-26T17:58:56Z",
-      "score": 70.29
+      "id": "hn-45048736",
+      "title": "Lesser known mobile adtech domains where data is sent",
+      "url": "https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/",
+      "summary": "",
+      "source": "jamesoclaire.com",
+      "ts": "2025-08-28T05:30:23Z",
+      "score": 106.32
     },
     {
-      "id": "d73b29c143ea",
-      "title": "StepWiser: Stepwise Generative Judges for Wiser Reasoning",
-      "url": "http://arxiv.org/abs/2508.19229v1",
-      "summary": "As models increasingly leverage multi-step reasoning strategies to solve\ncomplex problems, supervising the logical validity of these intermediate steps\nhas become a critical research challenge. Process reward models address this by\nproviding step-by-step feedback, but current approaches have two major\ndrawbacks: they typically function as classifiers without providing\nexplanations, and their reliance on supervised fine-tuning with static datasets\nlimits generalization. Inspired by recent advances, we reframe stepwise reward\nmodeling from a classification task to a reasoning task itself. We thus propose\na generative judge that reasons about the policy model's reasoning steps (i.e.,\nmeta-reasons), outputting thinking tokens before delivering a final verdict.\nOur model, StepWiser, is trained by reinforcement learning using relative\noutcomes of rollouts. We show it provides (i) better judgment accuracy on\nintermediate steps than existing methods; (ii) can be used to improve the\npolicy model at training time; and (iii) improves inference-time search.",
-      "source": "arxiv.org",
-      "ts": "2025-08-26T17:45:05Z",
-      "score": 69.95
+      "id": "hn-45050538",
+      "title": "Fossjobs: A job board for Free and Open Source jobs",
+      "url": "https://www.fossjobs.net/",
+      "summary": "",
+      "source": "fossjobs.net",
+      "ts": "2025-08-28T10:39:08Z",
+      "score": 104.54
     },
     {
-      "id": "c334644ccfc4",
-      "title": "Generative Interfaces for Language Models",
-      "url": "http://arxiv.org/abs/2508.19227v1",
-      "summary": "Large language models (LLMs) are increasingly seen as assistants, copilots,\nand consultants, capable of supporting a wide range of tasks through natural\nconversation. However, most systems remain constrained by a linear\nrequest-response format that often makes interactions inefficient in\nmulti-turn, information-dense, and exploratory tasks. To address these\nlimitations, we propose Generative Interfaces for Language Models, a paradigm\nin which LLMs respond to user queries by proactively generating user interfaces\n(UIs) that enable more adaptive and interactive engagement. Our framework\nleverages structured interface-specific representations and iterative\nrefinements to translate user queries into task-specific UIs. For systematic\nevaluation, we introduce a multidimensional assessment framework that compares\ngenerative interfaces with traditional chat-based ones across diverse tasks,\ninteraction patterns, and query types, capturing functional, interactive, and\nemotional aspects of user experience. Results show that generative interfaces\nconsistently outperform conversational ones, with humans preferring them in\nover 70% of cases. These findings clarify when and why users favor generative\ninterfaces, paving the way for future advancements in human-AI interaction.",
+      "id": "hn-45008434",
+      "title": "Nvidia DGX Spark",
+      "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+      "summary": "",
+      "source": "nvidia.com",
+      "ts": "2025-08-24T22:35:23Z",
+      "score": 102.86
+    },
+    {
+      "id": "472ec3d12458",
+      "title": "Maisa AI gets $25M to fix enterprise AI’s 95% failure rate",
+      "url": "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/",
+      "summary": "Maisa AI is built on the premise that enterprise automation requires accountable AI agents, not opaque black boxes.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-28T05:00:00Z",
+      "score": 96.13
+    },
+    {
+      "id": "hn-45049757",
+      "title": "The Forecasting Company (YC S24) Is Hiring a Software Engineer",
+      "url": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-08-28T08:20:35Z",
+      "score": 94.29
+    },
+    {
+      "id": "525cd58d7f5e",
+      "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer\n  Use Agent with Decoupled Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2508.20096v1",
+      "summary": "Autonomous agents for Graphical User Interfaces (GUIs) face significant\nchallenges in specialized domains such as scientific computing, where both\nlong-horizon planning and precise execution are required. Existing approaches\nsuffer from a trade-off: generalist agents excel at planning but perform poorly\nin execution, while specialized agents demonstrate the opposite weakness.\nRecent compositional frameworks attempt to bridge this gap by combining a\nplanner and an actor, but they are typically static and non-trainable, which\nprevents adaptation from experience. This is a critical limitation given the\nscarcity of high-quality data in scientific domains. To address these\nlimitations, we introduce CODA, a novel and trainable compositional framework\nthat integrates a generalist planner (Cerebrum) with a specialist executor\n(Cerebellum), trained via a dedicated two-stage pipeline. In the first stage,\nSpecialization, we apply a decoupled GRPO approach to train an expert planner\nfor each scientific application individually, bootstrapping from a small set of\ntask trajectories. In the second stage, Generalization, we aggregate all\nsuccessful trajectories from the specialized experts to build a consolidated\ndataset, which is then used for supervised fine-tuning of the final planner.\nThis equips CODA with both robust execution and cross-domain generalization.\nEvaluated on four challenging applications from the ScienceBoard benchmark,\nCODA significantly outperforms baselines and establishes a new state of the art\namong open-source models.",
       "source": "arxiv.org",
-      "ts": "2025-08-26T17:43:20Z",
-      "score": 69.91
+      "ts": "2025-08-27T17:59:50Z",
+      "score": 90.33
+    },
+    {
+      "id": "52c1b333bfdd",
+      "title": "Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion\n  Planning",
+      "url": "http://arxiv.org/abs/2508.20095v1",
+      "summary": "Multi-Robot Motion Planning (MRMP) involves generating collision-free\ntrajectories for multiple robots operating in a shared continuous workspace.\nWhile discrete multi-agent path finding (MAPF) methods are broadly adopted due\nto their scalability, their coarse discretization severely limits trajectory\nquality. In contrast, continuous optimization-based planners offer\nhigher-quality paths but suffer from the curse of dimensionality, resulting in\npoor scalability with respect to the number of robots. This paper tackles the\nlimitations of these two approaches by introducing a novel framework that\nintegrates discrete MAPF solvers with constrained generative diffusion models.\nThe resulting framework, called Discrete-Guided Diffusion (DGD), has three key\ncharacteristics: (1) it decomposes the original nonconvex MRMP problem into\ntractable subproblems with convex configuration spaces, (2) it combines\ndiscrete MAPF solutions with constrained optimization techniques to guide\ndiffusion models capture complex spatiotemporal dependencies among robots, and\n(3) it incorporates a lightweight constraint repair mechanism to ensure\ntrajectory feasibility. The proposed method sets a new state-of-the-art\nperformance in large-scale, complex environments, scaling to 100 robots while\nachieving planning efficiency and high success rates.",
+      "source": "arxiv.org",
+      "ts": "2025-08-27T17:59:36Z",
+      "score": 90.33
+    },
+    {
+      "id": "019450c9967d",
+      "title": "Patch Progression Masked Autoencoder with Fusion CNN Network for\n  Classifying Evolution Between Two Pairs of 2D OCT Slices",
+      "url": "http://arxiv.org/abs/2508.20064v1",
+      "summary": "Age-related Macular Degeneration (AMD) is a prevalent eye condition affecting\nvisual acuity. Anti-vascular endothelial growth factor (anti-VEGF) treatments\nhave been effective in slowing the progression of neovascular AMD, with better\noutcomes achieved through timely diagnosis and consistent monitoring. Tracking\nthe progression of neovascular activity in OCT scans of patients with exudative\nAMD allows for the development of more personalized and effective treatment\nplans. This was the focus of the Monitoring Age-related Macular Degeneration\nProgression in Optical Coherence Tomography (MARIO) challenge, in which we\nparticipated. In Task 1, which involved classifying the evolution between two\npairs of 2D slices from consecutive OCT acquisitions, we employed a fusion CNN\nnetwork with model ensembling to further enhance the model's performance. For\nTask 2, which focused on predicting progression over the next three months\nbased on current exam data, we proposed the Patch Progression Masked\nAutoencoder that generates an OCT for the next exam and then classifies the\nevolution between the current OCT and the one generated using our solution from\nTask 1. The results we achieved allowed us to place in the Top 10 for both\ntasks. Some team members are part of the same organization as the challenge\norganizers; therefore, we are not eligible to compete for the prize.",
+      "source": "arxiv.org",
+      "ts": "2025-08-27T17:18:30Z",
+      "score": 89.05
+    },
+    {
+      "id": "0f9eae9e5a39",
+      "title": "Nvidia reports record sales as the AI boom continues",
+      "url": "https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/",
+      "summary": "Nvidia's revenue hit $46.7 billion in the second quarter, a 56% increase compared to the same period last year.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-27T21:18:39Z",
+      "score": 81.9
+    },
+    {
+      "id": "9fa6c6e036df",
+      "title": "Collective alignment: public input on our Model Spec",
+      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
+      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+      "source": "openai.com",
+      "ts": "2025-08-27T13:00:00Z",
+      "score": 81.4
+    },
+    {
+      "id": "d71f5892568d",
+      "title": "911 centers are so understaffed, they’re turning to AI to answer calls",
+      "url": "https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/",
+      "summary": "The company offers an AI voice assistant that helps 911 centers handle non-emergency calls.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-27T20:42:12Z",
+      "score": 80.87
     },
     {
       "id": "hn-45005823",
@@ -376,16 +322,25 @@
       "summary": "",
       "source": "bbc.com",
       "ts": "2025-08-24T17:03:44Z",
-      "score": 66.31
+      "score": 80.01
     },
     {
-      "id": "9fa6c6e036df",
-      "title": "Collective alignment: public input on our Model Spec",
-      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
-      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+      "id": "c0befc27d3c6",
+      "title": "Microsoft&#8217;s Copilot AI is now inside Samsung TVs and monitors",
+      "url": "https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch",
+      "summary": "Microsoft’s Copilot AI assistant is officially coming to TVs, starting with Samsung’s 2025 lineup of TVs and smart monitors. With the integration, you can call upon Copilot and ask for movie suggestions, spoiler-free episode recaps, and other general questions. On TV, Copilot takes on a “friendly, animated presence” that resembles the opalescent Copilot Appearance Microsoft [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-27T18:48:14Z",
+      "score": 77.73
+    },
+    {
+      "id": "36bc196e70e9",
+      "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
+      "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
+      "summary": "OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.",
       "source": "openai.com",
-      "ts": "2025-08-26T10:00:00Z",
-      "score": 59.52
+      "ts": "2025-08-27T10:00:00Z",
+      "score": 76.47
     },
     {
       "id": "hn-45000904",
@@ -394,7 +349,43 @@
       "summary": "",
       "source": "goranssongaspar.com",
       "ts": "2025-08-24T02:54:11Z",
-      "score": 58.33
+      "score": 76.12
+    },
+    {
+      "id": "d9814d7912cc",
+      "title": "OpenAI will add parental controls for ChatGPT following teen’s death",
+      "url": "https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death",
+      "summary": "After a 16-year-old took his own life&#160;following months of confiding in ChatGPT, OpenAI will be introducing parental controls and is considering additional safeguards, the company said in a Tuesday blog post. OpenAI said it&#8217;s exploring features like setting an emergency contact who can be&#160;reached&#160;with “one-click messages or calls” within ChatGPT, as well as an opt-in [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-27T16:19:14Z",
+      "score": 73.81
+    },
+    {
+      "id": "a44964efcd3a",
+      "title": "Google will now let everyone use its AI-powered video editor Vids",
+      "url": "https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video",
+      "summary": "Google is rolling out a basic version of Vids to everyone. Until now, the AI-powered video editor has only been available to Google Workspace or AI plan subscribers, but now users can broadly access the app with templates, stock media, and a “subset of AI capabilities,” product director Vishnu Sivaji tells The Verge. Launched last [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-27T14:04:40Z",
+      "score": 70.44
+    },
+    {
+      "id": "c33ca5038ce1",
+      "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+      "summary": "In this post, we announce that Mercury and Mercury Coder foundation models from Inception Labs are now available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. We demonstrate how to deploy these ultra-fast diffusion-based language models that can generate up to 1,100 tokens per second on NVIDIA H100 GPUs, and showcase their capabilities in code generation and tool use scenarios.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-27T15:39:06Z",
+      "score": 66.17
+    },
+    {
+      "id": "hn-45011158",
+      "title": "On the screen, Libyans learned about everything but themselves (2021)",
+      "url": "https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/",
+      "summary": "",
+      "source": "newlinesmag.com",
+      "ts": "2025-08-25T07:12:22Z",
+      "score": 46.82
     },
     {
       "id": "aad7c4479a17",
@@ -403,7 +394,7 @@
       "summary": "In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.",
       "source": "aws.amazon.com",
       "ts": "2025-08-26T18:37:21Z",
-      "score": 54.79
+      "score": 42.7
     },
     {
       "id": "cbf71272abd2",
@@ -412,7 +403,7 @@
       "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.",
       "source": "openai.com",
       "ts": "2025-08-26T04:00:00Z",
-      "score": 52.53
+      "score": 40.93
     },
     {
       "id": "265e85cbbb22",
@@ -421,34 +412,52 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 51.9
+      "score": 40.44
     },
     {
-      "id": "hn-45001005",
-      "title": "You shouldn't salt a leech that's sucking your blood (2019)",
-      "url": "https://www.cbc.ca/news/science/bloodsuckers-1.5361074",
+      "id": "hn-45016579",
+      "title": "Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots",
+      "url": "https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/",
       "summary": "",
-      "source": "cbc.ca",
-      "ts": "2025-08-24T03:12:05Z",
-      "score": 48.22
+      "source": "lithub.com",
+      "ts": "2025-08-25T17:46:15Z",
+      "score": 37.44
     },
     {
-      "id": "hn-45010658",
-      "title": "Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer (2023)",
-      "url": "https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html",
+      "id": "hn-45011679",
+      "title": "What is this? The case for continually questioning our online experience (2021)",
+      "url": "https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/",
       "summary": "",
-      "source": "righto.com",
-      "ts": "2025-08-25T05:55:35Z",
-      "score": 28.51
+      "source": "systems-souls-society.com",
+      "ts": "2025-08-25T08:43:55Z",
+      "score": 33.68
     },
     {
-      "id": "hn-44999644",
-      "title": "3D printing a building with 756 windows",
-      "url": "https://jero.zone/posts/cbr-building",
+      "id": "hn-45010406",
+      "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
+      "url": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
       "summary": "",
-      "source": "jero.zone",
-      "ts": "2025-08-23T22:31:41Z",
-      "score": 25.26
+      "source": "abhinavsarkar.net",
+      "ts": "2025-08-25T05:08:22Z",
+      "score": 33.36
+    },
+    {
+      "id": "hn-45014275",
+      "title": "What Is Synthetic Gasoline?",
+      "url": "https://iere.org/what-is-synthetic-gasoline/",
+      "summary": "",
+      "source": "iere.org",
+      "ts": "2025-08-25T14:31:50Z",
+      "score": 25.58
+    },
+    {
+      "id": "hn-45012639",
+      "title": "Pausing Insect Activity",
+      "url": "https://www.asimov.press/p/insect-diapause",
+      "summary": "",
+      "source": "asimov.press",
+      "ts": "2025-08-25T11:23:08Z",
+      "score": 25.27
     },
     {
       "id": "d406b44971cd",
@@ -457,7 +466,7 @@
       "summary": "Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike.",
       "source": "aws.amazon.com",
       "ts": "2025-08-22T17:54:38Z",
-      "score": 7.31
+      "score": 5.69
     },
     {
       "id": "99b464916a99",
@@ -466,7 +475,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 0.09
+      "score": 0.07
     },
     {
       "id": "f20ef515ed9f",
@@ -475,7 +484,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.03
+      "score": 0.02
     }
   ]
 }
