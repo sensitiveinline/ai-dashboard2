@@ -1,31 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45050415",
-      "title": "Are OpenAI and Anthropic losing money on inference?",
-      "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+      "id": "hn-45058688",
+      "title": "Claude Sonnet will ship in Xcode",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
       "summary": "",
-      "source": "martinalderson.com",
-      "ts": "2025-08-28T10:15:22Z",
-      "score": 321.28
-    },
-    {
-      "id": "hn-45047460",
-      "title": "Open Source is one person",
-      "url": "https://opensourcesecurity.io/2025/08-oss-one-person/",
-      "summary": "",
-      "source": "opensourcesecurity.io",
-      "ts": "2025-08-28T01:54:59Z",
-      "score": 264.78
-    },
-    {
-      "id": "hn-45050931",
-      "title": "Important machine learning equations",
-      "url": "https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/",
-      "summary": "",
-      "source": "chizkidd.github.io",
-      "ts": "2025-08-28T11:38:44Z",
-      "score": 240.71
+      "source": "developer.apple.com",
+      "ts": "2025-08-29T00:44:27Z",
+      "score": 296.57
     },
     {
       "id": "hn-45054703",
@@ -34,7 +16,16 @@
       "summary": "",
       "source": "nshipster.com",
       "ts": "2025-08-28T17:22:54Z",
-      "score": 214.03
+      "score": 290.6
+    },
+    {
+      "id": "hn-45047460",
+      "title": "Open Source is one person",
+      "url": "https://opensourcesecurity.io/2025/08-oss-one-person/",
+      "summary": "",
+      "source": "opensourcesecurity.io",
+      "ts": "2025-08-28T01:54:59Z",
+      "score": 272.31
     },
     {
       "id": "hn-45055641",
@@ -43,34 +34,7 @@
       "summary": "",
       "source": "martinfowler.com",
       "ts": "2025-08-28T18:52:00Z",
-      "score": 178.99
-    },
-    {
-      "id": "hn-45051034",
-      "title": "Charting Form Ds to roughly see the state of venture capital “fund” raising",
-      "url": "https://tj401.com/blog/formd/index.html",
-      "summary": "",
-      "source": "tj401.com",
-      "ts": "2025-08-28T11:51:30Z",
-      "score": 170.86
-    },
-    {
-      "id": "hn-45050090",
-      "title": "Claude Code Checkpoints",
-      "url": "https://claude-checkpoints.com/",
-      "summary": "",
-      "source": "claude-checkpoints.com",
-      "ts": "2025-08-28T09:16:17Z",
-      "score": 168.54
-    },
-    {
-      "id": "hn-45056177",
-      "title": "My startup banking story (2023)",
-      "url": "https://mitchellh.com/writing/my-startup-banking-story",
-      "summary": "",
-      "source": "mitchellh.com",
-      "ts": "2025-08-28T19:38:20Z",
-      "score": 167.87
+      "score": 269.96
     },
     {
       "id": "hn-45052423",
@@ -79,16 +43,16 @@
       "summary": "",
       "source": "cnbc.com",
       "ts": "2025-08-28T14:13:44Z",
-      "score": 159.23
+      "score": 268.84
     },
     {
-      "id": "hn-45055335",
-      "title": "VLT observations of interstellar comet 3I/ATLAS II",
-      "url": "https://arxiv.org/abs/2508.18382",
+      "id": "hn-45056177",
+      "title": "My startup banking story (2023)",
+      "url": "https://mitchellh.com/writing/my-startup-banking-story",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-08-28T18:25:39Z",
-      "score": 148.16
+      "source": "mitchellh.com",
+      "ts": "2025-08-28T19:38:20Z",
+      "score": 237.51
     },
     {
       "id": "hn-45057020",
@@ -97,79 +61,7 @@
       "summary": "",
       "source": "fuckupmysite.com",
       "ts": "2025-08-28T21:04:36Z",
-      "score": 145.47
-    },
-    {
-      "id": "hn-45052784",
-      "title": "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
-      "url": "https://www.ssp.sh/brain/will-ai-replace-humans/",
-      "summary": "",
-      "source": "ssp.sh",
-      "ts": "2025-08-28T14:40:58Z",
-      "score": 139.01
-    },
-    {
-      "id": "hn-45051188",
-      "title": "Rendering a game in real time with AI",
-      "url": "https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai",
-      "summary": "",
-      "source": "blog.jeffschomay.com",
-      "ts": "2025-08-28T12:10:14Z",
-      "score": 138.97
-    },
-    {
-      "id": "hn-45055439",
-      "title": "Building your own CLI coding agent with Pydantic-AI",
-      "url": "https://martinfowler.com/articles/build-own-coding-agent.html",
-      "summary": "",
-      "source": "martinfowler.com",
-      "ts": "2025-08-28T18:34:29Z",
-      "score": 138.24
-    },
-    {
-      "id": "hn-45050873",
-      "title": "Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism",
-      "url": "https://journals.asm.org/doi/10.1128/mbio.01718-25",
-      "summary": "",
-      "source": "journals.asm.org",
-      "ts": "2025-08-28T11:29:42Z",
-      "score": 137.87
-    },
-    {
-      "id": "hn-45053462",
-      "title": "Optimising for maintainability – Gleam in production at Strand",
-      "url": "https://gleam.run/case-studies/strand/",
-      "summary": "",
-      "source": "gleam.run",
-      "ts": "2025-08-28T15:30:52Z",
-      "score": 131.47
-    },
-    {
-      "id": "hn-45051542",
-      "title": "GPU Prefix Sums: A nearly complete collection",
-      "url": "https://github.com/b0nes164/GPUPrefixSums",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-28T12:49:10Z",
-      "score": 123.85
-    },
-    {
-      "id": "hn-45051361",
-      "title": "That boolean should probably be something else",
-      "url": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "summary": "",
-      "source": "ntietz.com",
-      "ts": "2025-08-28T12:31:15Z",
-      "score": 122.15
-    },
-    {
-      "id": "hn-45051798",
-      "title": "The sisters “paradox” – counter-intuitive probability",
-      "url": "https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html",
-      "summary": "",
-      "source": "blog.engora.com",
-      "ts": "2025-08-28T13:17:15Z",
-      "score": 120.43
+      "score": 234.89
     },
     {
       "id": "hn-45056878",
@@ -178,133 +70,133 @@
       "summary": "",
       "source": "lyra.horse",
       "ts": "2025-08-28T20:49:34Z",
-      "score": 119.18
+      "score": 231.51
     },
     {
-      "id": "hn-45051345",
-      "title": "Group Borrowing: Zero-cost memory safety with fewer restrictions",
-      "url": "https://verdagon.dev/blog/group-borrowing",
+      "id": "hn-45058171",
+      "title": "Python: The Documentary [video]",
+      "url": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
       "summary": "",
-      "source": "verdagon.dev",
-      "ts": "2025-08-28T12:29:15Z",
-      "score": 119.09
-    },
-    {
-      "id": "hn-45057346",
-      "title": "Sometimes CPU cores are odd – Anubis",
-      "url": "https://anubis.techaro.lol/blog/2025/cpu-core-odd/",
-      "summary": "",
-      "source": "anubis.techaro.lol",
-      "ts": "2025-08-28T21:39:18Z",
-      "score": 111.22
-    },
-    {
-      "id": "hn-45057322",
-      "title": "Expert LSP the official language server implementation for Elixir",
-      "url": "https://github.com/elixir-lang/expert",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-28T21:36:36Z",
-      "score": 111.13
-    },
-    {
-      "id": "hn-45055452",
-      "title": "Web Bot Auth",
-      "url": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
-      "summary": "",
-      "source": "developers.cloudflare.com",
-      "ts": "2025-08-28T18:35:46Z",
-      "score": 110.68
-    },
-    {
-      "id": "hn-45052200",
-      "title": "Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS",
-      "url": "https://github.com/mi12labs/SwiftAI",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-28T13:51:51Z",
-      "score": 108.21
-    },
-    {
-      "id": "hn-45056768",
-      "title": "Spiped – secure pipe for SSH, SMTP, etc.",
-      "url": "https://www.tarsnap.com/spiped.html",
-      "summary": "",
-      "source": "tarsnap.com",
-      "ts": "2025-08-28T20:37:11Z",
-      "score": 107.37
-    },
-    {
-      "id": "1391761e5098",
-      "title": "Trump administration’s deal is structured to prevent Intel from selling foundry unit",
-      "url": "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/",
-      "summary": "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-28T21:56:27Z",
-      "score": 106.48
+      "source": "youtube.com",
+      "ts": "2025-08-28T23:27:27Z",
+      "score": 216.46
     },
     {
       "id": "hn-45058024",
-      "title": "RSS Is Awesome",
+      "title": "RSS is awesome",
       "url": "https://evanverma.com/rss-is-awesome",
       "summary": "",
       "source": "evanverma.com",
       "ts": "2025-08-28T23:04:01Z",
-      "score": 105.14
+      "score": 216.43
     },
     {
-      "id": "7d430d54fc34",
-      "title": "Microsoft AI launches its first in-house models",
-      "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
-      "summary": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.” Microsoft already uses MA1-Voice-1 to power a [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-28T21:13:04Z",
-      "score": 104.89
-    },
-    {
-      "id": "hn-45056142",
-      "title": "RFC 8594: The Sunset HTTP Header Field (2019)",
-      "url": "https://datatracker.ietf.org/doc/html/rfc8594",
+      "id": "hn-45060920",
+      "title": "The Synology End Game",
+      "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
       "summary": "",
-      "source": "datatracker.ietf.org",
-      "ts": "2025-08-28T19:35:22Z",
-      "score": 104.77
+      "source": "lowendbox.com",
+      "ts": "2025-08-29T06:37:21Z",
+      "score": 201.39
     },
     {
-      "id": "1a1e3609298c",
-      "title": "Anthropic users face a new choice – opt out or share your chats for AI training",
-      "url": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
-      "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-28T20:43:12Z",
-      "score": 103.8
-    },
-    {
-      "id": "aeded5cff1c2",
-      "title": "AI or not, Will Smith’s crowd video is fresh cringe",
-      "url": "https://techcrunch.com/2025/08/28/ai-or-not-will-smiths-crowd-video-is-fresh-cringe-2/",
-      "summary": "Fans accused Will Smith of sharing AI-generated videos from his tour, but the situation is more complicated than it seems.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-28T20:02:52Z",
-      "score": 102.36
-    },
-    {
-      "id": "hn-45057209",
-      "title": "Speed-coding for the 6502 – a simple example",
-      "url": "https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/",
+      "id": "hn-45060161",
+      "title": "Strange CW Keys",
+      "url": "https://sites.google.com/site/oh6dccw/strangecwkeys",
       "summary": "",
-      "source": "colino.net",
-      "ts": "2025-08-28T21:24:42Z",
-      "score": 101.74
+      "source": "sites.google.com",
+      "ts": "2025-08-29T04:22:48Z",
+      "score": 180.01
+    },
+    {
+      "id": "hn-45057322",
+      "title": "Expert: LSP for Elixir",
+      "url": "https://github.com/elixir-lang/expert",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-28T21:36:36Z",
+      "score": 178.12
+    },
+    {
+      "id": "hn-45055439",
+      "title": "Building your own CLI coding agent with Pydantic-AI",
+      "url": "https://martinfowler.com/articles/build-own-coding-agent.html",
+      "summary": "",
+      "source": "martinfowler.com",
+      "ts": "2025-08-28T18:34:29Z",
+      "score": 168.73
     },
     {
       "id": "hn-45057404",
-      "title": "Death by PowerPoint: the slide that killed seven people",
+      "title": "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
       "url": "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx",
       "summary": "",
       "source": "mcdreeamiemusings.com",
       "ts": "2025-08-28T21:44:47Z",
-      "score": 99.41
+      "score": 160.93
+    },
+    {
+      "id": "hn-45059160",
+      "title": "Lucky 13: a look at Debian trixie",
+      "url": "https://lwn.net/Articles/1033474/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-08-29T01:55:14Z",
+      "score": 155.76
+    },
+    {
+      "id": "hn-45059470",
+      "title": "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
+      "url": "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/",
+      "summary": "",
+      "source": "lowendbox.com",
+      "ts": "2025-08-29T02:39:44Z",
+      "score": 154.64
+    },
+    {
+      "id": "hn-45052784",
+      "title": "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
+      "url": "https://www.ssp.sh/brain/will-ai-replace-humans/",
+      "summary": "",
+      "source": "ssp.sh",
+      "ts": "2025-08-28T14:40:58Z",
+      "score": 150.65
+    },
+    {
+      "id": "hn-45060004",
+      "title": "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
+      "url": "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html",
+      "summary": "",
+      "source": "vuxml.freebsd.org",
+      "ts": "2025-08-29T03:57:46Z",
+      "score": 135.92
+    },
+    {
+      "id": "hn-45050873",
+      "title": "Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism",
+      "url": "https://journals.asm.org/doi/10.1128/mbio.01718-25",
+      "summary": "",
+      "source": "journals.asm.org",
+      "ts": "2025-08-28T11:29:42Z",
+      "score": 135.08
+    },
+    {
+      "id": "hn-45057346",
+      "title": "Sometimes CPU cores are odd",
+      "url": "https://anubis.techaro.lol/blog/2025/cpu-core-odd/",
+      "summary": "",
+      "source": "anubis.techaro.lol",
+      "ts": "2025-08-28T21:39:18Z",
+      "score": 134.39
+    },
+    {
+      "id": "hn-45035684",
+      "title": "AI coding made me faster, but I can't code to music anymore",
+      "url": "https://www.praf.me/ai-coding",
+      "summary": "",
+      "source": "praf.me",
+      "ts": "2025-08-27T05:10:53Z",
+      "score": 131.27
     },
     {
       "id": "hn-45057561",
@@ -313,88 +205,7 @@
       "summary": "",
       "source": "johncarlosbaez.wordpress.com",
       "ts": "2025-08-28T22:02:28Z",
-      "score": 98.8
-    },
-    {
-      "id": "20e7ffe2a031",
-      "title": "Introducing gpt-realtime and Realtime API updates",
-      "url": "https://openai.com/index/introducing-gpt-realtime",
-      "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
-      "source": "openai.com",
-      "ts": "2025-08-28T10:00:00Z",
-      "score": 98.12
-    },
-    {
-      "id": "29164669b47e",
-      "title": "Anthropic will start training its AI models on chat transcripts",
-      "url": "https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy",
-      "summary": "Anthropic will start training its AI models on user data, including new chat transcripts and coding sessions, unless users choose to opt out. It's also extending its data retention policy to five years - again, for users that don't choose to opt out. All users will have to make a decision by September 28th. For [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-28T16:00:00Z",
-      "score": 94.08
-    },
-    {
-      "id": "16e0610ccc78",
-      "title": "Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/",
-      "summary": "This post describes the agentic AI assistant built by the Government of the City of Buenos Aires and the GenAIIC to respond to citizens’ questions about government procedures. The solution consists of two primary components: an input guardrail system that helps prevent the system from responding to harmful user queries and a government procedures agent that retrieves relevant information and generates responses.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-28T20:25:00Z",
-      "score": 93.77
-    },
-    {
-      "id": "39508056e995",
-      "title": "Empowering air quality research with secure, ML-driven predictive analytics",
-      "url": "https://aws.amazon.com/blogs/machine-learning/empowering-air-quality-research-with-secure-ml-driven-predictive-analytics/",
-      "summary": "In this post, we provide a data imputation solution using Amazon SageMaker AI, AWS Lambda, and AWS Step Functions. This solution is designed for environmental analysts, public health officials, and business intelligence professionals who need reliable PM2.5 data for trend analysis, reporting, and decision-making. We sourced our sample training dataset from openAFRICA. Our solution predicts PM2.5 values using time-series forecasting.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-28T20:20:10Z",
-      "score": 93.62
-    },
-    {
-      "id": "905619d004bd",
-      "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-built-an-ai-assistant-using-amazon-bedrock-and-amazon-kendra-to-support-analysts-for-data-discovery-and-business-insights/",
-      "summary": "The Amazon Finance technical team develops and manages comprehensive technology solutions that power financial decision-making and operational efficiency while standardizing across Amazon’s global operations. In this post, we explain how the team conceptualized and implemented a solution to these business challenges by harnessing the power of generative AI using Amazon Bedrock and intelligent search with Amazon Kendra.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-28T20:14:22Z",
-      "score": 93.43
-    },
-    {
-      "id": "7d1d1a1648e9",
-      "title": "Taco Bell&#8217;s AI drive-thru plan gets caught up on trolls and glitches",
-      "url": "https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches",
-      "summary": "Taco Bell’s plan to outfit hundreds of drive-thrus with an AI voice assistant isn’t going exactly as the chain expected. Dane Mathews, Taco Bell’s chief digital and technology officer, admitted to The Wall Street Journal that the company is re-evaluating where to deploy the tech as customers air their frustrations on social media, and others [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-28T14:16:57Z",
-      "score": 90.78
-    },
-    {
-      "id": "b203b36d8522",
-      "title": "Supporting nonprofit and community innovation",
-      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
-      "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
-      "source": "openai.com",
-      "ts": "2025-08-28T05:00:00Z",
-      "score": 88.42
-    },
-    {
-      "id": "hn-45041879",
-      "title": "A forgotten medieval fruit with a vulgar name (2021)",
-      "url": "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-08-27T16:34:31Z",
-      "score": 82.5
-    },
-    {
-      "id": "hn-45051096",
-      "title": "Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)",
-      "url": "https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8",
-      "summary": "",
-      "source": "jobs.ashbyhq.com",
-      "ts": "2025-08-28T12:00:48Z",
-      "score": 79.31
+      "score": 118.8
     },
     {
       "id": "hn-45027072",
@@ -403,43 +214,133 @@
       "summary": "",
       "source": "astralcodexten.com",
       "ts": "2025-08-26T14:30:50Z",
-      "score": 73.11
+      "score": 117.97
     },
     {
-      "id": "525cd58d7f5e",
-      "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer\n  Use Agent with Decoupled Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2508.20096v1",
-      "summary": "Autonomous agents for Graphical User Interfaces (GUIs) face significant\nchallenges in specialized domains such as scientific computing, where both\nlong-horizon planning and precise execution are required. Existing approaches\nsuffer from a trade-off: generalist agents excel at planning but perform poorly\nin execution, while specialized agents demonstrate the opposite weakness.\nRecent compositional frameworks attempt to bridge this gap by combining a\nplanner and an actor, but they are typically static and non-trainable, which\nprevents adaptation from experience. This is a critical limitation given the\nscarcity of high-quality data in scientific domains. To address these\nlimitations, we introduce CODA, a novel and trainable compositional framework\nthat integrates a generalist planner (Cerebrum) with a specialist executor\n(Cerebellum), trained via a dedicated two-stage pipeline. In the first stage,\nSpecialization, we apply a decoupled GRPO approach to train an expert planner\nfor each scientific application individually, bootstrapping from a small set of\ntask trajectories. In the second stage, Generalization, we aggregate all\nsuccessful trajectories from the specialized experts to build a consolidated\ndataset, which is then used for supervised fine-tuning of the final planner.\nThis equips CODA with both robust execution and cross-domain generalization.\nEvaluated on four challenging applications from the ScienceBoard benchmark,\nCODA significantly outperforms baselines and establishes a new state of the art\namong open-source models.",
-      "source": "arxiv.org",
-      "ts": "2025-08-27T17:59:50Z",
-      "score": 70.3
-    },
-    {
-      "id": "52c1b333bfdd",
-      "title": "Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion\n  Planning",
-      "url": "http://arxiv.org/abs/2508.20095v1",
-      "summary": "Multi-Robot Motion Planning (MRMP) involves generating collision-free\ntrajectories for multiple robots operating in a shared continuous workspace.\nWhile discrete multi-agent path finding (MAPF) methods are broadly adopted due\nto their scalability, their coarse discretization severely limits trajectory\nquality. In contrast, continuous optimization-based planners offer\nhigher-quality paths but suffer from the curse of dimensionality, resulting in\npoor scalability with respect to the number of robots. This paper tackles the\nlimitations of these two approaches by introducing a novel framework that\nintegrates discrete MAPF solvers with constrained generative diffusion models.\nThe resulting framework, called Discrete-Guided Diffusion (DGD), has three key\ncharacteristics: (1) it decomposes the original nonconvex MRMP problem into\ntractable subproblems with convex configuration spaces, (2) it combines\ndiscrete MAPF solutions with constrained optimization techniques to guide\ndiffusion models capture complex spatiotemporal dependencies among robots, and\n(3) it incorporates a lightweight constraint repair mechanism to ensure\ntrajectory feasibility. The proposed method sets a new state-of-the-art\nperformance in large-scale, complex environments, scaling to 100 robots while\nachieving planning efficiency and high success rates.",
-      "source": "arxiv.org",
-      "ts": "2025-08-27T17:59:36Z",
-      "score": 70.3
-    },
-    {
-      "id": "hn-45018089",
-      "title": "The Lobster Programming Language",
-      "url": "https://www.strlen.com/lobster/",
+      "id": "hn-45055452",
+      "title": "Web Bot Auth",
+      "url": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
       "summary": "",
-      "source": "strlen.com",
-      "ts": "2025-08-25T19:42:17Z",
-      "score": 68.02
+      "source": "developers.cloudflare.com",
+      "ts": "2025-08-28T18:35:46Z",
+      "score": 111.76
     },
     {
-      "id": "9fa6c6e036df",
-      "title": "Collective alignment: public input on our Model Spec",
-      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
-      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
-      "source": "openai.com",
-      "ts": "2025-08-27T13:00:00Z",
-      "score": 63.35
+      "id": "8c50e39fac78",
+      "title": "What’s really happening with the hires at Meta Superintelligence Labs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo",
+      "summary": "In June, Mark Zuckerberg went for the ultimate Hail Mary in the ever-intensifying AI race: He spun up a brand-new Meta AI lab after making a $14.3 billion acquisition of Scale AI - and then spending billions more hiring some of the industry's preeminent researchers and engineers. Fast-forward a couple of months, and Zuckerberg may [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-29T11:00:00Z",
+      "score": 107.73
+    },
+    {
+      "id": "711a30b5e73e",
+      "title": "Vocal Image is using AI to help people communicate better",
+      "url": "https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/",
+      "summary": "With an interactive library that includes tongue twisters, breathing exercises, and advice on gestures, Vocal Image is also leaning more and more into AI to give automated feedback and personalized tips.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-29T08:34:00Z",
+      "score": 103.54
+    },
+    {
+      "id": "hn-45041879",
+      "title": "A forgotten medieval fruit with a vulgar name (2021)",
+      "url": "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-08-27T16:34:31Z",
+      "score": 101.52
+    },
+    {
+      "id": "hn-45058925",
+      "title": "Notes on Programming in C by Rob Pike",
+      "url": "https://www.lysator.liu.se/c/pikestyle.html",
+      "summary": "",
+      "source": "lysator.liu.se",
+      "ts": "2025-08-29T01:18:26Z",
+      "score": 90.52
+    },
+    {
+      "id": "43aba04ae861",
+      "title": "Prompt-to-Product: Generative Assembly via Bimanual Manipulation",
+      "url": "http://arxiv.org/abs/2508.21063v1",
+      "summary": "Creating assembly products demands significant manual effort and expert\nknowledge in 1) designing the assembly and 2) constructing the product. This\npaper introduces Prompt-to-Product, an automated pipeline that generates\nreal-world assembly products from natural language prompts. Specifically, we\nleverage LEGO bricks as the assembly platform and automate the process of\ncreating brick assembly structures. Given the user design requirements,\nPrompt-to-Product generates physically buildable brick designs, and then\nleverages a bimanual robotic system to construct the real assembly products,\nbringing user imaginations into the real world. We conduct a comprehensive user\nstudy, and the results demonstrate that Prompt-to-Product significantly lowers\nthe barrier and reduces manual effort in creating assembly products from\nimaginative ideas.",
+      "source": "arxiv.org",
+      "ts": "2025-08-28T17:59:05Z",
+      "score": 90.31
+    },
+    {
+      "id": "90758796a2d0",
+      "title": "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn\n  Dialogue with Large Language Models",
+      "url": "http://arxiv.org/abs/2508.21061v1",
+      "summary": "As multi-turn dialogues with large language models (LLMs) grow longer and\nmore complex, how can users better evaluate and review progress on their\nconversational goals? We present OnGoal, an LLM chat interface that helps users\nbetter manage goal progress. OnGoal provides real-time feedback on goal\nalignment through LLM-assisted evaluation, explanations for evaluation results\nwith examples, and overviews of goal progression over time, enabling users to\nnavigate complex dialogues more effectively. Through a study with 20\nparticipants on a writing task, we evaluate OnGoal against a baseline chat\ninterface without goal tracking. Using OnGoal, participants spent less time and\neffort to achieve their goals while exploring new prompting strategies to\novercome miscommunication, suggesting tracking and visualizing goals can\nenhance engagement and resilience in LLM dialogues. Our findings inspired\ndesign implications for future LLM chat interfaces that improve goal\ncommunication, reduce cognitive load, enhance interactivity, and enable\nfeedback to improve LLM performance.",
+      "source": "arxiv.org",
+      "ts": "2025-08-28T17:58:29Z",
+      "score": 90.29
+    },
+    {
+      "id": "d1baa8fafe05",
+      "title": "Mixture of Contexts for Long Video Generation",
+      "url": "http://arxiv.org/abs/2508.21058v1",
+      "summary": "Long video generation is fundamentally a long context memory problem: models\nmust retain and retrieve salient events across a long range without collapsing\nor drifting. However, scaling diffusion transformers to generate long-context\nvideos is fundamentally limited by the quadratic cost of self-attention, which\nmakes memory and computation intractable and difficult to optimize for long\nsequences. We recast long-context video generation as an internal information\nretrieval task and propose a simple, learnable sparse attention routing module,\nMixture of Contexts (MoC), as an effective long-term memory retrieval engine.\nIn MoC, each query dynamically selects a few informative chunks plus mandatory\nanchors (caption, local windows) to attend to, with causal routing that\nprevents loop closures. As we scale the data and gradually sparsify the\nrouting, the model allocates compute to salient history, preserving identities,\nactions, and scenes over minutes of content. Efficiency follows as a byproduct\nof retrieval (near-linear scaling), which enables practical training and\nsynthesis, and the emergence of memory and consistency at the scale of minutes.",
+      "source": "arxiv.org",
+      "ts": "2025-08-28T17:57:55Z",
+      "score": 90.27
+    },
+    {
+      "id": "hn-45057513",
+      "title": "An eyecare foundation model for clinical assistance",
+      "url": "https://www.nature.com/articles/s41591-025-03900-7",
+      "summary": "",
+      "source": "nature.com",
+      "ts": "2025-08-28T21:57:40Z",
+      "score": 86.87
+    },
+    {
+      "id": "hn-45036944",
+      "title": "Show HN: Vectorless RAG",
+      "url": "https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-27T08:39:32Z",
+      "score": 84.5
+    },
+    {
+      "id": "hn-45012080",
+      "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+      "url": "https://oxism.com/trystero/",
+      "summary": "",
+      "source": "oxism.com",
+      "ts": "2025-08-25T09:48:53Z",
+      "score": 83.87
+    },
+    {
+      "id": "1391761e5098",
+      "title": "Trump administration’s deal is structured to prevent Intel from selling foundry unit",
+      "url": "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/",
+      "summary": "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-28T21:56:27Z",
+      "score": 82.98
+    },
+    {
+      "id": "7d430d54fc34",
+      "title": "Microsoft AI launches its first in-house models",
+      "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
+      "summary": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.” Microsoft already uses MA1-Voice-1 to power a [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-28T21:13:04Z",
+      "score": 81.74
+    },
+    {
+      "id": "1a1e3609298c",
+      "title": "Anthropic users face a new choice – opt out or share your chats for AI training",
+      "url": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
+      "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-28T20:43:12Z",
+      "score": 80.9
     },
     {
       "id": "hn-45036704",
@@ -448,16 +349,70 @@
       "summary": "",
       "source": "exple.tive.org",
       "ts": "2025-08-27T07:55:43Z",
-      "score": 45.65
+      "score": 79.77
     },
     {
-      "id": "265e85cbbb22",
-      "title": "Enabling Kotlin incremental compilation on Buck2",
-      "url": "https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/",
-      "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-26T16:00:52Z",
-      "score": 31.47
+      "id": "20e7ffe2a031",
+      "title": "Introducing gpt-realtime and Realtime API updates",
+      "url": "https://openai.com/index/introducing-gpt-realtime",
+      "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
+      "source": "openai.com",
+      "ts": "2025-08-28T10:00:00Z",
+      "score": 76.47
+    },
+    {
+      "id": "29164669b47e",
+      "title": "Anthropic will start training its AI models on chat transcripts",
+      "url": "https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy",
+      "summary": "Anthropic will start training its AI models on user data, including new chat transcripts and coding sessions, unless users choose to opt out. It's also extending its data retention policy to five years - again, for users that don't choose to opt out. All users will have to make a decision by September 28th. For [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-28T16:00:00Z",
+      "score": 73.32
+    },
+    {
+      "id": "16e0610ccc78",
+      "title": "Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/",
+      "summary": "This post describes the agentic AI assistant built by the Government of the City of Buenos Aires and the GenAIIC to respond to citizens’ questions about government procedures. The solution consists of two primary components: an input guardrail system that helps prevent the system from responding to harmful user queries and a government procedures agent that retrieves relevant information and generates responses.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-28T20:25:00Z",
+      "score": 73.08
+    },
+    {
+      "id": "39508056e995",
+      "title": "Empowering air quality research with secure, ML-driven predictive analytics",
+      "url": "https://aws.amazon.com/blogs/machine-learning/empowering-air-quality-research-with-secure-ml-driven-predictive-analytics/",
+      "summary": "In this post, we provide a data imputation solution using Amazon SageMaker AI, AWS Lambda, and AWS Step Functions. This solution is designed for environmental analysts, public health officials, and business intelligence professionals who need reliable PM2.5 data for trend analysis, reporting, and decision-making. We sourced our sample training dataset from openAFRICA. Our solution predicts PM2.5 values using time-series forecasting.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-28T20:20:10Z",
+      "score": 72.96
+    },
+    {
+      "id": "905619d004bd",
+      "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-built-an-ai-assistant-using-amazon-bedrock-and-amazon-kendra-to-support-analysts-for-data-discovery-and-business-insights/",
+      "summary": "The Amazon Finance technical team develops and manages comprehensive technology solutions that power financial decision-making and operational efficiency while standardizing across Amazon’s global operations. In this post, we explain how the team conceptualized and implemented a solution to these business challenges by harnessing the power of generative AI using Amazon Bedrock and intelligent search with Amazon Kendra.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-28T20:14:22Z",
+      "score": 72.81
+    },
+    {
+      "id": "b203b36d8522",
+      "title": "Supporting nonprofit and community innovation",
+      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
+      "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
+      "source": "openai.com",
+      "ts": "2025-08-28T05:00:00Z",
+      "score": 68.91
+    },
+    {
+      "id": "hn-45051096",
+      "title": "Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)",
+      "url": "https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8",
+      "summary": "",
+      "source": "jobs.ashbyhq.com",
+      "ts": "2025-08-28T12:00:48Z",
+      "score": 61.94
     },
     {
       "id": "hn-45014656",
@@ -466,16 +421,52 @@
       "summary": "",
       "source": "tuned-project.org",
       "ts": "2025-08-25T15:03:57Z",
-      "score": 30.72
+      "score": 60.19
     },
     {
-      "id": "hn-45009546",
-      "title": "Performance Speed Limits (2019)",
-      "url": "https://travisdowns.github.io/blog/2019/06/11/speed-limits.html",
+      "id": "9fa6c6e036df",
+      "title": "Collective alignment: public input on our Model Spec",
+      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
+      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+      "source": "openai.com",
+      "ts": "2025-08-27T13:00:00Z",
+      "score": 49.37
+    },
+    {
+      "id": "hn-45038381",
+      "title": "The King's Quarry: How Louis XVI Went from Hunter to Hunted",
+      "url": "https://worldhistory.substack.com/p/the-kings-quarry",
       "summary": "",
-      "source": "travisdowns.github.io",
-      "ts": "2025-08-25T02:06:10Z",
-      "score": 19.69
+      "source": "worldhistory.substack.com",
+      "ts": "2025-08-27T11:52:47Z",
+      "score": 47.9
+    },
+    {
+      "id": "hn-45036603",
+      "title": "Show HN: Envoy – Command Logger",
+      "url": "https://github.com/heyyviv/envoy",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-08-27T07:41:37Z",
+      "score": 38.8
+    },
+    {
+      "id": "265e85cbbb22",
+      "title": "Enabling Kotlin incremental compilation on Buck2",
+      "url": "https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/",
+      "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-08-26T16:00:52Z",
+      "score": 24.53
+    },
+    {
+      "id": "hn-45017177",
+      "title": "Nullable vs. Nullable in C#",
+      "url": "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/",
+      "summary": "",
+      "source": "einarwh.no",
+      "ts": "2025-08-25T18:27:31Z",
+      "score": 21.05
     },
     {
       "id": "99b464916a99",
@@ -484,7 +475,7 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 0.05
+      "score": 0.04
     },
     {
       "id": "f20ef515ed9f",
@@ -493,7 +484,7 @@
       "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-11T16:00:21Z",
-      "score": 0.02
+      "score": 0.01
     }
   ]
 }
