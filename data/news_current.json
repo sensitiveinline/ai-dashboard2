@@ -1,58 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45062683",
-      "title": "Updates to Consumer Terms and Privacy Policy",
-      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-08-29T11:29:10Z",
-      "score": 655.02
-    },
-    {
-      "id": "hn-45062910",
-      "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
-      "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
-      "summary": "",
-      "source": "zdnet.com",
-      "ts": "2025-08-29T12:01:31Z",
-      "score": 343.34
-    },
-    {
-      "id": "hn-45060920",
-      "title": "The Synology End Game",
-      "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
-      "summary": "",
-      "source": "lowendbox.com",
-      "ts": "2025-08-29T06:37:21Z",
-      "score": 293.56
-    },
-    {
-      "id": "hn-45062738",
-      "title": "If you have a Claude account, they're going to train on your data moving forward",
-      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/",
-      "summary": "",
-      "source": "old.reddit.com",
-      "ts": "2025-08-29T11:39:26Z",
-      "score": 293.54
-    },
-    {
-      "id": "hn-45066258",
-      "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
-      "url": "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers",
-      "summary": "",
-      "source": "positiveblue.substack.com",
-      "ts": "2025-08-29T16:35:24Z",
-      "score": 259.4
-    },
-    {
       "id": "hn-45068091",
       "title": "Do the simplest thing that could possibly work",
       "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
       "summary": "",
       "source": "seangoedecke.com",
       "ts": "2025-08-29T19:05:09Z",
-      "score": 255.62
+      "score": 519.96
     },
     {
       "id": "hn-45063559",
@@ -61,34 +16,7 @@
       "summary": "",
       "source": "x.ai",
       "ts": "2025-08-29T13:01:45Z",
-      "score": 252.61
-    },
-    {
-      "id": "hn-45063431",
-      "title": "Sig Sauer citing national security to keep documents from public",
-      "url": "https://practicalshootinginsights.com/eighth-circuit-fmeca-update/",
-      "summary": "",
-      "source": "practicalshootinginsights.com",
-      "ts": "2025-08-29T12:51:01Z",
-      "score": 240.91
-    },
-    {
-      "id": "hn-45065705",
-      "title": "Essential Coding Theory [pdf]",
-      "url": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf",
-      "summary": "",
-      "source": "cse.buffalo.edu",
-      "ts": "2025-08-29T15:53:41Z",
-      "score": 229.35
-    },
-    {
-      "id": "hn-45064284",
-      "title": "Flunking my Anthropic interview again",
-      "url": "https://taylor.town/flunking-anthropic",
-      "summary": "",
-      "source": "taylor.town",
-      "ts": "2025-08-29T14:02:59Z",
-      "score": 219.53
+      "score": 319.53
     },
     {
       "id": "hn-45066395",
@@ -97,16 +25,34 @@
       "summary": "",
       "source": "twitter.com",
       "ts": "2025-08-29T16:45:21Z",
-      "score": 201.5
+      "score": 303.59
     },
     {
-      "id": "hn-45060161",
-      "title": "Strange CW Keys",
-      "url": "https://sites.google.com/site/oh6dccw/strangecwkeys",
+      "id": "hn-45066258",
+      "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+      "url": "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers",
       "summary": "",
-      "source": "sites.google.com",
-      "ts": "2025-08-29T04:22:48Z",
-      "score": 194.15
+      "source": "positiveblue.substack.com",
+      "ts": "2025-08-29T16:35:24Z",
+      "score": 298.56
+    },
+    {
+      "id": "hn-45064284",
+      "title": "Flunking my Anthropic interview again",
+      "url": "https://taylor.town/flunking-anthropic",
+      "summary": "",
+      "source": "taylor.town",
+      "ts": "2025-08-29T14:02:59Z",
+      "score": 257.28
+    },
+    {
+      "id": "hn-45065705",
+      "title": "Essential Coding Theory [pdf]",
+      "url": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf",
+      "summary": "",
+      "source": "cse.buffalo.edu",
+      "ts": "2025-08-29T15:53:41Z",
+      "score": 256.79
     },
     {
       "id": "hn-45064329",
@@ -115,16 +61,7 @@
       "summary": "",
       "source": "lmsys.org",
       "ts": "2025-08-29T14:07:28Z",
-      "score": 189.06
-    },
-    {
-      "id": "hn-45059160",
-      "title": "Lucky 13: a look at Debian trixie",
-      "url": "https://lwn.net/Articles/1033474/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-08-29T01:55:14Z",
-      "score": 182.59
+      "score": 203.98
     },
     {
       "id": "hn-45066060",
@@ -133,133 +70,7 @@
       "summary": "",
       "source": "wikigrapher.com",
       "ts": "2025-08-29T16:19:56Z",
-      "score": 174.33
-    },
-    {
-      "id": "hn-45065343",
-      "title": "Why AI Isn't Ready to Be a Real Coder",
-      "url": "https://spectrum.ieee.org/ai-for-coding",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-08-29T15:24:13Z",
-      "score": 168.48
-    },
-    {
-      "id": "hn-45068986",
-      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
-      "url": "https://arxiv.org/abs/2508.21038",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-08-29T20:25:34Z",
-      "score": 160.94
-    },
-    {
-      "id": "hn-45066999",
-      "title": "SQLite's documentation about its durability properties is unclear",
-      "url": "https://www.agwa.name/blog/post/sqlite_durability",
-      "summary": "",
-      "source": "agwa.name",
-      "ts": "2025-08-29T17:30:29Z",
-      "score": 154.87
-    },
-    {
-      "id": "hn-45066113",
-      "title": "Bourbaki – A Secret Society of Mathematicians",
-      "url": "https://books.google.com/books/about/Bourbaki.html",
-      "summary": "",
-      "source": "books.google.com",
-      "ts": "2025-08-29T16:24:14Z",
-      "score": 148.02
-    },
-    {
-      "id": "hn-45068268",
-      "title": "The No-CPU Amiga Demo Challenge",
-      "url": "https://github.com/askeksa/NoCpuChallenge",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-29T19:20:28Z",
-      "score": 137.31
-    },
-    {
-      "id": "hn-45066070",
-      "title": "Offline-First Landscape – 2025",
-      "url": "https://marcoapp.io/blog/offline-first-landscape",
-      "summary": "",
-      "source": "marcoapp.io",
-      "ts": "2025-08-29T16:20:31Z",
-      "score": 135.95
-    },
-    {
-      "id": "hn-45064210",
-      "title": "Show HN: Find Hidden Gems on HN",
-      "url": "https://pj4533.com/hn-overlooked/",
-      "summary": "",
-      "source": "pj4533.com",
-      "ts": "2025-08-29T13:56:50Z",
-      "score": 134.76
-    },
-    {
-      "id": "hn-45063874",
-      "title": "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
-      "url": "https://sosumi.ai/",
-      "summary": "",
-      "source": "sosumi.ai",
-      "ts": "2025-08-29T13:30:16Z",
-      "score": 134.61
-    },
-    {
-      "id": "hn-45065278",
-      "title": "Seedbox Lite: A lightweight torrent streaming app with instant playback",
-      "url": "https://github.com/hotheadhacker/seedbox-lite",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-08-29T15:18:40Z",
-      "score": 134.12
-    },
-    {
-      "id": "hn-45012080",
-      "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
-      "url": "https://oxism.com/trystero/",
-      "summary": "",
-      "source": "oxism.com",
-      "ts": "2025-08-25T09:48:53Z",
-      "score": 133.18
-    },
-    {
-      "id": "hn-45068215",
-      "title": "How did .agakhan, .ismaili and .imamat get their own TLDs?",
-      "url": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
-      "summary": "",
-      "source": "data.iana.org",
-      "ts": "2025-08-29T19:15:55Z",
-      "score": 126.36
-    },
-    {
-      "id": "hn-45069014",
-      "title": "How to Stop Google from AI-Summarising Your Website",
-      "url": "https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website",
-      "summary": "",
-      "source": "teruza.com",
-      "ts": "2025-08-29T20:28:35Z",
-      "score": 125.1
-    },
-    {
-      "id": "hn-45067867",
-      "title": "Data engineering and software engineering are converging",
-      "url": "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure",
-      "summary": "",
-      "source": "clickhouse.com",
-      "ts": "2025-08-29T18:43:42Z",
-      "score": 122.94
-    },
-    {
-      "id": "hn-45065425",
-      "title": "God created the real numbers",
-      "url": "https://www.ethanheilman.com/x/34/index.html",
-      "summary": "",
-      "source": "ethanheilman.com",
-      "ts": "2025-08-29T15:31:15Z",
-      "score": 115.89
+      "score": 190.8
     },
     {
       "id": "hn-45037419",
@@ -268,133 +79,151 @@
       "summary": "",
       "source": "t3x.org",
       "ts": "2025-08-27T09:50:05Z",
-      "score": 111.08
+      "score": 180.59
     },
     {
-      "id": "0e39585572f5",
-      "title": "Spotlight on AI at TechCrunch Disrupt: Don’t miss these sessions backed by JetBrains and Greenfield",
-      "url": "https://techcrunch.com/2025/08/29/spotlight-on-ai-at-techcrunch-disrupt-dont-miss-these-sessions-backed-by-jetbrains-and-greenfield/",
-      "summary": "TechCrunch Disrupt isn’t just about showcasing the startups of tomorrow — it’s also about surfacing the boldest ideas shaping technology today.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-29T21:05:00Z",
-      "score": 104.61
-    },
-    {
-      "id": "aabe29aefc78",
-      "title": "Showrunner wants to turn you into a happy little content prompter for the &#8216;Netflix of AI&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview",
-      "summary": "As one of the cofounders behind Oculus Story Studio, Edward Saatchi knows how hard it can be to sell people on new tech that bills itself as revolutionary. Even though Story Studio snagged an Emmy for one of its three animated features, a general lack of public interest in VR movies led Meta to shutter [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-29T20:07:22Z",
-      "score": 102.53
-    },
-    {
-      "id": "hn-45063547",
-      "title": "Show HN: A minimal TS library that generates prompt injection attacks",
-      "url": "https://prompt-injector.blueprintlab.io/",
+      "id": "hn-45059160",
+      "title": "Lucky 13: a look at Debian trixie",
+      "url": "https://lwn.net/Articles/1033474/",
       "summary": "",
-      "source": "prompt-injector.blueprintlab.io",
-      "ts": "2025-08-29T13:00:49Z",
-      "score": 97.18
+      "source": "lwn.net",
+      "ts": "2025-08-29T01:55:14Z",
+      "score": 178.17
+    },
+    {
+      "id": "hn-45068986",
+      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+      "url": "https://arxiv.org/abs/2508.21038",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-08-29T20:25:34Z",
+      "score": 175.47
+    },
+    {
+      "id": "hn-45071722",
+      "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
+      "url": "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html",
+      "summary": "",
+      "source": "gally.net",
+      "ts": "2025-08-30T03:40:23Z",
+      "score": 169.7
+    },
+    {
+      "id": "hn-45070793",
+      "title": "Why Romania excels in international Olympiads",
+      "url": "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/",
+      "summary": "",
+      "source": "palladiummag.com",
+      "ts": "2025-08-30T00:09:43Z",
+      "score": 167.9
+    },
+    {
+      "id": "hn-45065343",
+      "title": "AI’s coding evolution hinges on collaboration and trust",
+      "url": "https://spectrum.ieee.org/ai-for-coding",
+      "summary": "",
+      "source": "spectrum.ieee.org",
+      "ts": "2025-08-29T15:24:13Z",
+      "score": 166.71
+    },
+    {
+      "id": "hn-45071677",
+      "title": "SynthID – A tool to watermark and identify content generated through AI",
+      "url": "https://deepmind.google/science/synthid/",
+      "summary": "",
+      "source": "deepmind.google",
+      "ts": "2025-08-30T03:29:01Z",
+      "score": 159.34
+    },
+    {
+      "id": "hn-45066999",
+      "title": "SQLite's documentation about its durability properties is unclear",
+      "url": "https://www.agwa.name/blog/post/sqlite_durability",
+      "summary": "",
+      "source": "agwa.name",
+      "ts": "2025-08-29T17:30:29Z",
+      "score": 150.46
+    },
+    {
+      "id": "hn-45012080",
+      "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+      "url": "https://oxism.com/trystero/",
+      "summary": "",
+      "source": "oxism.com",
+      "ts": "2025-08-25T09:48:53Z",
+      "score": 136.34
+    },
+    {
+      "id": "hn-45063874",
+      "title": "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
+      "url": "https://sosumi.ai/",
+      "summary": "",
+      "source": "sosumi.ai",
+      "ts": "2025-08-29T13:30:16Z",
+      "score": 133.55
+    },
+    {
+      "id": "hn-45072160",
+      "title": "From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms",
+      "url": "https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24",
+      "summary": "",
+      "source": "vinithavn.medium.com",
+      "ts": "2025-08-30T05:45:24Z",
+      "score": 130.28
+    },
+    {
+      "id": "hn-45068215",
+      "title": "How did .agakhan, .ismaili and .imamat get their own TLDs?",
+      "url": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
+      "summary": "",
+      "source": "data.iana.org",
+      "ts": "2025-08-29T19:15:55Z",
+      "score": 127.83
+    },
+    {
+      "id": "hn-45065425",
+      "title": "God created the real numbers",
+      "url": "https://www.ethanheilman.com/x/34/index.html",
+      "summary": "",
+      "source": "ethanheilman.com",
+      "ts": "2025-08-29T15:31:15Z",
+      "score": 126.67
+    },
+    {
+      "id": "hn-45067423",
+      "title": "Income Equality in Nordic Countries: Myths, Facts, and Lessons",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jel.20251636",
+      "summary": "",
+      "source": "aeaweb.org",
+      "ts": "2025-08-29T18:03:33Z",
+      "score": 123.66
+    },
+    {
+      "id": "hn-45067867",
+      "title": "Data engineering and software engineering are converging",
+      "url": "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure",
+      "summary": "",
+      "source": "clickhouse.com",
+      "ts": "2025-08-29T18:43:42Z",
+      "score": 123.44
+    },
+    {
+      "id": "hn-45069014",
+      "title": "How to stop Google from AI-summarising your website",
+      "url": "https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website",
+      "summary": "",
+      "source": "teruza.com",
+      "ts": "2025-08-29T20:28:35Z",
+      "score": 120.66
     },
     {
       "id": "hn-45036052",
-      "title": "How do I get into the Game Industry",
+      "title": "How do I get into the game industry",
       "url": "https://garry.net/posts/how-do-i-get-into-the-game-industry",
       "summary": "",
       "source": "garry.net",
       "ts": "2025-08-27T06:23:22Z",
-      "score": 96.56
-    },
-    {
-      "id": "fab85a9d8912",
-      "title": "Meta updates chatbot rules to avoid inappropriate topics with teen users",
-      "url": "https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/",
-      "summary": "After a bombshell report on Meta allowing its AI chatbots to have sensual chats with minors, the company is updating its policies.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-29T17:04:17Z",
-      "score": 96.22
-    },
-    {
-      "id": "ab4226c7e811",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "url": "https://techcrunch.com/2025/08/29/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "source": "techcrunch.com",
-      "ts": "2025-08-29T15:46:27Z",
-      "score": 93.65
-    },
-    {
-      "id": "3fe4e4d7c0c7",
-      "title": "The future of AI hardware isn&#8217;t one device — it&#8217;s an entire ecosystem",
-      "url": "https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing",
-      "summary": "I dream of a gadget that can do it all. Instead, when I leave for the office, I pack one or two phones, a portable battery bank, a laptop, a Kindle, a new product I'm testing, and at least one pair of earbuds. In my backpack, there's a pouch full of cords and adapters. On [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-29T15:30:00Z",
-      "score": 93.12
-    },
-    {
-      "id": "hn-45066592",
-      "title": "Thunder Compute (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-08-29T17:00:04Z",
-      "score": 87.94
-    },
-    {
-      "id": "ee4e774b49db",
-      "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
-      "url": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/",
-      "summary": "We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:55:37Z",
-      "score": 87.21
-    },
-    {
-      "id": "7e23ef967110",
-      "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/",
-      "summary": "In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:46:13Z",
-      "score": 86.92
-    },
-    {
-      "id": "4f5a0abe0620",
-      "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/",
-      "summary": "In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:21:02Z",
-      "score": 86.17
-    },
-    {
-      "id": "8c50e39fac78",
-      "title": "What’s really happening with the hires at Meta Superintelligence Labs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo",
-      "summary": "In June, Mark Zuckerberg went for the ultimate Hail Mary in the ever-intensifying AI race: He spun up a brand-new Meta AI lab after making a $14.3 billion acquisition of Scale AI - and then spending billions more hiring some of the industry's preeminent researchers and engineers. Fast-forward a couple of months, and Zuckerberg may [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-29T11:00:00Z",
-      "score": 84.79
-    },
-    {
-      "id": "43aba04ae861",
-      "title": "Prompt-to-Product: Generative Assembly via Bimanual Manipulation",
-      "url": "http://arxiv.org/abs/2508.21063v1",
-      "summary": "Creating assembly products demands significant manual effort and expert\nknowledge in 1) designing the assembly and 2) constructing the product. This\npaper introduces Prompt-to-Product, an automated pipeline that generates\nreal-world assembly products from natural language prompts. Specifically, we\nleverage LEGO bricks as the assembly platform and automate the process of\ncreating brick assembly structures. Given the user design requirements,\nPrompt-to-Product generates physically buildable brick designs, and then\nleverages a bimanual robotic system to construct the real assembly products,\nbringing user imaginations into the real world. We conduct a comprehensive user\nstudy, and the results demonstrate that Prompt-to-Product significantly lowers\nthe barrier and reduces manual effort in creating assembly products from\nimaginative ideas.",
-      "source": "arxiv.org",
-      "ts": "2025-08-28T17:59:05Z",
-      "score": 70.3
-    },
-    {
-      "id": "90758796a2d0",
-      "title": "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn\n  Dialogue with Large Language Models",
-      "url": "http://arxiv.org/abs/2508.21061v1",
-      "summary": "As multi-turn dialogues with large language models (LLMs) grow longer and\nmore complex, how can users better evaluate and review progress on their\nconversational goals? We present OnGoal, an LLM chat interface that helps users\nbetter manage goal progress. OnGoal provides real-time feedback on goal\nalignment through LLM-assisted evaluation, explanations for evaluation results\nwith examples, and overviews of goal progression over time, enabling users to\nnavigate complex dialogues more effectively. Through a study with 20\nparticipants on a writing task, we evaluate OnGoal against a baseline chat\ninterface without goal tracking. Using OnGoal, participants spent less time and\neffort to achieve their goals while exploring new prompting strategies to\novercome miscommunication, suggesting tracking and visualizing goals can\nenhance engagement and resilience in LLM dialogues. Our findings inspired\ndesign implications for future LLM chat interfaces that improve goal\ncommunication, reduce cognitive load, enhance interactivity, and enable\nfeedback to improve LLM performance.",
-      "source": "arxiv.org",
-      "ts": "2025-08-28T17:58:29Z",
-      "score": 70.28
+      "score": 117.3
     },
     {
       "id": "hn-45037064",
@@ -403,25 +232,160 @@
       "summary": "",
       "source": "hermes4.nousresearch.com",
       "ts": "2025-08-27T08:58:38Z",
-      "score": 67.39
+      "score": 113.01
     },
     {
-      "id": "hn-45037936",
-      "title": "Fixing an old .NET Core native library loading issue on Alpine",
-      "url": "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/",
+      "id": "hn-45071838",
+      "title": "Fun and Immersive Typing Game",
+      "url": "https://keybara.io",
       "summary": "",
-      "source": "andrewlock.net",
-      "ts": "2025-08-27T10:59:37Z",
-      "score": 61.95
+      "source": "keybara.io",
+      "ts": "2025-08-30T04:05:22Z",
+      "score": 98.45
     },
     {
-      "id": "hn-45037109",
-      "title": "This is my brain on leeches",
-      "url": "https://todaythings.substack.com/p/this-is-my-brain-on-leeches",
+      "id": "hn-45070602",
+      "title": "Nginx-CGI brings support for CGI to Nginx and angie",
+      "url": "https://github.com/pjincz/nginx-cgi",
       "summary": "",
-      "source": "todaythings.substack.com",
-      "ts": "2025-08-27T09:06:09Z",
-      "score": 59.66
+      "source": "github.com",
+      "ts": "2025-08-29T23:40:21Z",
+      "score": 98.1
+    },
+    {
+      "id": "hn-45030038",
+      "title": "15-Fold increase in solar thermoelectric generator performance",
+      "url": "https://www.nature.com/articles/s41377-025-01916-9",
+      "summary": "",
+      "source": "nature.com",
+      "ts": "2025-08-26T17:58:24Z",
+      "score": 93.51
+    },
+    {
+      "id": "cd7f5c408aa5",
+      "title": "Cracks are forming in Meta’s partnership with Scale AI",
+      "url": "https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/",
+      "summary": "Two months after making a $14.3B investment in Scale AI, Meta is relying heavily on its competitors to train next generation AI models.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-30T01:34:05Z",
+      "score": 89.6
+    },
+    {
+      "id": "0e39585572f5",
+      "title": "Spotlight on AI at TechCrunch Disrupt: Don’t miss these sessions backed by JetBrains and Greenfield",
+      "url": "https://techcrunch.com/2025/08/29/spotlight-on-ai-at-techcrunch-disrupt-dont-miss-these-sessions-backed-by-jetbrains-and-greenfield/",
+      "summary": "TechCrunch Disrupt isn’t just about showcasing the startups of tomorrow — it’s also about surfacing the boldest ideas shaping technology today.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-29T21:05:00Z",
+      "score": 81.61
+    },
+    {
+      "id": "aabe29aefc78",
+      "title": "Showrunner wants to turn you into a happy little content prompter for the &#8216;Netflix of AI&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview",
+      "summary": "As one of the cofounders behind Oculus Story Studio, Edward Saatchi knows how hard it can be to sell people on new tech that bills itself as revolutionary. Even though Story Studio snagged an Emmy for one of its three animated features, a general lack of public interest in VR movies led Meta to shutter [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-29T20:07:22Z",
+      "score": 79.99
+    },
+    {
+      "id": "fab85a9d8912",
+      "title": "Meta updates chatbot rules to avoid inappropriate topics with teen users",
+      "url": "https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/",
+      "summary": "After a bombshell report on Meta allowing its AI chatbots to have sensual chats with minors, the company is updating its policies.",
+      "source": "techcrunch.com",
+      "ts": "2025-08-29T17:04:17Z",
+      "score": 75.06
+    },
+    {
+      "id": "3fe4e4d7c0c7",
+      "title": "The future of AI hardware isn&#8217;t one device — it&#8217;s an entire ecosystem",
+      "url": "https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing",
+      "summary": "I dream of a gadget that can do it all. Instead, when I leave for the office, I pack one or two phones, a portable battery bank, a laptop, a Kindle, a new product I'm testing, and at least one pair of earbuds. In my backpack, there's a pouch full of cords and adapters. On [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-29T15:30:00Z",
+      "score": 72.64
+    },
+    {
+      "id": "hn-45041744",
+      "title": "I'm working on implementing a programming language all my own",
+      "url": "https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own",
+      "summary": "",
+      "source": "eli.li",
+      "ts": "2025-08-27T16:24:13Z",
+      "score": 70.96
+    },
+    {
+      "id": "hn-45066592",
+      "title": "Thunder Compute (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-08-29T17:00:04Z",
+      "score": 68.74
+    },
+    {
+      "id": "ee4e774b49db",
+      "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/",
+      "summary": "We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-29T16:55:37Z",
+      "score": 68.03
+    },
+    {
+      "id": "7e23ef967110",
+      "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/",
+      "summary": "In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-29T16:46:13Z",
+      "score": 67.81
+    },
+    {
+      "id": "4f5a0abe0620",
+      "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/",
+      "summary": "In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.",
+      "source": "aws.amazon.com",
+      "ts": "2025-08-29T16:21:02Z",
+      "score": 67.22
+    },
+    {
+      "id": "8c50e39fac78",
+      "title": "What’s really happening with the hires at Meta Superintelligence Labs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo",
+      "summary": "In June, Mark Zuckerberg went for the ultimate Hail Mary in the ever-intensifying AI race: He spun up a brand-new Meta AI lab after making a $14.3 billion acquisition of Scale AI - and then spending billions more hiring some of the industry's preeminent researchers and engineers. Fast-forward a couple of months, and Zuckerberg may [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-29T11:00:00Z",
+      "score": 66.14
+    },
+    {
+      "id": "43aba04ae861",
+      "title": "Prompt-to-Product: Generative Assembly via Bimanual Manipulation",
+      "url": "http://arxiv.org/abs/2508.21063v1",
+      "summary": "Creating assembly products demands significant manual effort and expert\nknowledge in 1) designing the assembly and 2) constructing the product. This\npaper introduces Prompt-to-Product, an automated pipeline that generates\nreal-world assembly products from natural language prompts. Specifically, we\nleverage LEGO bricks as the assembly platform and automate the process of\ncreating brick assembly structures. Given the user design requirements,\nPrompt-to-Product generates physically buildable brick designs, and then\nleverages a bimanual robotic system to construct the real assembly products,\nbringing user imaginations into the real world. We conduct a comprehensive user\nstudy, and the results demonstrate that Prompt-to-Product significantly lowers\nthe barrier and reduces manual effort in creating assembly products from\nimaginative ideas.",
+      "source": "arxiv.org",
+      "ts": "2025-08-28T17:59:05Z",
+      "score": 54.84
+    },
+    {
+      "id": "90758796a2d0",
+      "title": "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn\n  Dialogue with Large Language Models",
+      "url": "http://arxiv.org/abs/2508.21061v1",
+      "summary": "As multi-turn dialogues with large language models (LLMs) grow longer and\nmore complex, how can users better evaluate and review progress on their\nconversational goals? We present OnGoal, an LLM chat interface that helps users\nbetter manage goal progress. OnGoal provides real-time feedback on goal\nalignment through LLM-assisted evaluation, explanations for evaluation results\nwith examples, and overviews of goal progression over time, enabling users to\nnavigate complex dialogues more effectively. Through a study with 20\nparticipants on a writing task, we evaluate OnGoal against a baseline chat\ninterface without goal tracking. Using OnGoal, participants spent less time and\neffort to achieve their goals while exploring new prompting strategies to\novercome miscommunication, suggesting tracking and visualizing goals can\nenhance engagement and resilience in LLM dialogues. Our findings inspired\ndesign implications for future LLM chat interfaces that improve goal\ncommunication, reduce cognitive load, enhance interactivity, and enable\nfeedback to improve LLM performance.",
+      "source": "arxiv.org",
+      "ts": "2025-08-28T17:58:29Z",
+      "score": 54.83
+    },
+    {
+      "id": "hn-45026013",
+      "title": "A look at XSLT 3.0 (2017)",
+      "url": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
+      "summary": "",
+      "source": "xml.com",
+      "ts": "2025-08-26T13:07:11Z",
+      "score": 53.62
     },
     {
       "id": "20e7ffe2a031",
@@ -430,7 +394,16 @@
       "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
       "source": "openai.com",
       "ts": "2025-08-28T10:00:00Z",
-      "score": 59.52
+      "score": 46.44
+    },
+    {
+      "id": "hn-45039292",
+      "title": "Show HN: I made an Animal Crossing style letter editor",
+      "url": "https://acmail.idreesinc.com",
+      "summary": "",
+      "source": "acmail.idreesinc.com",
+      "ts": "2025-08-27T13:18:04Z",
+      "score": 44.81
     },
     {
       "id": "b203b36d8522",
@@ -439,34 +412,34 @@
       "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
       "source": "openai.com",
       "ts": "2025-08-28T05:00:00Z",
-      "score": 53.63
+      "score": 41.84
     },
     {
-      "id": "hn-45037120",
-      "title": "What Does will-change In CSS Do?",
-      "url": "https://jakub.kr/components/will-change-in-css",
+      "id": "hn-45025685",
+      "title": "Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability",
+      "url": "https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability",
       "summary": "",
-      "source": "jakub.kr",
-      "ts": "2025-08-27T09:07:49Z",
-      "score": 39.87
+      "source": "maintainable.fm",
+      "ts": "2025-08-26T12:37:02Z",
+      "score": 39.08
     },
     {
-      "id": "9fa6c6e036df",
-      "title": "Collective alignment: public input on our Model Spec",
-      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
-      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
-      "source": "openai.com",
-      "ts": "2025-08-27T13:00:00Z",
-      "score": 38.43
-    },
-    {
-      "id": "hn-45026013",
-      "title": "Why You Should Be Using XSLT 3.0 (2017)",
-      "url": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
+      "id": "hn-45032898",
+      "title": "Trying to get error backtraces in Rust libraries right",
+      "url": "https://www.iroh.computer/blog/error-handling-in-iroh",
       "summary": "",
-      "source": "xml.com",
-      "ts": "2025-08-26T13:07:11Z",
-      "score": 26.38
+      "source": "iroh.computer",
+      "ts": "2025-08-26T22:02:29Z",
+      "score": 36.69
+    },
+    {
+      "id": "hn-45039662",
+      "title": "The Grammar According to West",
+      "url": "https://dwest.web.illinois.edu/grammar.html",
+      "summary": "",
+      "source": "dwest.web.illinois.edu",
+      "ts": "2025-08-27T13:51:05Z",
+      "score": 32.47
     },
     {
       "id": "hn-45024980",
@@ -475,7 +448,34 @@
       "summary": "",
       "source": "andrewpwheeler.com",
       "ts": "2025-08-26T11:12:56Z",
-      "score": 19.68
+      "score": 30.28
+    },
+    {
+      "id": "9fa6c6e036df",
+      "title": "Collective alignment: public input on our Model Spec",
+      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
+      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+      "source": "openai.com",
+      "ts": "2025-08-27T13:00:00Z",
+      "score": 29.98
+    },
+    {
+      "id": "hn-45023579",
+      "title": "Emulating aarch64 in software using JIT compilation and Rust",
+      "url": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html",
+      "summary": "",
+      "source": "pitsidianak.is",
+      "ts": "2025-08-26T07:58:02Z",
+      "score": 24.6
+    },
+    {
+      "id": "hn-45026289",
+      "title": "Automating Bug Bounty with N8n",
+      "url": "https://www.lampysecurity.com/post/automating-bug-bounty-with-n8n",
+      "summary": "",
+      "source": "lampysecurity.com",
+      "ts": "2025-08-26T13:30:14Z",
+      "score": 15.94
     },
     {
       "id": "265e85cbbb22",
@@ -484,7 +484,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 19.09
+      "score": 14.89
     },
     {
       "id": "99b464916a99",
