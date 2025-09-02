@@ -1,346 +1,22 @@
 {
   "items": [
     {
-      "id": "hn-45087396",
-      "title": "We should have the ability to run any code we want on hardware we own",
-      "url": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
+      "id": "hn-45104907",
+      "title": "Anthropic raises $13B Series F",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
       "summary": "",
-      "source": "hugotunius.se",
-      "ts": "2025-08-31T21:46:26Z",
-      "score": 1169.98
+      "source": "anthropic.com",
+      "ts": "2025-09-02T16:04:15Z",
+      "score": 457.77
     },
     {
-      "id": "hn-45055205",
-      "title": "Making Minecraft Spherical",
-      "url": "https://www.bowerbyte.com/posts/blocky-planet/",
+      "id": "hn-45108548",
+      "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+      "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
       "summary": "",
-      "source": "bowerbyte.com",
-      "ts": "2025-08-28T18:12:34Z",
-      "score": 443.24
-    },
-    {
-      "id": "hn-45086020",
-      "title": "Eternal Struggle",
-      "url": "https://yoavg.github.io/eternal/",
-      "summary": "",
-      "source": "yoavg.github.io",
-      "ts": "2025-08-31T19:04:03Z",
-      "score": 426.48
-    },
-    {
-      "id": "hn-45092490",
-      "title": "Bear is now source-available",
-      "url": "https://herman.bearblog.dev/license/",
-      "summary": "",
-      "source": "herman.bearblog.dev",
-      "ts": "2025-09-01T13:17:56Z",
-      "score": 329.99
-    },
-    {
-      "id": "hn-45095460",
-      "title": "Implementing a Foil Sticker Effect",
-      "url": "https://www.4rknova.com/blog/2025/08/30/foil-sticker",
-      "summary": "",
-      "source": "4rknova.com",
-      "ts": "2025-09-01T18:47:21Z",
-      "score": 286.02
-    },
-    {
-      "id": "hn-45095849",
-      "title": "Patrick Winston: How to Speak (2018) [video]",
-      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-01T19:32:17Z",
-      "score": 278.73
-    },
-    {
-      "id": "hn-45099922",
-      "title": "Next.js Is Infuriating",
-      "url": "https://blog.meca.sh/3lxoty3shjc2z",
-      "summary": "",
-      "source": "blog.meca.sh",
-      "ts": "2025-09-02T06:57:41Z",
-      "score": 272.8
-    },
-    {
-      "id": "hn-45093090",
-      "title": "Cloudflare Radar: AI Insights",
-      "url": "https://radar.cloudflare.com/ai-insights",
-      "summary": "",
-      "source": "radar.cloudflare.com",
-      "ts": "2025-09-01T14:49:25Z",
-      "score": 267.82
-    },
-    {
-      "id": "hn-45098722",
-      "title": "FreeDroidWarn",
-      "url": "https://github.com/woheller69/FreeDroidWarn",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T03:01:02Z",
-      "score": 256.02
-    },
-    {
-      "id": "hn-45094421",
-      "title": "Adaptive LLM routing under budget constraints",
-      "url": "https://arxiv.org/abs/2508.21141",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-01T16:57:38Z",
-      "score": 232.67
-    },
-    {
-      "id": "hn-45095603",
-      "title": "Amazon has mostly sat out the AI talent war",
-      "url": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
-      "summary": "",
-      "source": "businessinsider.com",
-      "ts": "2025-09-01T19:04:31Z",
-      "score": 231.84
-    },
-    {
-      "id": "hn-45091493",
-      "title": "CocoaPods trunk read-only plan",
-      "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
-      "summary": "",
-      "source": "blog.cocoapods.org",
-      "ts": "2025-09-01T10:39:25Z",
-      "score": 203.01
-    },
-    {
-      "id": "hn-45095475",
-      "title": "The future of 32-bit support in the kernel",
-      "url": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-01T18:48:22Z",
-      "score": 197.24
-    },
-    {
-      "id": "hn-45098269",
-      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
-      "url": "https://kazeta.org/",
-      "summary": "",
-      "source": "kazeta.org",
-      "ts": "2025-09-02T01:44:22Z",
-      "score": 185.42
-    },
-    {
-      "id": "hn-45096585",
-      "title": "Raspberry Pi 5 support (OpenBSD)",
-      "url": "https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2",
-      "summary": "",
-      "source": "marc.info",
-      "ts": "2025-09-01T21:03:51Z",
-      "score": 179.05
-    },
-    {
-      "id": "hn-45095545",
-      "title": "Thoughts on (Amazonian) leadership",
-      "url": "https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html",
-      "summary": "",
-      "source": "daemonology.net",
-      "ts": "2025-09-01T18:56:39Z",
-      "score": 150.05
-    },
-    {
-      "id": "hn-45099418",
-      "title": "Collecting All Causal Knowledge",
-      "url": "https://causenet.org/",
-      "summary": "",
-      "source": "causenet.org",
-      "ts": "2025-09-02T05:26:04Z",
-      "score": 148.75
-    },
-    {
-      "id": "hn-45063037",
-      "title": "The day Return became Enter (2023)",
-      "url": "https://aresluna.org/the-day-return-became-enter/",
-      "summary": "",
-      "source": "aresluna.org",
-      "ts": "2025-08-29T12:12:57Z",
-      "score": 146.34
-    },
-    {
-      "id": "hn-45094953",
-      "title": "Steve Ballmer Interview",
-      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
-      "summary": "",
-      "source": "acquired.fm",
-      "ts": "2025-09-01T17:51:27Z",
-      "score": 144.26
-    },
-    {
-      "id": "hn-45101117",
-      "title": "Unfortunately, the ICEBlock app is activism theater",
-      "url": "https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/",
-      "summary": "",
-      "source": "micahflee.com",
-      "ts": "2025-09-02T10:19:31Z",
-      "score": 143.21
-    },
-    {
-      "id": "hn-45094692",
-      "title": "One of Britain's largest stocks of second-hand books ever amassed",
-      "url": "https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire",
-      "summary": "",
-      "source": "worldofinteriors.com",
-      "ts": "2025-09-01T17:25:08Z",
-      "score": 139.43
-    },
-    {
-      "id": "hn-45052517",
-      "title": "What brain surgery taught me about the fragile gift of consciousness",
-      "url": "https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/",
-      "summary": "",
-      "source": "bigthink.com",
-      "ts": "2025-08-28T14:22:07Z",
-      "score": 134.72
-    },
-    {
-      "id": "hn-45099124",
-      "title": "WinBoat: Run Windows apps on Linux with seamless integration",
-      "url": "https://github.com/TibixDev/winboat",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T04:24:07Z",
-      "score": 133.68
-    },
-    {
-      "id": "hn-45096254",
-      "title": "The buyer-pull and seller-push theories of sales",
-      "url": "https://howtogrow.substack.com/p/the-physics-of-sales",
-      "summary": "",
-      "source": "howtogrow.substack.com",
-      "ts": "2025-09-01T20:17:45Z",
-      "score": 126.87
-    },
-    {
-      "id": "hn-45101127",
-      "title": "Europol said ChatControl doesn't go far enough; they want to retain data forever",
-      "url": "https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/",
-      "summary": "",
-      "source": "old.reddit.com",
-      "ts": "2025-09-02T10:21:42Z",
-      "score": 112.08
-    },
-    {
-      "id": "1568f222ff7a",
-      "title": "Building more helpful ChatGPT experiences for everyone",
-      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
-      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
-      "source": "openai.com",
-      "ts": "2025-09-02T04:00:00Z",
-      "score": 111.22
-    },
-    {
-      "id": "hn-45100499",
-      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
-      "url": "https://www.grisp.org/software",
-      "summary": "",
-      "source": "grisp.org",
-      "ts": "2025-09-02T08:40:20Z",
-      "score": 108.7
-    },
-    {
-      "id": "hn-45101300",
-      "title": "What's New with Firefox 142",
-      "url": "https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142",
-      "summary": "",
-      "source": "mozilla.org",
-      "ts": "2025-09-02T10:50:55Z",
-      "score": 102.74
-    },
-    {
-      "id": "hn-45061290",
-      "title": "Stone Age settlement found under the sea in Denmark",
-      "url": "https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d",
-      "summary": "",
-      "source": "apnews.com",
-      "ts": "2025-08-29T07:39:52Z",
-      "score": 100.7
-    },
-    {
-      "id": "hn-45099192",
-      "title": "Keyboards from my collection (2023)",
-      "url": "https://aresluna.org/50-keyboards-from-my-collection/",
-      "summary": "",
-      "source": "aresluna.org",
-      "ts": "2025-09-02T04:38:30Z",
-      "score": 99.91
-    },
-    {
-      "id": "hn-45056377",
-      "title": "Python: The Documentary – An origin story [video]",
-      "url": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-08-28T19:58:49Z",
-      "score": 96.8
-    },
-    {
-      "id": "8151a67e8278",
-      "title": "U.S. and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups",
-      "url": "https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/",
-      "summary": "Eight U.S. and Indian VC and PE giants are teaming up to fuel India's deep tech boom.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-02T03:30:00Z",
-      "score": 93.14
-    },
-    {
-      "id": "hn-45099939",
-      "title": "Kapa.ai (YC S23) is hiring research and software engineers",
-      "url": "https://www.ycombinator.com/companies/kapa-ai/jobs",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-02T07:01:01Z",
-      "score": 91.71
-    },
-    {
-      "id": "hn-45099112",
-      "title": "Intuitive find and replace CLI (sed alternative)",
-      "url": "https://github.com/chmln/sd",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T04:21:51Z",
-      "score": 91.01
-    },
-    {
-      "id": "e565d8c4720e",
-      "title": "LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B",
-      "url": "https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/",
-      "summary": "This Japanese AI startup just raised $100M to cut businesses’ admin burden.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-01T23:00:00Z",
-      "score": 84.8
-    },
-    {
-      "id": "6d9f27ae81cd",
-      "title": "Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can",
-      "url": "https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/",
-      "summary": "With just over a month until TechCrunch Disrupt 2025 hits San Francisco, we’re calling on students, aspiring founders, marketers, and event pros to help the TechCrunch events team pull off one of the largest and most anticipated startup events of the year.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-01T19:41:46Z",
-      "score": 79.16
-    },
-    {
-      "id": "457115f83b7e",
-      "title": "Is AI the end of software engineering or the next step in its evolution?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution",
-      "summary": "The first time I used ChatGPT to code, back in early 2023, I was reminded of \"The Monkey's Paw,\" a classic horror story about an accursed talisman that grants wishes, but always by the most malevolent path - the desired outcome arrives after exacting a brutal cost elsewhere first. With the same humorless literalness, ChatGPT [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-01T11:00:00Z",
-      "score": 66.04
-    },
-    {
-      "id": "hn-45089072",
-      "title": "The first inkjet printer was a medical device",
-      "url": "https://spectrum.ieee.org/rune-elmqvist",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-01T03:08:07Z",
-      "score": 60.57
+      "source": "cnbc.com",
+      "ts": "2025-09-02T20:26:47Z",
+      "score": 296.71
     },
     {
       "id": "hn-45062046",
@@ -349,34 +25,412 @@
       "summary": "",
       "source": "simonwillison.net",
       "ts": "2025-08-29T09:40:19Z",
-      "score": 60.43
+      "score": 274.15
     },
     {
-      "id": "a6ad6935a6cb",
-      "title": "Chatbots can be manipulated through flattery and peer pressure",
-      "url": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
-      "summary": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules. Researchers from the University of Pennsylvania deployed tactics described [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-31T21:06:24Z",
-      "score": 49.45
-    },
-    {
-      "id": "hn-45057974",
-      "title": "The ABC Programming Language",
-      "url": "https://homepages.cwi.nl/~steven/abc/",
+      "id": "hn-45106011",
+      "title": "We already live in social credit, we just don't call it that",
+      "url": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/",
       "summary": "",
-      "source": "homepages.cwi.nl",
-      "ts": "2025-08-28T22:57:45Z",
-      "score": 43.43
+      "source": "thenexus.media",
+      "ts": "2025-09-02T17:14:51Z",
+      "score": 231.26
     },
     {
-      "id": "0777948df512",
-      "title": "Meta is struggling to rein in its AI chatbots",
-      "url": "https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors",
-      "summary": "Meta is changing some of the rules governing its chatbots two weeks after a Reuters investigation revealed disturbing ways in which they could, potentially, interact with minors. Now the company has told TechCrunch that its chatbots are being trained not to engage in conversations with minors around self-harm, suicide, or disordered eating, and to avoid [&#8230;]",
+      "id": "hn-45103436",
+      "title": "The Little Book of Linear Algebra",
+      "url": "https://github.com/the-litte-book-of/linear-algebra",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T14:17:07Z",
+      "score": 227.8
+    },
+    {
+      "id": "hn-45106189",
+      "title": "Python has had async for 10 years – why isn't it more popular?",
+      "url": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+      "summary": "",
+      "source": "tonybaloney.github.io",
+      "ts": "2025-09-02T17:24:57Z",
+      "score": 200.37
+    },
+    {
+      "id": "hn-45099418",
+      "title": "Collecting All Causal Knowledge",
+      "url": "https://causenet.org/",
+      "summary": "",
+      "source": "causenet.org",
+      "ts": "2025-09-02T05:26:04Z",
+      "score": 195.89
+    },
+    {
+      "id": "hn-45107891",
+      "title": "Amazon must face US nationwide class action over third-party sales",
+      "url": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
+      "summary": "",
+      "source": "reuters.com",
+      "ts": "2025-09-02T19:28:43Z",
+      "score": 189.84
+    },
+    {
+      "id": "hn-45100499",
+      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
+      "url": "https://www.grisp.org/software",
+      "summary": "",
+      "source": "grisp.org",
+      "ts": "2025-09-02T08:40:20Z",
+      "score": 187.48
+    },
+    {
+      "id": "hn-45107962",
+      "title": "A staff engineer's journey with Claude Code",
+      "url": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+      "summary": "",
+      "source": "sanity.io",
+      "ts": "2025-09-02T19:34:24Z",
+      "score": 181.62
+    },
+    {
+      "id": "hn-45106295",
+      "title": "Microsoft rewarded for security failures with another US Government contract",
+      "url": "https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/",
+      "summary": "",
+      "source": "theregister.com",
+      "ts": "2025-09-02T17:30:35Z",
+      "score": 181.34
+    },
+    {
+      "id": "hn-45101779",
+      "title": "Toronto’s network of pedestrian tunnels",
+      "url": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
+      "summary": "",
+      "source": "worksinprogress.news",
+      "ts": "2025-09-02T11:44:14Z",
+      "score": 173.73
+    },
+    {
+      "id": "hn-45106049",
+      "title": "<template>: The Content Template element",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+      "summary": "",
+      "source": "developer.mozilla.org",
+      "ts": "2025-09-02T17:16:42Z",
+      "score": 168.31
+    },
+    {
+      "id": "hn-45102512",
+      "title": "Take something you don’t like and try to like it",
+      "url": "https://dynomight.net/liking/",
+      "summary": "",
+      "source": "dynomight.net",
+      "ts": "2025-09-02T12:56:37Z",
+      "score": 165.52
+    },
+    {
+      "id": "hn-45104303",
+      "title": "Static sites enable a good time travel experience",
+      "url": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+      "summary": "",
+      "source": "hamatti.org",
+      "ts": "2025-09-02T15:25:44Z",
+      "score": 163.79
+    },
+    {
+      "id": "hn-45106314",
+      "title": "Introduction to Ada: a project-based exploration with rosettas",
+      "url": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+      "summary": "",
+      "source": "blog.adacore.com",
+      "ts": "2025-09-02T17:32:08Z",
+      "score": 162.79
+    },
+    {
+      "id": "hn-45105710",
+      "title": "'World Models,' an old idea in AI, mount a comeback",
+      "url": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-09-02T16:53:29Z",
+      "score": 158.61
+    },
+    {
+      "id": "hn-45104289",
+      "title": "The staff ate it later",
+      "url": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-02T15:24:48Z",
+      "score": 155.96
+    },
+    {
+      "id": "hn-45106846",
+      "title": "Physically based rendering from first principles",
+      "url": "https://imadr.me/pbr/",
+      "summary": "",
+      "source": "imadr.me",
+      "ts": "2025-09-02T18:07:22Z",
+      "score": 152.48
+    },
+    {
+      "id": "hn-45103857",
+      "title": "Removing Guix from Debian",
+      "url": "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-02T14:49:40Z",
+      "score": 150.74
+    },
+    {
+      "id": "hn-45108066",
+      "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
+      "url": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+      "summary": "",
+      "source": "dgross.ca",
+      "ts": "2025-09-02T19:42:48Z",
+      "score": 143.49
+    },
+    {
+      "id": "hn-45107249",
+      "title": "A gentle introduction to CP/M",
+      "url": "https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/",
+      "summary": "",
+      "source": "eerielinux.wordpress.com",
+      "ts": "2025-09-02T18:39:28Z",
+      "score": 124.08
+    },
+    {
+      "id": "hn-45107939",
+      "title": "iNaturalist keeps full species classification models private",
+      "url": "https://github.com/inaturalist/inatVisionAPI",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T19:32:46Z",
+      "score": 123.97
+    },
+    {
+      "id": "hn-45107364",
+      "title": "Show HN: Amber – better Beeper, a modern all-in-one messenger",
+      "url": "https://useamber.app/",
+      "summary": "",
+      "source": "useamber.app",
+      "ts": "2025-09-02T18:48:26Z",
+      "score": 115.36
+    },
+    {
+      "id": "hn-45107505",
+      "title": "Civics is boring, so, let's encrypt something (2024)",
+      "url": "https://queue.acm.org/detail.cfm?id=3703126",
+      "summary": "",
+      "source": "queue.acm.org",
+      "ts": "2025-09-02T18:58:00Z",
+      "score": 113.86
+    },
+    {
+      "id": "hn-45107353",
+      "title": "The Kafka Replication Protocol with KIP-966",
+      "url": "https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T18:47:26Z",
+      "score": 107.53
+    },
+    {
+      "id": "hn-45110075",
+      "title": "Parallel AI agents are a game changer",
+      "url": "https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html",
+      "summary": "",
+      "source": "morningcoffee.io",
+      "ts": "2025-09-02T22:44:50Z",
+      "score": 105.14
+    },
+    {
+      "id": "455cf6e48a57",
+      "title": "Amazon&#8217;s Lens Live AI shops for anything you can see",
+      "url": "https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping",
+      "summary": "Amazon will now let you shop for products by pointing your camera at them. On Thursday, the company announced Lens Live, a new feature that uses your camera to scan things in the environment around you, while surfacing matching product listings. This feature, which is only rolling out to the Amazon Shopping app on iOS [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-08-31T14:17:49Z",
-      "score": 42.91
+      "ts": "2025-09-02T21:01:13Z",
+      "score": 104.55
+    },
+    {
+      "id": "hn-45109324",
+      "title": "You're Not Interviewing for the Job. You're Auditioning for the Job Title",
+      "url": "https://idiallo.com/blog/performing-for-the-job-title",
+      "summary": "",
+      "source": "idiallo.com",
+      "ts": "2025-09-02T21:31:37Z",
+      "score": 104.45
+    },
+    {
+      "id": "c32649d3ebd1",
+      "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
+      "url": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
+      "summary": "OpenAI said Tuesday it plans to route sensitive conversations to reasoning models like GPT-5 and roll out parental controls within the next month – part of an ongoing response to recent safety incidents involving ChatGPT failing to detect mental distress.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-02T20:13:04Z",
+      "score": 102.81
+    },
+    {
+      "id": "a56450611415",
+      "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
+      "url": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
+      "summary": "Lens Live will not replace Amazon's existing visual search tool, Amazon Lens, which lets you take a picture, upload an image, or scan a barcode to discover products. Instead, it brings a real-time component to Amazon Lens.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-02T19:42:23Z",
+      "score": 101.72
+    },
+    {
+      "id": "5cd9d8519eab",
+      "title": "OpenAI acquires product testing startup Statsig and shakes up its leadership team",
+      "url": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+      "summary": "OpenAI is bringing on the founder of Statsig as its CTO of Applications, and making changes to other leadership roles at the company.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-02T19:04:05Z",
+      "score": 100.38
+    },
+    {
+      "id": "3dc331a0e307",
+      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+      "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
+      "source": "openai.com",
+      "ts": "2025-09-02T11:00:00Z",
+      "score": 100.28
+    },
+    {
+      "id": "3a99a8946d66",
+      "title": "OpenAI starts building out its app team",
+      "url": "https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves",
+      "summary": "OpenAI has started to build out its Applications team under Fidji Simo, its new CEO of Applications, who left her former position as Instacart’s CEO to start in the executive role on August 18th. On Tuesday, the company confirmed it’s shuffling executive roles, bringing on a new CTO of applications, and acquiring a product analytics [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-02T18:02:08Z",
+      "score": 98.24
+    },
+    {
+      "id": "hn-45107349",
+      "title": "Apertus 8B and 70B – a new open multilingual LLM from Switzerland",
+      "url": "https://actu.epfl.ch/news/apertus-a-fully-open-transparent-multilingual-lang/",
+      "summary": "",
+      "source": "actu.epfl.ch",
+      "ts": "2025-09-02T18:47:02Z",
+      "score": 96.72
+    },
+    {
+      "id": "bb1ad0e82846",
+      "title": "Tesla’s new ‘Master Plan’ sounds like AI slop",
+      "url": "https://www.theverge.com/tesla/769009/tesla-master-plan-4-ai-robotics-abundance",
+      "summary": "Tesla's latest \"Master Plan\" makes a few things clear right out of the gate: the company that was once known for accelerating the push toward a brighter future by popularizing electric vehicles and renewable energy is no longer interested in that quotidian stuff. Now, it's all about artificial intelligence, humanoid robots, self-driving cars, and the [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-02T17:12:59Z",
+      "score": 96.58
+    },
+    {
+      "id": "hn-45100421",
+      "title": "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
+      "url": "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots",
+      "summary": "",
+      "source": "koyeb.com",
+      "ts": "2025-09-02T08:25:47Z",
+      "score": 94.11
+    },
+    {
+      "id": "96d8cc640031",
+      "title": "Build a serverless Amazon Bedrock batch job orchestration workflow using AWS Step Functions",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-amazon-bedrock-batch-job-orchestration-workflow-using-aws-step-functions/",
+      "summary": "In this post, we introduce a flexible and scalable solution that simplifies the batch inference workflow. This solution provides a highly scalable approach to managing your FM batch inference needs, such as generating embeddings for millions of documents or running custom evaluation or completion tasks with large datasets.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-02T18:55:16Z",
+      "score": 90.98
+    },
+    {
+      "id": "cabf827e719d",
+      "title": "Natural language-based database analytics with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/",
+      "summary": "In this post, we explore how natural language database analytics can revolutionize the way organizations interact with their structured data through the power of large language model (LLM) agents. Natural language interfaces to databases have long been a goal in data management. Agents enhance database analytics by breaking down complex queries into explicit, verifiable reasoning steps and enabling self-correction through validation loops that can catch errors, analyze failures, and refine queries until they accurately match user intent and schema requirements.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-02T16:43:47Z",
+      "score": 86.92
+    },
+    {
+      "id": "272d20ba8a97",
+      "title": "Deploy Amazon Bedrock Knowledge Bases using Terraform for RAG-based generative AI applications",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-bedrock-knowledge-bases-using-terraform-for-rag-based-generative-ai-applications/",
+      "summary": "In this post, we demonstrated how to automate the deployment of Amazon Knowledge Bases for RAG applications using Terraform.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-02T16:41:49Z",
+      "score": 86.86
+    },
+    {
+      "id": "1568f222ff7a",
+      "title": "Building more helpful ChatGPT experiences for everyone",
+      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+      "source": "openai.com",
+      "ts": "2025-09-02T04:00:00Z",
+      "score": 86.67
+    },
+    {
+      "id": "982ca303f669",
+      "title": "A New Ranking Framework for Better Notification Quality on Instagram",
+      "url": "https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/",
+      "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-02T16:00:08Z",
+      "score": 85.61
+    },
+    {
+      "id": "hn-45099939",
+      "title": "Kapa.ai (YC S23) is hiring research and software engineers",
+      "url": "https://www.ycombinator.com/companies/kapa-ai/jobs",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-02T07:01:01Z",
+      "score": 71.59
+    },
+    {
+      "id": "hn-45070019",
+      "title": "Writing a Hypervisor in 1k Lines",
+      "url": "https://seiya.me/blog/hypervisor-in-1000-lines",
+      "summary": "",
+      "source": "seiya.me",
+      "ts": "2025-08-29T22:12:51Z",
+      "score": 70.79
+    },
+    {
+      "id": "hn-45073137",
+      "title": "Google Pixel 10 series review",
+      "url": "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-08-30T09:05:22Z",
+      "score": 37.54
+    },
+    {
+      "id": "hn-45064241",
+      "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
+      "url": "https://aresluna.org/the-primitive-tortureboard/",
+      "summary": "",
+      "source": "aresluna.org",
+      "ts": "2025-08-29T13:59:33Z",
+      "score": 32.71
+    },
+    {
+      "id": "hn-45073031",
+      "title": "Triangle Grids",
+      "url": "https://kvachev.com/blog/posts/triangular-grid/",
+      "summary": "",
+      "source": "kvachev.com",
+      "ts": "2025-08-30T08:46:05Z",
+      "score": 32.03
+    },
+    {
+      "id": "hn-45080683",
+      "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+      "summary": "",
+      "source": "vldb.org",
+      "ts": "2025-08-31T05:53:19Z",
+      "score": 27.91
     },
     {
       "id": "e3e4a46d2335",
@@ -385,7 +439,7 @@
       "summary": "Context recognition (SR) is a fundamental task in computer vision that aims\nto extract structured semantic summaries from images by identifying key events\nand their associated entities. Specifically, given an input image, the model\nmust first classify the main visual events (verb classification), then identify\nthe participating entities and their semantic roles (semantic role labeling),\nand finally localize these entities in the image (semantic role localization).\nExisting methods treat verb classification as a single-label problem, but we\nshow through a comprehensive analysis that this formulation fails to address\nthe inherent ambiguity in visual event recognition, as multiple verb categories\nmay reasonably describe the same image. This paper makes three key\ncontributions: First, we reveal through empirical analysis that verb\nclassification is inherently a multi-label problem due to the ubiquitous\nsemantic overlap between verb categories. Second, given the impracticality of\nfully annotating large-scale datasets with multiple labels, we propose to\nreformulate verb classification as a single positive multi-label learning\n(SPMLL) problem - a novel perspective in SR research. Third, we design a\ncomprehensive multi-label evaluation benchmark for SR that is carefully\ndesigned to fairly evaluate model performance in a multi-label setting. To\naddress the challenges of SPMLL, we futher develop the Graph Enhanced Verb\nMultilayer Perceptron (GE-VerbMLP), which combines graph neural networks to\ncapture label correlations and adversarial training to optimize decision\nboundaries. Extensive experiments on real-world datasets show that our approach\nachieves more than 3\\% MAP improvement while remaining competitive on\ntraditional top-1 and top-5 accuracy metrics.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:51:55Z",
-      "score": 20.09
+      "score": 15.66
     },
     {
       "id": "3491332518ab",
@@ -394,52 +448,16 @@
       "summary": "Accurate interpretation of clinical narratives is critical for patient care,\nbut the complexity of these notes makes automation challenging. While Large\nLanguage Models (LLMs) show promise, single-model approaches can lack the\nrobustness required for high-stakes clinical tasks. We introduce a\ncollaborative multi-agent system (MAS) that models a clinical consultation team\nto address this gap. The system is tasked with identifying clinical problems by\nanalyzing only the Subjective (S) and Objective (O) sections of SOAP notes,\nsimulating the diagnostic reasoning process of synthesizing raw data into an\nassessment. A Manager agent orchestrates a dynamically assigned team of\nspecialist agents who engage in a hierarchical, iterative debate to reach a\nconsensus. We evaluated our MAS against a single-agent baseline on a curated\ndataset of 420 MIMIC-III notes. The dynamic multi-agent configuration\ndemonstrated consistently improved performance in identifying congestive heart\nfailure, acute kidney injury, and sepsis. Qualitative analysis of the agent\ndebates reveals that this structure effectively surfaces and weighs conflicting\nevidence, though it can occasionally be susceptible to groupthink. By modeling\na clinical team's reasoning process, our system offers a promising path toward\nmore accurate, robust, and interpretable clinical decision support tools.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:31:24Z",
-      "score": 19.95
+      "score": 15.55
     },
     {
-      "id": "hn-45063789",
-      "title": "Animated Text in Voxel Space",
-      "url": "https://www.splats.com/watch/635",
-      "summary": "",
-      "source": "splats.com",
-      "ts": "2025-08-29T13:23:18Z",
-      "score": 19.48
-    },
-    {
-      "id": "hn-45064241",
-      "title": "Primitive tortureboard: Untangling the myths and mysteries of Dvorak and QWERTY",
-      "url": "https://aresluna.org/the-primitive-tortureboard/",
-      "summary": "",
-      "source": "aresluna.org",
-      "ts": "2025-08-29T13:59:33Z",
-      "score": 16.66
-    },
-    {
-      "id": "ee4e774b49db",
-      "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
-      "url": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/",
-      "summary": "We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:55:37Z",
-      "score": 15.16
-    },
-    {
-      "id": "7e23ef967110",
-      "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/",
-      "summary": "In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:46:13Z",
-      "score": 15.11
-    },
-    {
-      "id": "4f5a0abe0620",
-      "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/",
-      "summary": "In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.",
-      "source": "aws.amazon.com",
-      "ts": "2025-08-29T16:21:02Z",
-      "score": 14.98
+      "id": "575672b83e7d",
+      "title": "Tree-Guided Diffusion Planner",
+      "url": "http://arxiv.org/abs/2508.21800v1",
+      "summary": "Planning with pretrained diffusion models has emerged as a promising approach\nfor solving test-time guided control problems. However, standard gradient\nguidance typically performs optimally under convex and differentiable reward\nlandscapes, showing substantially reduced effectiveness in real-world scenarios\ninvolving non-convex objectives, non-differentiable constraints, and\nmulti-reward structures. Furthermore, recent supervised planning approaches\nrequire task-specific training or value estimators, which limits test-time\nflexibility and zero-shot generalization. We propose a Tree-guided Diffusion\nPlanner (TDP), a zero-shot test-time planning framework that balances\nexploration and exploitation through structured trajectory generation. We frame\ntest-time planning as a tree search problem using a bi-level sampling process:\n(1) diverse parent trajectories are produced via training-free particle\nguidance to encourage broad exploration, and (2) sub-trajectories are refined\nthrough fast conditional denoising guided by task objectives. TDP addresses the\nlimitations of gradient guidance by exploring diverse trajectory regions and\nharnessing gradient information across this expanded solution space using only\npretrained models and test-time reward signals. We evaluate TDP on three\ndiverse tasks: maze gold-picking, robot arm block manipulation, and AntMaze\nmulti-goal exploration. TDP consistently outperforms state-of-the-art\napproaches on all tasks. The project page can be found at:\ntree-diffusion-planner.github.io.",
+      "source": "arxiv.org",
+      "ts": "2025-08-29T17:27:44Z",
+      "score": 15.53
     },
     {
       "id": "20e7ffe2a031",
@@ -448,16 +466,7 @@
       "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
       "source": "openai.com",
       "ts": "2025-08-28T10:00:00Z",
-      "score": 10.35
-    },
-    {
-      "id": "b203b36d8522",
-      "title": "Supporting nonprofit and community innovation",
-      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
-      "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
-      "source": "openai.com",
-      "ts": "2025-08-28T05:00:00Z",
-      "score": 9.32
+      "score": 8.06
     },
     {
       "id": "265e85cbbb22",
@@ -466,7 +475,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 3.32
+      "score": 2.59
     },
     {
       "id": "99b464916a99",
@@ -475,15 +484,6 @@
       "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-13T22:05:07Z",
-      "score": 0.01
-    },
-    {
-      "id": "f20ef515ed9f",
-      "title": "Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale",
-      "url": "https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/",
-      "summary": "<p>We’re exploring Meta’s Federation Platform, a scalable set of tools for managing compliance-related tasks, along with Privacy Waves, our method for batching these tasks and ensuring accountability.  Together, the Federation Platform and Privacy Waves create a structured, effective, and sustainable approach to operationalizing privacy work, enabling Meta to safeguard user data for the billions of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/\" rel=\"nofollow\">Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-11T16:00:21Z",
       "score": 0.0
     }
   ]
