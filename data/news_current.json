@@ -7,16 +7,7 @@
       "summary": "",
       "source": "hugotunius.se",
       "ts": "2025-08-31T21:46:26Z",
-      "score": 1074.91
-    },
-    {
-      "id": "hn-45092925",
-      "title": "Google AI Overview made up an elaborate story about me",
-      "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
-      "summary": "",
-      "source": "bsky.app",
-      "ts": "2025-09-01T14:27:17Z",
-      "score": 398.42
+      "score": 1169.98
     },
     {
       "id": "hn-45055205",
@@ -25,7 +16,16 @@
       "summary": "",
       "source": "bowerbyte.com",
       "ts": "2025-08-28T18:12:34Z",
-      "score": 344.52
+      "score": 443.24
+    },
+    {
+      "id": "hn-45086020",
+      "title": "Eternal Struggle",
+      "url": "https://yoavg.github.io/eternal/",
+      "summary": "",
+      "source": "yoavg.github.io",
+      "ts": "2025-08-31T19:04:03Z",
+      "score": 426.48
     },
     {
       "id": "hn-45092490",
@@ -34,43 +34,7 @@
       "summary": "",
       "source": "herman.bearblog.dev",
       "ts": "2025-09-01T13:17:56Z",
-      "score": 256.05
-    },
-    {
-      "id": "hn-45093090",
-      "title": "Cloudflare Radar: AI Insights",
-      "url": "https://radar.cloudflare.com/ai-insights",
-      "summary": "",
-      "source": "radar.cloudflare.com",
-      "ts": "2025-09-01T14:49:25Z",
-      "score": 245.46
-    },
-    {
-      "id": "hn-45094421",
-      "title": "Adaptive LLM routing under budget constraints",
-      "url": "https://arxiv.org/abs/2508.21141",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-01T16:57:38Z",
-      "score": 232.0
-    },
-    {
-      "id": "hn-45091493",
-      "title": "CocoaPods trunk read-only plan",
-      "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
-      "summary": "",
-      "source": "blog.cocoapods.org",
-      "ts": "2025-09-01T10:39:25Z",
-      "score": 211.52
-    },
-    {
-      "id": "hn-45095849",
-      "title": "Patrick Winston: How to Speak (2018) [video]",
-      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-01T19:32:17Z",
-      "score": 189.87
+      "score": 329.99
     },
     {
       "id": "hn-45095460",
@@ -79,16 +43,52 @@
       "summary": "",
       "source": "4rknova.com",
       "ts": "2025-09-01T18:47:21Z",
-      "score": 172.25
+      "score": 286.02
     },
     {
-      "id": "hn-45095475",
-      "title": "The future of 32-bit support in the kernel",
-      "url": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "id": "hn-45095849",
+      "title": "Patrick Winston: How to Speak (2018) [video]",
+      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
       "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-01T18:48:22Z",
-      "score": 154.88
+      "source": "youtube.com",
+      "ts": "2025-09-01T19:32:17Z",
+      "score": 278.73
+    },
+    {
+      "id": "hn-45099922",
+      "title": "Next.js Is Infuriating",
+      "url": "https://blog.meca.sh/3lxoty3shjc2z",
+      "summary": "",
+      "source": "blog.meca.sh",
+      "ts": "2025-09-02T06:57:41Z",
+      "score": 272.8
+    },
+    {
+      "id": "hn-45093090",
+      "title": "Cloudflare Radar: AI Insights",
+      "url": "https://radar.cloudflare.com/ai-insights",
+      "summary": "",
+      "source": "radar.cloudflare.com",
+      "ts": "2025-09-01T14:49:25Z",
+      "score": 267.82
+    },
+    {
+      "id": "hn-45098722",
+      "title": "FreeDroidWarn",
+      "url": "https://github.com/woheller69/FreeDroidWarn",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T03:01:02Z",
+      "score": 256.02
+    },
+    {
+      "id": "hn-45094421",
+      "title": "Adaptive LLM routing under budget constraints",
+      "url": "https://arxiv.org/abs/2508.21141",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-01T16:57:38Z",
+      "score": 232.67
     },
     {
       "id": "hn-45095603",
@@ -97,70 +97,34 @@
       "summary": "",
       "source": "businessinsider.com",
       "ts": "2025-09-01T19:04:31Z",
-      "score": 154.79
+      "score": 231.84
     },
     {
-      "id": "hn-45093693",
-      "title": "Search engine referral report for 2025 Q2",
-      "url": "https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2",
+      "id": "hn-45091493",
+      "title": "CocoaPods trunk read-only plan",
+      "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
       "summary": "",
-      "source": "radar.cloudflare.com",
-      "ts": "2025-09-01T15:47:56Z",
-      "score": 146.37
+      "source": "blog.cocoapods.org",
+      "ts": "2025-09-01T10:39:25Z",
+      "score": 203.01
     },
     {
-      "id": "hn-45093022",
-      "title": "Effective learning: Rules of formulating knowledge (1999)",
-      "url": "https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge",
+      "id": "hn-45095475",
+      "title": "The future of 32-bit support in the kernel",
+      "url": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "summary": "",
-      "source": "supermemo.com",
-      "ts": "2025-09-01T14:43:37Z",
-      "score": 141.49
+      "source": "lwn.net",
+      "ts": "2025-09-01T18:48:22Z",
+      "score": 197.24
     },
     {
-      "id": "hn-45096140",
-      "title": "Towards Memory Specialization: A Case for Long-Term and Short-Term RAM",
-      "url": "https://arxiv.org/abs/2508.02992",
+      "id": "hn-45098269",
+      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
+      "url": "https://kazeta.org/",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-01T20:05:38Z",
-      "score": 141.37
-    },
-    {
-      "id": "hn-45097263",
-      "title": "Anthropic to counteract usage of Claude Code for \"vibe hacking\"",
-      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-01T22:44:21Z",
-      "score": 140.58
-    },
-    {
-      "id": "hn-45057734",
-      "title": "A review of Nim 2: The good and bad with example code",
-      "url": "https://miguel-martin.com/blog/nim2-review",
-      "summary": "",
-      "source": "miguel-martin.com",
-      "ts": "2025-08-28T22:25:10Z",
-      "score": 138.63
-    },
-    {
-      "id": "hn-45095545",
-      "title": "Thoughts on (Amazonian) leadership",
-      "url": "https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html",
-      "summary": "",
-      "source": "daemonology.net",
-      "ts": "2025-09-01T18:56:39Z",
-      "score": 137.14
-    },
-    {
-      "id": "hn-45096962",
-      "title": "Don't Build Multi-Agents",
-      "url": "https://cognition.ai/blog/dont-build-multi-agents",
-      "summary": "",
-      "source": "cognition.ai",
-      "ts": "2025-09-01T21:54:56Z",
-      "score": 136.95
+      "source": "kazeta.org",
+      "ts": "2025-09-02T01:44:22Z",
+      "score": 185.42
     },
     {
       "id": "hn-45096585",
@@ -169,43 +133,34 @@
       "summary": "",
       "source": "marc.info",
       "ts": "2025-09-01T21:03:51Z",
-      "score": 131.65
+      "score": 179.05
     },
     {
-      "id": "hn-45095923",
-      "title": "Reports of Gmail security issue are inaccurate",
-      "url": "https://blog.google/products/workspace/gmail-security-protections/",
+      "id": "hn-45095545",
+      "title": "Thoughts on (Amazonian) leadership",
+      "url": "https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html",
       "summary": "",
-      "source": "blog.google",
-      "ts": "2025-09-01T19:40:42Z",
-      "score": 130.19
+      "source": "daemonology.net",
+      "ts": "2025-09-01T18:56:39Z",
+      "score": 150.05
     },
     {
-      "id": "hn-45091119",
-      "title": "UK's largest battery storage facility at Tilbury substation",
-      "url": "https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation",
+      "id": "hn-45099418",
+      "title": "Collecting All Causal Knowledge",
+      "url": "https://causenet.org/",
       "summary": "",
-      "source": "nationalgrid.com",
-      "ts": "2025-09-01T09:40:47Z",
-      "score": 128.98
+      "source": "causenet.org",
+      "ts": "2025-09-02T05:26:04Z",
+      "score": 148.75
     },
     {
-      "id": "hn-45094692",
-      "title": "One of Britain's largest stocks of second-hand books ever amassed",
-      "url": "https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire",
+      "id": "hn-45063037",
+      "title": "The day Return became Enter (2023)",
+      "url": "https://aresluna.org/the-day-return-became-enter/",
       "summary": "",
-      "source": "worldofinteriors.com",
-      "ts": "2025-09-01T17:25:08Z",
-      "score": 127.7
-    },
-    {
-      "id": "hn-45052517",
-      "title": "What brain surgery taught me about the fragile gift of consciousness",
-      "url": "https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/",
-      "summary": "",
-      "source": "bigthink.com",
-      "ts": "2025-08-28T14:22:07Z",
-      "score": 125.79
+      "source": "aresluna.org",
+      "ts": "2025-08-29T12:12:57Z",
+      "score": 146.34
     },
     {
       "id": "hn-45094953",
@@ -214,25 +169,43 @@
       "summary": "",
       "source": "acquired.fm",
       "ts": "2025-09-01T17:51:27Z",
-      "score": 124.31
+      "score": 144.26
     },
     {
-      "id": "hn-45092324",
-      "title": "Tetris is NP-hard even with O(1) rows or columns (2020) [pdf]",
-      "url": "https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf",
+      "id": "hn-45101117",
+      "title": "Unfortunately, the ICEBlock app is activism theater",
+      "url": "https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/",
       "summary": "",
-      "source": "martindemaine.org",
-      "ts": "2025-09-01T12:49:57Z",
-      "score": 122.67
+      "source": "micahflee.com",
+      "ts": "2025-09-02T10:19:31Z",
+      "score": 143.21
     },
     {
-      "id": "hn-45093956",
-      "title": "A Unique, High-Tech (Family) Computer",
-      "url": "https://nicole.express/2025/a-computer-in-your-home.html",
+      "id": "hn-45094692",
+      "title": "One of Britain's largest stocks of second-hand books ever amassed",
+      "url": "https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire",
       "summary": "",
-      "source": "nicole.express",
-      "ts": "2025-09-01T16:13:04Z",
-      "score": 112.32
+      "source": "worldofinteriors.com",
+      "ts": "2025-09-01T17:25:08Z",
+      "score": 139.43
+    },
+    {
+      "id": "hn-45052517",
+      "title": "What brain surgery taught me about the fragile gift of consciousness",
+      "url": "https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/",
+      "summary": "",
+      "source": "bigthink.com",
+      "ts": "2025-08-28T14:22:07Z",
+      "score": 134.72
+    },
+    {
+      "id": "hn-45099124",
+      "title": "WinBoat: Run Windows apps on Linux with seamless integration",
+      "url": "https://github.com/TibixDev/winboat",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T04:24:07Z",
+      "score": 133.68
     },
     {
       "id": "hn-45096254",
@@ -241,88 +214,61 @@
       "summary": "",
       "source": "howtogrow.substack.com",
       "ts": "2025-09-01T20:17:45Z",
-      "score": 111.54
+      "score": 126.87
     },
     {
-      "id": "e565d8c4720e",
-      "title": "LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B",
-      "url": "https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/",
-      "summary": "This Japanese AI startup just raised $100M to cut businesses’ admin burden.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-01T23:00:00Z",
-      "score": 107.73
-    },
-    {
-      "id": "hn-45096173",
-      "title": "Desert Graves (2021)",
-      "url": "https://www.desertmountaineer.com/2021/08/06/graves/",
+      "id": "hn-45101127",
+      "title": "Europol said ChatControl doesn't go far enough; they want to retain data forever",
+      "url": "https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/",
       "summary": "",
-      "source": "desertmountaineer.com",
-      "ts": "2025-09-01T20:08:34Z",
-      "score": 102.24
+      "source": "old.reddit.com",
+      "ts": "2025-09-02T10:21:42Z",
+      "score": 112.08
     },
     {
-      "id": "6d9f27ae81cd",
-      "title": "Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can",
-      "url": "https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/",
-      "summary": "With just over a month until TechCrunch Disrupt 2025 hits San Francisco, we’re calling on students, aspiring founders, marketers, and event pros to help the TechCrunch events team pull off one of the largest and most anticipated startup events of the year.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-01T19:41:46Z",
-      "score": 101.62
+      "id": "1568f222ff7a",
+      "title": "Building more helpful ChatGPT experiences for everyone",
+      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+      "source": "openai.com",
+      "ts": "2025-09-02T04:00:00Z",
+      "score": 111.22
     },
     {
-      "id": "hn-45095826",
-      "title": "I Was Wrong About Data Center Water Consumption",
-      "url": "https://www.construction-physics.com/p/i-was-wrong-about-data-center-water",
+      "id": "hn-45100499",
+      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
+      "url": "https://www.grisp.org/software",
       "summary": "",
-      "source": "construction-physics.com",
-      "ts": "2025-09-01T19:29:58Z",
-      "score": 101.6
+      "source": "grisp.org",
+      "ts": "2025-09-02T08:40:20Z",
+      "score": 108.7
     },
     {
-      "id": "bffcd1b4786c",
-      "title": "Why Runway is eyeing the robotics industry for future revenue growth",
-      "url": "https://techcrunch.com/2025/09/01/why-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth/",
-      "summary": "Runway is building up a robotics-focused team and fine-tuning its existing models for robotics and self-driving car customers.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-01T15:00:00Z",
-      "score": 92.15
-    },
-    {
-      "id": "hn-45094471",
-      "title": "Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)",
-      "url": "https://www.optery.com/careers/",
+      "id": "hn-45101300",
+      "title": "What's New with Firefox 142",
+      "url": "https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142",
       "summary": "",
-      "source": "optery.com",
-      "ts": "2025-09-01T17:02:14Z",
-      "score": 88.0
+      "source": "mozilla.org",
+      "ts": "2025-09-02T10:50:55Z",
+      "score": 102.74
     },
     {
-      "id": "457115f83b7e",
-      "title": "Is AI the end of software engineering or the next step in its evolution?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution",
-      "summary": "The first time I used ChatGPT to code, back in early 2023, I was reminded of \"The Monkey's Paw,\" a classic horror story about an accursed talisman that grants wishes, but always by the most malevolent path - the desired outcome arrives after exacting a brutal cost elsewhere first. With the same humorless literalness, ChatGPT [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-01T11:00:00Z",
-      "score": 84.78
-    },
-    {
-      "id": "hn-45061376",
-      "title": "India's billion-dollar e-waste empire",
-      "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/",
+      "id": "hn-45061290",
+      "title": "Stone Age settlement found under the sea in Denmark",
+      "url": "https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d",
       "summary": "",
-      "source": "restofworld.org",
-      "ts": "2025-08-29T07:52:54Z",
-      "score": 69.52
+      "source": "apnews.com",
+      "ts": "2025-08-29T07:39:52Z",
+      "score": 100.7
     },
     {
-      "id": "a6ad6935a6cb",
-      "title": "Chatbots can be manipulated through flattery and peer pressure",
-      "url": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
-      "summary": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules. Researchers from the University of Pennsylvania deployed tactics described [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-31T21:06:24Z",
-      "score": 63.47
+      "id": "hn-45099192",
+      "title": "Keyboards from my collection (2023)",
+      "url": "https://aresluna.org/50-keyboards-from-my-collection/",
+      "summary": "",
+      "source": "aresluna.org",
+      "ts": "2025-09-02T04:38:30Z",
+      "score": 99.91
     },
     {
       "id": "hn-45056377",
@@ -331,25 +277,88 @@
       "summary": "",
       "source": "youtube.com",
       "ts": "2025-08-28T19:58:49Z",
-      "score": 61.78
+      "score": 96.8
     },
     {
-      "id": "0777948df512",
-      "title": "Meta is struggling to rein in its AI chatbots",
-      "url": "https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors",
-      "summary": "Meta is changing some of the rules governing its chatbots two weeks after a Reuters investigation revealed disturbing ways in which they could, potentially, interact with minors. Now the company has told TechCrunch that its chatbots are being trained not to engage in conversations with minors around self-harm, suicide, or disordered eating, and to avoid [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-08-31T14:17:49Z",
-      "score": 55.08
+      "id": "8151a67e8278",
+      "title": "U.S. and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups",
+      "url": "https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/",
+      "summary": "Eight U.S. and Indian VC and PE giants are teaming up to fuel India's deep tech boom.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-02T03:30:00Z",
+      "score": 93.14
     },
     {
-      "id": "hn-45059888",
-      "title": "An adventure in writing compatible systems",
-      "url": "https://turso.tech/blog/an-adventure-in-writing-compatible-systems",
+      "id": "hn-45099939",
+      "title": "Kapa.ai (YC S23) is hiring research and software engineers",
+      "url": "https://www.ycombinator.com/companies/kapa-ai/jobs",
       "summary": "",
-      "source": "turso.tech",
-      "ts": "2025-08-29T03:38:35Z",
-      "score": 38.15
+      "source": "ycombinator.com",
+      "ts": "2025-09-02T07:01:01Z",
+      "score": 91.71
+    },
+    {
+      "id": "hn-45099112",
+      "title": "Intuitive find and replace CLI (sed alternative)",
+      "url": "https://github.com/chmln/sd",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-02T04:21:51Z",
+      "score": 91.01
+    },
+    {
+      "id": "e565d8c4720e",
+      "title": "LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B",
+      "url": "https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/",
+      "summary": "This Japanese AI startup just raised $100M to cut businesses’ admin burden.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-01T23:00:00Z",
+      "score": 84.8
+    },
+    {
+      "id": "6d9f27ae81cd",
+      "title": "Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can",
+      "url": "https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/",
+      "summary": "With just over a month until TechCrunch Disrupt 2025 hits San Francisco, we’re calling on students, aspiring founders, marketers, and event pros to help the TechCrunch events team pull off one of the largest and most anticipated startup events of the year.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-01T19:41:46Z",
+      "score": 79.16
+    },
+    {
+      "id": "457115f83b7e",
+      "title": "Is AI the end of software engineering or the next step in its evolution?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution",
+      "summary": "The first time I used ChatGPT to code, back in early 2023, I was reminded of \"The Monkey's Paw,\" a classic horror story about an accursed talisman that grants wishes, but always by the most malevolent path - the desired outcome arrives after exacting a brutal cost elsewhere first. With the same humorless literalness, ChatGPT [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-01T11:00:00Z",
+      "score": 66.04
+    },
+    {
+      "id": "hn-45089072",
+      "title": "The first inkjet printer was a medical device",
+      "url": "https://spectrum.ieee.org/rune-elmqvist",
+      "summary": "",
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-01T03:08:07Z",
+      "score": 60.57
+    },
+    {
+      "id": "hn-45062046",
+      "title": "An LLM is a lossy encyclopedia",
+      "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
+      "summary": "",
+      "source": "simonwillison.net",
+      "ts": "2025-08-29T09:40:19Z",
+      "score": 60.43
+    },
+    {
+      "id": "a6ad6935a6cb",
+      "title": "Chatbots can be manipulated through flattery and peer pressure",
+      "url": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
+      "summary": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules. Researchers from the University of Pennsylvania deployed tactics described [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-31T21:06:24Z",
+      "score": 49.45
     },
     {
       "id": "hn-45057974",
@@ -358,25 +367,16 @@
       "summary": "",
       "source": "homepages.cwi.nl",
       "ts": "2025-08-28T22:57:45Z",
-      "score": 36.18
+      "score": 43.43
     },
     {
-      "id": "hn-45058246",
-      "title": "F1 in Hungary: Strategy and fast tire changes make all the difference",
-      "url": "https://arstechnica.com/cars/2025/08/f1-in-hungary-strategy-and-fast-tire-changes-make-all-the-difference/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-08-28T23:37:13Z",
-      "score": 33.37
-    },
-    {
-      "id": "hn-45063904",
-      "title": "Using JWT to establish a trusted context for Row Level Security",
-      "url": "https://vondra.me/posts/using-jwt-to-establish-trusted-context-for-rls/",
-      "summary": "",
-      "source": "vondra.me",
-      "ts": "2025-08-29T13:32:51Z",
-      "score": 27.13
+      "id": "0777948df512",
+      "title": "Meta is struggling to rein in its AI chatbots",
+      "url": "https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors",
+      "summary": "Meta is changing some of the rules governing its chatbots two weeks after a Reuters investigation revealed disturbing ways in which they could, potentially, interact with minors. Now the company has told TechCrunch that its chatbots are being trained not to engage in conversations with minors around self-harm, suicide, or disordered eating, and to avoid [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-08-31T14:17:49Z",
+      "score": 42.91
     },
     {
       "id": "e3e4a46d2335",
@@ -385,16 +385,34 @@
       "summary": "Context recognition (SR) is a fundamental task in computer vision that aims\nto extract structured semantic summaries from images by identifying key events\nand their associated entities. Specifically, given an input image, the model\nmust first classify the main visual events (verb classification), then identify\nthe participating entities and their semantic roles (semantic role labeling),\nand finally localize these entities in the image (semantic role localization).\nExisting methods treat verb classification as a single-label problem, but we\nshow through a comprehensive analysis that this formulation fails to address\nthe inherent ambiguity in visual event recognition, as multiple verb categories\nmay reasonably describe the same image. This paper makes three key\ncontributions: First, we reveal through empirical analysis that verb\nclassification is inherently a multi-label problem due to the ubiquitous\nsemantic overlap between verb categories. Second, given the impracticality of\nfully annotating large-scale datasets with multiple labels, we propose to\nreformulate verb classification as a single positive multi-label learning\n(SPMLL) problem - a novel perspective in SR research. Third, we design a\ncomprehensive multi-label evaluation benchmark for SR that is carefully\ndesigned to fairly evaluate model performance in a multi-label setting. To\naddress the challenges of SPMLL, we futher develop the Graph Enhanced Verb\nMultilayer Perceptron (GE-VerbMLP), which combines graph neural networks to\ncapture label correlations and adversarial training to optimize decision\nboundaries. Extensive experiments on real-world datasets show that our approach\nachieves more than 3\\% MAP improvement while remaining competitive on\ntraditional top-1 and top-5 accuracy metrics.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:51:55Z",
-      "score": 25.79
+      "score": 20.09
     },
     {
-      "id": "hn-45059593",
-      "title": "The Tragic End of Natalia Nagovitsyna's Ordeal on Pobeda Peak",
-      "url": "https://explorersweb.com/tragic-end-of-natalia-nagovitsynas-ordeal-on-pobeda-peak/",
+      "id": "3491332518ab",
+      "title": "Automated Clinical Problem Detection from SOAP Notes using a\n  Collaborative Multi-Agent LLM Architecture",
+      "url": "http://arxiv.org/abs/2508.21803v1",
+      "summary": "Accurate interpretation of clinical narratives is critical for patient care,\nbut the complexity of these notes makes automation challenging. While Large\nLanguage Models (LLMs) show promise, single-model approaches can lack the\nrobustness required for high-stakes clinical tasks. We introduce a\ncollaborative multi-agent system (MAS) that models a clinical consultation team\nto address this gap. The system is tasked with identifying clinical problems by\nanalyzing only the Subjective (S) and Objective (O) sections of SOAP notes,\nsimulating the diagnostic reasoning process of synthesizing raw data into an\nassessment. A Manager agent orchestrates a dynamically assigned team of\nspecialist agents who engage in a hierarchical, iterative debate to reach a\nconsensus. We evaluated our MAS against a single-agent baseline on a curated\ndataset of 420 MIMIC-III notes. The dynamic multi-agent configuration\ndemonstrated consistently improved performance in identifying congestive heart\nfailure, acute kidney injury, and sepsis. Qualitative analysis of the agent\ndebates reveals that this structure effectively surfaces and weighs conflicting\nevidence, though it can occasionally be susceptible to groupthink. By modeling\na clinical team's reasoning process, our system offers a promising path toward\nmore accurate, robust, and interpretable clinical decision support tools.",
+      "source": "arxiv.org",
+      "ts": "2025-08-29T17:31:24Z",
+      "score": 19.95
+    },
+    {
+      "id": "hn-45063789",
+      "title": "Animated Text in Voxel Space",
+      "url": "https://www.splats.com/watch/635",
       "summary": "",
-      "source": "explorersweb.com",
-      "ts": "2025-08-29T02:52:54Z",
-      "score": 19.92
+      "source": "splats.com",
+      "ts": "2025-08-29T13:23:18Z",
+      "score": 19.48
+    },
+    {
+      "id": "hn-45064241",
+      "title": "Primitive tortureboard: Untangling the myths and mysteries of Dvorak and QWERTY",
+      "url": "https://aresluna.org/the-primitive-tortureboard/",
+      "summary": "",
+      "source": "aresluna.org",
+      "ts": "2025-08-29T13:59:33Z",
+      "score": 16.66
     },
     {
       "id": "ee4e774b49db",
@@ -403,7 +421,7 @@
       "summary": "We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.",
       "source": "aws.amazon.com",
       "ts": "2025-08-29T16:55:37Z",
-      "score": 19.46
+      "score": 15.16
     },
     {
       "id": "7e23ef967110",
@@ -412,7 +430,7 @@
       "summary": "In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.",
       "source": "aws.amazon.com",
       "ts": "2025-08-29T16:46:13Z",
-      "score": 19.39
+      "score": 15.11
     },
     {
       "id": "4f5a0abe0620",
@@ -421,7 +439,7 @@
       "summary": "In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.",
       "source": "aws.amazon.com",
       "ts": "2025-08-29T16:21:02Z",
-      "score": 19.22
+      "score": 14.98
     },
     {
       "id": "20e7ffe2a031",
@@ -430,7 +448,7 @@
       "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
       "source": "openai.com",
       "ts": "2025-08-28T10:00:00Z",
-      "score": 13.28
+      "score": 10.35
     },
     {
       "id": "b203b36d8522",
@@ -439,25 +457,7 @@
       "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
       "source": "openai.com",
       "ts": "2025-08-28T05:00:00Z",
-      "score": 11.97
-    },
-    {
-      "id": "9fa6c6e036df",
-      "title": "Collective alignment: public input on our Model Spec",
-      "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
-      "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
-      "source": "openai.com",
-      "ts": "2025-08-27T13:00:00Z",
-      "score": 8.57
-    },
-    {
-      "id": "hn-45008337",
-      "title": "Through the Liquid Glass",
-      "url": "https://www.flarup.email/p/through-the-liquid-glass",
-      "summary": "",
-      "source": "flarup.email",
-      "ts": "2025-08-24T22:23:53Z",
-      "score": 6.59
+      "score": 9.32
     },
     {
       "id": "265e85cbbb22",
@@ -466,7 +466,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 4.26
+      "score": 3.32
     },
     {
       "id": "99b464916a99",
