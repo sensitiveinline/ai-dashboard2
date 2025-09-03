@@ -1,85 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45104907",
-      "title": "Anthropic raises $13B Series F",
-      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-02T16:04:15Z",
-      "score": 457.77
-    },
-    {
       "id": "hn-45108548",
       "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
       "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
       "summary": "",
       "source": "cnbc.com",
       "ts": "2025-09-02T20:26:47Z",
-      "score": 296.71
-    },
-    {
-      "id": "hn-45062046",
-      "title": "An LLM is a lossy encyclopedia",
-      "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
-      "summary": "",
-      "source": "simonwillison.net",
-      "ts": "2025-08-29T09:40:19Z",
-      "score": 274.15
-    },
-    {
-      "id": "hn-45106011",
-      "title": "We already live in social credit, we just don't call it that",
-      "url": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/",
-      "summary": "",
-      "source": "thenexus.media",
-      "ts": "2025-09-02T17:14:51Z",
-      "score": 231.26
-    },
-    {
-      "id": "hn-45103436",
-      "title": "The Little Book of Linear Algebra",
-      "url": "https://github.com/the-litte-book-of/linear-algebra",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T14:17:07Z",
-      "score": 227.8
-    },
-    {
-      "id": "hn-45106189",
-      "title": "Python has had async for 10 years – why isn't it more popular?",
-      "url": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
-      "summary": "",
-      "source": "tonybaloney.github.io",
-      "ts": "2025-09-02T17:24:57Z",
-      "score": 200.37
-    },
-    {
-      "id": "hn-45099418",
-      "title": "Collecting All Causal Knowledge",
-      "url": "https://causenet.org/",
-      "summary": "",
-      "source": "causenet.org",
-      "ts": "2025-09-02T05:26:04Z",
-      "score": 195.89
-    },
-    {
-      "id": "hn-45107891",
-      "title": "Amazon must face US nationwide class action over third-party sales",
-      "url": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
-      "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-09-02T19:28:43Z",
-      "score": 189.84
-    },
-    {
-      "id": "hn-45100499",
-      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
-      "url": "https://www.grisp.org/software",
-      "summary": "",
-      "source": "grisp.org",
-      "ts": "2025-09-02T08:40:20Z",
-      "score": 187.48
+      "score": 532.74
     },
     {
       "id": "hn-45107962",
@@ -88,70 +16,16 @@
       "summary": "",
       "source": "sanity.io",
       "ts": "2025-09-02T19:34:24Z",
-      "score": 181.62
+      "score": 320.82
     },
     {
-      "id": "hn-45106295",
-      "title": "Microsoft rewarded for security failures with another US Government contract",
-      "url": "https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/",
+      "id": "hn-45103436",
+      "title": "The Little Book of Linear Algebra",
+      "url": "https://github.com/the-litte-book-of/linear-algebra",
       "summary": "",
-      "source": "theregister.com",
-      "ts": "2025-09-02T17:30:35Z",
-      "score": 181.34
-    },
-    {
-      "id": "hn-45101779",
-      "title": "Toronto’s network of pedestrian tunnels",
-      "url": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
-      "summary": "",
-      "source": "worksinprogress.news",
-      "ts": "2025-09-02T11:44:14Z",
-      "score": 173.73
-    },
-    {
-      "id": "hn-45106049",
-      "title": "<template>: The Content Template element",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
-      "summary": "",
-      "source": "developer.mozilla.org",
-      "ts": "2025-09-02T17:16:42Z",
-      "score": 168.31
-    },
-    {
-      "id": "hn-45102512",
-      "title": "Take something you don’t like and try to like it",
-      "url": "https://dynomight.net/liking/",
-      "summary": "",
-      "source": "dynomight.net",
-      "ts": "2025-09-02T12:56:37Z",
-      "score": 165.52
-    },
-    {
-      "id": "hn-45104303",
-      "title": "Static sites enable a good time travel experience",
-      "url": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
-      "summary": "",
-      "source": "hamatti.org",
-      "ts": "2025-09-02T15:25:44Z",
-      "score": 163.79
-    },
-    {
-      "id": "hn-45106314",
-      "title": "Introduction to Ada: a project-based exploration with rosettas",
-      "url": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
-      "summary": "",
-      "source": "blog.adacore.com",
-      "ts": "2025-09-02T17:32:08Z",
-      "score": 162.79
-    },
-    {
-      "id": "hn-45105710",
-      "title": "'World Models,' an old idea in AI, mount a comeback",
-      "url": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-02T16:53:29Z",
-      "score": 158.61
+      "source": "github.com",
+      "ts": "2025-09-02T14:17:07Z",
+      "score": 304.33
     },
     {
       "id": "hn-45104289",
@@ -160,25 +34,34 @@
       "summary": "",
       "source": "en.wikipedia.org",
       "ts": "2025-09-02T15:24:48Z",
-      "score": 155.96
+      "score": 269.86
     },
     {
-      "id": "hn-45106846",
-      "title": "Physically based rendering from first principles",
-      "url": "https://imadr.me/pbr/",
+      "id": "hn-45110688",
+      "title": "%CPU utilization is a lie",
+      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
       "summary": "",
-      "source": "imadr.me",
-      "ts": "2025-09-02T18:07:22Z",
-      "score": 152.48
+      "source": "brendanlong.com",
+      "ts": "2025-09-03T00:01:02Z",
+      "score": 265.99
     },
     {
-      "id": "hn-45103857",
-      "title": "Removing Guix from Debian",
-      "url": "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/",
+      "id": "hn-45106011",
+      "title": "We already live in social credit, we just don't call it that",
+      "url": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/",
       "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-02T14:49:40Z",
-      "score": 150.74
+      "source": "thenexus.media",
+      "ts": "2025-09-02T17:14:51Z",
+      "score": 262.23
+    },
+    {
+      "id": "hn-45110209",
+      "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+      "url": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+      "summary": "",
+      "source": "blog.ctms.me",
+      "ts": "2025-09-02T22:58:23Z",
+      "score": 227.1
     },
     {
       "id": "hn-45108066",
@@ -187,70 +70,115 @@
       "summary": "",
       "source": "dgross.ca",
       "ts": "2025-09-02T19:42:48Z",
-      "score": 143.49
+      "score": 220.23
     },
     {
-      "id": "hn-45107249",
-      "title": "A gentle introduction to CP/M",
-      "url": "https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/",
+      "id": "hn-45106846",
+      "title": "Physically based rendering from first principles",
+      "url": "https://imadr.me/pbr/",
       "summary": "",
-      "source": "eerielinux.wordpress.com",
-      "ts": "2025-09-02T18:39:28Z",
-      "score": 124.08
+      "source": "imadr.me",
+      "ts": "2025-09-02T18:07:22Z",
+      "score": 209.49
     },
     {
-      "id": "hn-45107939",
-      "title": "iNaturalist keeps full species classification models private",
-      "url": "https://github.com/inaturalist/inatVisionAPI",
+      "id": "hn-45102512",
+      "title": "Take something you don’t like and try to like it",
+      "url": "https://dynomight.net/liking/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T19:32:46Z",
-      "score": 123.97
+      "source": "dynomight.net",
+      "ts": "2025-09-02T12:56:37Z",
+      "score": 204.16
     },
     {
-      "id": "hn-45107364",
-      "title": "Show HN: Amber – better Beeper, a modern all-in-one messenger",
-      "url": "https://useamber.app/",
+      "id": "hn-45106049",
+      "title": "<template>: The Content Template element",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
       "summary": "",
-      "source": "useamber.app",
-      "ts": "2025-09-02T18:48:26Z",
-      "score": 115.36
+      "source": "developer.mozilla.org",
+      "ts": "2025-09-02T17:16:42Z",
+      "score": 190.87
     },
     {
-      "id": "hn-45107505",
-      "title": "Civics is boring, so, let's encrypt something (2024)",
-      "url": "https://queue.acm.org/detail.cfm?id=3703126",
+      "id": "hn-45101779",
+      "title": "Toronto’s network of pedestrian tunnels",
+      "url": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
       "summary": "",
-      "source": "queue.acm.org",
-      "ts": "2025-09-02T18:58:00Z",
-      "score": 113.86
+      "source": "worksinprogress.news",
+      "ts": "2025-09-02T11:44:14Z",
+      "score": 187.61
     },
     {
-      "id": "hn-45107353",
-      "title": "The Kafka Replication Protocol with KIP-966",
-      "url": "https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md",
+      "id": "hn-45105710",
+      "title": "'World Models,' an old idea in AI, mount a comeback",
+      "url": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-02T18:47:26Z",
-      "score": 107.53
+      "source": "quantamagazine.org",
+      "ts": "2025-09-02T16:53:29Z",
+      "score": 178.32
     },
     {
-      "id": "hn-45110075",
-      "title": "Parallel AI agents are a game changer",
-      "url": "https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html",
+      "id": "hn-45112653",
+      "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
+      "url": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/",
       "summary": "",
-      "source": "morningcoffee.io",
-      "ts": "2025-09-02T22:44:50Z",
-      "score": 105.14
+      "source": "cleantechnica.com",
+      "ts": "2025-09-03T06:00:47Z",
+      "score": 176.27
     },
     {
-      "id": "455cf6e48a57",
-      "title": "Amazon&#8217;s Lens Live AI shops for anything you can see",
-      "url": "https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping",
-      "summary": "Amazon will now let you shop for products by pointing your camera at them. On Thursday, the company announced Lens Live, a new feature that uses your camera to scan things in the environment around you, while surfacing matching product listings. This feature, which is only rolling out to the Amazon Shopping app on iOS [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-02T21:01:13Z",
-      "score": 104.55
+      "id": "hn-45106314",
+      "title": "Introduction to Ada: a project-based exploration with rosettas",
+      "url": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+      "summary": "",
+      "source": "blog.adacore.com",
+      "ts": "2025-09-02T17:32:08Z",
+      "score": 176.24
+    },
+    {
+      "id": "hn-45104303",
+      "title": "Static sites enable a good time travel experience",
+      "url": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+      "summary": "",
+      "source": "hamatti.org",
+      "ts": "2025-09-02T15:25:44Z",
+      "score": 173.28
+    },
+    {
+      "id": "hn-45078315",
+      "title": "Magic Lantern Is Back",
+      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
+      "summary": "",
+      "source": "magiclantern.fm",
+      "ts": "2025-08-30T21:52:58Z",
+      "score": 171.62
+    },
+    {
+      "id": "hn-45112720",
+      "title": "Lit: a library for building fast, lightweight web components",
+      "url": "https://lit.dev",
+      "summary": "",
+      "source": "lit.dev",
+      "ts": "2025-09-03T06:14:22Z",
+      "score": 165.3
+    },
+    {
+      "id": "hn-45112996",
+      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
+      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
+      "summary": "",
+      "source": "a13xp0p0v.github.io",
+      "ts": "2025-09-03T06:58:51Z",
+      "score": 164.29
+    },
+    {
+      "id": "hn-45111405",
+      "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
+      "url": "https://ziglang.org/news/2025-financials/",
+      "summary": "",
+      "source": "ziglang.org",
+      "ts": "2025-09-03T01:45:47Z",
+      "score": 157.91
     },
     {
       "id": "hn-45109324",
@@ -259,7 +187,88 @@
       "summary": "",
       "source": "idiallo.com",
       "ts": "2025-09-02T21:31:37Z",
-      "score": 104.45
+      "score": 142.01
+    },
+    {
+      "id": "hn-45111909",
+      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+      "summary": "",
+      "source": "printables.com",
+      "ts": "2025-09-03T03:13:05Z",
+      "score": 137.62
+    },
+    {
+      "id": "hn-45110386",
+      "title": "Indices, not Pointers",
+      "url": "https://joegm.github.io/blog/indices-not-pointers/",
+      "summary": "",
+      "source": "joegm.github.io",
+      "ts": "2025-09-02T23:21:30Z",
+      "score": 123.32
+    },
+    {
+      "id": "hn-45113418",
+      "title": "Finding thousands of exposed Ollama instances using Shodan",
+      "url": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
+      "summary": "",
+      "source": "blogs.cisco.com",
+      "ts": "2025-09-03T08:18:07Z",
+      "score": 116.43
+    },
+    {
+      "id": "hn-45114003",
+      "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
+      "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
+      "summary": "",
+      "source": "readonlymemo.com",
+      "ts": "2025-09-03T10:02:11Z",
+      "score": 116.28
+    },
+    {
+      "id": "hn-45113043",
+      "title": "AI is going great for the blind (2023)",
+      "url": "https://robertkingett.com/posts/6230/",
+      "summary": "",
+      "source": "robertkingett.com",
+      "ts": "2025-09-03T07:07:03Z",
+      "score": 114.75
+    },
+    {
+      "id": "hn-45113251",
+      "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
+      "url": "https://github.com/awslabs/amazonq.nvim",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-03T07:47:10Z",
+      "score": 108.83
+    },
+    {
+      "id": "hn-45114175",
+      "title": "Is the Bubble Bursting?",
+      "url": "https://www.honest-broker.com/p/is-the-bubble-bursting",
+      "summary": "",
+      "source": "honest-broker.com",
+      "ts": "2025-09-03T10:34:08Z",
+      "score": 102.74
+    },
+    {
+      "id": "hn-45072481",
+      "title": "TPDE-LLVM: Faster LLVM -O0 Back-End",
+      "url": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
+      "summary": "",
+      "source": "discourse.llvm.org",
+      "ts": "2025-08-30T06:55:30Z",
+      "score": 87.91
+    },
+    {
+      "id": "455cf6e48a57",
+      "title": "Amazon&#8217;s Lens Live AI shops for anything you can see",
+      "url": "https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping",
+      "summary": "Amazon will now let you shop for products by pointing your camera at them. On Thursday, the company announced Lens Live, a new feature that uses your camera to scan things in the environment around you, while surfacing matching product listings. This feature, which is only rolling out to the Amazon Shopping app on iOS [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-02T21:01:13Z",
+      "score": 81.42
     },
     {
       "id": "c32649d3ebd1",
@@ -268,7 +277,7 @@
       "summary": "OpenAI said Tuesday it plans to route sensitive conversations to reasoning models like GPT-5 and roll out parental controls within the next month – part of an ongoing response to recent safety incidents involving ChatGPT failing to detect mental distress.",
       "source": "techcrunch.com",
       "ts": "2025-09-02T20:13:04Z",
-      "score": 102.81
+      "score": 80.07
     },
     {
       "id": "a56450611415",
@@ -277,7 +286,16 @@
       "summary": "Lens Live will not replace Amazon's existing visual search tool, Amazon Lens, which lets you take a picture, upload an image, or scan a barcode to discover products. Instead, it brings a real-time component to Amazon Lens.",
       "source": "techcrunch.com",
       "ts": "2025-09-02T19:42:23Z",
-      "score": 101.72
+      "score": 79.23
+    },
+    {
+      "id": "7fb92bf7be9b",
+      "title": "Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/",
+      "summary": "In this post, we demonstrate how to use the new Amazon SageMaker HyperPod CLI and SDK to streamline the process of training and deploying large AI models through practical examples of distributed training using Fully Sharded Data Parallel (FSDP) and model deployment for inference. The tools provide simplified workflows through straightforward commands for common tasks, while offering flexible development options through the SDK for more complex requirements, along with comprehensive observability features and production-ready deployment capabilities.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-03T00:12:37Z",
+      "score": 79.11
     },
     {
       "id": "5cd9d8519eab",
@@ -286,7 +304,7 @@
       "summary": "OpenAI is bringing on the founder of Statsig as its CTO of Applications, and making changes to other leadership roles at the company.",
       "source": "techcrunch.com",
       "ts": "2025-09-02T19:04:05Z",
-      "score": 100.38
+      "score": 78.18
     },
     {
       "id": "3dc331a0e307",
@@ -295,7 +313,7 @@
       "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
       "source": "openai.com",
       "ts": "2025-09-02T11:00:00Z",
-      "score": 100.28
+      "score": 78.1
     },
     {
       "id": "3a99a8946d66",
@@ -304,16 +322,7 @@
       "summary": "OpenAI has started to build out its Applications team under Fidji Simo, its new CEO of Applications, who left her former position as Instacart’s CEO to start in the executive role on August 18th. On Tuesday, the company confirmed it’s shuffling executive roles, bringing on a new CTO of applications, and acquiring a product analytics [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-02T18:02:08Z",
-      "score": 98.24
-    },
-    {
-      "id": "hn-45107349",
-      "title": "Apertus 8B and 70B – a new open multilingual LLM from Switzerland",
-      "url": "https://actu.epfl.ch/news/apertus-a-fully-open-transparent-multilingual-lang/",
-      "summary": "",
-      "source": "actu.epfl.ch",
-      "ts": "2025-09-02T18:47:02Z",
-      "score": 96.72
+      "score": 76.52
     },
     {
       "id": "bb1ad0e82846",
@@ -322,16 +331,7 @@
       "summary": "Tesla's latest \"Master Plan\" makes a few things clear right out of the gate: the company that was once known for accelerating the push toward a brighter future by popularizing electric vehicles and renewable energy is no longer interested in that quotidian stuff. Now, it's all about artificial intelligence, humanoid robots, self-driving cars, and the [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-02T17:12:59Z",
-      "score": 96.58
-    },
-    {
-      "id": "hn-45100421",
-      "title": "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
-      "url": "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots",
-      "summary": "",
-      "source": "koyeb.com",
-      "ts": "2025-09-02T08:25:47Z",
-      "score": 94.11
+      "score": 75.22
     },
     {
       "id": "96d8cc640031",
@@ -340,7 +340,7 @@
       "summary": "In this post, we introduce a flexible and scalable solution that simplifies the batch inference workflow. This solution provides a highly scalable approach to managing your FM batch inference needs, such as generating embeddings for millions of documents or running custom evaluation or completion tasks with large datasets.",
       "source": "aws.amazon.com",
       "ts": "2025-09-02T18:55:16Z",
-      "score": 90.98
+      "score": 70.86
     },
     {
       "id": "cabf827e719d",
@@ -349,16 +349,7 @@
       "summary": "In this post, we explore how natural language database analytics can revolutionize the way organizations interact with their structured data through the power of large language model (LLM) agents. Natural language interfaces to databases have long been a goal in data management. Agents enhance database analytics by breaking down complex queries into explicit, verifiable reasoning steps and enabling self-correction through validation loops that can catch errors, analyze failures, and refine queries until they accurately match user intent and schema requirements.",
       "source": "aws.amazon.com",
       "ts": "2025-09-02T16:43:47Z",
-      "score": 86.92
-    },
-    {
-      "id": "272d20ba8a97",
-      "title": "Deploy Amazon Bedrock Knowledge Bases using Terraform for RAG-based generative AI applications",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-bedrock-knowledge-bases-using-terraform-for-rag-based-generative-ai-applications/",
-      "summary": "In this post, we demonstrated how to automate the deployment of Amazon Knowledge Bases for RAG applications using Terraform.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-02T16:41:49Z",
-      "score": 86.86
+      "score": 67.69
     },
     {
       "id": "1568f222ff7a",
@@ -367,7 +358,7 @@
       "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
       "source": "openai.com",
       "ts": "2025-09-02T04:00:00Z",
-      "score": 86.67
+      "score": 67.5
     },
     {
       "id": "982ca303f669",
@@ -376,34 +367,34 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 85.61
+      "score": 66.67
     },
     {
-      "id": "hn-45099939",
-      "title": "Kapa.ai (YC S23) is hiring research and software engineers",
-      "url": "https://www.ycombinator.com/companies/kapa-ai/jobs",
+      "id": "hn-45079512",
+      "title": "Chicago has the most lead pipes in the nation",
+      "url": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-02T07:01:01Z",
-      "score": 71.59
+      "source": "grist.org",
+      "ts": "2025-08-31T01:27:06Z",
+      "score": 65.51
     },
     {
-      "id": "hn-45070019",
-      "title": "Writing a Hypervisor in 1k Lines",
-      "url": "https://seiya.me/blog/hypervisor-in-1000-lines",
+      "id": "hn-45078962",
+      "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+      "url": "https://github.com/krig/LISP",
       "summary": "",
-      "source": "seiya.me",
-      "ts": "2025-08-29T22:12:51Z",
-      "score": 70.79
+      "source": "github.com",
+      "ts": "2025-08-30T23:35:32Z",
+      "score": 58.23
     },
     {
-      "id": "hn-45073137",
-      "title": "Google Pixel 10 series review",
-      "url": "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/",
+      "id": "hn-45073031",
+      "title": "Triangle Grids (2022)",
+      "url": "https://kvachev.com/blog/posts/triangular-grid/",
       "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-08-30T09:05:22Z",
-      "score": 37.54
+      "source": "kvachev.com",
+      "ts": "2025-08-30T08:46:05Z",
+      "score": 54.2
     },
     {
       "id": "hn-45064241",
@@ -412,25 +403,52 @@
       "summary": "",
       "source": "aresluna.org",
       "ts": "2025-08-29T13:59:33Z",
-      "score": 32.71
+      "score": 46.45
     },
     {
-      "id": "hn-45073031",
-      "title": "Triangle Grids",
-      "url": "https://kvachev.com/blog/posts/triangular-grid/",
+      "id": "hn-45074827",
+      "title": "The Middle Earth",
+      "url": "https://www.historytoday.com/archive/out-margins/real-middle-earth",
       "summary": "",
-      "source": "kvachev.com",
-      "ts": "2025-08-30T08:46:05Z",
-      "score": 32.03
+      "source": "historytoday.com",
+      "ts": "2025-08-30T14:09:29Z",
+      "score": 25.12
     },
     {
-      "id": "hn-45080683",
-      "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+      "id": "hn-45075751",
+      "title": "Acorn and the future of (AI?) theorem proving",
+      "url": "https://lmao.bearblog.dev/acorn-ai-proving/",
       "summary": "",
-      "source": "vldb.org",
-      "ts": "2025-08-31T05:53:19Z",
-      "score": 27.91
+      "source": "lmao.bearblog.dev",
+      "ts": "2025-08-30T16:06:37Z",
+      "score": 24.51
+    },
+    {
+      "id": "hn-45076992",
+      "title": "How to Give a Good Talk",
+      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
+      "summary": "",
+      "source": "blog.sigplan.org",
+      "ts": "2025-08-30T18:42:08Z",
+      "score": 24.14
+    },
+    {
+      "id": "hn-45073469",
+      "title": "Computing simplified coverage polygons",
+      "url": "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html",
+      "summary": "",
+      "source": "volkerkrause.eu",
+      "ts": "2025-08-30T10:21:10Z",
+      "score": 22.23
+    },
+    {
+      "id": "hn-45075123",
+      "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
+      "url": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/",
+      "summary": "",
+      "source": "nextplatform.com",
+      "ts": "2025-08-30T14:48:58Z",
+      "score": 16.31
     },
     {
       "id": "e3e4a46d2335",
@@ -439,7 +457,7 @@
       "summary": "Context recognition (SR) is a fundamental task in computer vision that aims\nto extract structured semantic summaries from images by identifying key events\nand their associated entities. Specifically, given an input image, the model\nmust first classify the main visual events (verb classification), then identify\nthe participating entities and their semantic roles (semantic role labeling),\nand finally localize these entities in the image (semantic role localization).\nExisting methods treat verb classification as a single-label problem, but we\nshow through a comprehensive analysis that this formulation fails to address\nthe inherent ambiguity in visual event recognition, as multiple verb categories\nmay reasonably describe the same image. This paper makes three key\ncontributions: First, we reveal through empirical analysis that verb\nclassification is inherently a multi-label problem due to the ubiquitous\nsemantic overlap between verb categories. Second, given the impracticality of\nfully annotating large-scale datasets with multiple labels, we propose to\nreformulate verb classification as a single positive multi-label learning\n(SPMLL) problem - a novel perspective in SR research. Third, we design a\ncomprehensive multi-label evaluation benchmark for SR that is carefully\ndesigned to fairly evaluate model performance in a multi-label setting. To\naddress the challenges of SPMLL, we futher develop the Graph Enhanced Verb\nMultilayer Perceptron (GE-VerbMLP), which combines graph neural networks to\ncapture label correlations and adversarial training to optimize decision\nboundaries. Extensive experiments on real-world datasets show that our approach\nachieves more than 3\\% MAP improvement while remaining competitive on\ntraditional top-1 and top-5 accuracy metrics.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:51:55Z",
-      "score": 15.66
+      "score": 12.19
     },
     {
       "id": "3491332518ab",
@@ -448,7 +466,7 @@
       "summary": "Accurate interpretation of clinical narratives is critical for patient care,\nbut the complexity of these notes makes automation challenging. While Large\nLanguage Models (LLMs) show promise, single-model approaches can lack the\nrobustness required for high-stakes clinical tasks. We introduce a\ncollaborative multi-agent system (MAS) that models a clinical consultation team\nto address this gap. The system is tasked with identifying clinical problems by\nanalyzing only the Subjective (S) and Objective (O) sections of SOAP notes,\nsimulating the diagnostic reasoning process of synthesizing raw data into an\nassessment. A Manager agent orchestrates a dynamically assigned team of\nspecialist agents who engage in a hierarchical, iterative debate to reach a\nconsensus. We evaluated our MAS against a single-agent baseline on a curated\ndataset of 420 MIMIC-III notes. The dynamic multi-agent configuration\ndemonstrated consistently improved performance in identifying congestive heart\nfailure, acute kidney injury, and sepsis. Qualitative analysis of the agent\ndebates reveals that this structure effectively surfaces and weighs conflicting\nevidence, though it can occasionally be susceptible to groupthink. By modeling\na clinical team's reasoning process, our system offers a promising path toward\nmore accurate, robust, and interpretable clinical decision support tools.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:31:24Z",
-      "score": 15.55
+      "score": 12.11
     },
     {
       "id": "575672b83e7d",
@@ -457,7 +475,7 @@
       "summary": "Planning with pretrained diffusion models has emerged as a promising approach\nfor solving test-time guided control problems. However, standard gradient\nguidance typically performs optimally under convex and differentiable reward\nlandscapes, showing substantially reduced effectiveness in real-world scenarios\ninvolving non-convex objectives, non-differentiable constraints, and\nmulti-reward structures. Furthermore, recent supervised planning approaches\nrequire task-specific training or value estimators, which limits test-time\nflexibility and zero-shot generalization. We propose a Tree-guided Diffusion\nPlanner (TDP), a zero-shot test-time planning framework that balances\nexploration and exploitation through structured trajectory generation. We frame\ntest-time planning as a tree search problem using a bi-level sampling process:\n(1) diverse parent trajectories are produced via training-free particle\nguidance to encourage broad exploration, and (2) sub-trajectories are refined\nthrough fast conditional denoising guided by task objectives. TDP addresses the\nlimitations of gradient guidance by exploring diverse trajectory regions and\nharnessing gradient information across this expanded solution space using only\npretrained models and test-time reward signals. We evaluate TDP on three\ndiverse tasks: maze gold-picking, robot arm block manipulation, and AntMaze\nmulti-goal exploration. TDP consistently outperforms state-of-the-art\napproaches on all tasks. The project page can be found at:\ntree-diffusion-planner.github.io.",
       "source": "arxiv.org",
       "ts": "2025-08-29T17:27:44Z",
-      "score": 15.53
+      "score": 12.09
     },
     {
       "id": "20e7ffe2a031",
@@ -466,7 +484,7 @@
       "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
       "source": "openai.com",
       "ts": "2025-08-28T10:00:00Z",
-      "score": 8.06
+      "score": 6.28
     },
     {
       "id": "265e85cbbb22",
@@ -475,7 +493,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 2.59
+      "score": 2.01
     },
     {
       "id": "99b464916a99",
