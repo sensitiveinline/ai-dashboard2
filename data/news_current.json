@@ -1,40 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45114245",
-      "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
-      "url": "https://microsoft.github.io/VibeVoice/",
-      "summary": "",
-      "source": "microsoft.github.io",
-      "ts": "2025-09-03T10:44:01Z",
-      "score": 396.08
-    },
-    {
       "id": "hn-45116688",
       "title": "Claude Code: Now in Beta in Zed",
       "url": "https://zed.dev/blog/claude-code-via-acp",
       "summary": "",
       "source": "zed.dev",
       "ts": "2025-09-03T15:07:20Z",
-      "score": 346.22
-    },
-    {
-      "id": "hn-45078315",
-      "title": "Magic Lantern Is Back",
-      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
-      "summary": "",
-      "source": "magiclantern.fm",
-      "ts": "2025-08-30T21:52:58Z",
-      "score": 293.89
-    },
-    {
-      "id": "hn-45114379",
-      "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
-      "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-03T11:07:16Z",
-      "score": 251.3
+      "score": 429.06
     },
     {
       "id": "hn-45120517",
@@ -43,16 +16,16 @@
       "summary": "",
       "source": "mikelovesrobots.substack.com",
       "ts": "2025-09-03T21:18:29Z",
-      "score": 234.18
+      "score": 415.86
     },
     {
-      "id": "hn-45114003",
-      "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
-      "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
+      "id": "hn-45124003",
+      "title": "30 minutes with a stranger",
+      "url": "https://pudding.cool/2025/06/hello-stranger/",
       "summary": "",
-      "source": "readonlymemo.com",
-      "ts": "2025-09-03T10:02:11Z",
-      "score": 222.57
+      "source": "pudding.cool",
+      "ts": "2025-09-04T05:56:29Z",
+      "score": 349.53
     },
     {
       "id": "hn-45117230",
@@ -61,106 +34,16 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-03T15:54:12Z",
-      "score": 221.6
+      "score": 268.13
     },
     {
-      "id": "hn-45118392",
-      "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
-      "url": "https://github.com/microsoft/BASIC-M6502",
+      "id": "hn-45121721",
+      "title": "ReMarkable Paper Pro Move",
+      "url": "https://remarkable.com/products/remarkable-paper/pro-move",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-03T17:28:32Z",
-      "score": 211.84
-    },
-    {
-      "id": "hn-45112996",
-      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
-      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
-      "summary": "",
-      "source": "a13xp0p0v.github.io",
-      "ts": "2025-09-03T06:58:51Z",
-      "score": 198.71
-    },
-    {
-      "id": "hn-45119103",
-      "title": "Tufte CSS",
-      "url": "https://edwardtufte.github.io/tufte-css/",
-      "summary": "",
-      "source": "edwardtufte.github.io",
-      "ts": "2025-09-03T18:41:57Z",
-      "score": 180.09
-    },
-    {
-      "id": "hn-45120050",
-      "title": "The worst possible antitrust outcome",
-      "url": "https://pluralistic.net/2025/09/03/unpunishing-process/",
-      "summary": "",
-      "source": "pluralistic.net",
-      "ts": "2025-09-03T20:29:13Z",
-      "score": 175.56
-    },
-    {
-      "id": "hn-45114579",
-      "title": "The wall confronting large language models",
-      "url": "https://arxiv.org/abs/2507.19703",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-03T11:40:41Z",
-      "score": 171.86
-    },
-    {
-      "id": "hn-45115004",
-      "title": "John Coltrane's Tone Circle",
-      "url": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
-      "summary": "",
-      "source": "roelsworld.eu",
-      "ts": "2025-09-03T12:38:47Z",
-      "score": 163.2
-    },
-    {
-      "id": "hn-45114277",
-      "title": "UK Electricity Generation Map",
-      "url": "https://www.energydashboard.co.uk/map",
-      "summary": "",
-      "source": "energydashboard.co.uk",
-      "ts": "2025-09-03T10:49:48Z",
-      "score": 162.03
-    },
-    {
-      "id": "hn-45117668",
-      "title": "Writing a C compiler in 500 lines of Python (2023)",
-      "url": "https://vgel.me/posts/c500/",
-      "summary": "",
-      "source": "vgel.me",
-      "ts": "2025-09-03T16:28:23Z",
-      "score": 162.02
-    },
-    {
-      "id": "hn-45118111",
-      "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
-      "url": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
-      "summary": "",
-      "source": "gimletlabs.ai",
-      "ts": "2025-09-03T17:03:35Z",
-      "score": 160.08
-    },
-    {
-      "id": "hn-45113418",
-      "title": "Finding thousands of exposed Ollama instances using Shodan",
-      "url": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
-      "summary": "",
-      "source": "blogs.cisco.com",
-      "ts": "2025-09-03T08:18:07Z",
-      "score": 159.89
-    },
-    {
-      "id": "hn-45115760",
-      "title": "Building the most accurate DIY CNC lathe in the world [video]",
-      "url": "https://www.youtube.com/watch?v=vEr2CJruwEM",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-03T13:47:14Z",
-      "score": 156.72
+      "source": "remarkable.com",
+      "ts": "2025-09-03T23:52:58Z",
+      "score": 222.56
     },
     {
       "id": "hn-45116957",
@@ -169,25 +52,43 @@
       "summary": "",
       "source": "rti.github.io",
       "ts": "2025-09-03T15:30:06Z",
-      "score": 154.29
+      "score": 198.58
     },
     {
-      "id": "hn-45118585",
-      "title": "Poor man's bitemporal data system in SQLite and Clojure",
-      "url": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+      "id": "hn-45121915",
+      "title": "Neovim Pack",
+      "url": "https://neovim.io/doc/user/pack.html#vim.pack",
       "summary": "",
-      "source": "evalapply.org",
-      "ts": "2025-09-03T17:47:50Z",
-      "score": 153.04
+      "source": "neovim.io",
+      "ts": "2025-09-04T00:18:16Z",
+      "score": 193.26
     },
     {
-      "id": "hn-45118592",
-      "title": "What is it like to be a bat?",
-      "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+      "id": "hn-45117668",
+      "title": "Writing a C compiler in 500 lines of Python (2023)",
+      "url": "https://vgel.me/posts/c500/",
       "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-09-03T17:48:27Z",
-      "score": 148.86
+      "source": "vgel.me",
+      "ts": "2025-09-03T16:28:23Z",
+      "score": 192.13
+    },
+    {
+      "id": "hn-45114579",
+      "title": "The wall confronting large language models",
+      "url": "https://arxiv.org/abs/2507.19703",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-03T11:40:41Z",
+      "score": 189.18
+    },
+    {
+      "id": "hn-45124143",
+      "title": "Melvyn Bragg steps down from presenting In Our Time",
+      "url": "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/",
+      "summary": "",
+      "source": "bbc.co.uk",
+      "ts": "2025-09-04T06:18:13Z",
+      "score": 182.21
     },
     {
       "id": "hn-45119076",
@@ -196,187 +97,16 @@
       "summary": "",
       "source": "alexcodes.app",
       "ts": "2025-09-03T18:38:48Z",
-      "score": 148.62
+      "score": 179.64
     },
     {
-      "id": "hn-45116849",
-      "title": "A Random Walk in 10 Dimensions (2021)",
-      "url": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
+      "id": "hn-45123003",
+      "title": "Étoilé – desktop built on GNUStep",
+      "url": "http://etoileos.com/",
       "summary": "",
-      "source": "galileo-unbound.blog",
-      "ts": "2025-09-03T15:20:34Z",
-      "score": 134.81
-    },
-    {
-      "id": "hn-45076992",
-      "title": "How to Give a Good Talk",
-      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
-      "summary": "",
-      "source": "blog.sigplan.org",
-      "ts": "2025-08-30T18:42:08Z",
-      "score": 126.25
-    },
-    {
-      "id": "hn-45118598",
-      "title": "6NF File Format",
-      "url": "https://habr.com/en/articles/942516/",
-      "summary": "",
-      "source": "habr.com",
-      "ts": "2025-09-03T17:49:08Z",
-      "score": 117.08
-    },
-    {
-      "id": "hn-45115941",
-      "title": "Eels are fish",
-      "url": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
-      "summary": "",
-      "source": "eocampaign1.com",
-      "ts": "2025-09-03T14:02:18Z",
-      "score": 113.94
-    },
-    {
-      "id": "055062386723",
-      "title": "Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation",
-      "url": "https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/",
-      "summary": "The two-year-old OpenAI rival, founded by former DeepMind and Meta researchers, develops open source language models and Le Chat, its AI chatbot built for European audiences.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-03T22:13:51Z",
-      "score": 107.18
-    },
-    {
-      "id": "hn-45119397",
-      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
-      "url": "https://www.alphaxiv.org/abs/2508.21038v1",
-      "summary": "",
-      "source": "alphaxiv.org",
-      "ts": "2025-09-03T19:09:29Z",
-      "score": 106.99
-    },
-    {
-      "id": "4de0daddc6d9",
-      "title": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
-      "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/",
-      "summary": "Scale is clearly concerned enough about the threat of Mercor, and the poaching of one of its employees, to pursue legal action.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-03T21:21:30Z",
-      "score": 105.25
-    },
-    {
-      "id": "5721a9ae2bac",
-      "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini",
-      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
-      "summary": "An AI Siri is in the works and it could be running Gemini under the hood.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-03T20:50:38Z",
-      "score": 104.12
-    },
-    {
-      "id": "3dfeafcff941",
-      "title": "Apple&#8217;s rumored AI search tool for Siri could rely on Google",
-      "url": "https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini",
-      "summary": "Apple is working on an AI-powered search feature for Siri – but it might need Google’s help to make it happen, according to a report from Bloomberg’s Mark Gurman. As noted by Gurman, Google is currently in the lead to help Apple revamp its voice assistant, which could involve using a custom Gemini model running [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-03T20:47:46Z",
-      "score": 104.02
-    },
-    {
-      "id": "9a0bc5326a8c",
-      "title": "Switzerland releases its own AI model trained on public data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
-      "summary": "Switzerland launched an open-source model called Apertus on Monday as an alternative to proprietary models like OpenAI’s ChatGPT or Anthropic’s Claude, reports SWI as spotted by Engadget. The model’s source code, training data, model weights, and detailed development process are available on the AI model platform HuggingFace.&#160; Apertus, which is Latin for “open,” was designed [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-03T20:32:37Z",
-      "score": 103.47
-    },
-    {
-      "id": "187dfc763a7c",
-      "title": "Scale AI still exists and it’s suing an ex-employee over corporate espionage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta",
-      "summary": "It's been a tumultuous summer for Scale AI: Meta took a multibillion-dollar stake in the company, Mark Zuckerberg hired Scale CEO Alexandr Wang and other top staff, and Scale laid off 14 percent of its workforce. Now the latest development is a lawsuit over corporate espionage in the AI industry. The AI data labeling company, [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-03T17:54:27Z",
-      "score": 97.94
-    },
-    {
-      "id": "hn-45120373",
-      "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
-      "url": "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-03T21:00:27Z",
-      "score": 95.58
-    },
-    {
-      "id": "d6e71fedf6ec",
-      "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
-      "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/",
-      "summary": "In this post, we showed how to implement TTI authentication for Amazon Q data accessors. We covered the setup process for both ISVs and enterprises and demonstrated how TTI authentication simplifies the user experience while maintaining security standards.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-03T16:44:14Z",
-      "score": 86.9
-    },
-    {
-      "id": "ab9eb74ae6c0",
-      "title": "Unlocking the future of professional services: How Proofpoint uses Amazon Q Business",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-future-of-professional-services-how-proofpoint-uses-amazon-q-business/",
-      "summary": "Proofpoint has redefined its professional services by integrating Amazon Q Business, a fully managed, generative AI powered assistant that you can configure to answer questions, provide summaries, generate content, and complete tasks based on your enterprise data. In this post, we explore how Amazon Q Business transformed Proofpoint’s professional services, detailing its deployment, functionality, and future roadmap.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-03T16:39:10Z",
-      "score": 86.74
-    },
-    {
-      "id": "037d8c5c7ec2",
-      "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/",
-      "summary": "In this post, we show how to deploy Coveo’s Passage Retrieval API as an Amazon Bedrock Agents action group to enhance response accuracy, so Coveo users can use their current index to rapidly deploy new generative experiences across their organization.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-03T16:32:47Z",
-      "score": 86.55
-    },
-    {
-      "id": "hn-45101794",
-      "title": "The Sudden Surges That Forge Evolutionary Trees",
-      "url": "https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-02T11:45:37Z",
-      "score": 67.31
-    },
-    {
-      "id": "hn-45090654",
-      "title": "OSMAnd vs. Organic Maps",
-      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
-      "summary": "",
-      "source": "blog.firedrake.org",
-      "ts": "2025-09-01T08:14:53Z",
-      "score": 66.39
-    },
-    {
-      "id": "hn-45094256",
-      "title": "Lessons from building an AI data analyst",
-      "url": "https://www.pedronasc.com/articles/lessons-building-ai-data-analyst",
-      "summary": "",
-      "source": "pedronasc.com",
-      "ts": "2025-09-01T16:40:24Z",
-      "score": 65.52
-    },
-    {
-      "id": "3dc331a0e307",
-      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
-      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
-      "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
-      "source": "openai.com",
-      "ts": "2025-09-02T11:00:00Z",
-      "score": 60.8
-    },
-    {
-      "id": "hn-45079767",
-      "title": "Abstract Machine Models (2022)",
-      "url": "https://dr-knz.net/abstract-machine-models.html",
-      "summary": "",
-      "source": "dr-knz.net",
-      "ts": "2025-08-31T02:20:10Z",
-      "score": 58.76
+      "source": "etoileos.com",
+      "ts": "2025-09-04T02:55:24Z",
+      "score": 174.9
     },
     {
       "id": "hn-45057283",
@@ -385,16 +115,313 @@
       "summary": "",
       "source": "obviouslywrong.substack.com",
       "ts": "2025-08-28T21:32:10Z",
-      "score": 57.58
+      "score": 173.52
+    },
+    {
+      "id": "hn-45118111",
+      "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
+      "url": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
+      "summary": "",
+      "source": "gimletlabs.ai",
+      "ts": "2025-09-03T17:03:35Z",
+      "score": 170.15
+    },
+    {
+      "id": "hn-45118592",
+      "title": "What is it like to be a bat?",
+      "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-03T17:48:27Z",
+      "score": 165.22
+    },
+    {
+      "id": "hn-45115760",
+      "title": "Building the most accurate DIY CNC lathe in the world [video]",
+      "url": "https://www.youtube.com/watch?v=vEr2CJruwEM",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-09-03T13:47:14Z",
+      "score": 159.66
+    },
+    {
+      "id": "hn-45076992",
+      "title": "How to Give a Good Talk",
+      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
+      "summary": "",
+      "source": "blog.sigplan.org",
+      "ts": "2025-08-30T18:42:08Z",
+      "score": 158.94
+    },
+    {
+      "id": "hn-45115941",
+      "title": "Eels are fish",
+      "url": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
+      "summary": "",
+      "source": "eocampaign1.com",
+      "ts": "2025-09-03T14:02:18Z",
+      "score": 146.2
+    },
+    {
+      "id": "hn-45116849",
+      "title": "A Random Walk in 10 Dimensions (2021)",
+      "url": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
+      "summary": "",
+      "source": "galileo-unbound.blog",
+      "ts": "2025-09-03T15:20:34Z",
+      "score": 137.16
+    },
+    {
+      "id": "hn-45124955",
+      "title": "Google was down in eastern EU and Turkey",
+      "url": "https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29",
+      "summary": "",
+      "source": "novinite.com",
+      "ts": "2025-09-04T08:23:35Z",
+      "score": 132.8
+    },
+    {
+      "id": "hn-45125555",
+      "title": "Liquid Glass? That's what your M4 CPU is for",
+      "url": "https://idiallo.com/byte-size/apple-liquid-glass",
+      "summary": "",
+      "source": "idiallo.com",
+      "ts": "2025-09-04T10:12:09Z",
+      "score": 125.01
+    },
+    {
+      "id": "hn-45125312",
+      "title": "The Color of the Future: A history of blue",
+      "url": "https://www.hopefulmons.com/p/the-color-of-the-future",
+      "summary": "",
+      "source": "hopefulmons.com",
+      "ts": "2025-09-04T09:27:53Z",
+      "score": 117.52
+    },
+    {
+      "id": "hn-45123034",
+      "title": "Polars Cloud and Distributed Polars now available",
+      "url": "https://pola.rs/posts/polars-cloud-launch/",
+      "summary": "",
+      "source": "pola.rs",
+      "ts": "2025-09-04T03:01:49Z",
+      "score": 115.69
+    },
+    {
+      "id": "hn-45125469",
+      "title": "Hledger 1.50",
+      "url": "https://github.com/simonmichael/hledger/releases/tag/1.50",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-04T09:55:40Z",
+      "score": 108.85
+    },
+    {
+      "id": "hn-45125859",
+      "title": "Le Chat. Custom MCP Connectors. Memories",
+      "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
+      "summary": "",
+      "source": "mistral.ai",
+      "ts": "2025-09-04T11:04:36Z",
+      "score": 108.14
+    },
+    {
+      "id": "hn-45123857",
+      "title": "William Wordsworth's letter: \"The Law of Copyright\" (1838)",
+      "url": "https://gutenberg.org/cache/epub/76806/pg76806-images.html",
+      "summary": "",
+      "source": "gutenberg.org",
+      "ts": "2025-09-04T05:23:47Z",
+      "score": 104.93
+    },
+    {
+      "id": "d4f3872c9ceb",
+      "title": "Anker&#8217;s new AI voice recorder is the size of a coin",
+      "url": "https://www.theverge.com/news/769467/anker-soundcore-work-ai-recorder-gpt-4o",
+      "summary": "Anker is the latest company to announce an AI-powered voice recorder designed to transcribe, summarize, and highlight important moments from a conversation or meeting. Its functionality is similar to what’s offered by devices like the Bee or Plaud NotePin, but the Soundcore Work manages to further shrink the hardware down to an even smaller coin-sized [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-04T08:30:00Z",
+      "score": 103.41
+    },
+    {
+      "id": "a2c61e78bcc1",
+      "title": "Eufy&#8217;s latest security camera can see everywhere all at once",
+      "url": "https://www.theverge.com/news/769518/anker-eufycam-s4-4k-ai-core",
+      "summary": "Eufy, Anker’s smart home brand, has announced a new outdoor security solution with a stationary 4K wide-angle camera that can spot intruders and then trigger a pair of 2K cameras to pan, tilt, and zoom in to get a closer look at their faces, even when they’re up to 164 feet away. Priced at $299, [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-04T08:30:00Z",
+      "score": 103.41
     },
     {
       "id": "hn-45101675",
-      "title": "New Knot Theory Discovery Overturns Long-Held Mathematical Assumption",
+      "title": "New knot theory discovery overturns long-held mathematical assumption",
       "url": "https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/",
       "summary": "",
       "source": "scientificamerican.com",
       "ts": "2025-09-02T11:35:22Z",
-      "score": 57.55
+      "score": 102.88
+    },
+    {
+      "id": "hn-45093966",
+      "title": "Minesweeper thermodynamics",
+      "url": "https://oscarcunningham.com/792/minesweeper-thermodynamics/",
+      "summary": "",
+      "source": "oscarcunningham.com",
+      "ts": "2025-09-01T16:14:20Z",
+      "score": 101.45
+    },
+    {
+      "id": "8eee38424e70",
+      "title": "Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling?\n  A Validation Study with Naturalistic Trajectories",
+      "url": "http://arxiv.org/abs/2509.03515v1",
+      "summary": "The Waymo Open Motion Dataset (WOMD) has become a popular resource for\ndata-driven modeling of autonomous vehicles (AVs) behavior. However, its\nvalidity for behavioral analysis remains uncertain due to proprietary\npost-processing, the absence of error quantification, and the segmentation of\ntrajectories into 20-second clips. This study examines whether WOMD accurately\ncaptures the dynamics and interactions observed in real-world AV operations.\nLeveraging an independently collected naturalistic dataset from Level 4 AV\noperations in Phoenix, Arizona (PHX), we perform comparative analyses across\nthree representative urban driving scenarios: discharging at signalized\nintersections, car-following, and lane-changing behaviors. For the discharging\nanalysis, headways are manually extracted from aerial video to ensure\nnegligible measurement error. For the car-following and lane-changing cases, we\napply the Simulation-Extrapolation (SIMEX) method to account for empirically\nestimated error in the PHX data and use Dynamic Time Warping (DTW) distances to\nquantify behavioral differences. Results across all scenarios consistently show\nthat behavior in PHX falls outside the behavioral envelope of WOMD. Notably,\nWOMD underrepresents short headways and abrupt decelerations. These findings\nsuggest that behavioral models calibrated solely on WOMD may systematically\nunderestimate the variability, risk, and complexity of naturalistic driving.\nCaution is therefore warranted when using WOMD for behavior modeling without\nproper validation against independently collected data.",
+      "source": "arxiv.org",
+      "ts": "2025-09-03T17:56:46Z",
+      "score": 90.25
+    },
+    {
+      "id": "01230b33ba31",
+      "title": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist\n  Intelligence",
+      "url": "http://arxiv.org/abs/2509.03505v1",
+      "summary": "We argue that progress toward general intelligence requires complementary\nfoundation models grounded in language, the physical world, and structured\ndata. This report presents LimiX, the first installment of our large\nstructured-data models (LDMs). LimiX treats structured data as a joint\ndistribution over variables and missingness, thus capable of addressing a wide\nrange of tabular tasks through query-based conditional prediction via a single\nmodel. LimiX is pretrained using masked joint-distribution modeling with an\nepisodic, context-conditional objective, where the model predicts for query\nsubsets conditioned on dataset-specific contexts, supporting rapid,\ntraining-free adaptation at inference. We evaluate LimiX across 10 large\nstructured-data benchmarks with broad regimes of sample size, feature\ndimensionality, class number, categorical-to-numerical feature ratio,\nmissingness, and sample-to-feature ratios. With a single model and a unified\ninterface, LimiX consistently surpasses strong baselines including\ngradient-boosting trees, deep tabular networks, recent tabular foundation\nmodels, and automated ensembles, as shown in Figure 1 and Figure 2. The\nsuperiority holds across a wide range of tasks, such as classification,\nregression, missing value imputation, and data generation, often by substantial\nmargins, while avoiding task-specific architectures or bespoke training per\ntask. All LimiX models are publicly accessible under Apache 2.0.",
+      "source": "arxiv.org",
+      "ts": "2025-09-03T17:39:08Z",
+      "score": 89.7
+    },
+    {
+      "id": "055062386723",
+      "title": "Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation",
+      "url": "https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/",
+      "summary": "The two-year-old OpenAI rival, founded by former DeepMind and Meta researchers, develops open source language models and Le Chat, its AI chatbot built for European audiences.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-03T22:13:51Z",
+      "score": 83.5
+    },
+    {
+      "id": "4de0daddc6d9",
+      "title": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
+      "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/",
+      "summary": "Scale is clearly concerned enough about the threat of Mercor, and the poaching of one of its employees, to pursue legal action.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-03T21:21:30Z",
+      "score": 81.99
+    },
+    {
+      "id": "5721a9ae2bac",
+      "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini",
+      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
+      "summary": "An AI Siri is in the works and it could be running Gemini under the hood.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-03T20:50:38Z",
+      "score": 81.12
+    },
+    {
+      "id": "3dfeafcff941",
+      "title": "Apple&#8217;s rumored AI search tool for Siri could rely on Google",
+      "url": "https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini",
+      "summary": "Apple is working on an AI-powered search feature for Siri – but it might need Google’s help to make it happen, according to a report from Bloomberg’s Mark Gurman. As noted by Gurman, Google is currently in the lead to help Apple revamp its voice assistant, which could involve using a custom Gemini model running [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-03T20:47:46Z",
+      "score": 81.04
+    },
+    {
+      "id": "hn-45087803",
+      "title": "Reverse engineering Solos smart glasses",
+      "url": "https://jfloren.net/b/2025/8/28/0",
+      "summary": "",
+      "source": "jfloren.net",
+      "ts": "2025-08-31T22:52:17Z",
+      "score": 75.96
+    },
+    {
+      "id": "hn-45089508",
+      "title": "AR Fluid Simulation Demo",
+      "url": "https://danybittel.ch/fluid",
+      "summary": "",
+      "source": "danybittel.ch",
+      "ts": "2025-09-01T04:38:53Z",
+      "score": 75.16
+    },
+    {
+      "id": "hn-45120373",
+      "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
+      "url": "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-03T21:00:27Z",
+      "score": 74.6
+    },
+    {
+      "id": "hn-45088427",
+      "title": "Show HN: A roguelike game that runs inside Notepad++",
+      "url": "https://github.com/thelowsunoverthemoon/NeuroPriest",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-01T00:51:50Z",
+      "score": 73.69
+    },
+    {
+      "id": "d6e71fedf6ec",
+      "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
+      "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/",
+      "summary": "In this post, we showed how to implement TTI authentication for Amazon Q data accessors. We covered the setup process for both ISVs and enterprises and demonstrated how TTI authentication simplifies the user experience while maintaining security standards.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-03T16:44:14Z",
+      "score": 67.7
+    },
+    {
+      "id": "ab9eb74ae6c0",
+      "title": "Unlocking the future of professional services: How Proofpoint uses Amazon Q Business",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-future-of-professional-services-how-proofpoint-uses-amazon-q-business/",
+      "summary": "Proofpoint has redefined its professional services by integrating Amazon Q Business, a fully managed, generative AI powered assistant that you can configure to answer questions, provide summaries, generate content, and complete tasks based on your enterprise data. In this post, we explore how Amazon Q Business transformed Proofpoint’s professional services, detailing its deployment, functionality, and future roadmap.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-03T16:39:10Z",
+      "score": 67.58
+    },
+    {
+      "id": "037d8c5c7ec2",
+      "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/",
+      "summary": "In this post, we show how to deploy Coveo’s Passage Retrieval API as an Amazon Bedrock Agents action group to enhance response accuracy, so Coveo users can use their current index to rapidly deploy new generative experiences across their organization.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-03T16:32:47Z",
+      "score": 67.43
+    },
+    {
+      "id": "hn-45098867",
+      "title": "The Wetware Crisis: The Thermocline of Truth (2008)",
+      "url": "https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/",
+      "summary": "",
+      "source": "brucefwebster.com",
+      "ts": "2025-09-02T03:31:34Z",
+      "score": 50.38
+    },
+    {
+      "id": "3dc331a0e307",
+      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+      "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
+      "source": "openai.com",
+      "ts": "2025-09-02T11:00:00Z",
+      "score": 47.36
+    },
+    {
+      "id": "hn-45094559",
+      "title": "Half an year on Alpine: just musl aside",
+      "url": "https://blog.jutty.dev/posts/half-an-year-on-alpine/",
+      "summary": "",
+      "source": "blog.jutty.dev",
+      "ts": "2025-09-01T17:12:03Z",
+      "score": 45.55
+    },
+    {
+      "id": "hn-45105272",
+      "title": "A Rebel Writer's First Revolt",
+      "url": "https://www.vulture.com/article/arundhati-roy-mother-mary-comes-to-me-review.html",
+      "summary": "",
+      "source": "vulture.com",
+      "ts": "2025-09-02T16:26:48Z",
+      "score": 45.01
     },
     {
       "id": "1568f222ff7a",
@@ -403,7 +430,7 @@
       "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
       "source": "openai.com",
       "ts": "2025-09-02T04:00:00Z",
-      "score": 52.55
+      "score": 40.94
     },
     {
       "id": "982ca303f669",
@@ -412,61 +439,34 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 51.9
+      "score": 40.44
     },
     {
-      "id": "hn-45081904",
-      "title": "This Page Is a Quine (2021)",
-      "url": "https://pranavg.me/",
+      "id": "hn-45090777",
+      "title": "Say Bye with JavaScript Beacon",
+      "url": "https://hemath.dev/blog/say-bye-with-javascript-beacon/",
       "summary": "",
-      "source": "pranavg.me",
-      "ts": "2025-08-31T09:52:26Z",
-      "score": 45.01
+      "source": "hemath.dev",
+      "ts": "2025-09-01T08:38:35Z",
+      "score": 34.24
     },
     {
-      "id": "hn-45087911",
-      "title": "Lively Linear Lisp (1992) [pdf]",
-      "url": "https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf",
+      "id": "hn-45090963",
+      "title": "I Should Have Loved Electrical Engineering",
+      "url": "https://blog.tdhttt.com/post/love-ee/",
       "summary": "",
-      "source": "cs.utexas.edu",
-      "ts": "2025-08-31T23:10:25Z",
-      "score": 38.97
+      "source": "blog.tdhttt.com",
+      "ts": "2025-09-01T09:12:13Z",
+      "score": 30.89
     },
     {
-      "id": "hn-45079418",
-      "title": "PFP: A Probabilistic Functional Programming Library for Haskell (2006)",
-      "url": "https://web.engr.oregonstate.edu/~erwig/pfp/",
+      "id": "hn-45089130",
+      "title": "Use Bayes rule to mechanically solve probability riddles",
+      "url": "https://cloud.disroot.org/s/Ec4xTMFDteTrFio",
       "summary": "",
-      "source": "web.engr.oregonstate.edu",
-      "ts": "2025-08-31T01:02:47Z",
-      "score": 30.18
-    },
-    {
-      "id": "hn-45082145",
-      "title": "Ten Thousand Lifetimes with Roguelikes",
-      "url": "https://ian.mccowan.space/study/essays/roguelikes/",
-      "summary": "",
-      "source": "ian.mccowan.space",
-      "ts": "2025-08-31T10:46:24Z",
-      "score": 23.72
-    },
-    {
-      "id": "e3e4a46d2335",
-      "title": "The Demon is in Ambiguity: Revisiting Situation Recognition with Single\n  Positive Multi-Label Learning",
-      "url": "http://arxiv.org/abs/2508.21816v1",
-      "summary": "Context recognition (SR) is a fundamental task in computer vision that aims\nto extract structured semantic summaries from images by identifying key events\nand their associated entities. Specifically, given an input image, the model\nmust first classify the main visual events (verb classification), then identify\nthe participating entities and their semantic roles (semantic role labeling),\nand finally localize these entities in the image (semantic role localization).\nExisting methods treat verb classification as a single-label problem, but we\nshow through a comprehensive analysis that this formulation fails to address\nthe inherent ambiguity in visual event recognition, as multiple verb categories\nmay reasonably describe the same image. This paper makes three key\ncontributions: First, we reveal through empirical analysis that verb\nclassification is inherently a multi-label problem due to the ubiquitous\nsemantic overlap between verb categories. Second, given the impracticality of\nfully annotating large-scale datasets with multiple labels, we propose to\nreformulate verb classification as a single positive multi-label learning\n(SPMLL) problem - a novel perspective in SR research. Third, we design a\ncomprehensive multi-label evaluation benchmark for SR that is carefully\ndesigned to fairly evaluate model performance in a multi-label setting. To\naddress the challenges of SPMLL, we futher develop the Graph Enhanced Verb\nMultilayer Perceptron (GE-VerbMLP), which combines graph neural networks to\ncapture label correlations and adversarial training to optimize decision\nboundaries. Extensive experiments on real-world datasets show that our approach\nachieves more than 3\\% MAP improvement while remaining competitive on\ntraditional top-1 and top-5 accuracy metrics.",
-      "source": "arxiv.org",
-      "ts": "2025-08-29T17:51:55Z",
-      "score": 9.49
-    },
-    {
-      "id": "3491332518ab",
-      "title": "Automated Clinical Problem Detection from SOAP Notes using a\n  Collaborative Multi-Agent LLM Architecture",
-      "url": "http://arxiv.org/abs/2508.21803v1",
-      "summary": "Accurate interpretation of clinical narratives is critical for patient care,\nbut the complexity of these notes makes automation challenging. While Large\nLanguage Models (LLMs) show promise, single-model approaches can lack the\nrobustness required for high-stakes clinical tasks. We introduce a\ncollaborative multi-agent system (MAS) that models a clinical consultation team\nto address this gap. The system is tasked with identifying clinical problems by\nanalyzing only the Subjective (S) and Objective (O) sections of SOAP notes,\nsimulating the diagnostic reasoning process of synthesizing raw data into an\nassessment. A Manager agent orchestrates a dynamically assigned team of\nspecialist agents who engage in a hierarchical, iterative debate to reach a\nconsensus. We evaluated our MAS against a single-agent baseline on a curated\ndataset of 420 MIMIC-III notes. The dynamic multi-agent configuration\ndemonstrated consistently improved performance in identifying congestive heart\nfailure, acute kidney injury, and sepsis. Qualitative analysis of the agent\ndebates reveals that this structure effectively surfaces and weighs conflicting\nevidence, though it can occasionally be susceptible to groupthink. By modeling\na clinical team's reasoning process, our system offers a promising path toward\nmore accurate, robust, and interpretable clinical decision support tools.",
-      "source": "arxiv.org",
-      "ts": "2025-08-29T17:31:24Z",
-      "score": 9.43
+      "source": "cloud.disroot.org",
+      "ts": "2025-09-01T03:17:27Z",
+      "score": 24.22
     },
     {
       "id": "20e7ffe2a031",
@@ -475,7 +475,7 @@
       "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
       "source": "openai.com",
       "ts": "2025-08-28T10:00:00Z",
-      "score": 4.89
+      "score": 3.81
     },
     {
       "id": "265e85cbbb22",
@@ -484,7 +484,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 1.57
+      "score": 1.22
     },
     {
       "id": "99b464916a99",
