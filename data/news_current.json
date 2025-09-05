@@ -7,16 +7,7 @@
       "summary": "",
       "source": "pudding.cool",
       "ts": "2025-09-04T05:56:29Z",
-      "score": 618.98
-    },
-    {
-      "id": "hn-45126503",
-      "title": "Almost anything you give sustained attention to will begin to loop on itself",
-      "url": "https://www.henrikkarlsson.xyz/p/attention",
-      "summary": "",
-      "source": "henrikkarlsson.xyz",
-      "ts": "2025-09-04T12:29:49Z",
-      "score": 419.73
+      "score": 639.08
     },
     {
       "id": "hn-45129085",
@@ -25,52 +16,7 @@
       "summary": "",
       "source": "tempo.xyz",
       "ts": "2025-09-04T16:32:24Z",
-      "score": 365.52
-    },
-    {
-      "id": "hn-45125859",
-      "title": "Le Chat: Custom MCP Connectors, Memories",
-      "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
-      "summary": "",
-      "source": "mistral.ai",
-      "ts": "2025-09-04T11:04:36Z",
-      "score": 292.02
-    },
-    {
-      "id": "hn-45126358",
-      "title": "Atlassian is acquiring The Browser Company",
-      "url": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-09-04T12:12:31Z",
-      "score": 290.86
-    },
-    {
-      "id": "hn-45124143",
-      "title": "Melvyn Bragg steps down from presenting In Our Time",
-      "url": "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/",
-      "summary": "",
-      "source": "bbc.co.uk",
-      "ts": "2025-09-04T06:18:13Z",
-      "score": 224.11
-    },
-    {
-      "id": "hn-45127983",
-      "title": "WiFi signals can measure heart rate",
-      "url": "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/",
-      "summary": "",
-      "source": "news.ucsc.edu",
-      "ts": "2025-09-04T14:53:50Z",
-      "score": 216.81
-    },
-    {
-      "id": "hn-45123003",
-      "title": "Étoilé – desktop built on GNUStep",
-      "url": "http://etoileos.com/",
-      "summary": "",
-      "source": "etoileos.com",
-      "ts": "2025-09-04T02:55:24Z",
-      "score": 200.15
+      "score": 475.44
     },
     {
       "id": "hn-45130260",
@@ -79,88 +25,34 @@
       "summary": "",
       "source": "bbycroft.net",
       "ts": "2025-09-04T18:06:05Z",
-      "score": 188.74
+      "score": 363.08
     },
     {
-      "id": "hn-45129190",
-      "title": "Age Simulation Suit",
-      "url": "https://www.age-simulation-suit.com/",
+      "id": "hn-45126358",
+      "title": "Atlassian is acquiring The Browser Company",
+      "url": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
       "summary": "",
-      "source": "age-simulation-suit.com",
-      "ts": "2025-09-04T16:41:24Z",
-      "score": 156.99
+      "source": "cnbc.com",
+      "ts": "2025-09-04T12:12:31Z",
+      "score": 351.42
     },
     {
-      "id": "hn-45123034",
-      "title": "Polars Cloud and Distributed Polars now available",
-      "url": "https://pola.rs/posts/polars-cloud-launch/",
+      "id": "hn-45133938",
+      "title": "Fil's Unbelievable Garbage Collector",
+      "url": "https://fil-c.org/fugc",
       "summary": "",
-      "source": "pola.rs",
-      "ts": "2025-09-04T03:01:49Z",
-      "score": 155.9
+      "source": "fil-c.org",
+      "ts": "2025-09-05T00:55:52Z",
+      "score": 331.73
     },
     {
-      "id": "hn-45122885",
-      "title": "A high schooler writes about AI tools in the classroom",
-      "url": "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/",
+      "id": "hn-45127983",
+      "title": "WiFi signals can measure heart rate",
+      "url": "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/",
       "summary": "",
-      "source": "theatlantic.com",
-      "ts": "2025-09-04T02:37:42Z",
-      "score": 143.95
-    },
-    {
-      "id": "hn-45131538",
-      "title": "Classic 8×8-pixel B&W Mac patterns",
-      "url": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
-      "summary": "",
-      "source": "pauladamsmith.com",
-      "ts": "2025-09-04T19:53:42Z",
-      "score": 139.59
-    },
-    {
-      "id": "hn-45129523",
-      "title": "Saquon Barkley is playing for equity",
-      "url": "https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio",
-      "summary": "",
-      "source": "readtheprofile.com",
-      "ts": "2025-09-04T17:07:08Z",
-      "score": 136.17
-    },
-    {
-      "id": "hn-45126586",
-      "title": "How to build vector tiles from scratch",
-      "url": "https://www.debuisne.com/writing/geo-tiles/",
-      "summary": "",
-      "source": "debuisne.com",
-      "ts": "2025-09-04T12:40:47Z",
-      "score": 135.64
-    },
-    {
-      "id": "hn-45129237",
-      "title": "A PM's Guide to AI Agent Architecture",
-      "url": "https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture",
-      "summary": "",
-      "source": "productcurious.com",
-      "ts": "2025-09-04T16:45:39Z",
-      "score": 135.52
-    },
-    {
-      "id": "hn-45130018",
-      "title": "The thousands of atomic bombs exploded on Earth (2015)",
-      "url": "https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth",
-      "summary": "",
-      "source": "kottke.org",
-      "ts": "2025-09-04T17:44:49Z",
-      "score": 129.53
-    },
-    {
-      "id": "hn-45133109",
-      "title": "I ditched Spotify and set up my own music stack",
-      "url": "https://leshicodes.github.io/blog/spotify-migration/",
-      "summary": "",
-      "source": "leshicodes.github.io",
-      "ts": "2025-09-04T22:47:45Z",
-      "score": 124.34
+      "source": "news.ucsc.edu",
+      "ts": "2025-09-04T14:53:50Z",
+      "score": 293.17
     },
     {
       "id": "hn-45132810",
@@ -169,25 +61,25 @@
       "summary": "",
       "source": "quantamagazine.org",
       "ts": "2025-09-04T22:11:09Z",
-      "score": 124.32
+      "score": 265.46
     },
     {
-      "id": "hn-45131921",
-      "title": "ICPC 2025 World Finals Results",
-      "url": "https://worldfinals.icpc.global/scoreboard/2025/index.html",
+      "id": "hn-45133109",
+      "title": "I ditched Spotify and set up my own music stack",
+      "url": "https://leshicodes.github.io/blog/spotify-migration/",
       "summary": "",
-      "source": "worldfinals.icpc.global",
-      "ts": "2025-09-04T20:33:53Z",
-      "score": 124.09
+      "source": "leshicodes.github.io",
+      "ts": "2025-09-04T22:47:45Z",
+      "score": 209.43
     },
     {
-      "id": "hn-45129160",
-      "title": "How we built an interpreter for Swift",
-      "url": "https://www.bitrig.app/blog/swift-interpreter",
+      "id": "hn-45132710",
+      "title": "io_uring is faster than mmap",
+      "url": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
       "summary": "",
-      "source": "bitrig.app",
-      "ts": "2025-09-04T16:39:03Z",
-      "score": 123.32
+      "source": "bitflux.ai",
+      "ts": "2025-09-04T22:01:11Z",
+      "score": 201.0
     },
     {
       "id": "hn-45132498",
@@ -196,16 +88,97 @@
       "summary": "",
       "source": "sqlite.org",
       "ts": "2025-09-04T21:36:50Z",
-      "score": 120.77
+      "score": 184.16
     },
     {
-      "id": "hn-45128299",
-      "title": "Farewell to Meshnet",
-      "url": "https://nordvpn.com/blog/meshnet-shutdown/",
+      "id": "hn-45129190",
+      "title": "Age Simulation Suit",
+      "url": "https://www.age-simulation-suit.com/",
       "summary": "",
-      "source": "nordvpn.com",
-      "ts": "2025-09-04T15:22:03Z",
-      "score": 117.44
+      "source": "age-simulation-suit.com",
+      "ts": "2025-09-04T16:41:24Z",
+      "score": 180.46
+    },
+    {
+      "id": "hn-45129237",
+      "title": "A PM's Guide to AI Agent Architecture",
+      "url": "https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture",
+      "summary": "",
+      "source": "productcurious.com",
+      "ts": "2025-09-04T16:45:39Z",
+      "score": 164.36
+    },
+    {
+      "id": "hn-45131538",
+      "title": "Classic 8×8-pixel B&W Mac patterns",
+      "url": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
+      "summary": "",
+      "source": "pauladamsmith.com",
+      "ts": "2025-09-04T19:53:42Z",
+      "score": 163.53
+    },
+    {
+      "id": "hn-45133652",
+      "title": "Evolving the OCaml Programming Language (2025) [pdf]",
+      "url": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
+      "summary": "",
+      "source": "kcsrk.info",
+      "ts": "2025-09-05T00:05:50Z",
+      "score": 156.34
+    },
+    {
+      "id": "hn-45123034",
+      "title": "Polars Cloud and Distributed Polars now available",
+      "url": "https://pola.rs/posts/polars-cloud-launch/",
+      "summary": "",
+      "source": "pola.rs",
+      "ts": "2025-09-04T03:01:49Z",
+      "score": 149.9
+    },
+    {
+      "id": "hn-45133935",
+      "title": "Forking Chrome to render in a terminal (2023)",
+      "url": "https://fathy.fr/carbonyl",
+      "summary": "",
+      "source": "fathy.fr",
+      "ts": "2025-09-05T00:54:55Z",
+      "score": 146.9
+    },
+    {
+      "id": "hn-45136103",
+      "title": "I bought the cheapest EV, a used Nissan Leaf",
+      "url": "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf",
+      "summary": "",
+      "source": "jeffgeerling.com",
+      "ts": "2025-09-05T07:57:21Z",
+      "score": 142.19
+    },
+    {
+      "id": "hn-45134489",
+      "title": "Using AI to perceive the universe in greater depth",
+      "url": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+      "summary": "",
+      "source": "deepmind.google",
+      "ts": "2025-09-05T02:35:31Z",
+      "score": 136.18
+    },
+    {
+      "id": "hn-45136558",
+      "title": "SAP splashes €20B on Euro sovereign cloud push",
+      "url": "https://www.theregister.com/2025/09/04/sap_sovereign_cloud/",
+      "summary": "",
+      "source": "theregister.com",
+      "ts": "2025-09-05T09:13:25Z",
+      "score": 123.08
+    },
+    {
+      "id": "hn-45133289",
+      "title": "Unix Conspiracy (1991)",
+      "url": "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html",
+      "summary": "",
+      "source": "catb.org",
+      "ts": "2025-09-04T23:12:00Z",
+      "score": 114.68
     },
     {
       "id": "hn-45131243",
@@ -214,16 +187,61 @@
       "summary": "",
       "source": "goto10retro.com",
       "ts": "2025-09-04T19:25:54Z",
-      "score": 110.5
+      "score": 114.23
     },
     {
-      "id": "hn-45129369",
-      "title": "Wal3: A Write-Ahead Log for Chroma, Built on Object Storage",
-      "url": "https://trychroma.com/engineering/wal3",
+      "id": "hn-45135623",
+      "title": "SQL Needed Structure",
+      "url": "https://www.scattered-thoughts.net/writing/sql-needed-structure/",
       "summary": "",
-      "source": "trychroma.com",
-      "ts": "2025-09-04T16:55:06Z",
-      "score": 108.81
+      "source": "scattered-thoughts.net",
+      "ts": "2025-09-05T06:43:38Z",
+      "score": 112.24
+    },
+    {
+      "id": "hn-45135263",
+      "title": "Swimming in Tech Debt",
+      "url": "https://helpthisbook.com/lou-franco/swimming-in-tech-debt",
+      "summary": "",
+      "source": "helpthisbook.com",
+      "ts": "2025-09-05T05:33:03Z",
+      "score": 110.64
+    },
+    {
+      "id": "hn-45136008",
+      "title": "Fiber Concurrency",
+      "url": "https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency",
+      "summary": "",
+      "source": "honeyryderchuck.gitlab.io",
+      "ts": "2025-09-05T07:44:26Z",
+      "score": 102.77
+    },
+    {
+      "id": "hn-45136691",
+      "title": "One of the last, best hopes for saving the open web and a free press is dead",
+      "url": "https://www.bloodinthemachine.com/p/one-of-the-last-best-hopes-for-saving",
+      "summary": "",
+      "source": "bloodinthemachine.com",
+      "ts": "2025-09-05T09:34:57Z",
+      "score": 102.19
+    },
+    {
+      "id": "hn-45136436",
+      "title": "Zola: One-stop static site engine",
+      "url": "https://www.getzola.org/",
+      "summary": "",
+      "source": "getzola.org",
+      "ts": "2025-09-05T08:54:09Z",
+      "score": 101.44
+    },
+    {
+      "id": "2cfc3c071d92",
+      "title": "Timekettle’s new translation earbuds are made for sharing",
+      "url": "https://www.theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction",
+      "summary": "Timekettle has announced a new pair of real-time translation headphones called the W4 AI Interpreter Earbuds. They use bone conduction technology that helps improve accuracy in loud environments. Available now for $349 in navy blue and sandy gold color options, the earbuds are a more affordable alternative to the company’s $449 over-the-ear W4 Pro released [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-05T07:00:00Z",
+      "score": 100.27
     },
     {
       "id": "hn-45132183",
@@ -232,16 +250,52 @@
       "summary": "",
       "source": "postround.substack.com",
       "ts": "2025-09-04T21:06:10Z",
-      "score": 107.75
+      "score": 97.57
     },
     {
-      "id": "hn-45132710",
-      "title": "Memory is slow, Disk is fast – Part 2",
-      "url": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
+      "id": "hn-45136367",
+      "title": "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
+      "url": "https://www.usenix.org/conference/atc25/presentation/landsberg",
       "summary": "",
-      "source": "bitflux.ai",
-      "ts": "2025-09-04T22:01:11Z",
-      "score": 106.59
+      "source": "usenix.org",
+      "ts": "2025-09-05T08:43:01Z",
+      "score": 96.87
+    },
+    {
+      "id": "4722f522ae4d",
+      "title": "ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset",
+      "url": "http://arxiv.org/abs/2509.04449v1",
+      "summary": "We present ChronoGraph, a graph-structured multivariate time series\nforecasting dataset built from real-world production microservices. Each node\nis a service that emits a multivariate stream of system-level performance\nmetrics, capturing CPU, memory, and network usage patterns, while directed\nedges encode dependencies between services. The primary task is forecasting\nfuture values of these signals at the service level. In addition, ChronoGraph\nprovides expert-annotated incident windows as anomaly labels, enabling\nevaluation of anomaly detection methods and assessment of forecast robustness\nduring operational disruptions. Compared to existing benchmarks from industrial\ncontrol systems or traffic and air-quality domains, ChronoGraph uniquely\ncombines (i) multivariate time series, (ii) an explicit, machine-readable\ndependency graph, and (iii) anomaly labels aligned with real incidents. We\nreport baseline results spanning forecasting models, pretrained time-series\nfoundation models, and standard anomaly detectors. ChronoGraph offers a\nrealistic benchmark for studying structure-aware forecasting and incident-aware\nevaluation in microservice systems.",
+      "source": "arxiv.org",
+      "ts": "2025-09-04T17:59:52Z",
+      "score": 90.38
+    },
+    {
+      "id": "35e91554a73f",
+      "title": "Delta Activations: A Representation for Finetuned Large Language Models",
+      "url": "http://arxiv.org/abs/2509.04442v1",
+      "summary": "The success of powerful open source Large Language Models (LLMs) has enabled\nthe community to create a vast collection of post-trained models adapted to\nspecific tasks and domains. However, navigating and understanding these models\nremains challenging due to inconsistent metadata and unstructured repositories.\nWe introduce Delta Activations, a method to represent finetuned models as\nvector embeddings by measuring shifts in their internal activations relative to\na base model. This representation allows for effective clustering by domain and\ntask, revealing structure in the model landscape. Delta Activations also\ndemonstrate desirable properties: it is robust across finetuning settings and\nexhibits an additive property when finetuning datasets are mixed. In addition,\nwe show that Delta Activations can embed tasks via few-shot finetuning, and\nfurther explore its use for model selection and merging. We hope Delta\nActivations can facilitate the practice of reusing publicly available models.\nCode is available at https://github.com/OscarXZQ/delta_activations.",
+      "source": "arxiv.org",
+      "ts": "2025-09-04T17:59:06Z",
+      "score": 90.36
+    },
+    {
+      "id": "106a5d4dcc92",
+      "title": "DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation",
+      "url": "http://arxiv.org/abs/2509.04441v1",
+      "summary": "We introduce perioperation, a paradigm for robotic data collection that\nsensorizes and records human manipulation while maximizing the transferability\nof the data to real robots. We implement this paradigm in DEXOP, a passive hand\nexoskeleton designed to maximize human ability to collect rich sensory (vision\n+ tactile) data for diverse dexterous manipulation tasks in natural\nenvironments. DEXOP mechanically connects human fingers to robot fingers,\nproviding users with direct contact feedback (via proprioception) and mirrors\nthe human hand pose to the passive robot hand to maximize the transfer of\ndemonstrated skills to the robot. The force feedback and pose mirroring make\ntask demonstrations more natural for humans compared to teleoperation,\nincreasing both speed and accuracy. We evaluate DEXOP across a range of\ndexterous, contact-rich tasks, demonstrating its ability to collect\nhigh-quality demonstration data at scale. Policies learned with DEXOP data\nsignificantly improve task performance per unit time of data collection\ncompared to teleoperation, making DEXOP a powerful tool for advancing robot\ndexterity. Our project page is at https://dex-op.github.io.",
+      "source": "arxiv.org",
+      "ts": "2025-09-04T17:57:13Z",
+      "score": 90.3
+    },
+    {
+      "id": "60ecbe57e278",
+      "title": "Bret Taylor’s Sierra raises $350M at a $10B valuation",
+      "url": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/",
+      "summary": "Customer service AI agent startup Sierra claims to have hundreds of customers, including SoFi, Ramp, and Brex, among others.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-04T23:33:40Z",
+      "score": 85.87
     },
     {
       "id": "0ab52671708f",
@@ -250,7 +304,7 @@
       "summary": "Warner Bros. Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter. In the lawsuit, Warner Bros. Discovery alleges that Midjourney generated “countless” infringing images and videos of its copyrighted characters, including Superman, Bugs Bunny, Scooby-Doo, and more. [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-04T21:49:27Z",
-      "score": 106.25
+      "score": 82.82
     },
     {
       "id": "82e56634743e",
@@ -259,7 +313,7 @@
       "summary": "Amazon, Google, and Microsoft are among the companies committing to help prepare Americans for a world dominated by AI technology at a White House event on AI education Thursday. First Lady Melania Trump hosted a meeting of the White House’s AI education task force where several CEOs touted their commitments. President Donald Trump is expected [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-04T21:28:57Z",
-      "score": 105.5
+      "score": 82.23
     },
     {
       "id": "a05f33f50d0a",
@@ -268,7 +322,7 @@
       "summary": "Ella provides recommendations to customers across the three retailers on what to purchase or rent to make an outfit come to life.",
       "source": "techcrunch.com",
       "ts": "2025-09-04T19:45:00Z",
-      "score": 101.76
+      "score": 79.32
     },
     {
       "id": "a66b5ce61517",
@@ -277,7 +331,7 @@
       "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
       "source": "openai.com",
       "ts": "2025-09-04T11:30:00Z",
-      "score": 101.27
+      "score": 78.94
     },
     {
       "id": "1dbd7f76ceeb",
@@ -286,43 +340,25 @@
       "summary": "The OpenAI Jobs Platform is set to launch in mid-2026 and will use AI to match candidates with businesses.",
       "source": "techcrunch.com",
       "ts": "2025-09-04T19:19:46Z",
-      "score": 100.87
+      "score": 78.63
     },
     {
-      "id": "a60bfc4c1505",
-      "title": "AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A",
-      "url": "https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/",
-      "summary": "The new funding, which was led by Redpoint, comes just five months after the startup launched out of stealth with a $25 million seed round.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-04T19:00:00Z",
-      "score": 100.18
-    },
-    {
-      "id": "9e5c2fd332a8",
-      "title": "Google Photos now lets you animate your camera roll with Veo 3 for free",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/771630/google-photos-veo3-video-animate-camera-roll",
-      "summary": "Google is adding Veo 3 software capabilities to its video generation feature for Google Photos. US-based users can turn static images into four-second videos by clicking either the \"Subtle movements\" or, for the more adventurous, the \"I'm feeling lucky\" options under the Create tab in Google Photos. According to Google spokesperson Michael Marconi, you can [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-04T16:00:00Z",
-      "score": 94.11
-    },
-    {
-      "id": "hn-45090963",
-      "title": "I should have loved electrical engineering",
-      "url": "https://blog.tdhttt.com/post/love-ee/",
+      "id": "hn-45126950",
+      "title": "Building Supabase-Like OAuth Authentication for MCP Servers",
+      "url": "https://hyprmcp.com/blog/mcp-server-authentication/",
       "summary": "",
-      "source": "blog.tdhttt.com",
-      "ts": "2025-09-01T09:12:13Z",
-      "score": 90.97
+      "source": "hyprmcp.com",
+      "ts": "2025-09-04T13:18:36Z",
+      "score": 72.65
     },
     {
-      "id": "50af8ab8189e",
-      "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/",
-      "summary": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-04T17:21:03Z",
-      "score": 88.0
+      "id": "hn-45090553",
+      "title": "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
+      "url": "https://github.com/mindbrix/Rasterizer",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-01T07:56:30Z",
+      "score": 71.38
     },
     {
       "id": "hn-45129442",
@@ -331,7 +367,16 @@
       "summary": "",
       "source": "ycombinator.com",
       "ts": "2025-09-04T17:01:21Z",
-      "score": 88.0
+      "score": 68.73
+    },
+    {
+      "id": "50af8ab8189e",
+      "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/",
+      "summary": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-04T17:21:03Z",
+      "score": 68.59
     },
     {
       "id": "acaa1e6d15be",
@@ -340,61 +385,7 @@
       "summary": "The art of storyboarding stands as the cornerstone of modern content creation, weaving its essential role through filmmaking, animation, advertising, and UX design. Though traditionally, creators have relied on hand-drawn sequential illustrations to map their narratives, today’s AI foundation models (FMs) are transforming this landscape. FMs like Amazon Nova Canvas and Amazon Nova Reel offer […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-04T17:20:11Z",
-      "score": 87.97
-    },
-    {
-      "id": "8eee38424e70",
-      "title": "Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling?\n  A Validation Study with Naturalistic Trajectories",
-      "url": "http://arxiv.org/abs/2509.03515v1",
-      "summary": "The Waymo Open Motion Dataset (WOMD) has become a popular resource for\ndata-driven modeling of autonomous vehicles (AVs) behavior. However, its\nvalidity for behavioral analysis remains uncertain due to proprietary\npost-processing, the absence of error quantification, and the segmentation of\ntrajectories into 20-second clips. This study examines whether WOMD accurately\ncaptures the dynamics and interactions observed in real-world AV operations.\nLeveraging an independently collected naturalistic dataset from Level 4 AV\noperations in Phoenix, Arizona (PHX), we perform comparative analyses across\nthree representative urban driving scenarios: discharging at signalized\nintersections, car-following, and lane-changing behaviors. For the discharging\nanalysis, headways are manually extracted from aerial video to ensure\nnegligible measurement error. For the car-following and lane-changing cases, we\napply the Simulation-Extrapolation (SIMEX) method to account for empirically\nestimated error in the PHX data and use Dynamic Time Warping (DTW) distances to\nquantify behavioral differences. Results across all scenarios consistently show\nthat behavior in PHX falls outside the behavioral envelope of WOMD. Notably,\nWOMD underrepresents short headways and abrupt decelerations. These findings\nsuggest that behavioral models calibrated solely on WOMD may systematically\nunderestimate the variability, risk, and complexity of naturalistic driving.\nCaution is therefore warranted when using WOMD for behavior modeling without\nproper validation against independently collected data.",
-      "source": "arxiv.org",
-      "ts": "2025-09-03T17:56:46Z",
-      "score": 70.25
-    },
-    {
-      "id": "hn-45085867",
-      "title": "Inverting the Xorshift128 random number generator",
-      "url": "https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/",
-      "summary": "",
-      "source": "littlemaninmyhead.wordpress.com",
-      "ts": "2025-08-31T18:49:38Z",
-      "score": 69.88
-    },
-    {
-      "id": "01230b33ba31",
-      "title": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist\n  Intelligence",
-      "url": "http://arxiv.org/abs/2509.03505v1",
-      "summary": "We argue that progress toward general intelligence requires complementary\nfoundation models grounded in language, the physical world, and structured\ndata. This report presents LimiX, the first installment of our large\nstructured-data models (LDMs). LimiX treats structured data as a joint\ndistribution over variables and missingness, thus capable of addressing a wide\nrange of tabular tasks through query-based conditional prediction via a single\nmodel. LimiX is pretrained using masked joint-distribution modeling with an\nepisodic, context-conditional objective, where the model predicts for query\nsubsets conditioned on dataset-specific contexts, supporting rapid,\ntraining-free adaptation at inference. We evaluate LimiX across 10 large\nstructured-data benchmarks with broad regimes of sample size, feature\ndimensionality, class number, categorical-to-numerical feature ratio,\nmissingness, and sample-to-feature ratios. With a single model and a unified\ninterface, LimiX consistently surpasses strong baselines including\ngradient-boosting trees, deep tabular networks, recent tabular foundation\nmodels, and automated ensembles, as shown in Figure 1 and Figure 2. The\nsuperiority holds across a wide range of tasks, such as classification,\nregression, missing value imputation, and data generation, often by substantial\nmargins, while avoiding task-specific architectures or bespoke training per\ntask. All LimiX models are publicly accessible under Apache 2.0.",
-      "source": "arxiv.org",
-      "ts": "2025-09-03T17:39:08Z",
-      "score": 69.82
-    },
-    {
-      "id": "f00a96b57300",
-      "title": "Warming Up for Zeroth-Order Federated Pre-Training with Low Resource\n  Clients",
-      "url": "http://arxiv.org/abs/2509.03503v1",
-      "summary": "Federated learning enables collaborative model training across numerous edge\ndevices without requiring participants to share data; however, memory and\ncommunication constraints on these edge devices may preclude their\nparticipation in training. We consider a setting in which a subset of edge\ndevices are below a critical memory or communication threshold required to\nconduct model updates. Under typical federated optimization algorithms, these\ndevices are excluded from training which renders their data inaccessible and\nincreases system induced bias. We are inspired by MeZO, a zeroth-order method\nused for memory-efficient fine-tuning. The increased variance inherent to\nzeroth-order gradient approximations has relegated previous zeroth-order\noptimizers exclusively to the domain of fine tuning; a limitation we seek to\ncorrect. We devise a federated, memory-efficient zeroth-order optimizer,\nZOWarmUp that permits zeroth-order training from a random initialization.\nZOWarmUp leverages differing client capabilities and careful variance reduction\ntechniques to facilitate participation of under-represented, low-resource\nclients in model training. Like other federated zeroth-order methods, ZOWarmUp\neliminates the need for edge devices to transmit their full gradients to the\nserver and instead relies on only a small set of random seeds, rendering the\nup-link communication cost negligible. We present experiments using various\ndatasets and model architectures to show that ZOWarmUp is a robust algorithm\nthat can can be applied under a wide variety of circumstances. For systems with\na high proportion of edge devices that would otherwise be excluded from\ntraining, this algorithm provides access to a greater volume and diversity of\ndata, thus improving training outcomes.",
-      "source": "arxiv.org",
-      "ts": "2025-09-03T17:35:51Z",
-      "score": 69.74
-    },
-    {
-      "id": "hn-45095002",
-      "title": "Thunk: Build Rust program to support Windows XP, Vista and more",
-      "url": "https://github.com/felixmaker/thunk",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-01T17:57:06Z",
-      "score": 55.88
-    },
-    {
-      "id": "hn-45089201",
-      "title": "A programmable display using microfluidics [video]",
-      "url": "https://www.youtube.com/watch?v=rf-efIZI_Dg",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-01T03:31:36Z",
-      "score": 55.52
+      "score": 68.57
     },
     {
       "id": "d6e71fedf6ec",
@@ -403,16 +394,34 @@
       "summary": "In this post, we showed how to implement TTI authentication for Amazon Q data accessors. We covered the setup process for both ISVs and enterprises and demonstrated how TTI authentication simplifies the user experience while maintaining security standards.",
       "source": "aws.amazon.com",
       "ts": "2025-09-03T16:44:14Z",
-      "score": 52.7
+      "score": 41.08
     },
     {
-      "id": "hn-45092930",
-      "title": "16-inch softball",
-      "url": "https://en.wikipedia.org/wiki/16-inch_softball",
+      "id": "hn-45089003",
+      "title": "Type-safe and user-friendly error handling in Swift 6",
+      "url": "https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/",
       "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-09-01T14:28:28Z",
-      "score": 42.49
+      "source": "theswiftdev.com",
+      "ts": "2025-09-01T02:54:19Z",
+      "score": 39.52
+    },
+    {
+      "id": "hn-45095393",
+      "title": "Liquid Cooling Exhibits",
+      "url": "https://chipsandcheese.com/p/liquid-cooling-exhibits-at-hot-chips",
+      "summary": "",
+      "source": "chipsandcheese.com",
+      "ts": "2025-09-01T18:39:28Z",
+      "score": 31.33
+    },
+    {
+      "id": "hn-45099681",
+      "title": "Making the most of a dumb fax switcher box in the old days",
+      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
+      "summary": "",
+      "source": "rachelbythebay.com",
+      "ts": "2025-09-02T06:17:26Z",
+      "score": 30.84
     },
     {
       "id": "3dc331a0e307",
@@ -421,16 +430,16 @@
       "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
       "source": "openai.com",
       "ts": "2025-09-02T11:00:00Z",
-      "score": 36.87
+      "score": 28.74
     },
     {
-      "id": "hn-45094324",
-      "title": "Unix Conspiracy (1991)",
-      "url": "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html",
+      "id": "hn-45091053",
+      "title": "How to Build a High-Performance UR5 Inverse Kinematics Solver with IK-Geo",
+      "url": "https://alexanderelias.com/ur5-ik/",
       "summary": "",
-      "source": "catb.org",
-      "ts": "2025-09-01T16:48:12Z",
-      "score": 36.21
+      "source": "alexanderelias.com",
+      "ts": "2025-09-01T09:28:33Z",
+      "score": 26.19
     },
     {
       "id": "1568f222ff7a",
@@ -439,7 +448,7 @@
       "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
       "source": "openai.com",
       "ts": "2025-09-02T04:00:00Z",
-      "score": 31.87
+      "score": 24.84
     },
     {
       "id": "982ca303f669",
@@ -448,43 +457,34 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 31.48
+      "score": 24.53
     },
     {
-      "id": "hn-45088880",
-      "title": "Berg's Card Sorting Task",
-      "url": "https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html",
+      "id": "hn-45092515",
+      "title": "Experimental Hook-and-Loop Attachment System for Walls and Floors",
+      "url": "https://www.core77.com/posts/138350/Experimental-Hook-and-Loop-Attachment-System-for-Walls-and-Floors",
       "summary": "",
-      "source": "neurobs.com",
-      "ts": "2025-09-01T02:26:22Z",
-      "score": 25.79
+      "source": "core77.com",
+      "ts": "2025-09-01T13:24:07Z",
+      "score": 20.7
     },
     {
-      "id": "hn-45096358",
-      "title": "The Paradigm",
-      "url": "https://nonint.com/2025/03/16/the-paradigm/",
+      "id": "hn-45093501",
+      "title": "Vetinari's Clock (2011)",
+      "url": "https://www.waitingforfriday.com/?p=264",
       "summary": "",
-      "source": "nonint.com",
-      "ts": "2025-09-01T20:30:19Z",
-      "score": 23.97
+      "source": "waitingforfriday.com",
+      "ts": "2025-09-01T15:29:09Z",
+      "score": 20.12
     },
     {
-      "id": "hn-45089106",
-      "title": "Mangrove Restoration Frustration (2021)",
-      "url": "https://knowablemagazine.org/content/article/food-environment/2021/many-mangrove-restorations-fail",
+      "id": "hn-45095591",
+      "title": "The Diffusion Dilemma",
+      "url": "https://arenamag.com/articles/the-diffusion-dilemma",
       "summary": "",
-      "source": "knowablemagazine.org",
-      "ts": "2025-09-01T03:13:14Z",
-      "score": 23.63
-    },
-    {
-      "id": "hn-45091004",
-      "title": "3D QR Codes",
-      "url": "https://erikdemaine.org/prints/QR/",
-      "summary": "",
-      "source": "erikdemaine.org",
-      "ts": "2025-09-01T09:20:33Z",
-      "score": 20.22
+      "source": "arenamag.com",
+      "ts": "2025-09-01T19:03:03Z",
+      "score": 18.86
     },
     {
       "id": "265e85cbbb22",
@@ -493,7 +493,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.95
+      "score": 0.74
     },
     {
       "id": "99b464916a99",
