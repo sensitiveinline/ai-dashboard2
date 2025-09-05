@@ -1,148 +1,49 @@
 {
   "items": [
     {
-      "id": "hn-45124003",
-      "title": "30 minutes with a stranger",
-      "url": "https://pudding.cool/2025/06/hello-stranger/",
+      "id": "hn-45137525",
+      "title": "I ditched Docker for Podman",
+      "url": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too",
       "summary": "",
-      "source": "pudding.cool",
-      "ts": "2025-09-04T05:56:29Z",
-      "score": 639.08
+      "source": "codesmash.dev",
+      "ts": "2025-09-05T11:56:59Z",
+      "score": 571.24
     },
     {
-      "id": "hn-45129085",
-      "title": "Stripe Launches L1 Blockchain: Tempo",
-      "url": "https://tempo.xyz",
+      "id": "hn-45137802",
+      "title": "I'm absolutely right",
+      "url": "https://absolutelyright.lol/",
       "summary": "",
-      "source": "tempo.xyz",
-      "ts": "2025-09-04T16:32:24Z",
-      "score": 475.44
+      "source": "absolutelyright.lol",
+      "ts": "2025-09-05T12:36:47Z",
+      "score": 417.53
     },
     {
-      "id": "hn-45130260",
-      "title": "LLM Visualization",
-      "url": "https://bbycroft.net/llm",
+      "id": "hn-45142885",
+      "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
+      "url": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share",
       "summary": "",
-      "source": "bbycroft.net",
-      "ts": "2025-09-04T18:06:05Z",
-      "score": 363.08
+      "source": "nytimes.com",
+      "ts": "2025-09-05T19:52:45Z",
+      "score": 294.37
     },
     {
-      "id": "hn-45126358",
-      "title": "Atlassian is acquiring The Browser Company",
-      "url": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
+      "id": "hn-45139088",
+      "title": "Purposeful animations",
+      "url": "https://emilkowal.ski/ui/you-dont-need-animations",
       "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-09-04T12:12:31Z",
-      "score": 351.42
+      "source": "emilkowal.ski",
+      "ts": "2025-09-05T14:34:57Z",
+      "score": 251.67
     },
     {
-      "id": "hn-45133938",
-      "title": "Fil's Unbelievable Garbage Collector",
-      "url": "https://fil-c.org/fugc",
+      "id": "hn-45140730",
+      "title": "European Commission fines Google €2.95B over abusive ad tech practices",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992",
       "summary": "",
-      "source": "fil-c.org",
-      "ts": "2025-09-05T00:55:52Z",
-      "score": 331.73
-    },
-    {
-      "id": "hn-45127983",
-      "title": "WiFi signals can measure heart rate",
-      "url": "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/",
-      "summary": "",
-      "source": "news.ucsc.edu",
-      "ts": "2025-09-04T14:53:50Z",
-      "score": 293.17
-    },
-    {
-      "id": "hn-45132810",
-      "title": "What Is the Fourier Transform?",
-      "url": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-04T22:11:09Z",
-      "score": 265.46
-    },
-    {
-      "id": "hn-45133109",
-      "title": "I ditched Spotify and set up my own music stack",
-      "url": "https://leshicodes.github.io/blog/spotify-migration/",
-      "summary": "",
-      "source": "leshicodes.github.io",
-      "ts": "2025-09-04T22:47:45Z",
-      "score": 209.43
-    },
-    {
-      "id": "hn-45132710",
-      "title": "io_uring is faster than mmap",
-      "url": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
-      "summary": "",
-      "source": "bitflux.ai",
-      "ts": "2025-09-04T22:01:11Z",
-      "score": 201.0
-    },
-    {
-      "id": "hn-45132498",
-      "title": "What If OpenDocument Used SQLite?",
-      "url": "https://www.sqlite.org/affcase1.html",
-      "summary": "",
-      "source": "sqlite.org",
-      "ts": "2025-09-04T21:36:50Z",
-      "score": 184.16
-    },
-    {
-      "id": "hn-45129190",
-      "title": "Age Simulation Suit",
-      "url": "https://www.age-simulation-suit.com/",
-      "summary": "",
-      "source": "age-simulation-suit.com",
-      "ts": "2025-09-04T16:41:24Z",
-      "score": 180.46
-    },
-    {
-      "id": "hn-45129237",
-      "title": "A PM's Guide to AI Agent Architecture",
-      "url": "https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture",
-      "summary": "",
-      "source": "productcurious.com",
-      "ts": "2025-09-04T16:45:39Z",
-      "score": 164.36
-    },
-    {
-      "id": "hn-45131538",
-      "title": "Classic 8×8-pixel B&W Mac patterns",
-      "url": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
-      "summary": "",
-      "source": "pauladamsmith.com",
-      "ts": "2025-09-04T19:53:42Z",
-      "score": 163.53
-    },
-    {
-      "id": "hn-45133652",
-      "title": "Evolving the OCaml Programming Language (2025) [pdf]",
-      "url": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
-      "summary": "",
-      "source": "kcsrk.info",
-      "ts": "2025-09-05T00:05:50Z",
-      "score": 156.34
-    },
-    {
-      "id": "hn-45123034",
-      "title": "Polars Cloud and Distributed Polars now available",
-      "url": "https://pola.rs/posts/polars-cloud-launch/",
-      "summary": "",
-      "source": "pola.rs",
-      "ts": "2025-09-04T03:01:49Z",
-      "score": 149.9
-    },
-    {
-      "id": "hn-45133935",
-      "title": "Forking Chrome to render in a terminal (2023)",
-      "url": "https://fathy.fr/carbonyl",
-      "summary": "",
-      "source": "fathy.fr",
-      "ts": "2025-09-05T00:54:55Z",
-      "score": 146.9
+      "source": "ec.europa.eu",
+      "ts": "2025-09-05T16:52:34Z",
+      "score": 251.54
     },
     {
       "id": "hn-45136103",
@@ -151,115 +52,340 @@
       "summary": "",
       "source": "jeffgeerling.com",
       "ts": "2025-09-05T07:57:21Z",
-      "score": 142.19
+      "score": 236.16
     },
     {
-      "id": "hn-45134489",
-      "title": "Using AI to perceive the universe in greater depth",
-      "url": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+      "id": "hn-45137363",
+      "title": "Nepal moves to block Facebook, X, YouTube and others",
+      "url": "https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others",
       "summary": "",
-      "source": "deepmind.google",
-      "ts": "2025-09-05T02:35:31Z",
-      "score": 136.18
+      "source": "aljazeera.com",
+      "ts": "2025-09-05T11:31:58Z",
+      "score": 218.96
     },
     {
-      "id": "hn-45136558",
-      "title": "SAP splashes €20B on Euro sovereign cloud push",
-      "url": "https://www.theregister.com/2025/09/04/sap_sovereign_cloud/",
+      "id": "hn-45139270",
+      "title": "A computer upgrade has shut down BART",
+      "url": "https://www.bart.gov/news/articles/2025/news20250905",
       "summary": "",
-      "source": "theregister.com",
-      "ts": "2025-09-05T09:13:25Z",
-      "score": 123.08
+      "source": "bart.gov",
+      "ts": "2025-09-05T14:52:37Z",
+      "score": 207.78
     },
     {
-      "id": "hn-45133289",
-      "title": "Unix Conspiracy (1991)",
-      "url": "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html",
+      "id": "hn-45137373",
+      "title": "ML needs a new programming language – Interview with Chris Lattner",
+      "url": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/",
       "summary": "",
-      "source": "catb.org",
-      "ts": "2025-09-04T23:12:00Z",
-      "score": 114.68
+      "source": "signalsandthreads.com",
+      "ts": "2025-09-05T11:33:48Z",
+      "score": 192.61
     },
     {
-      "id": "hn-45131243",
-      "title": "Action was the best 8-bit programming language",
-      "url": "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming",
+      "id": "hn-45138156",
+      "title": "Development speed is not a bottleneck",
+      "url": "https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck",
       "summary": "",
-      "source": "goto10retro.com",
-      "ts": "2025-09-04T19:25:54Z",
-      "score": 114.23
+      "source": "pawelbrodzinski.substack.com",
+      "ts": "2025-09-05T13:13:41Z",
+      "score": 181.56
     },
     {
-      "id": "hn-45135623",
-      "title": "SQL Needed Structure",
-      "url": "https://www.scattered-thoughts.net/writing/sql-needed-structure/",
+      "id": "hn-45137245",
+      "title": "Interview with Japanese Demoscener 0b5vr",
+      "url": "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html",
       "summary": "",
-      "source": "scattered-thoughts.net",
-      "ts": "2025-09-05T06:43:38Z",
-      "score": 112.24
+      "source": "6octaves.com",
+      "ts": "2025-09-05T11:08:26Z",
+      "score": 175.72
+    },
+    {
+      "id": "hn-45143077",
+      "title": "I kissed comment culture goodbye",
+      "url": "https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture",
+      "summary": "",
+      "source": "sustainableviews.substack.com",
+      "ts": "2025-09-05T20:11:39Z",
+      "score": 169.58
+    },
+    {
+      "id": "hn-45141636",
+      "title": "Making a font of my handwriting",
+      "url": "https://chameth.com/making-a-font-of-my-handwriting/",
+      "summary": "",
+      "source": "chameth.com",
+      "ts": "2025-09-05T18:06:33Z",
+      "score": 165.61
+    },
+    {
+      "id": "hn-45143879",
+      "title": "Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025",
+      "url": "https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952",
+      "summary": "",
+      "source": "community.hubitat.com",
+      "ts": "2025-09-05T21:33:51Z",
+      "score": 161.48
+    },
+    {
+      "id": "hn-45140381",
+      "title": "MentraOS – open-source Smart glasses OS",
+      "url": "https://github.com/Mentra-Community/MentraOS",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-05T16:25:48Z",
+      "score": 142.13
+    },
+    {
+      "id": "hn-45140921",
+      "title": "Show HN: Open-sourcing our text-to-CAD app",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-05T17:09:35Z",
+      "score": 141.06
     },
     {
       "id": "hn-45135263",
-      "title": "Swimming in Tech Debt",
+      "title": "Show HN: Swimming in Tech Debt",
       "url": "https://helpthisbook.com/lou-franco/swimming-in-tech-debt",
       "summary": "",
       "source": "helpthisbook.com",
       "ts": "2025-09-05T05:33:03Z",
-      "score": 110.64
+      "score": 137.22
     },
     {
-      "id": "hn-45136008",
-      "title": "Fiber Concurrency",
-      "url": "https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency",
+      "id": "hn-45141762",
+      "title": "Fantastic Pretraining Optimizers and Where to Find Them",
+      "url": "https://arxiv.org/abs/2509.02046",
       "summary": "",
-      "source": "honeyryderchuck.gitlab.io",
-      "ts": "2025-09-05T07:44:26Z",
-      "score": 102.77
+      "source": "arxiv.org",
+      "ts": "2025-09-05T18:15:42Z",
+      "score": 136.88
     },
     {
-      "id": "hn-45136691",
-      "title": "One of the last, best hopes for saving the open web and a free press is dead",
-      "url": "https://www.bloodinthemachine.com/p/one-of-the-last-best-hopes-for-saving",
+      "id": "hn-45142397",
+      "title": "My Own DNS Server at Home – Part 1: IPv4",
+      "url": "https://jan.wildeboer.net/2025/08/My-DNS-Part-1/",
       "summary": "",
-      "source": "bloodinthemachine.com",
-      "ts": "2025-09-05T09:34:57Z",
-      "score": 102.19
+      "source": "jan.wildeboer.net",
+      "ts": "2025-09-05T19:08:49Z",
+      "score": 132.76
     },
     {
-      "id": "hn-45136436",
-      "title": "Zola: One-stop static site engine",
-      "url": "https://www.getzola.org/",
+      "id": "hn-45140786",
+      "title": "Freeway guardrails are now a favorite target of thieves",
+      "url": "https://laist.com/news/transportation/guardrails-aluminum-theft",
       "summary": "",
-      "source": "getzola.org",
-      "ts": "2025-09-05T08:54:09Z",
-      "score": 101.44
+      "source": "laist.com",
+      "ts": "2025-09-05T16:57:45Z",
+      "score": 131.1
     },
     {
-      "id": "2cfc3c071d92",
-      "title": "Timekettle’s new translation earbuds are made for sharing",
-      "url": "https://www.theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction",
-      "summary": "Timekettle has announced a new pair of real-time translation headphones called the W4 AI Interpreter Earbuds. They use bone conduction technology that helps improve accuracy in loud environments. Available now for $349 in navy blue and sandy gold color options, the earbuds are a more affordable alternative to the company’s $449 over-the-ear W4 Pro released [&#8230;]",
+      "id": "hn-45135623",
+      "title": "SQL needed structure",
+      "url": "https://www.scattered-thoughts.net/writing/sql-needed-structure/",
+      "summary": "",
+      "source": "scattered-thoughts.net",
+      "ts": "2025-09-05T06:43:38Z",
+      "score": 129.93
+    },
+    {
+      "id": "hn-45136728",
+      "title": "I have two Amazon Echos that I never use, but they apparently burn GBs a day",
+      "url": "https://twitter.com/davepl1968/status/1963803025572770212",
+      "summary": "",
+      "source": "twitter.com",
+      "ts": "2025-09-05T09:40:08Z",
+      "score": 128.99
+    },
+    {
+      "id": "hn-45144337",
+      "title": "The Universe Within 12.5 Light Years",
+      "url": "http://www.atlasoftheuniverse.com/12lys.html",
+      "summary": "",
+      "source": "atlasoftheuniverse.com",
+      "ts": "2025-09-05T22:20:37Z",
+      "score": 125.9
+    },
+    {
+      "id": "hn-45108401",
+      "title": "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
+      "url": "https://huggingface.co/swiss-ai/Apertus-70B-2509",
+      "summary": "",
+      "source": "huggingface.co",
+      "ts": "2025-09-02T20:14:51Z",
+      "score": 123.46
+    },
+    {
+      "id": "hn-45143945",
+      "title": "Should we revisit Extreme Programming in the age of AI?",
+      "url": "https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai",
+      "summary": "",
+      "source": "hyperact.co.uk",
+      "ts": "2025-09-05T21:38:50Z",
+      "score": 114.85
+    },
+    {
+      "id": "hn-45135061",
+      "title": "Poisoning Well",
+      "url": "https://heydonworks.com/article/poisoning-well/",
+      "summary": "",
+      "source": "heydonworks.com",
+      "ts": "2025-09-05T04:48:24Z",
+      "score": 113.37
+    },
+    {
+      "id": "9c6d8a75e6ee",
+      "title": "OpenAI reorganizes research team behind ChatGPT’s personality",
+      "url": "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/",
+      "summary": "OpenAI is shuffling the team that shapes its AI models' behavior, and its leader is moving on to another project within the company.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-05T23:19:12Z",
+      "score": 107.73
+    },
+    {
+      "id": "hn-45144160",
+      "title": "Tesla offers mammoth $1T pay package to Musk, sets lofty targets",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-offers-mammoth-1-trillion-pay-package-musk-sets-lofty-targets-2025-09-05/",
+      "summary": "",
+      "source": "reuters.com",
+      "ts": "2025-09-05T22:00:56Z",
+      "score": 106.59
+    },
+    {
+      "id": "d6907b9bf607",
+      "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
+      "url": "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/",
+      "summary": "Writers aren't getting this settlement because their work was fed to an AI -- this is just a costly slap on the wrist for Anthropic because it illegally downloaded books instead of buying them.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-05T20:59:21Z",
+      "score": 104.43
+    },
+    {
+      "id": "9a2129c134e8",
+      "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
+      "url": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
+      "summary": "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit. The amount breaks down to smaller payouts expected to be approximately $3,000 per book or work. Lawyers [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-05T07:00:00Z",
-      "score": 100.27
+      "ts": "2025-09-05T20:29:58Z",
+      "score": 103.37
     },
     {
-      "id": "hn-45132183",
-      "title": "Rocketships and Slingshots",
-      "url": "https://postround.substack.com/p/rocketships-and-slingshots",
+      "id": "hn-45144403",
+      "title": "Supercharger for Business – Tesla",
+      "url": "https://www.tesla.com/supercharger-for-business",
       "summary": "",
-      "source": "postround.substack.com",
-      "ts": "2025-09-04T21:06:10Z",
-      "score": 97.57
+      "source": "tesla.com",
+      "ts": "2025-09-05T22:27:46Z",
+      "score": 102.7
     },
     {
-      "id": "hn-45136367",
-      "title": "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
-      "url": "https://www.usenix.org/conference/atc25/presentation/landsberg",
+      "id": "hn-45144234",
+      "title": "Quantum Mechanics, Concise Book",
+      "url": "https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book",
       "summary": "",
-      "source": "usenix.org",
-      "ts": "2025-09-05T08:43:01Z",
-      "score": 96.87
+      "source": "github.com",
+      "ts": "2025-09-05T22:09:10Z",
+      "score": 102.06
+    },
+    {
+      "id": "07b39da4e684",
+      "title": "Personalized AI companion app Dot is shutting down",
+      "url": "https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/",
+      "summary": "Dot, a personalized AI companion, is shutting down.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-05T19:27:47Z",
+      "score": 101.16
+    },
+    {
+      "id": "hn-45098609",
+      "title": "The Old Robots Web Site",
+      "url": "https://www.theoldrobots.com/index2.html",
+      "summary": "",
+      "source": "theoldrobots.com",
+      "ts": "2025-09-02T02:43:00Z",
+      "score": 100.88
+    },
+    {
+      "id": "hn-45144900",
+      "title": "Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy",
+      "url": "https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/",
+      "summary": "",
+      "source": "electrek.co",
+      "ts": "2025-09-05T23:23:55Z",
+      "score": 100.34
+    },
+    {
+      "id": "6de684b5b091",
+      "title": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
+      "url": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons",
+      "summary": "Showrunner — the startup that wants to &#8220;revolutionize&#8221; the entertainment industry by charging people to prompt up AI-generated videos featuring copyrighted IP — is working on a new project to restore an Orson Welles classic. On Friday, Showrunner announced that it has designed a new generative AI model that is meant to help recreate lost [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-05T19:00:28Z",
+      "score": 100.21
+    },
+    {
+      "id": "fd79768a741e",
+      "title": "Why language models hallucinate",
+      "url": "https://openai.com/index/why-language-models-hallucinate",
+      "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+      "source": "openai.com",
+      "ts": "2025-09-05T10:00:00Z",
+      "score": 98.16
+    },
+    {
+      "id": "551e662c8b62",
+      "title": "GPT-5 bio bug bounty call",
+      "url": "https://openai.com/gpt-5-bio-bug-bounty",
+      "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
+      "source": "openai.com",
+      "ts": "2025-09-05T08:45:00Z",
+      "score": 95.64
+    },
+    {
+      "id": "hn-45143548",
+      "title": "Gym Class VR (YC W22) Is Hiring – UX Design Engineer",
+      "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-05T21:00:26Z",
+      "score": 95.57
+    },
+    {
+      "id": "6d0db3f96644",
+      "title": "The best stuff announced at IFA so far",
+      "url": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
+      "summary": "The doors to IFA 2025 in Berlin, Germany, have officially opened and new gadgets, tech, features, and upgrades continue to pour out of Europe's largest consumer tech show. There's a lot of news to stay on top of, and if you're struggling to ingest it all, here are some of the best announcements from the [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-05T16:32:44Z",
+      "score": 95.2
+    },
+    {
+      "id": "967ad6c60a3b",
+      "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+      "url": "https://openai.com/global-affairs/openai-for-greece",
+      "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
+      "source": "openai.com",
+      "ts": "2025-09-05T08:00:00Z",
+      "score": 94.16
+    },
+    {
+      "id": "edbc744940f1",
+      "title": "Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/",
+      "summary": "In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-05T17:04:49Z",
+      "score": 87.51
+    },
+    {
+      "id": "6002a57e601e",
+      "title": "Exploring the Real-Time Race Track with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-real-time-race-track-with-amazon-nova/",
+      "summary": "This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-05T16:58:36Z",
+      "score": 87.32
     },
     {
       "id": "4722f522ae4d",
@@ -268,7 +394,7 @@
       "summary": "We present ChronoGraph, a graph-structured multivariate time series\nforecasting dataset built from real-world production microservices. Each node\nis a service that emits a multivariate stream of system-level performance\nmetrics, capturing CPU, memory, and network usage patterns, while directed\nedges encode dependencies between services. The primary task is forecasting\nfuture values of these signals at the service level. In addition, ChronoGraph\nprovides expert-annotated incident windows as anomaly labels, enabling\nevaluation of anomaly detection methods and assessment of forecast robustness\nduring operational disruptions. Compared to existing benchmarks from industrial\ncontrol systems or traffic and air-quality domains, ChronoGraph uniquely\ncombines (i) multivariate time series, (ii) an explicit, machine-readable\ndependency graph, and (iii) anomaly labels aligned with real incidents. We\nreport baseline results spanning forecasting models, pretrained time-series\nfoundation models, and standard anomaly detectors. ChronoGraph offers a\nrealistic benchmark for studying structure-aware forecasting and incident-aware\nevaluation in microservice systems.",
       "source": "arxiv.org",
       "ts": "2025-09-04T17:59:52Z",
-      "score": 90.38
+      "score": 70.33
     },
     {
       "id": "35e91554a73f",
@@ -277,196 +403,7 @@
       "summary": "The success of powerful open source Large Language Models (LLMs) has enabled\nthe community to create a vast collection of post-trained models adapted to\nspecific tasks and domains. However, navigating and understanding these models\nremains challenging due to inconsistent metadata and unstructured repositories.\nWe introduce Delta Activations, a method to represent finetuned models as\nvector embeddings by measuring shifts in their internal activations relative to\na base model. This representation allows for effective clustering by domain and\ntask, revealing structure in the model landscape. Delta Activations also\ndemonstrate desirable properties: it is robust across finetuning settings and\nexhibits an additive property when finetuning datasets are mixed. In addition,\nwe show that Delta Activations can embed tasks via few-shot finetuning, and\nfurther explore its use for model selection and merging. We hope Delta\nActivations can facilitate the practice of reusing publicly available models.\nCode is available at https://github.com/OscarXZQ/delta_activations.",
       "source": "arxiv.org",
       "ts": "2025-09-04T17:59:06Z",
-      "score": 90.36
-    },
-    {
-      "id": "106a5d4dcc92",
-      "title": "DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation",
-      "url": "http://arxiv.org/abs/2509.04441v1",
-      "summary": "We introduce perioperation, a paradigm for robotic data collection that\nsensorizes and records human manipulation while maximizing the transferability\nof the data to real robots. We implement this paradigm in DEXOP, a passive hand\nexoskeleton designed to maximize human ability to collect rich sensory (vision\n+ tactile) data for diverse dexterous manipulation tasks in natural\nenvironments. DEXOP mechanically connects human fingers to robot fingers,\nproviding users with direct contact feedback (via proprioception) and mirrors\nthe human hand pose to the passive robot hand to maximize the transfer of\ndemonstrated skills to the robot. The force feedback and pose mirroring make\ntask demonstrations more natural for humans compared to teleoperation,\nincreasing both speed and accuracy. We evaluate DEXOP across a range of\ndexterous, contact-rich tasks, demonstrating its ability to collect\nhigh-quality demonstration data at scale. Policies learned with DEXOP data\nsignificantly improve task performance per unit time of data collection\ncompared to teleoperation, making DEXOP a powerful tool for advancing robot\ndexterity. Our project page is at https://dex-op.github.io.",
-      "source": "arxiv.org",
-      "ts": "2025-09-04T17:57:13Z",
-      "score": 90.3
-    },
-    {
-      "id": "60ecbe57e278",
-      "title": "Bret Taylor’s Sierra raises $350M at a $10B valuation",
-      "url": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/",
-      "summary": "Customer service AI agent startup Sierra claims to have hundreds of customers, including SoFi, Ramp, and Brex, among others.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-04T23:33:40Z",
-      "score": 85.87
-    },
-    {
-      "id": "0ab52671708f",
-      "title": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
-      "url": "https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit",
-      "summary": "Warner Bros. Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter. In the lawsuit, Warner Bros. Discovery alleges that Midjourney generated “countless” infringing images and videos of its copyrighted characters, including Superman, Bugs Bunny, Scooby-Doo, and more. [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-04T21:49:27Z",
-      "score": 82.82
-    },
-    {
-      "id": "82e56634743e",
-      "title": "Tech companies pledge to ready Americans for an AI-dominated world",
-      "url": "https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education",
-      "summary": "Amazon, Google, and Microsoft are among the companies committing to help prepare Americans for a world dominated by AI technology at a White House event on AI education Thursday. First Lady Melania Trump hosted a meeting of the White House’s AI education task force where several CEOs touted their commitments. President Donald Trump is expected [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-04T21:28:57Z",
-      "score": 82.23
-    },
-    {
-      "id": "a05f33f50d0a",
-      "title": "Fashion retailers partner to offer personalized AI styling tool ‘Ella’",
-      "url": "https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/",
-      "summary": "Ella provides recommendations to customers across the three retailers on what to purchase or rent to make an outfit come to life.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-04T19:45:00Z",
-      "score": 79.32
-    },
-    {
-      "id": "a66b5ce61517",
-      "title": "Expanding economic opportunity with AI",
-      "url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
-      "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
-      "source": "openai.com",
-      "ts": "2025-09-04T11:30:00Z",
-      "score": 78.94
-    },
-    {
-      "id": "1dbd7f76ceeb",
-      "title": "OpenAI announces AI-powered hiring platform to take on LinkedIn",
-      "url": "https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/",
-      "summary": "The OpenAI Jobs Platform is set to launch in mid-2026 and will use AI to match candidates with businesses.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-04T19:19:46Z",
-      "score": 78.63
-    },
-    {
-      "id": "hn-45126950",
-      "title": "Building Supabase-Like OAuth Authentication for MCP Servers",
-      "url": "https://hyprmcp.com/blog/mcp-server-authentication/",
-      "summary": "",
-      "source": "hyprmcp.com",
-      "ts": "2025-09-04T13:18:36Z",
-      "score": 72.65
-    },
-    {
-      "id": "hn-45090553",
-      "title": "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
-      "url": "https://github.com/mindbrix/Rasterizer",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-01T07:56:30Z",
-      "score": 71.38
-    },
-    {
-      "id": "hn-45129442",
-      "title": "Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM",
-      "url": "https://www.ycombinator.com/companies/artie/jobs",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-04T17:01:21Z",
-      "score": 68.73
-    },
-    {
-      "id": "50af8ab8189e",
-      "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/",
-      "summary": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-04T17:21:03Z",
-      "score": 68.59
-    },
-    {
-      "id": "acaa1e6d15be",
-      "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-1/",
-      "summary": "The art of storyboarding stands as the cornerstone of modern content creation, weaving its essential role through filmmaking, animation, advertising, and UX design. Though traditionally, creators have relied on hand-drawn sequential illustrations to map their narratives, today’s AI foundation models (FMs) are transforming this landscape. FMs like Amazon Nova Canvas and Amazon Nova Reel offer […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-04T17:20:11Z",
-      "score": 68.57
-    },
-    {
-      "id": "d6e71fedf6ec",
-      "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
-      "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/",
-      "summary": "In this post, we showed how to implement TTI authentication for Amazon Q data accessors. We covered the setup process for both ISVs and enterprises and demonstrated how TTI authentication simplifies the user experience while maintaining security standards.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-03T16:44:14Z",
-      "score": 41.08
-    },
-    {
-      "id": "hn-45089003",
-      "title": "Type-safe and user-friendly error handling in Swift 6",
-      "url": "https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/",
-      "summary": "",
-      "source": "theswiftdev.com",
-      "ts": "2025-09-01T02:54:19Z",
-      "score": 39.52
-    },
-    {
-      "id": "hn-45095393",
-      "title": "Liquid Cooling Exhibits",
-      "url": "https://chipsandcheese.com/p/liquid-cooling-exhibits-at-hot-chips",
-      "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-09-01T18:39:28Z",
-      "score": 31.33
-    },
-    {
-      "id": "hn-45099681",
-      "title": "Making the most of a dumb fax switcher box in the old days",
-      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
-      "summary": "",
-      "source": "rachelbythebay.com",
-      "ts": "2025-09-02T06:17:26Z",
-      "score": 30.84
-    },
-    {
-      "id": "3dc331a0e307",
-      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
-      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
-      "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
-      "source": "openai.com",
-      "ts": "2025-09-02T11:00:00Z",
-      "score": 28.74
-    },
-    {
-      "id": "hn-45091053",
-      "title": "How to Build a High-Performance UR5 Inverse Kinematics Solver with IK-Geo",
-      "url": "https://alexanderelias.com/ur5-ik/",
-      "summary": "",
-      "source": "alexanderelias.com",
-      "ts": "2025-09-01T09:28:33Z",
-      "score": 26.19
-    },
-    {
-      "id": "1568f222ff7a",
-      "title": "Building more helpful ChatGPT experiences for everyone",
-      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
-      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
-      "source": "openai.com",
-      "ts": "2025-09-02T04:00:00Z",
-      "score": 24.84
-    },
-    {
-      "id": "982ca303f669",
-      "title": "A New Ranking Framework for Better Notification Quality on Instagram",
-      "url": "https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/",
-      "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-02T16:00:08Z",
-      "score": 24.53
-    },
-    {
-      "id": "hn-45092515",
-      "title": "Experimental Hook-and-Loop Attachment System for Walls and Floors",
-      "url": "https://www.core77.com/posts/138350/Experimental-Hook-and-Loop-Attachment-System-for-Walls-and-Floors",
-      "summary": "",
-      "source": "core77.com",
-      "ts": "2025-09-01T13:24:07Z",
-      "score": 20.7
+      "score": 70.31
     },
     {
       "id": "hn-45093501",
@@ -475,16 +412,88 @@
       "summary": "",
       "source": "waitingforfriday.com",
       "ts": "2025-09-01T15:29:09Z",
-      "score": 20.12
+      "score": 63.66
     },
     {
-      "id": "hn-45095591",
-      "title": "The Diffusion Dilemma",
-      "url": "https://arenamag.com/articles/the-diffusion-dilemma",
+      "id": "hn-45108536",
+      "title": "All of our lives overlap in the Network Of Time",
+      "url": "https://networkoftime.com/",
       "summary": "",
-      "source": "arenamag.com",
-      "ts": "2025-09-01T19:03:03Z",
-      "score": 18.86
+      "source": "networkoftime.com",
+      "ts": "2025-09-02T20:25:45Z",
+      "score": 56.69
+    },
+    {
+      "id": "hn-45099681",
+      "title": "Making the most of a dumb fax switcher box in the old days",
+      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
+      "summary": "",
+      "source": "rachelbythebay.com",
+      "ts": "2025-09-02T06:17:26Z",
+      "score": 55.8
+    },
+    {
+      "id": "50af8ab8189e",
+      "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/",
+      "summary": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-04T17:21:03Z",
+      "score": 53.38
+    },
+    {
+      "id": "hn-45101797",
+      "title": "How big are our embeddings now and why?",
+      "url": "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/",
+      "summary": "",
+      "source": "vickiboykis.com",
+      "ts": "2025-09-02T11:45:46Z",
+      "score": 52.28
+    },
+    {
+      "id": "hn-45100516",
+      "title": "Debugging Rustler on Illumos",
+      "url": "https://system-illumination.org/01-rustler.html",
+      "summary": "",
+      "source": "system-illumination.org",
+      "ts": "2025-09-02T08:42:43Z",
+      "score": 44.6
+    },
+    {
+      "id": "hn-45117107",
+      "title": "API Blueprint",
+      "url": "https://apiblueprint.org",
+      "summary": "",
+      "source": "apiblueprint.org",
+      "ts": "2025-09-03T15:43:21Z",
+      "score": 40.9
+    },
+    {
+      "id": "hn-45115974",
+      "title": "Show HN: Writing Arabic in English",
+      "url": "https://sherifelmetwally.com/writing/writing-arabic-in-english",
+      "summary": "",
+      "source": "sherifelmetwally.com",
+      "ts": "2025-09-03T14:04:56Z",
+      "score": 38.64
+    },
+    {
+      "id": "hn-45103492",
+      "title": "Rearchitecting GitHub Pages (2015)",
+      "url": "https://github.blog/news-insights/rearchitecting-github-pages/",
+      "summary": "",
+      "source": "github.blog",
+      "ts": "2025-09-02T14:21:12Z",
+      "score": 25.65
+    },
+    {
+      "id": "982ca303f669",
+      "title": "A New Ranking Framework for Better Notification Quality on Instagram",
+      "url": "https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/",
+      "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-02T16:00:08Z",
+      "score": 19.09
     },
     {
       "id": "265e85cbbb22",
@@ -493,7 +502,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.74
+      "score": 0.58
     },
     {
       "id": "99b464916a99",
