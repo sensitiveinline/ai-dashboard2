@@ -7,16 +7,16 @@
       "summary": "",
       "source": "nytimes.com",
       "ts": "2025-09-05T19:52:45Z",
-      "score": 597.5
+      "score": 598.3
     },
     {
-      "id": "hn-45139088",
-      "title": "Purposeful animations",
-      "url": "https://emilkowal.ski/ui/you-dont-need-animations",
+      "id": "hn-45154609",
+      "title": "Show HN: I recreated Windows XP as my portfolio",
+      "url": "https://mitchivin.com/",
       "summary": "",
-      "source": "emilkowal.ski",
-      "ts": "2025-09-05T14:34:57Z",
-      "score": 356.41
+      "source": "mitchivin.com",
+      "ts": "2025-09-07T01:44:19Z",
+      "score": 462.77
     },
     {
       "id": "hn-45149281",
@@ -25,7 +25,7 @@
       "summary": "",
       "source": "gabrielweinberg.com",
       "ts": "2025-09-06T13:52:34Z",
-      "score": 351.9
+      "score": 391.46
     },
     {
       "id": "hn-45110311",
@@ -34,7 +34,7 @@
       "summary": "",
       "source": "gilesthomas.com",
       "ts": "2025-09-02T23:10:47Z",
-      "score": 281.06
+      "score": 336.89
     },
     {
       "id": "hn-45148944",
@@ -43,106 +43,25 @@
       "summary": "",
       "source": "bobdahacker.com",
       "ts": "2025-09-06T13:04:51Z",
-      "score": 241.36
-    },
-    {
-      "id": "hn-45148237",
-      "title": "Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5",
-      "url": "https://github.com/b4rtaz/distributed-llama/discussions/255",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-06T10:59:12Z",
-      "score": 240.92
-    },
-    {
-      "id": "hn-45144337",
-      "title": "The Universe Within 12.5 Light Years",
-      "url": "http://www.atlasoftheuniverse.com/12lys.html",
-      "summary": "",
-      "source": "atlasoftheuniverse.com",
-      "ts": "2025-09-05T22:20:37Z",
-      "score": 230.19
-    },
-    {
-      "id": "hn-45146967",
-      "title": "Rug pulls, forks, and open-source feudalism",
-      "url": "https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-06T05:59:39Z",
-      "score": 213.5
-    },
-    {
-      "id": "hn-45152773",
-      "title": "Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"",
-      "url": "https://azure.status.microsoft/en-gb/status",
-      "summary": "",
-      "source": "azure.status.microsoft",
-      "ts": "2025-09-06T20:57:15Z",
-      "score": 186.57
+      "score": 270.42
     },
     {
       "id": "hn-45152066",
-      "title": "How the \"Kim\" dump exposed North Korea's credential theft playbook",
+      "title": "How the “Kim” dump exposed North Korea's credential theft playbook",
       "url": "https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/",
       "summary": "",
       "source": "dti.domaintools.com",
       "ts": "2025-09-06T19:14:26Z",
-      "score": 179.19
+      "score": 255.02
     },
     {
-      "id": "hn-45114498",
-      "title": "Video Game Blurs (and how the best one works)",
-      "url": "https://blog.frost.kiwi/dual-kawase/",
+      "id": "hn-45154856",
+      "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
+      "url": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
       "summary": "",
-      "source": "blog.frost.kiwi",
-      "ts": "2025-09-03T11:27:56Z",
-      "score": 173.38
-    },
-    {
-      "id": "hn-45149626",
-      "title": "Oldest recorded transaction",
-      "url": "https://avi.im/blag/2025/oldest-txn/",
-      "summary": "",
-      "source": "avi.im",
-      "ts": "2025-09-06T14:34:55Z",
-      "score": 163.52
-    },
-    {
-      "id": "hn-45152569",
-      "title": "Utah's hottest new power source is 15k feet below the ground",
-      "url": "https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground",
-      "summary": "",
-      "source": "gatesnotes.com",
-      "ts": "2025-09-06T20:26:13Z",
-      "score": 157.5
-    },
-    {
-      "id": "hn-45151447",
-      "title": "Using Claude Code SDK to reduce E2E test time",
-      "url": "https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude",
-      "summary": "",
-      "source": "jampauchoa.substack.com",
-      "ts": "2025-09-06T17:57:51Z",
-      "score": 144.99
-    },
-    {
-      "id": "hn-45152374",
-      "title": "Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)",
-      "url": "https://www.consumer.org.hk/en/press-release/528-sunscreen-test",
-      "summary": "",
-      "source": "consumer.org.hk",
-      "ts": "2025-09-06T19:57:59Z",
-      "score": 140.99
-    },
-    {
-      "id": "hn-45111273",
-      "title": "Speeding up Unreal Editor launch by not spawning unused tooltips",
-      "url": "https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/",
-      "summary": "",
-      "source": "larstofus.com",
-      "ts": "2025-09-03T01:28:08Z",
-      "score": 131.71
+      "source": "nytimes.com",
+      "ts": "2025-09-07T02:30:07Z",
+      "score": 228.28
     },
     {
       "id": "hn-45152779",
@@ -151,43 +70,43 @@
       "summary": "",
       "source": "righto.com",
       "ts": "2025-09-06T20:57:27Z",
-      "score": 123.73
+      "score": 225.82
     },
     {
-      "id": "hn-45144123",
-      "title": "Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy",
-      "url": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
+      "id": "hn-45152374",
+      "title": "Over 80% of sunscreen performed below their labelled efficacy (2020)",
+      "url": "https://www.consumer.org.hk/en/press-release/528-sunscreen-test",
       "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-09-05T21:56:46Z",
-      "score": 122.97
+      "source": "consumer.org.hk",
+      "ts": "2025-09-06T19:57:59Z",
+      "score": 201.5
     },
     {
-      "id": "hn-45152086",
-      "title": "Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search",
-      "url": "https://www.greppers.com/",
+      "id": "hn-45152940",
+      "title": "Show HN: I'm making an open-source platform for learning Japanese",
+      "url": "https://kanadojo.com",
       "summary": "",
-      "source": "greppers.com",
-      "ts": "2025-09-06T19:18:28Z",
-      "score": 122.32
+      "source": "kanadojo.com",
+      "ts": "2025-09-06T21:19:30Z",
+      "score": 189.79
     },
     {
-      "id": "hn-45152369",
-      "title": "Europe enters the exascale supercomputing league with Jupiter",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029",
+      "id": "hn-45155179",
+      "title": "RFC 3339 vs. ISO 8601",
+      "url": "https://ijmacd.github.io/rfc3339-iso8601/",
       "summary": "",
-      "source": "ec.europa.eu",
-      "ts": "2025-09-06T19:57:08Z",
-      "score": 121.76
+      "source": "ijmacd.github.io",
+      "ts": "2025-09-07T03:36:22Z",
+      "score": 172.61
     },
     {
-      "id": "hn-45152403",
-      "title": "How often do health insurers say no to patients? (2023)",
-      "url": "https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims",
+      "id": "hn-45155398",
+      "title": "Unofficial Windows 11 requirements bypass tool allows disabling all AI features",
+      "url": "https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/",
       "summary": "",
-      "source": "propublica.org",
-      "ts": "2025-09-06T20:01:46Z",
-      "score": 120.71
+      "source": "neowin.net",
+      "ts": "2025-09-07T04:27:18Z",
+      "score": 172.33
     },
     {
       "id": "hn-45151622",
@@ -196,7 +115,16 @@
       "summary": "",
       "source": "hackers.pub",
       "ts": "2025-09-06T18:20:26Z",
-      "score": 120.49
+      "score": 167.89
+    },
+    {
+      "id": "hn-45149626",
+      "title": "Oldest recorded transaction",
+      "url": "https://avi.im/blag/2025/oldest-txn/",
+      "summary": "",
+      "source": "avi.im",
+      "ts": "2025-09-06T14:34:55Z",
+      "score": 163.21
     },
     {
       "id": "hn-45152648",
@@ -205,16 +133,34 @@
       "summary": "",
       "source": "gamesbymason.com",
       "ts": "2025-09-06T20:37:16Z",
-      "score": 117.66
+      "score": 142.5
     },
     {
-      "id": "hn-45151661",
-      "title": "Normalization of deviance (2015)",
-      "url": "https://danluu.com/wat/",
+      "id": "hn-45154501",
+      "title": "The key to getting MVC correct is understanding what models are",
+      "url": "https://stlab.cc/tips/about-mvc.html",
       "summary": "",
-      "source": "danluu.com",
-      "ts": "2025-09-06T18:25:23Z",
-      "score": 117.64
+      "source": "stlab.cc",
+      "ts": "2025-09-07T01:26:44Z",
+      "score": 139.47
+    },
+    {
+      "id": "hn-45152402",
+      "title": "Being good isn't enough",
+      "url": "https://joshs.bearblog.dev/being-good-isnt-enough/",
+      "summary": "",
+      "source": "joshs.bearblog.dev",
+      "ts": "2025-09-06T20:01:35Z",
+      "score": 135.59
+    },
+    {
+      "id": "hn-45154857",
+      "title": "Show HN: Lightweight tool for managing Linux virtual machines",
+      "url": "https://github.com/ccheshirecat/flint",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-07T02:30:16Z",
+      "score": 128.08
     },
     {
       "id": "hn-45151598",
@@ -223,34 +169,79 @@
       "summary": "",
       "source": "gigabyte.com",
       "ts": "2025-09-06T18:17:06Z",
-      "score": 112.58
+      "score": 125.81
     },
     {
-      "id": "hn-45152816",
-      "title": "Qantas is cutting executive bonuses after data breach",
-      "url": "https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article",
+      "id": "hn-45144123",
+      "title": "Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy",
+      "url": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
       "summary": "",
-      "source": "flightglobal.com",
-      "ts": "2025-09-06T21:04:49Z",
-      "score": 112.57
+      "source": "cnbc.com",
+      "ts": "2025-09-05T21:56:46Z",
+      "score": 125.63
     },
     {
-      "id": "hn-45152940",
-      "title": "I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese",
-      "url": "https://kanadojo.com",
+      "id": "hn-45140973",
+      "title": "What to do with an old iPad",
+      "url": "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html",
       "summary": "",
-      "source": "kanadojo.com",
-      "ts": "2025-09-06T21:19:30Z",
-      "score": 111.85
+      "source": "odb.ar",
+      "ts": "2025-09-05T17:14:16Z",
+      "score": 120.75
     },
     {
-      "id": "6678741ba298",
-      "title": "Why is an Amazon-backed AI startup making Orson Welles fan fiction?",
-      "url": "https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/",
-      "summary": "This is a bad idea.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-06T21:30:22Z",
-      "score": 105.62
+      "id": "hn-45155682",
+      "title": "The \"impossibly small\" Microdot web framework",
+      "url": "https://lwn.net/Articles/1034121/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-07T05:38:30Z",
+      "score": 119.3
+    },
+    {
+      "id": "hn-45155302",
+      "title": "The Claude Code Framework Wars",
+      "url": "https://shmck.substack.com/p/claude-code-framework-wars",
+      "summary": "",
+      "source": "shmck.substack.com",
+      "ts": "2025-09-07T04:05:02Z",
+      "score": 118.26
+    },
+    {
+      "id": "hn-45154947",
+      "title": "The world has a running Rational R1000/400 computer again (2019)",
+      "url": "https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28",
+      "summary": "",
+      "source": "datamuseum.dk",
+      "ts": "2025-09-07T02:46:55Z",
+      "score": 106.37
+    },
+    {
+      "id": "hn-45156067",
+      "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+      "url": "https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research",
+      "summary": "",
+      "source": "simonw.substack.com",
+      "ts": "2025-09-07T07:12:04Z",
+      "score": 104.22
+    },
+    {
+      "id": "hn-45156826",
+      "title": "What is the origin of the private network address 192.168.*.*?",
+      "url": "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html",
+      "summary": "",
+      "source": "lists.ding.net",
+      "ts": "2025-09-07T09:52:56Z",
+      "score": 102.89
+    },
+    {
+      "id": "hn-45109927",
+      "title": "The World War Two bomber that cost more than the atomic bomb",
+      "url": "https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-09-02T22:26:25Z",
+      "score": 96.13
     },
     {
       "id": "hn-45153428",
@@ -259,25 +250,7 @@
       "summary": "",
       "source": "nature.com",
       "ts": "2025-09-06T22:21:55Z",
-      "score": 102.55
-    },
-    {
-      "id": "hn-45153636",
-      "title": "C++26: Erroneous Behaviour",
-      "url": "https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour",
-      "summary": "",
-      "source": "sandordargo.com",
-      "ts": "2025-09-06T22:51:42Z",
-      "score": 101.54
-    },
-    {
-      "id": "hn-45153140",
-      "title": "Gloria funicular derailment initial findings report (EN) [pdf]",
-      "url": "https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf",
-      "summary": "",
-      "source": "gpiaaf.gov.pt",
-      "ts": "2025-09-06T21:43:08Z",
-      "score": 99.44
+      "score": 96.02
     },
     {
       "id": "hn-45153237",
@@ -286,7 +259,34 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-06T21:56:05Z",
-      "score": 99.28
+      "score": 92.94
+    },
+    {
+      "id": "hn-45144610",
+      "title": "The math of shuffling cards almost brought down an online poker empire",
+      "url": "https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/",
+      "summary": "",
+      "source": "scientificamerican.com",
+      "ts": "2025-09-05T22:50:55Z",
+      "score": 91.7
+    },
+    {
+      "id": "6678741ba298",
+      "title": "Why is an Amazon-backed AI startup making Orson Welles fan fiction?",
+      "url": "https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/",
+      "summary": "This is a bad idea.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-06T21:30:22Z",
+      "score": 82.35
+    },
+    {
+      "id": "hn-45131121",
+      "title": "Hitting Peak File IO Performance with Zig",
+      "url": "https://steelcake.com/blog/nvme-zig/",
+      "summary": "",
+      "source": "steelcake.com",
+      "ts": "2025-09-04T19:15:10Z",
+      "score": 76.08
     },
     {
       "id": "7800dea38695",
@@ -295,124 +295,25 @@
       "summary": "If you wanted a sense of the current relationship between the tech right and the populists, you had to be sitting in Breakout Room C on the first day of NatCon 5, the annual gathering of the MAGA right's powerhouses. At the end of the afternoon panel on the culture wars (\"The Need for Heroism\"), [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-06T12:00:00Z",
-      "score": 86.64
+      "score": 67.56
     },
     {
-      "id": "hn-45140973",
-      "title": "What to Do with an Old iPad",
-      "url": "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html",
+      "id": "hn-45121010",
+      "title": "Like humans, every tree has its own microbiome, a new study has found",
+      "url": "https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html",
       "summary": "",
-      "source": "odb.ar",
-      "ts": "2025-09-05T17:14:16Z",
-      "score": 74.88
+      "source": "nytimes.com",
+      "ts": "2025-09-03T22:21:38Z",
+      "score": 62.01
     },
     {
-      "id": "9c6d8a75e6ee",
-      "title": "OpenAI reorganizes research team behind ChatGPT’s personality",
-      "url": "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/",
-      "summary": "OpenAI is shuffling the team that shapes its AI models' behavior, and its leader is moving on to another project within the company.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-05T23:19:12Z",
-      "score": 66.53
-    },
-    {
-      "id": "b32966db91e3",
-      "title": "Silicon Valley’s most powerful alliance just got stronger",
-      "url": "https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai",
-      "summary": "Eddy Cue deserves a raise. As the executive overseeing Apple's services division, he's highly incentivized to protect the tens of billions of dollars a year that Google pays to be the default search engine in Safari. \"I've lost a lot of sleep thinking about it,\" he said from the witness stand during Google's antitrust trial [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-05T23:05:54Z",
-      "score": 66.22
-    },
-    {
-      "id": "hn-45143019",
-      "title": "William James at CERN (1995)",
-      "url": "http://bactra.org/wm-james-at-cern/",
+      "id": "hn-45131040",
+      "title": "X-COM creator Julian Gollop discusses his most important games (2019)",
+      "url": "https://www.pcgamer.com/collected-works-julian-gollop/",
       "summary": "",
-      "source": "bactra.org",
-      "ts": "2025-09-05T20:07:13Z",
-      "score": 64.38
-    },
-    {
-      "id": "d6907b9bf607",
-      "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
-      "url": "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/",
-      "summary": "Writers aren't getting this settlement because their work was fed to an AI -- this is just a costly slap on the wrist for Anthropic because it illegally downloaded books instead of buying them.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-05T20:59:21Z",
-      "score": 63.37
-    },
-    {
-      "id": "9a2129c134e8",
-      "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
-      "url": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
-      "summary": "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit. The amount breaks down to smaller payouts expected to be approximately $3,000 per book or work. Lawyers [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-05T20:29:58Z",
-      "score": 62.73
-    },
-    {
-      "id": "fd79768a741e",
-      "title": "Why language models hallucinate",
-      "url": "https://openai.com/index/why-language-models-hallucinate",
-      "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
-      "source": "openai.com",
-      "ts": "2025-09-05T10:00:00Z",
-      "score": 59.57
-    },
-    {
-      "id": "551e662c8b62",
-      "title": "GPT-5 bio bug bounty call",
-      "url": "https://openai.com/gpt-5-bio-bug-bounty",
-      "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
-      "source": "openai.com",
-      "ts": "2025-09-05T08:45:00Z",
-      "score": 58.04
-    },
-    {
-      "id": "hn-45141769",
-      "title": "Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul",
-      "url": "https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul",
-      "summary": "",
-      "source": "modular.com",
-      "ts": "2025-09-05T18:16:18Z",
-      "score": 57.44
-    },
-    {
-      "id": "967ad6c60a3b",
-      "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
-      "url": "https://openai.com/global-affairs/openai-for-greece",
-      "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
-      "source": "openai.com",
-      "ts": "2025-09-05T08:00:00Z",
-      "score": 57.14
-    },
-    {
-      "id": "edbc744940f1",
-      "title": "Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/",
-      "summary": "In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-05T17:04:49Z",
-      "score": 53.11
-    },
-    {
-      "id": "6002a57e601e",
-      "title": "Exploring the Real-Time Race Track with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-real-time-race-track-with-amazon-nova/",
-      "summary": "This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-05T16:58:36Z",
-      "score": 52.99
-    },
-    {
-      "id": "hn-45106132",
-      "title": "The repercussions of missing an Ampersand in C++ and Rust",
-      "url": "https://www.nablag.com/rust_cpp_missing_ampersand",
-      "summary": "",
-      "source": "nablag.com",
-      "ts": "2025-09-02T17:22:01Z",
-      "score": 52.12
+      "source": "pcgamer.com",
+      "ts": "2025-09-04T19:08:23Z",
+      "score": 56.22
     },
     {
       "id": "hn-45113531",
@@ -421,25 +322,115 @@
       "summary": "",
       "source": "austinhenley.com",
       "ts": "2025-09-03T08:41:06Z",
-      "score": 50.6
+      "score": 54.79
     },
     {
-      "id": "hn-45122069",
-      "title": "Anonymous recursive functions in Racket",
-      "url": "https://github.com/shriram/anonymous-recursive-function",
+      "id": "9c6d8a75e6ee",
+      "title": "OpenAI reorganizes research team behind ChatGPT’s personality",
+      "url": "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/",
+      "summary": "OpenAI is shuffling the team that shapes its AI models' behavior, and its leader is moving on to another project within the company.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-05T23:19:12Z",
+      "score": 51.87
+    },
+    {
+      "id": "b32966db91e3",
+      "title": "Silicon Valley’s most powerful alliance just got stronger",
+      "url": "https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai",
+      "summary": "Eddy Cue deserves a raise. As the executive overseeing Apple's services division, he's highly incentivized to protect the tens of billions of dollars a year that Google pays to be the default search engine in Safari. \"I've lost a lot of sleep thinking about it,\" he said from the witness stand during Google's antitrust trial [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-05T23:05:54Z",
+      "score": 51.64
+    },
+    {
+      "id": "d6907b9bf607",
+      "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
+      "url": "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/",
+      "summary": "Writers aren't getting this settlement because their work was fed to an AI -- this is just a costly slap on the wrist for Anthropic because it illegally downloaded books instead of buying them.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-05T20:59:21Z",
+      "score": 49.42
+    },
+    {
+      "id": "9a2129c134e8",
+      "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
+      "url": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
+      "summary": "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit. The amount breaks down to smaller payouts expected to be approximately $3,000 per book or work. Lawyers [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-05T20:29:58Z",
+      "score": 48.91
+    },
+    {
+      "id": "hn-45113181",
+      "title": "Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward",
+      "url": "https://github.com/rougier/braincraft",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-04T00:39:33Z",
-      "score": 49.88
+      "ts": "2025-09-03T07:31:11Z",
+      "score": 47.88
     },
     {
-      "id": "hn-45123933",
-      "title": "The life-changing Sarah Paine framework",
-      "url": "https://www.valstech.blog/p/the-life-changing-sarah-paine-framework",
+      "id": "hn-45132488",
+      "title": "SQLite's File Format",
+      "url": "https://www.sqlite.org/fileformat.html",
       "summary": "",
-      "source": "valstech.blog",
-      "ts": "2025-09-04T05:39:39Z",
-      "score": 48.19
+      "source": "sqlite.org",
+      "ts": "2025-09-04T21:36:03Z",
+      "score": 47.4
+    },
+    {
+      "id": "fd79768a741e",
+      "title": "Why language models hallucinate",
+      "url": "https://openai.com/index/why-language-models-hallucinate",
+      "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+      "source": "openai.com",
+      "ts": "2025-09-05T10:00:00Z",
+      "score": 46.45
+    },
+    {
+      "id": "551e662c8b62",
+      "title": "GPT-5 bio bug bounty call",
+      "url": "https://openai.com/gpt-5-bio-bug-bounty",
+      "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
+      "source": "openai.com",
+      "ts": "2025-09-05T08:45:00Z",
+      "score": 45.26
+    },
+    {
+      "id": "967ad6c60a3b",
+      "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+      "url": "https://openai.com/global-affairs/openai-for-greece",
+      "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
+      "source": "openai.com",
+      "ts": "2025-09-05T08:00:00Z",
+      "score": 44.55
+    },
+    {
+      "id": "edbc744940f1",
+      "title": "Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/",
+      "summary": "In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-05T17:04:49Z",
+      "score": 41.41
+    },
+    {
+      "id": "6002a57e601e",
+      "title": "Exploring the Real-Time Race Track with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-real-time-race-track-with-amazon-nova/",
+      "summary": "This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-05T16:58:36Z",
+      "score": 41.32
+    },
+    {
+      "id": "hn-45135555",
+      "title": "Playing Viking Chess with Whale Bones",
+      "url": "https://hakaimagazine.com/news/viking-chess-with-whale-bones/",
+      "summary": "",
+      "source": "hakaimagazine.com",
+      "ts": "2025-09-05T06:30:24Z",
+      "score": 35.02
     },
     {
       "id": "4722f522ae4d",
@@ -448,7 +439,7 @@
       "summary": "We present ChronoGraph, a graph-structured multivariate time series\nforecasting dataset built from real-world production microservices. Each node\nis a service that emits a multivariate stream of system-level performance\nmetrics, capturing CPU, memory, and network usage patterns, while directed\nedges encode dependencies between services. The primary task is forecasting\nfuture values of these signals at the service level. In addition, ChronoGraph\nprovides expert-annotated incident windows as anomaly labels, enabling\nevaluation of anomaly detection methods and assessment of forecast robustness\nduring operational disruptions. Compared to existing benchmarks from industrial\ncontrol systems or traffic and air-quality domains, ChronoGraph uniquely\ncombines (i) multivariate time series, (ii) an explicit, machine-readable\ndependency graph, and (iii) anomaly labels aligned with real incidents. We\nreport baseline results spanning forecasting models, pretrained time-series\nfoundation models, and standard anomaly detectors. ChronoGraph offers a\nrealistic benchmark for studying structure-aware forecasting and incident-aware\nevaluation in microservice systems.",
       "source": "arxiv.org",
       "ts": "2025-09-04T17:59:52Z",
-      "score": 42.68
+      "score": 33.28
     },
     {
       "id": "35e91554a73f",
@@ -457,7 +448,7 @@
       "summary": "The success of powerful open source Large Language Models (LLMs) has enabled\nthe community to create a vast collection of post-trained models adapted to\nspecific tasks and domains. However, navigating and understanding these models\nremains challenging due to inconsistent metadata and unstructured repositories.\nWe introduce Delta Activations, a method to represent finetuned models as\nvector embeddings by measuring shifts in their internal activations relative to\na base model. This representation allows for effective clustering by domain and\ntask, revealing structure in the model landscape. Delta Activations also\ndemonstrate desirable properties: it is robust across finetuning settings and\nexhibits an additive property when finetuning datasets are mixed. In addition,\nwe show that Delta Activations can embed tasks via few-shot finetuning, and\nfurther explore its use for model selection and merging. We hope Delta\nActivations can facilitate the practice of reusing publicly available models.\nCode is available at https://github.com/OscarXZQ/delta_activations.",
       "source": "arxiv.org",
       "ts": "2025-09-04T17:59:06Z",
-      "score": 42.67
+      "score": 33.27
     },
     {
       "id": "106a5d4dcc92",
@@ -466,16 +457,25 @@
       "summary": "We introduce perioperation, a paradigm for robotic data collection that\nsensorizes and records human manipulation while maximizing the transferability\nof the data to real robots. We implement this paradigm in DEXOP, a passive hand\nexoskeleton designed to maximize human ability to collect rich sensory (vision\n+ tactile) data for diverse dexterous manipulation tasks in natural\nenvironments. DEXOP mechanically connects human fingers to robot fingers,\nproviding users with direct contact feedback (via proprioception) and mirrors\nthe human hand pose to the passive robot hand to maximize the transfer of\ndemonstrated skills to the robot. The force feedback and pose mirroring make\ntask demonstrations more natural for humans compared to teleoperation,\nincreasing both speed and accuracy. We evaluate DEXOP across a range of\ndexterous, contact-rich tasks, demonstrating its ability to collect\nhigh-quality demonstration data at scale. Policies learned with DEXOP data\nsignificantly improve task performance per unit time of data collection\ncompared to teleoperation, making DEXOP a powerful tool for advancing robot\ndexterity. Our project page is at https://dex-op.github.io.",
       "source": "arxiv.org",
       "ts": "2025-09-04T17:57:13Z",
-      "score": 42.64
+      "score": 33.25
     },
     {
-      "id": "hn-45123015",
-      "title": "Processing Piano Tutorial Videos in the Browser",
-      "url": "https://www.heyraviteja.com/post/portfolio/piano-reader/",
+      "id": "hn-45124743",
+      "title": "A robot walks on water thanks to evolution's solution",
+      "url": "https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/",
       "summary": "",
-      "source": "heyraviteja.com",
-      "ts": "2025-09-04T02:57:59Z",
-      "score": 38.41
+      "source": "arstechnica.com",
+      "ts": "2025-09-04T07:52:22Z",
+      "score": 32.13
+    },
+    {
+      "id": "hn-45123328",
+      "title": "Purikura: The Japanese Grandmother of the Selfie",
+      "url": "https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie",
+      "summary": "",
+      "source": "tokyocowboy.co",
+      "ts": "2025-09-04T03:46:10Z",
+      "score": 28.63
     },
     {
       "id": "50af8ab8189e",
@@ -484,7 +484,7 @@
       "summary": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
       "source": "aws.amazon.com",
       "ts": "2025-09-04T17:21:03Z",
-      "score": 32.39
+      "score": 25.26
     },
     {
       "id": "982ca303f669",
@@ -493,7 +493,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 11.59
+      "score": 9.03
     },
     {
       "id": "265e85cbbb22",
@@ -502,7 +502,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.35
+      "score": 0.27
     },
     {
       "id": "99b464916a99",
