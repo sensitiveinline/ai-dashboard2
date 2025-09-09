@@ -1,184 +1,58 @@
 {
   "items": [
     {
-      "id": "hn-45169657",
-      "title": "NPM debug and chalk packages compromised",
-      "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
-      "summary": "",
-      "source": "aikido.dev",
-      "ts": "2025-09-08T15:37:57Z",
-      "score": 786.73
-    },
-    {
-      "id": "hn-45170515",
-      "title": "Signal Secure Backups",
-      "url": "https://signal.org/blog/introducing-secure-backups/",
-      "summary": "",
-      "source": "signal.org",
-      "ts": "2025-09-08T16:43:39Z",
-      "score": 583.65
-    },
-    {
-      "id": "hn-45171200",
-      "title": "iPhone dumbphone",
-      "url": "https://stopa.io/post/297",
-      "summary": "",
-      "source": "stopa.io",
-      "ts": "2025-09-08T17:33:44Z",
-      "score": 365.24
-    },
-    {
-      "id": "hn-45176206",
-      "title": "No adblocker detected",
-      "url": "https://maurycyz.com/misc/ads/",
-      "summary": "",
-      "source": "maurycyz.com",
-      "ts": "2025-09-09T01:09:21Z",
-      "score": 347.04
-    },
-    {
       "id": "hn-45178041",
-      "title": "Mistral AI raises 1.7B€, enters strategic partnership with ASML",
+      "title": "Mistral raises 1.7B€, partners with ASML",
       "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
       "summary": "",
       "source": "mistral.ai",
       "ts": "2025-09-09T06:10:15Z",
-      "score": 282.12
+      "score": 503.55
     },
     {
-      "id": "hn-45174297",
-      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "url": "https://kube.io/blog/liquid-glass-css-svg/",
+      "id": "hn-45182381",
+      "title": "Claude can now create and edit files",
+      "url": "https://www.anthropic.com/news/create-files",
       "summary": "",
-      "source": "kube.io",
-      "ts": "2025-09-08T21:32:49Z",
-      "score": 271.6
+      "source": "anthropic.com",
+      "ts": "2025-09-09T14:25:55Z",
+      "score": 397.08
     },
     {
-      "id": "hn-45168953",
-      "title": "Experimenting with Local LLMs on macOS",
-      "url": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
+      "id": "hn-45183029",
+      "title": "We all dodged a bullet",
+      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
       "summary": "",
-      "source": "blog.6nok.org",
-      "ts": "2025-09-08T14:43:17Z",
-      "score": 261.68
+      "source": "xeiaso.net",
+      "ts": "2025-09-09T15:11:26Z",
+      "score": 388.37
     },
     {
-      "id": "hn-45174221",
-      "title": "Ex-WhatsApp cybersecurity head says Meta endangered billions of users",
-      "url": "https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp",
+      "id": "hn-45184368",
+      "title": "ICE is using fake cell towers to spy on people's phones",
+      "url": "https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/",
       "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-09-08T21:26:07Z",
-      "score": 252.23
+      "source": "forbes.com",
+      "ts": "2025-09-09T16:27:41Z",
+      "score": 342.62
     },
     {
-      "id": "hn-45169624",
-      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
-      "url": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
+      "id": "hn-45186015",
+      "title": "iPhone Air",
+      "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
       "summary": "",
-      "source": "zilliz.com",
-      "ts": "2025-09-08T15:35:46Z",
-      "score": 207.08
+      "source": "apple.com",
+      "ts": "2025-09-09T18:12:51Z",
+      "score": 323.04
     },
     {
-      "id": "hn-45175628",
-      "title": "The Storm Hits the Art Market",
-      "url": "https://news.artnet.com/market/intelligence-report-storm-2025-2684512",
+      "id": "hn-45186265",
+      "title": "Memory Integrity Enforcement",
+      "url": "https://security.apple.com/blog/memory-integrity-enforcement/",
       "summary": "",
-      "source": "news.artnet.com",
-      "ts": "2025-09-08T23:48:14Z",
-      "score": 206.2
-    },
-    {
-      "id": "hn-45169275",
-      "title": "Clankers Die on Christmas",
-      "url": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
-      "summary": "",
-      "source": "remyhax.xyz",
-      "ts": "2025-09-08T15:08:20Z",
-      "score": 198.05
-    },
-    {
-      "id": "hn-45168854",
-      "title": "AMD claims Arm ISA doesn't offer efficiency advantage over x86",
-      "url": "https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86",
-      "summary": "",
-      "source": "techpowerup.com",
-      "ts": "2025-09-08T14:36:00Z",
-      "score": 175.72
-    },
-    {
-      "id": "hn-45170000",
-      "title": "I have left Branch and am no longer involved with Nova Launcher",
-      "url": "https://teslacoilapps.com/nova/solong.html",
-      "summary": "",
-      "source": "teslacoilapps.com",
-      "ts": "2025-09-08T16:06:52Z",
-      "score": 168.8
-    },
-    {
-      "id": "hn-45174125",
-      "title": "Alterego: Thought to Text",
-      "url": "https://www.alterego.io/",
-      "summary": "",
-      "source": "alterego.io",
-      "ts": "2025-09-08T21:17:50Z",
-      "score": 163.81
-    },
-    {
-      "id": "hn-45167625",
-      "title": "AI might yet follow the path of previous technological revolutions",
-      "url": "https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology",
-      "summary": "",
-      "source": "economist.com",
-      "ts": "2025-09-08T12:49:46Z",
-      "score": 160.78
-    },
-    {
-      "id": "hn-45174037",
-      "title": "The elegance of movement in Silksong",
-      "url": "https://theahura.substack.com/p/the-elegance-of-movement-in-silksong",
-      "summary": "",
-      "source": "theahura.substack.com",
-      "ts": "2025-09-08T21:10:18Z",
-      "score": 150.42
-    },
-    {
-      "id": "hn-45172609",
-      "title": "Microsoft doubles down on small modular reactors and fusion energy",
-      "url": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
-      "summary": "",
-      "source": "techradar.com",
-      "ts": "2025-09-08T19:16:39Z",
-      "score": 147.55
-    },
-    {
-      "id": "hn-45141907",
-      "title": "Why is Japan still investing in custom floating point accelerators?",
-      "url": "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/",
-      "summary": "",
-      "source": "nextplatform.com",
-      "ts": "2025-09-05T18:27:24Z",
-      "score": 144.65
-    },
-    {
-      "id": "hn-45165186",
-      "title": "How Britain built some of the world’s safest roads",
-      "url": "https://ourworldindata.org/britain-safest-roads-history",
-      "summary": "",
-      "source": "ourworldindata.org",
-      "ts": "2025-09-08T06:26:43Z",
-      "score": 125.41
-    },
-    {
-      "id": "hn-45177518",
-      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
-      "url": "https://lewiscampbell.tech/blog/250908.html",
-      "summary": "",
-      "source": "lewiscampbell.tech",
-      "ts": "2025-09-09T04:46:17Z",
-      "score": 123.55
+      "source": "security.apple.com",
+      "ts": "2025-09-09T18:25:03Z",
+      "score": 252.02
     },
     {
       "id": "hn-45179939",
@@ -187,43 +61,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-09T10:10:15Z",
-      "score": 120.7
-    },
-    {
-      "id": "hn-45167394",
-      "title": "A critique of package managers",
-      "url": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
-      "summary": "",
-      "source": "gingerbill.org",
-      "ts": "2025-09-08T12:18:55Z",
-      "score": 120.51
-    },
-    {
-      "id": "hn-45179889",
-      "title": "You too can run malware from NPM (I mean without consequences)",
-      "url": "https://github.com/naugtur/running-qix-malware",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-09T10:02:23Z",
-      "score": 109.64
-    },
-    {
-      "id": "3dfa2b992008",
-      "title": "Firefox launches ‘shake to summarize’ on iPhones",
-      "url": "https://www.theverge.com/news/774129/firefox-shake-to-summarize-ios-ai-launch",
-      "summary": "Firefox will soon let you shake your iPhone to get an AI-generated summary of the webpage you’re on. The feature rolls out this week, and will operate using Apple’s on-device AI model on the iPhone 15 Pro or newer once iOS 26 launches. On older iOS versions, Mozilla will use its own cloud-based AI system [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-09T10:51:49Z",
-      "score": 107.73
-    },
-    {
-      "id": "hn-45176401",
-      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
-      "url": "https://github.com/MaxBondABE/attempt",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-09T01:37:28Z",
-      "score": 107.23
+      "score": 243.81
     },
     {
       "id": "hn-45151641",
@@ -232,169 +70,115 @@
       "summary": "",
       "source": "theguardian.com",
       "ts": "2025-09-06T18:22:35Z",
-      "score": 101.96
+      "score": 215.67
     },
     {
-      "id": "hn-45179825",
-      "title": "A formal proof that AI-by-Learning is intractable",
-      "url": "https://link.springer.com/article/10.1007/s42113-024-00217-5#appendices",
+      "id": "hn-45188945",
+      "title": "Immunotherapy drug eliminates aggressive cancers in clinical trial",
+      "url": "https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/",
       "summary": "",
-      "source": "link.springer.com",
-      "ts": "2025-09-09T09:52:36Z",
-      "score": 100.31
+      "source": "rockefeller.edu",
+      "ts": "2025-09-09T20:55:16Z",
+      "score": 208.84
     },
     {
-      "id": "hn-45138695",
-      "title": "The key points of \"Working Effectively with Legacy Code\"",
-      "url": "https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/",
+      "id": "hn-45184432",
+      "title": "Microsoft is officially sending employees back to the office",
+      "url": "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9",
       "summary": "",
-      "source": "understandlegacycode.com",
-      "ts": "2025-09-05T14:00:23Z",
-      "score": 98.86
+      "source": "businessinsider.com",
+      "ts": "2025-09-09T16:31:17Z",
+      "score": 194.53
     },
     {
-      "id": "hn-45177507",
-      "title": "Byte Type: Supporting Raw Data Copies in the LLVM IR",
-      "url": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "id": "hn-45182770",
+      "title": "A new experimental Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2-exp",
       "summary": "",
-      "source": "blog.llvm.org",
-      "ts": "2025-09-09T04:44:20Z",
-      "score": 96.49
+      "source": "go.dev",
+      "ts": "2025-09-09T14:54:32Z",
+      "score": 182.07
     },
     {
-      "id": "66080037760e",
-      "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose\n  Transformers",
-      "url": "http://arxiv.org/abs/2509.06956v1",
-      "summary": "Transformers have been successfully applied in the field of video-based 3D\nhuman pose estimation. However, the high computational costs of these video\npose transformers (VPTs) make them impractical on resource-constrained devices.\nIn this paper, we present a hierarchical plug-and-play pruning-and-recovering\nframework, called Hierarchical Hourglass Tokenizer (H$_{2}$OT), for efficient\ntransformer-based 3D human pose estimation from videos. H$_{2}$OT begins with\nprogressively pruning pose tokens of redundant frames and ends with recovering\nfull-length sequences, resulting in a few pose tokens in the intermediate\ntransformer blocks and thus improving the model efficiency. It works with two\nkey modules, namely, a Token Pruning Module (TPM) and a Token Recovering Module\n(TRM). TPM dynamically selects a few representative tokens to eliminate the\nredundancy of video frames, while TRM restores the detailed spatio-temporal\ninformation based on the selected tokens, thereby expanding the network output\nto the original full-length temporal resolution for fast inference. Our method\nis general-purpose: it can be easily incorporated into common VPT models on\nboth seq2seq and seq2frame pipelines while effectively accommodating different\ntoken pruning and recovery strategies. In addition, our H$_{2}$OT reveals that\nmaintaining the full pose sequence is unnecessary, and a few pose tokens of\nrepresentative frames can achieve both high efficiency and estimation accuracy.\nExtensive experiments on multiple benchmark datasets demonstrate both the\neffectiveness and efficiency of the proposed method. Code and models are\navailable at https://github.com/NationalGAILab/HoT.",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:59:59Z",
-      "score": 90.31
-    },
-    {
-      "id": "d3368d800de6",
-      "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for\n  Dynamic Environments",
-      "url": "http://arxiv.org/abs/2509.06953v1",
-      "summary": "Generating collision-free motion in dynamic, partially observable\nenvironments is a fundamental challenge for robotic manipulators. Classical\nmotion planners can compute globally optimal trajectories but require full\nenvironment knowledge and are typically too slow for dynamic scenes. Neural\nmotion policies offer a promising alternative by operating in closed-loop\ndirectly on raw sensory inputs but often struggle to generalize in complex or\ndynamic settings. We propose Deep Reactive Policy (DRP), a visuo-motor neural\nmotion policy designed for reactive motion generation in diverse dynamic\nenvironments, operating directly on point cloud sensory input. At its core is\nIMPACT, a transformer-based neural motion policy pretrained on 10 million\ngenerated expert trajectories across diverse simulation scenarios. We further\nimprove IMPACT's static obstacle avoidance through iterative student-teacher\nfinetuning. We additionally enhance the policy's dynamic obstacle avoidance at\ninference time using DCP-RMP, a locally reactive goal-proposal module. We\nevaluate DRP on challenging tasks featuring cluttered scenes, dynamic moving\nobstacles, and goal obstructions. DRP achieves strong generalization,\noutperforming prior classical and neural methods in success rate across both\nsimulated and real-world settings. Video results and code available at\nhttps://deep-reactive-policy.com",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:59:35Z",
-      "score": 90.3
-    },
-    {
-      "id": "6cc6937a7598",
-      "title": "Interleaving Reasoning for Better Text-to-Image Generation",
-      "url": "http://arxiv.org/abs/2509.06945v1",
-      "summary": "Unified multimodal understanding and generation models recently have achieve\nsignificant improvement in image generation capability, yet a large gap remains\nin instruction following and detail preservation compared to systems that\ntightly couple comprehension with generation such as GPT-4o. Motivated by\nrecent advances in interleaving reasoning, we explore whether such reasoning\ncan further improve Text-to-Image (T2I) generation. We introduce Interleaving\nReasoning Generation (IRG), a framework that alternates between text-based\nthinking and image synthesis: the model first produces a text-based thinking to\nguide an initial image, then reflects on the result to refine fine-grained\ndetails, visual quality, and aesthetics while preserving semantics. To train\nIRG effectively, we propose Interleaving Reasoning Generation Learning (IRGL),\nwhich targets two sub-goals: (1) strengthening the initial think-and-generate\nstage to establish core content and base quality, and (2) enabling high-quality\ntextual reflection and faithful implementation of those refinements in a\nsubsequent image. We curate IRGL-300K, a dataset organized into six decomposed\nlearning modes that jointly cover learning text-based thinking, and full\nthinking-image trajectories. Starting from a unified foundation model that\nnatively emits interleaved text-image outputs, our two-stage training first\nbuilds robust thinking and reflection, then efficiently tunes the IRG pipeline\nin the full thinking-image trajectory data. Extensive experiments show SoTA\nperformance, yielding absolute gains of 5-10 points on GenEval, WISE, TIIF,\nGenAI-Bench, and OneIG-EN, alongside substantial improvements in visual quality\nand fine-grained fidelity. The code, model weights and datasets will be\nreleased in: https://github.com/Osilly/Interleaving-Reasoning-Generation .",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:56:23Z",
-      "score": 90.2
-    },
-    {
-      "id": "c997776273ee",
-      "title": "Intel’s chief executive of products departs among other leadership changes",
-      "url": "https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/",
-      "summary": "Intel also announced the creation of a central engineering group that will build custom chips for outside customers.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-08T23:22:13Z",
-      "score": 85.46
-    },
-    {
-      "id": "083ee13cb781",
-      "title": "Sam Altman says that bots are making social media feel ‘fake’",
-      "url": "https://techcrunch.com/2025/09/08/sam-altman-says-that-bots-are-making-social-media-feel-fake/",
-      "summary": "After watching Reddit's OpenAI and Anthropic communities, Sam Altman thinks social media cannot be trusted. And bots are to blame.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-08T22:24:42Z",
-      "score": 83.77
-    },
-    {
-      "id": "a9357f717f73",
-      "title": "A People-First AI Fund: $50M to support nonprofits",
-      "url": "https://openai.com/index/people-first-ai-fund",
-      "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
-      "source": "openai.com",
-      "ts": "2025-09-08T14:00:00Z",
-      "score": 83.09
-    },
-    {
-      "id": "hn-45144758",
-      "title": "Is OOXML Artifically Complex?",
-      "url": "https://hsu.cy/2025/09/is-ooxml-artificially-complex/",
+      "id": "hn-45185756",
+      "title": "E-paper display reaches the realm of LCD screens",
+      "url": "https://spectrum.ieee.org/e-paper-display-modos",
       "summary": "",
-      "source": "hsu.cy",
-      "ts": "2025-09-05T23:07:00Z",
-      "score": 79.04
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-09T17:57:35Z",
+      "score": 179.76
     },
     {
-      "id": "96d9294ef4b4",
-      "title": "Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/",
-      "summary": "At TechCrunch Disrupt 2025, Pinecone founder and CEO Edo Liberty will explain why the next wave of AI-native apps won’t be driven by bigger models, but by smarter search.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-08T19:14:54Z",
-      "score": 78.43
-    },
-    {
-      "id": "5eaecdd4a538",
-      "title": "Gemini app finally expands to audio files",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports",
-      "summary": "Google made three major updates to its Gemini-powered products on Monday: The Gemini app now accepts audio files; Search can handle five new languages; and NotebookLM creates reports in the form of blog posts, study guides, quizzes, and more.&#160; According to a Monday post on X by Josh Woodward, vice president of Google Labs and [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-08T19:14:28Z",
-      "score": 78.42
-    },
-    {
-      "id": "6d0db3f96644",
-      "title": "The best stuff announced at IFA",
-      "url": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
-      "summary": "The doors to IFA 2025 in Berlin, Germany, have officially opened and new gadgets, tech, features, and upgrades continue to pour out of Europe's largest consumer tech show. There's a lot of news to stay on top of, and if you're struggling to ingest it all, here are some of the best announcements from the [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-08T17:14:01Z",
-      "score": 75.21
-    },
-    {
-      "id": "06fed96e726d",
-      "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/",
-      "summary": "We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-08T20:50:04Z",
-      "score": 73.7
-    },
-    {
-      "id": "hn-45142704",
-      "title": "Seedship – Text-Based Game",
-      "url": "https://philome.la/johnayliff/seedship/play/index.html",
+      "id": "hn-45182657",
+      "title": "US HS students lose ground in math and reading, continuing yearslong decline",
+      "url": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
       "summary": "",
-      "source": "philome.la",
-      "ts": "2025-09-05T19:34:18Z",
-      "score": 71.22
+      "source": "apnews.com",
+      "ts": "2025-09-09T14:45:46Z",
+      "score": 178.82
     },
     {
-      "id": "3412710596e1",
-      "title": "Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-and-scale-adoption-of-ai-agents-for-education-with-strands-agents-amazon-bedrock-agentcore-and-librechat/",
-      "summary": "This post demonstrates how to quickly build sophisticated AI agents using Strands Agents, scale them reliably with Amazon Bedrock AgentCore, and make them accessible through LibreChat’s familiar interface to drive immediate user adoption across your institution.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-08T19:05:40Z",
-      "score": 71.07
-    },
-    {
-      "id": "f8a72b26c6d1",
-      "title": "Skai uses Amazon Bedrock Agents to significantly improve customer insights by revolutionized data access and analysis",
-      "url": "https://aws.amazon.com/blogs/machine-learning/skai-uses-amazon-bedrock-agents-to-significantly-improve-customer-insights-by-revolutionized-data-access-and-analysis/",
-      "summary": "Skai (formerly Kenshoo) is an AI-driven omnichannel advertising and analytics platform designed for brands and agencies to plan, launch, optimize, and measure paid media across search, social, retail media marketplaces and other “walled-garden” channels from a single interface. In this post, we share how Skai used Amazon Bedrock Agents to improve data access and analysis and improve customer insights.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-08T19:03:42Z",
-      "score": 71.03
-    },
-    {
-      "id": "hn-45135591",
-      "title": "Contracts for C",
-      "url": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
+      "id": "hn-45179889",
+      "title": "You too can run malware from NPM (I mean without consequences)",
+      "url": "https://github.com/naugtur/running-qix-malware",
       "summary": "",
-      "source": "gustedt.wordpress.com",
-      "ts": "2025-09-05T06:36:49Z",
-      "score": 61.43
+      "source": "github.com",
+      "ts": "2025-09-09T10:02:23Z",
+      "score": 178.8
+    },
+    {
+      "id": "hn-45187687",
+      "title": "Inflation Erased U.S. Income Gains Last Year",
+      "url": "https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0",
+      "summary": "",
+      "source": "wsj.com",
+      "ts": "2025-09-09T19:44:12Z",
+      "score": 164.53
+    },
+    {
+      "id": "hn-45186726",
+      "title": "The Dying Dream of a Decentralized Web",
+      "url": "https://spectrum.ieee.org/web3-hardware-security",
+      "summary": "",
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-09T18:47:44Z",
+      "score": 161.53
+    },
+    {
+      "id": "hn-45183050",
+      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
+      "url": "https://cedardb.com/blog/doomql/",
+      "summary": "",
+      "source": "cedardb.com",
+      "ts": "2025-09-09T15:12:18Z",
+      "score": 158.59
+    },
+    {
+      "id": "hn-45188114",
+      "title": "I still love PHP and JavaScript (2022)",
+      "url": "https://the.scapegoat.dev/why-i-love-php-and-javascript/",
+      "summary": "",
+      "source": "the.scapegoat.dev",
+      "ts": "2025-09-09T20:09:53Z",
+      "score": 157.56
+    },
+    {
+      "id": "hn-45186011",
+      "title": "Dropbox Paper mobile App Discontinuation",
+      "url": "https://help.dropbox.com/installs/paper-mobile-discontinuation",
+      "summary": "",
+      "source": "help.dropbox.com",
+      "ts": "2025-09-09T18:12:28Z",
+      "score": 157.43
+    },
+    {
+      "id": "hn-45183589",
+      "title": "An attacker’s blunder gave us a look into their operations",
+      "url": "https://www.huntress.com/blog/rare-look-inside-attacker-operation",
+      "summary": "",
+      "source": "huntress.com",
+      "ts": "2025-09-09T15:42:32Z",
+      "score": 152.28
     },
     {
       "id": "hn-45140572",
@@ -403,43 +187,286 @@
       "summary": "",
       "source": "rustcurious.com",
       "ts": "2025-09-05T16:39:40Z",
-      "score": 48.67
+      "score": 151.55
     },
     {
-      "id": "hn-45144470",
-      "title": "Jeena's Hyprland Demo",
-      "url": "https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ",
+      "id": "hn-45179304",
+      "title": "Anthropic judge rejects $1.5B AI copyright settlement",
+      "url": "https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done",
       "summary": "",
-      "source": "tube.jeena.net",
-      "ts": "2025-09-05T22:35:01Z",
-      "score": 45.25
+      "source": "news.bloomberglaw.com",
+      "ts": "2025-09-09T08:46:53Z",
+      "score": 149.85
     },
     {
-      "id": "hn-45144129",
-      "title": "Deluxe Paint on the Commodore Amiga",
-      "url": "https://stonetools.ghost.io/deluxepaint-amiga/",
+      "id": "hn-45189053",
+      "title": "Anthropic is endorsing SB 53",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
       "summary": "",
-      "source": "stonetools.ghost.io",
-      "ts": "2025-09-05T21:57:15Z",
-      "score": 37.83
+      "source": "anthropic.com",
+      "ts": "2025-09-09T21:01:47Z",
+      "score": 143.07
     },
     {
-      "id": "hn-45140695",
-      "title": "Interview with Geoffrey Hinton",
-      "url": "https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce",
+      "id": "hn-45189965",
+      "title": "All vibe coding tools are selling a get rich quick scheme",
+      "url": "https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/",
       "summary": "",
-      "source": "ft.com",
-      "ts": "2025-09-05T16:49:29Z",
-      "score": 37.1
+      "source": "varunraghu.com",
+      "ts": "2025-09-09T22:06:58Z",
+      "score": 133.23
     },
     {
-      "id": "hn-45145638",
-      "title": "CPR in space could be made easier by chest compression machines",
-      "url": "https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/",
+      "id": "hn-45185875",
+      "title": "Tomorrow's emoji today: Unicode 17.0",
+      "url": "https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170",
       "summary": "",
-      "source": "newscientist.com",
-      "ts": "2025-09-06T01:13:10Z",
-      "score": 23.42
+      "source": "jenniferdaniel.substack.com",
+      "ts": "2025-09-09T18:04:49Z",
+      "score": 132.59
+    },
+    {
+      "id": "hn-45177683",
+      "title": "YouTube is a mysterious monopoly",
+      "url": "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly",
+      "summary": "",
+      "source": "anderegg.ca",
+      "ts": "2025-09-09T05:16:23Z",
+      "score": 124.86
+    },
+    {
+      "id": "hn-45187449",
+      "title": "Polylaminin promotes regeneration after spinal cord injury (2010)",
+      "url": "https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury",
+      "summary": "",
+      "source": "researchgate.net",
+      "ts": "2025-09-09T19:27:28Z",
+      "score": 119.59
+    },
+    {
+      "id": "hn-45188982",
+      "title": "I don't want AI agents controlling my laptop",
+      "url": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "summary": "",
+      "source": "sophiebits.com",
+      "ts": "2025-09-09T20:57:20Z",
+      "score": 118.91
+    },
+    {
+      "id": "hn-45166245",
+      "title": "Anscombe's Quartet",
+      "url": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-08T09:29:36Z",
+      "score": 108.34
+    },
+    {
+      "id": "303e2c06f53a",
+      "title": "From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/",
+      "summary": "Each Side Event can unlock new opportunities for the hosts: investor deal flow, talent connections, and brand exposure with the startup community.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-09T22:40:47Z",
+      "score": 107.73
+    },
+    {
+      "id": "8f98668ee461",
+      "title": "Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold",
+      "url": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
+      "summary": "Anthropic’s $1.5 billion book piracy settlement has been put on pause after the federal judge overseeing the class action case raised concerns about the terms of the agreement. During a hearing this week, Judge William Alsup rejected the settlement over concerns that class action lawyers will create a deal behind closed doors that they will [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-09T21:45:42Z",
+      "score": 106.17
+    },
+    {
+      "id": "1f0faea05346",
+      "title": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic",
+      "url": "https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/",
+      "summary": "The move to diversify its AI partnerships by tapping the shoulder of OpenAI’s top rival comes as the AI company also pursues independence from Microsoft with its own AI infrastructure and a potential LinkedIn competitor.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-09T20:11:30Z",
+      "score": 102.75
+    },
+    {
+      "id": "4fd1f9acef43",
+      "title": "Apple barely talked about AI at its big iPhone 17 event",
+      "url": "https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence",
+      "summary": "Apple's hotly anticipated event was full of news about updates to the AirPods, Apple Watch, iPhones, and more. But during the presentation, which was considerably shorter than usual at just an hour and 15 minutes, there was one notable buzzword missing from a good chunk of the fanfare: AI. Although CEO Tim Cook said during [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-09T19:15:02Z",
+      "score": 100.75
+    },
+    {
+      "id": "f04bf8605fcf",
+      "title": "Apple’s new iPhone 17 devices don’t have an AI-powered Siri yet. It doesn’t matter.",
+      "url": "https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/",
+      "summary": "Until now, Apple has only released what could be considered baseline AI features for its devices, like AI writing tools, summarization, generative AI images, live translation, visual search, and Genmoji, among others.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-09T18:50:09Z",
+      "score": 99.89
+    },
+    {
+      "id": "hn-45189260",
+      "title": "Show HN: Shellcast.tv – Stream your vibe coding",
+      "url": "https://shellcast.tv/",
+      "summary": "",
+      "source": "shellcast.tv",
+      "ts": "2025-09-09T21:13:32Z",
+      "score": 99.64
+    },
+    {
+      "id": "hn-45186705",
+      "title": "Subsea Cables Parted in Red Sea Again",
+      "url": "https://www.kentik.com/blog/subsea-cables-parted-in-red-sea-again/",
+      "summary": "",
+      "source": "kentik.com",
+      "ts": "2025-09-09T18:46:42Z",
+      "score": 99.1
+    },
+    {
+      "id": "55eec3c25bc9",
+      "title": "Shipping smarter agents with every new model",
+      "url": "https://openai.com/index/safetykit",
+      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+      "source": "openai.com",
+      "ts": "2025-09-09T10:00:00Z",
+      "score": 98.2
+    },
+    {
+      "id": "hn-45167436",
+      "title": "Go for Bash Programmers – Part II: CLI Tools",
+      "url": "https://github.com/go-monk/from-bash-to-go-part-ii",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-08T12:26:15Z",
+      "score": 93.2
+    },
+    {
+      "id": "3fd5fbe4bb43",
+      "title": "Google’s Veo 3 can now generate vertical AI videos",
+      "url": "https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support",
+      "summary": "Google has added support for 1080p resolution and vertical video formats to its Veo 3 AI video generator. According to the announcement on Google’s developer blog, both Veo 3 and Veo 3 Fast — a faster, and more affordable version of the video model that produces lower-quality results — now allow users to generate videos [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-09T14:23:51Z",
+      "score": 91.07
+    },
+    {
+      "id": "hn-45164892",
+      "title": "I solved a distributed queue problem after 15 years",
+      "url": "https://www.dbos.dev/blog/durable-queues",
+      "summary": "",
+      "source": "dbos.dev",
+      "ts": "2025-09-08T05:28:34Z",
+      "score": 90.3
+    },
+    {
+      "id": "1aaff3573e8d",
+      "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
+      "url": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/",
+      "summary": "As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. At AWS, we’re also seeing a transformation across the technology […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-09T17:40:53Z",
+      "score": 88.65
+    },
+    {
+      "id": "hn-45184921",
+      "title": "Weave (YC W25) is hiring a founding AI engineer",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-09T17:01:12Z",
+      "score": 88.04
+    },
+    {
+      "id": "b44bbfe12e7f",
+      "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/",
+      "summary": "AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-09T14:35:22Z",
+      "score": 83.12
+    },
+    {
+      "id": "66080037760e",
+      "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose\n  Transformers",
+      "url": "http://arxiv.org/abs/2509.06956v1",
+      "summary": "Transformers have been successfully applied in the field of video-based 3D\nhuman pose estimation. However, the high computational costs of these video\npose transformers (VPTs) make them impractical on resource-constrained devices.\nIn this paper, we present a hierarchical plug-and-play pruning-and-recovering\nframework, called Hierarchical Hourglass Tokenizer (H$_{2}$OT), for efficient\ntransformer-based 3D human pose estimation from videos. H$_{2}$OT begins with\nprogressively pruning pose tokens of redundant frames and ends with recovering\nfull-length sequences, resulting in a few pose tokens in the intermediate\ntransformer blocks and thus improving the model efficiency. It works with two\nkey modules, namely, a Token Pruning Module (TPM) and a Token Recovering Module\n(TRM). TPM dynamically selects a few representative tokens to eliminate the\nredundancy of video frames, while TRM restores the detailed spatio-temporal\ninformation based on the selected tokens, thereby expanding the network output\nto the original full-length temporal resolution for fast inference. Our method\nis general-purpose: it can be easily incorporated into common VPT models on\nboth seq2seq and seq2frame pipelines while effectively accommodating different\ntoken pruning and recovery strategies. In addition, our H$_{2}$OT reveals that\nmaintaining the full pose sequence is unnecessary, and a few pose tokens of\nrepresentative frames can achieve both high efficiency and estimation accuracy.\nExtensive experiments on multiple benchmark datasets demonstrate both the\neffectiveness and efficiency of the proposed method. Code and models are\navailable at https://github.com/NationalGAILab/HoT.",
+      "source": "arxiv.org",
+      "ts": "2025-09-08T17:59:59Z",
+      "score": 70.36
+    },
+    {
+      "id": "d3368d800de6",
+      "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for\n  Dynamic Environments",
+      "url": "http://arxiv.org/abs/2509.06953v1",
+      "summary": "Generating collision-free motion in dynamic, partially observable\nenvironments is a fundamental challenge for robotic manipulators. Classical\nmotion planners can compute globally optimal trajectories but require full\nenvironment knowledge and are typically too slow for dynamic scenes. Neural\nmotion policies offer a promising alternative by operating in closed-loop\ndirectly on raw sensory inputs but often struggle to generalize in complex or\ndynamic settings. We propose Deep Reactive Policy (DRP), a visuo-motor neural\nmotion policy designed for reactive motion generation in diverse dynamic\nenvironments, operating directly on point cloud sensory input. At its core is\nIMPACT, a transformer-based neural motion policy pretrained on 10 million\ngenerated expert trajectories across diverse simulation scenarios. We further\nimprove IMPACT's static obstacle avoidance through iterative student-teacher\nfinetuning. We additionally enhance the policy's dynamic obstacle avoidance at\ninference time using DCP-RMP, a locally reactive goal-proposal module. We\nevaluate DRP on challenging tasks featuring cluttered scenes, dynamic moving\nobstacles, and goal obstructions. DRP achieves strong generalization,\noutperforming prior classical and neural methods in success rate across both\nsimulated and real-world settings. Video results and code available at\nhttps://deep-reactive-policy.com",
+      "source": "arxiv.org",
+      "ts": "2025-09-08T17:59:35Z",
+      "score": 70.35
+    },
+    {
+      "id": "6cc6937a7598",
+      "title": "Interleaving Reasoning for Better Text-to-Image Generation",
+      "url": "http://arxiv.org/abs/2509.06945v1",
+      "summary": "Unified multimodal understanding and generation models recently have achieve\nsignificant improvement in image generation capability, yet a large gap remains\nin instruction following and detail preservation compared to systems that\ntightly couple comprehension with generation such as GPT-4o. Motivated by\nrecent advances in interleaving reasoning, we explore whether such reasoning\ncan further improve Text-to-Image (T2I) generation. We introduce Interleaving\nReasoning Generation (IRG), a framework that alternates between text-based\nthinking and image synthesis: the model first produces a text-based thinking to\nguide an initial image, then reflects on the result to refine fine-grained\ndetails, visual quality, and aesthetics while preserving semantics. To train\nIRG effectively, we propose Interleaving Reasoning Generation Learning (IRGL),\nwhich targets two sub-goals: (1) strengthening the initial think-and-generate\nstage to establish core content and base quality, and (2) enabling high-quality\ntextual reflection and faithful implementation of those refinements in a\nsubsequent image. We curate IRGL-300K, a dataset organized into six decomposed\nlearning modes that jointly cover learning text-based thinking, and full\nthinking-image trajectories. Starting from a unified foundation model that\nnatively emits interleaved text-image outputs, our two-stage training first\nbuilds robust thinking and reflection, then efficiently tunes the IRG pipeline\nin the full thinking-image trajectory data. Extensive experiments show SoTA\nperformance, yielding absolute gains of 5-10 points on GenEval, WISE, TIIF,\nGenAI-Bench, and OneIG-EN, alongside substantial improvements in visual quality\nand fine-grained fidelity. The code, model weights and datasets will be\nreleased in: https://github.com/Osilly/Interleaving-Reasoning-Generation .",
+      "source": "arxiv.org",
+      "ts": "2025-09-08T17:56:23Z",
+      "score": 70.28
+    },
+    {
+      "id": "a9357f717f73",
+      "title": "A People-First AI Fund: $50M to support nonprofits",
+      "url": "https://openai.com/index/people-first-ai-fund",
+      "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
+      "source": "openai.com",
+      "ts": "2025-09-08T14:00:00Z",
+      "score": 64.74
+    },
+    {
+      "id": "06fed96e726d",
+      "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/",
+      "summary": "We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-08T20:50:04Z",
+      "score": 57.42
+    },
+    {
+      "id": "hn-45158118",
+      "title": "Show HN: Bottlefire – Build single-executable microVMs from Docker images",
+      "url": "https://bottlefire.dev/",
+      "summary": "",
+      "source": "bottlefire.dev",
+      "ts": "2025-09-07T13:48:25Z",
+      "score": 45.68
+    },
+    {
+      "id": "hn-45157278",
+      "title": "Cities obey the laws of living things",
+      "url": "https://nautil.us/cities-obey-the-laws-of-living-things-1236057/",
+      "summary": "",
+      "source": "nautil.us",
+      "ts": "2025-09-07T11:31:01Z",
+      "score": 45.48
+    },
+    {
+      "id": "hn-45154142",
+      "title": "Axial Twist Theory",
+      "url": "https://en.wikipedia.org/wiki/Axial_twist_theory",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-07T00:25:00Z",
+      "score": 41.36
+    },
+    {
+      "id": "hn-45157161",
+      "title": "Show HN: An Open Source XR(AR/VR) Operating System",
+      "url": "https://www.getxeneva.com/",
+      "summary": "",
+      "source": "getxeneva.com",
+      "ts": "2025-09-07T11:09:43Z",
+      "score": 39.87
     },
     {
       "id": "fd79768a741e",
@@ -448,16 +475,7 @@
       "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
       "source": "openai.com",
       "ts": "2025-09-05T10:00:00Z",
-      "score": 17.06
-    },
-    {
-      "id": "551e662c8b62",
-      "title": "GPT-5 bio bug bounty call",
-      "url": "https://openai.com/gpt-5-bio-bug-bounty",
-      "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
-      "source": "openai.com",
-      "ts": "2025-09-05T08:45:00Z",
-      "score": 16.62
+      "score": 13.29
     },
     {
       "id": "982ca303f669",
@@ -466,7 +484,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 3.32
+      "score": 2.58
     },
     {
       "id": "265e85cbbb22",
@@ -475,7 +493,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.1
+      "score": 0.08
     },
     {
       "id": "99b464916a99",
