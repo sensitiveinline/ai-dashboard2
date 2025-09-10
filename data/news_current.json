@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "id": "hn-45186015",
+      "title": "iPhone Air",
+      "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "summary": "",
+      "source": "apple.com",
+      "ts": "2025-09-09T18:12:51Z",
+      "score": 522.83
+    },
+    {
+      "id": "hn-45182381",
+      "title": "Claude now has access to a server-side container environment",
+      "url": "https://www.anthropic.com/news/create-files",
+      "summary": "",
+      "source": "anthropic.com",
+      "ts": "2025-09-09T14:25:55Z",
+      "score": 521.49
+    },
+    {
       "id": "hn-45178041",
       "title": "Mistral raises 1.7B€, partners with ASML",
       "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
       "summary": "",
       "source": "mistral.ai",
       "ts": "2025-09-09T06:10:15Z",
-      "score": 503.55
-    },
-    {
-      "id": "hn-45182381",
-      "title": "Claude can now create and edit files",
-      "url": "https://www.anthropic.com/news/create-files",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-09T14:25:55Z",
-      "score": 397.08
+      "score": 509.74
     },
     {
       "id": "hn-45183029",
@@ -25,7 +34,7 @@
       "summary": "",
       "source": "xeiaso.net",
       "ts": "2025-09-09T15:11:26Z",
-      "score": 388.37
+      "score": 496.37
     },
     {
       "id": "hn-45184368",
@@ -34,70 +43,16 @@
       "summary": "",
       "source": "forbes.com",
       "ts": "2025-09-09T16:27:41Z",
-      "score": 342.62
+      "score": 414.13
     },
     {
-      "id": "hn-45186015",
-      "title": "iPhone Air",
-      "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "id": "hn-45192655",
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
       "summary": "",
-      "source": "apple.com",
-      "ts": "2025-09-09T18:12:51Z",
-      "score": 323.04
-    },
-    {
-      "id": "hn-45186265",
-      "title": "Memory Integrity Enforcement",
-      "url": "https://security.apple.com/blog/memory-integrity-enforcement/",
-      "summary": "",
-      "source": "security.apple.com",
-      "ts": "2025-09-09T18:25:03Z",
-      "score": 252.02
-    },
-    {
-      "id": "hn-45179939",
-      "title": "DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware",
-      "url": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-09T10:10:15Z",
-      "score": 243.81
-    },
-    {
-      "id": "hn-45151641",
-      "title": "How can England possibly be running out of water?",
-      "url": "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-09-06T18:22:35Z",
-      "score": 215.67
-    },
-    {
-      "id": "hn-45188945",
-      "title": "Immunotherapy drug eliminates aggressive cancers in clinical trial",
-      "url": "https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/",
-      "summary": "",
-      "source": "rockefeller.edu",
-      "ts": "2025-09-09T20:55:16Z",
-      "score": 208.84
-    },
-    {
-      "id": "hn-45184432",
-      "title": "Microsoft is officially sending employees back to the office",
-      "url": "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9",
-      "summary": "",
-      "source": "businessinsider.com",
-      "ts": "2025-09-09T16:31:17Z",
-      "score": 194.53
-    },
-    {
-      "id": "hn-45182770",
-      "title": "A new experimental Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2-exp",
-      "summary": "",
-      "source": "go.dev",
-      "ts": "2025-09-09T14:54:32Z",
-      "score": 182.07
+      "source": "joshfonseca.com",
+      "ts": "2025-09-10T02:59:48Z",
+      "score": 362.86
     },
     {
       "id": "hn-45185756",
@@ -106,88 +61,52 @@
       "summary": "",
       "source": "spectrum.ieee.org",
       "ts": "2025-09-09T17:57:35Z",
-      "score": 179.76
+      "score": 339.47
+    },
+    {
+      "id": "hn-45186265",
+      "title": "Memory Integrity Enforcement",
+      "url": "https://security.apple.com/blog/memory-integrity-enforcement/",
+      "summary": "",
+      "source": "security.apple.com",
+      "ts": "2025-09-09T18:25:03Z",
+      "score": 316.73
+    },
+    {
+      "id": "hn-45188945",
+      "title": "Immunotherapy drug clinical trial results: half of tumors shrink or disappear",
+      "url": "https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/",
+      "summary": "",
+      "source": "rockefeller.edu",
+      "ts": "2025-09-09T20:55:16Z",
+      "score": 313.89
     },
     {
       "id": "hn-45182657",
-      "title": "US HS students lose ground in math and reading, continuing yearslong decline",
+      "title": "US High school students' scores fall in reading and math",
       "url": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
       "summary": "",
       "source": "apnews.com",
       "ts": "2025-09-09T14:45:46Z",
-      "score": 178.82
+      "score": 289.39
     },
     {
-      "id": "hn-45179889",
-      "title": "You too can run malware from NPM (I mean without consequences)",
-      "url": "https://github.com/naugtur/running-qix-malware",
+      "id": "hn-45179939",
+      "title": "DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware",
+      "url": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-09T10:02:23Z",
-      "score": 178.8
+      "ts": "2025-09-09T10:10:15Z",
+      "score": 283.46
     },
     {
-      "id": "hn-45187687",
-      "title": "Inflation Erased U.S. Income Gains Last Year",
-      "url": "https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0",
+      "id": "hn-45184432",
+      "title": "Microsoft is officially sending employees back to the office",
+      "url": "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9",
       "summary": "",
-      "source": "wsj.com",
-      "ts": "2025-09-09T19:44:12Z",
-      "score": 164.53
-    },
-    {
-      "id": "hn-45186726",
-      "title": "The Dying Dream of a Decentralized Web",
-      "url": "https://spectrum.ieee.org/web3-hardware-security",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-09T18:47:44Z",
-      "score": 161.53
-    },
-    {
-      "id": "hn-45183050",
-      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
-      "url": "https://cedardb.com/blog/doomql/",
-      "summary": "",
-      "source": "cedardb.com",
-      "ts": "2025-09-09T15:12:18Z",
-      "score": 158.59
-    },
-    {
-      "id": "hn-45188114",
-      "title": "I still love PHP and JavaScript (2022)",
-      "url": "https://the.scapegoat.dev/why-i-love-php-and-javascript/",
-      "summary": "",
-      "source": "the.scapegoat.dev",
-      "ts": "2025-09-09T20:09:53Z",
-      "score": 157.56
-    },
-    {
-      "id": "hn-45186011",
-      "title": "Dropbox Paper mobile App Discontinuation",
-      "url": "https://help.dropbox.com/installs/paper-mobile-discontinuation",
-      "summary": "",
-      "source": "help.dropbox.com",
-      "ts": "2025-09-09T18:12:28Z",
-      "score": 157.43
-    },
-    {
-      "id": "hn-45183589",
-      "title": "An attacker’s blunder gave us a look into their operations",
-      "url": "https://www.huntress.com/blog/rare-look-inside-attacker-operation",
-      "summary": "",
-      "source": "huntress.com",
-      "ts": "2025-09-09T15:42:32Z",
-      "score": 152.28
-    },
-    {
-      "id": "hn-45140572",
-      "title": "A clickable visual guide to the Rust type system",
-      "url": "https://rustcurious.com/elements/",
-      "summary": "",
-      "source": "rustcurious.com",
-      "ts": "2025-09-05T16:39:40Z",
-      "score": 151.55
+      "source": "businessinsider.com",
+      "ts": "2025-09-09T16:31:17Z",
+      "score": 277.42
     },
     {
       "id": "hn-45179304",
@@ -196,34 +115,7 @@
       "summary": "",
       "source": "news.bloomberglaw.com",
       "ts": "2025-09-09T08:46:53Z",
-      "score": 149.85
-    },
-    {
-      "id": "hn-45189053",
-      "title": "Anthropic is endorsing SB 53",
-      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-09T21:01:47Z",
-      "score": 143.07
-    },
-    {
-      "id": "hn-45189965",
-      "title": "All vibe coding tools are selling a get rich quick scheme",
-      "url": "https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/",
-      "summary": "",
-      "source": "varunraghu.com",
-      "ts": "2025-09-09T22:06:58Z",
-      "score": 133.23
-    },
-    {
-      "id": "hn-45185875",
-      "title": "Tomorrow's emoji today: Unicode 17.0",
-      "url": "https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170",
-      "summary": "",
-      "source": "jenniferdaniel.substack.com",
-      "ts": "2025-09-09T18:04:49Z",
-      "score": 132.59
+      "score": 213.98
     },
     {
       "id": "hn-45177683",
@@ -232,25 +124,124 @@
       "summary": "",
       "source": "anderegg.ca",
       "ts": "2025-09-09T05:16:23Z",
-      "score": 124.86
+      "score": 206.33
     },
     {
-      "id": "hn-45187449",
-      "title": "Polylaminin promotes regeneration after spinal cord injury (2010)",
-      "url": "https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury",
+      "id": "hn-45182770",
+      "title": "A new experimental Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2-exp",
       "summary": "",
-      "source": "researchgate.net",
-      "ts": "2025-09-09T19:27:28Z",
-      "score": 119.59
+      "source": "go.dev",
+      "ts": "2025-09-09T14:54:32Z",
+      "score": 201.99
     },
     {
-      "id": "hn-45188982",
-      "title": "I don't want AI agents controlling my laptop",
-      "url": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "id": "hn-45183050",
+      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
+      "url": "https://cedardb.com/blog/doomql/",
       "summary": "",
-      "source": "sophiebits.com",
-      "ts": "2025-09-09T20:57:20Z",
-      "score": 118.91
+      "source": "cedardb.com",
+      "ts": "2025-09-09T15:12:18Z",
+      "score": 183.79
+    },
+    {
+      "id": "hn-45191347",
+      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
+      "url": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
+      "summary": "",
+      "source": "sciencedaily.com",
+      "ts": "2025-09-10T00:10:40Z",
+      "score": 172.07
+    },
+    {
+      "id": "hn-45185875",
+      "title": "Tomorrow's emoji today: Unicode 17.0",
+      "url": "https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170",
+      "summary": "",
+      "source": "jenniferdaniel.substack.com",
+      "ts": "2025-09-09T18:04:49Z",
+      "score": 167.44
+    },
+    {
+      "id": "hn-45183589",
+      "title": "An attacker’s blunder gave us a look into their operations",
+      "url": "https://www.huntress.com/blog/rare-look-inside-attacker-operation",
+      "summary": "",
+      "source": "huntress.com",
+      "ts": "2025-09-09T15:42:32Z",
+      "score": 161.08
+    },
+    {
+      "id": "hn-45186011",
+      "title": "Dropbox Paper mobile App Discontinuation",
+      "url": "https://help.dropbox.com/installs/paper-mobile-discontinuation",
+      "summary": "",
+      "source": "help.dropbox.com",
+      "ts": "2025-09-09T18:12:28Z",
+      "score": 152.63
+    },
+    {
+      "id": "hn-45192194",
+      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+      "url": "https://arxiv.org/abs/2508.05004",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-10T02:02:17Z",
+      "score": 145.08
+    },
+    {
+      "id": "hn-45177518",
+      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "url": "https://lewiscampbell.tech/blog/250908.html",
+      "summary": "",
+      "source": "lewiscampbell.tech",
+      "ts": "2025-09-09T04:46:17Z",
+      "score": 143.98
+    },
+    {
+      "id": "hn-45190777",
+      "title": "Hypervisor in 1k Lines",
+      "url": "https://1000hv.seiya.me/en",
+      "summary": "",
+      "source": "1000hv.seiya.me",
+      "ts": "2025-09-09T23:13:59Z",
+      "score": 127.93
+    },
+    {
+      "id": "hn-45195267",
+      "title": "A love letter to the CSV format (2024)",
+      "url": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
+      "summary": "",
+      "source": "medialab.sciencespo.fr",
+      "ts": "2025-09-10T09:27:13Z",
+      "score": 126.53
+    },
+    {
+      "id": "hn-45171733",
+      "title": "All clickwheel iPod games have now been preserved for posterity",
+      "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-09-08T18:09:25Z",
+      "score": 117.91
+    },
+    {
+      "id": "hn-45195624",
+      "title": "Radar footage shows Hellfire missile fired by US Military bounce off UFO",
+      "url": "https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/",
+      "summary": "",
+      "source": "nypost.com",
+      "ts": "2025-09-10T10:20:37Z",
+      "score": 112.73
+    },
+    {
+      "id": "hn-45194341",
+      "title": "News: Arm announces next Generation core family called Arm Lumex",
+      "url": "https://www.phoronix.com/news/Arm-Lumex-Platform-C1",
+      "summary": "",
+      "source": "phoronix.com",
+      "ts": "2025-09-10T07:20:07Z",
+      "score": 108.59
     },
     {
       "id": "hn-45166245",
@@ -259,79 +250,43 @@
       "summary": "",
       "source": "en.wikipedia.org",
       "ts": "2025-09-08T09:29:36Z",
-      "score": 108.34
+      "score": 108.52
     },
     {
-      "id": "303e2c06f53a",
-      "title": "From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/",
-      "summary": "Each Side Event can unlock new opportunities for the hosts: investor deal flow, talent connections, and brand exposure with the startup community.",
+      "id": "hn-45154142",
+      "title": "Axial twist theory",
+      "url": "https://en.wikipedia.org/wiki/Axial_twist_theory",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-07T00:25:00Z",
+      "score": 108.33
+    },
+    {
+      "id": "9d2a2304451f",
+      "title": "Google’s former security leads raise $13M to fight email threats before they reach you",
+      "url": "https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/",
+      "summary": "The startup is using real-time AI agents that inspect, analyze, and neutralize email threats.",
       "source": "techcrunch.com",
-      "ts": "2025-09-09T22:40:47Z",
+      "ts": "2025-09-10T11:00:00Z",
       "score": 107.73
     },
     {
-      "id": "8f98668ee461",
-      "title": "Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold",
-      "url": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
-      "summary": "Anthropic’s $1.5 billion book piracy settlement has been put on pause after the federal judge overseeing the class action case raised concerns about the terms of the agreement. During a hearing this week, Judge William Alsup rejected the settlement over concerns that class action lawyers will create a deal behind closed doors that they will [&#8230;]",
+      "id": "7cd60fac2f6b",
+      "title": "The MechaHitler defense contract is raising red flags",
+      "url": "https://www.theverge.com/x-ai/775411/grok-xai-safety-musk-warren-hegseth-dod",
+      "summary": "Ask someone their worst fears about AI, and you'll find a few recurring topics - from near-term fears like AI tools replacing human workers and the loss of critical thinking to apocalyptic scenarios like AI-designed weapons of mass destruction and automated war. Most have one thing in common: a loss of human control. And the [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-09T21:45:42Z",
-      "score": 106.17
+      "ts": "2025-09-10T11:00:00Z",
+      "score": 107.73
     },
     {
-      "id": "1f0faea05346",
-      "title": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic",
-      "url": "https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/",
-      "summary": "The move to diversify its AI partnerships by tapping the shoulder of OpenAI’s top rival comes as the AI company also pursues independence from Microsoft with its own AI infrastructure and a potential LinkedIn competitor.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-09T20:11:30Z",
-      "score": 102.75
-    },
-    {
-      "id": "4fd1f9acef43",
-      "title": "Apple barely talked about AI at its big iPhone 17 event",
-      "url": "https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence",
-      "summary": "Apple's hotly anticipated event was full of news about updates to the AirPods, Apple Watch, iPhones, and more. But during the presentation, which was considerably shorter than usual at just an hour and 15 minutes, there was one notable buzzword missing from a good chunk of the fanfare: AI. Although CEO Tim Cook said during [&#8230;]",
+      "id": "f385478f04dd",
+      "title": "Zillow’s new AI staging feature is impressively unimpressive",
+      "url": "https://www.theverge.com/news/775465/zillow-ai-virtual-staging",
+      "summary": "Zillow is launching an AI-powered feature that will allow home hunters to empty the room of furniture or subtly change the design style. The intent is to make it easier to overcome the owner’s dodgy design choices and questionable furniture so buyers can better picture themselves living in a property. In concept, the tool, called [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-09T19:15:02Z",
-      "score": 100.75
-    },
-    {
-      "id": "f04bf8605fcf",
-      "title": "Apple’s new iPhone 17 devices don’t have an AI-powered Siri yet. It doesn’t matter.",
-      "url": "https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/",
-      "summary": "Until now, Apple has only released what could be considered baseline AI features for its devices, like AI writing tools, summarization, generative AI images, live translation, visual search, and Genmoji, among others.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-09T18:50:09Z",
-      "score": 99.89
-    },
-    {
-      "id": "hn-45189260",
-      "title": "Show HN: Shellcast.tv – Stream your vibe coding",
-      "url": "https://shellcast.tv/",
-      "summary": "",
-      "source": "shellcast.tv",
-      "ts": "2025-09-09T21:13:32Z",
-      "score": 99.64
-    },
-    {
-      "id": "hn-45186705",
-      "title": "Subsea Cables Parted in Red Sea Again",
-      "url": "https://www.kentik.com/blog/subsea-cables-parted-in-red-sea-again/",
-      "summary": "",
-      "source": "kentik.com",
-      "ts": "2025-09-09T18:46:42Z",
-      "score": 99.1
-    },
-    {
-      "id": "55eec3c25bc9",
-      "title": "Shipping smarter agents with every new model",
-      "url": "https://openai.com/index/safetykit",
-      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
-      "source": "openai.com",
-      "ts": "2025-09-09T10:00:00Z",
-      "score": 98.2
+      "ts": "2025-09-10T10:00:00Z",
+      "score": 106.73
     },
     {
       "id": "hn-45167436",
@@ -340,97 +295,16 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-08T12:26:15Z",
-      "score": 93.2
+      "score": 104.75
     },
     {
-      "id": "3fd5fbe4bb43",
-      "title": "Google’s Veo 3 can now generate vertical AI videos",
-      "url": "https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support",
-      "summary": "Google has added support for 1080p resolution and vertical video formats to its Veo 3 AI video generator. According to the announcement on Google’s developer blog, both Veo 3 and Veo 3 Fast — a faster, and more affordable version of the video model that produces lower-quality results — now allow users to generate videos [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-09T14:23:51Z",
-      "score": 91.07
-    },
-    {
-      "id": "hn-45164892",
-      "title": "I solved a distributed queue problem after 15 years",
-      "url": "https://www.dbos.dev/blog/durable-queues",
+      "id": "hn-45194165",
+      "title": "Children and young people's reading in 2025",
+      "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
       "summary": "",
-      "source": "dbos.dev",
-      "ts": "2025-09-08T05:28:34Z",
-      "score": 90.3
-    },
-    {
-      "id": "1aaff3573e8d",
-      "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
-      "url": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/",
-      "summary": "As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. At AWS, we’re also seeing a transformation across the technology […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-09T17:40:53Z",
-      "score": 88.65
-    },
-    {
-      "id": "hn-45184921",
-      "title": "Weave (YC W25) is hiring a founding AI engineer",
-      "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-09T17:01:12Z",
-      "score": 88.04
-    },
-    {
-      "id": "b44bbfe12e7f",
-      "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/",
-      "summary": "AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-09T14:35:22Z",
-      "score": 83.12
-    },
-    {
-      "id": "66080037760e",
-      "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose\n  Transformers",
-      "url": "http://arxiv.org/abs/2509.06956v1",
-      "summary": "Transformers have been successfully applied in the field of video-based 3D\nhuman pose estimation. However, the high computational costs of these video\npose transformers (VPTs) make them impractical on resource-constrained devices.\nIn this paper, we present a hierarchical plug-and-play pruning-and-recovering\nframework, called Hierarchical Hourglass Tokenizer (H$_{2}$OT), for efficient\ntransformer-based 3D human pose estimation from videos. H$_{2}$OT begins with\nprogressively pruning pose tokens of redundant frames and ends with recovering\nfull-length sequences, resulting in a few pose tokens in the intermediate\ntransformer blocks and thus improving the model efficiency. It works with two\nkey modules, namely, a Token Pruning Module (TPM) and a Token Recovering Module\n(TRM). TPM dynamically selects a few representative tokens to eliminate the\nredundancy of video frames, while TRM restores the detailed spatio-temporal\ninformation based on the selected tokens, thereby expanding the network output\nto the original full-length temporal resolution for fast inference. Our method\nis general-purpose: it can be easily incorporated into common VPT models on\nboth seq2seq and seq2frame pipelines while effectively accommodating different\ntoken pruning and recovery strategies. In addition, our H$_{2}$OT reveals that\nmaintaining the full pose sequence is unnecessary, and a few pose tokens of\nrepresentative frames can achieve both high efficiency and estimation accuracy.\nExtensive experiments on multiple benchmark datasets demonstrate both the\neffectiveness and efficiency of the proposed method. Code and models are\navailable at https://github.com/NationalGAILab/HoT.",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:59:59Z",
-      "score": 70.36
-    },
-    {
-      "id": "d3368d800de6",
-      "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for\n  Dynamic Environments",
-      "url": "http://arxiv.org/abs/2509.06953v1",
-      "summary": "Generating collision-free motion in dynamic, partially observable\nenvironments is a fundamental challenge for robotic manipulators. Classical\nmotion planners can compute globally optimal trajectories but require full\nenvironment knowledge and are typically too slow for dynamic scenes. Neural\nmotion policies offer a promising alternative by operating in closed-loop\ndirectly on raw sensory inputs but often struggle to generalize in complex or\ndynamic settings. We propose Deep Reactive Policy (DRP), a visuo-motor neural\nmotion policy designed for reactive motion generation in diverse dynamic\nenvironments, operating directly on point cloud sensory input. At its core is\nIMPACT, a transformer-based neural motion policy pretrained on 10 million\ngenerated expert trajectories across diverse simulation scenarios. We further\nimprove IMPACT's static obstacle avoidance through iterative student-teacher\nfinetuning. We additionally enhance the policy's dynamic obstacle avoidance at\ninference time using DCP-RMP, a locally reactive goal-proposal module. We\nevaluate DRP on challenging tasks featuring cluttered scenes, dynamic moving\nobstacles, and goal obstructions. DRP achieves strong generalization,\noutperforming prior classical and neural methods in success rate across both\nsimulated and real-world settings. Video results and code available at\nhttps://deep-reactive-policy.com",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:59:35Z",
-      "score": 70.35
-    },
-    {
-      "id": "6cc6937a7598",
-      "title": "Interleaving Reasoning for Better Text-to-Image Generation",
-      "url": "http://arxiv.org/abs/2509.06945v1",
-      "summary": "Unified multimodal understanding and generation models recently have achieve\nsignificant improvement in image generation capability, yet a large gap remains\nin instruction following and detail preservation compared to systems that\ntightly couple comprehension with generation such as GPT-4o. Motivated by\nrecent advances in interleaving reasoning, we explore whether such reasoning\ncan further improve Text-to-Image (T2I) generation. We introduce Interleaving\nReasoning Generation (IRG), a framework that alternates between text-based\nthinking and image synthesis: the model first produces a text-based thinking to\nguide an initial image, then reflects on the result to refine fine-grained\ndetails, visual quality, and aesthetics while preserving semantics. To train\nIRG effectively, we propose Interleaving Reasoning Generation Learning (IRGL),\nwhich targets two sub-goals: (1) strengthening the initial think-and-generate\nstage to establish core content and base quality, and (2) enabling high-quality\ntextual reflection and faithful implementation of those refinements in a\nsubsequent image. We curate IRGL-300K, a dataset organized into six decomposed\nlearning modes that jointly cover learning text-based thinking, and full\nthinking-image trajectories. Starting from a unified foundation model that\nnatively emits interleaved text-image outputs, our two-stage training first\nbuilds robust thinking and reflection, then efficiently tunes the IRG pipeline\nin the full thinking-image trajectory data. Extensive experiments show SoTA\nperformance, yielding absolute gains of 5-10 points on GenEval, WISE, TIIF,\nGenAI-Bench, and OneIG-EN, alongside substantial improvements in visual quality\nand fine-grained fidelity. The code, model weights and datasets will be\nreleased in: https://github.com/Osilly/Interleaving-Reasoning-Generation .",
-      "source": "arxiv.org",
-      "ts": "2025-09-08T17:56:23Z",
-      "score": 70.28
-    },
-    {
-      "id": "a9357f717f73",
-      "title": "A People-First AI Fund: $50M to support nonprofits",
-      "url": "https://openai.com/index/people-first-ai-fund",
-      "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
-      "source": "openai.com",
-      "ts": "2025-09-08T14:00:00Z",
-      "score": 64.74
-    },
-    {
-      "id": "06fed96e726d",
-      "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/",
-      "summary": "We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-08T20:50:04Z",
-      "score": 57.42
+      "source": "literacytrust.org.uk",
+      "ts": "2025-09-10T06:51:38Z",
+      "score": 104.09
     },
     {
       "id": "hn-45158118",
@@ -439,34 +313,160 @@
       "summary": "",
       "source": "bottlefire.dev",
       "ts": "2025-09-07T13:48:25Z",
-      "score": 45.68
+      "score": 97.24
     },
     {
-      "id": "hn-45157278",
-      "title": "Cities obey the laws of living things",
-      "url": "https://nautil.us/cities-obey-the-laws-of-living-things-1236057/",
+      "id": "hn-45194223",
+      "title": "Crimson (YC X25) is hiring founding engineers in London",
+      "url": "https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack",
       "summary": "",
-      "source": "nautil.us",
-      "ts": "2025-09-07T11:31:01Z",
-      "score": 45.48
+      "source": "ycombinator.com",
+      "ts": "2025-09-10T07:00:55Z",
+      "score": 91.78
     },
     {
-      "id": "hn-45154142",
-      "title": "Axial Twist Theory",
-      "url": "https://en.wikipedia.org/wiki/Axial_twist_theory",
-      "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-09-07T00:25:00Z",
-      "score": 41.36
+      "id": "dcf62c0fe351",
+      "title": "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual\n  Search",
+      "url": "http://arxiv.org/abs/2509.07969v1",
+      "summary": "Recent advances in large multimodal models have leveraged image-based tools\nwith reinforcement learning to tackle visual problems. However, existing\nopen-source approaches often exhibit monotonous reasoning patterns and allow\nonly a limited number of interaction turns, making them inadequate for\ndifficult tasks that require trial-and-error exploration. In this work, we\naddress this limitation by scaling up tool-based interactions and introduce\nMini-o3, a system that executes deep, multi-turn reasoning -- spanning tens of\nsteps -- and achieves state-of-the-art performance on challenging visual search\ntasks. Our recipe for reproducing OpenAI o3-style behaviors comprises three key\ncomponents. First, we construct the Visual Probe Dataset, a collection of\nthousands of challenging visual search problems designed for exploratory\nreasoning. Second, we develop an iterative data collection pipeline to obtain\ncold-start trajectories that exhibit diverse reasoning patterns, including\ndepth-first search, trial-and-error, and goal maintenance. Third, we propose an\nover-turn masking strategy that prevents penalization of over-turn responses\n(those that hit the maximum number of turns) during reinforcement learning,\nthereby balancing training-time efficiency with test-time scalability. Despite\ntraining with an upper bound of only six interaction turns, our model generates\ntrajectories that naturally scale to tens of turns at inference time, with\naccuracy improving as the number of turns increases. Extensive experiments\ndemonstrate that Mini-o3 produces rich reasoning patterns and deep thinking\npaths, effectively solving challenging visual search problems.",
+      "source": "arxiv.org",
+      "ts": "2025-09-09T17:54:21Z",
+      "score": 90.2
     },
     {
-      "id": "hn-45157161",
-      "title": "Show HN: An Open Source XR(AR/VR) Operating System",
-      "url": "https://www.getxeneva.com/",
+      "id": "0ffbe3766c3c",
+      "title": "Probing the Preferences of a Language Model: Integrating Verbal and\n  Behavioral Tests of AI Welfare",
+      "url": "http://arxiv.org/abs/2509.07961v1",
+      "summary": "We develop new experimental paradigms for measuring welfare in language\nmodels. We compare verbal reports of models about their preferences with\npreferences expressed through behavior when navigating a virtual environment\nand selecting conversation topics. We also test how costs and rewards affect\nbehavior and whether responses to an eudaimonic welfare scale - measuring\nstates such as autonomy and purpose in life - are consistent across\nsemantically equivalent prompts. Overall, we observed a notable degree of\nmutual support between our measures. The reliable correlations observed between\nstated preferences and behavior across conditions suggest that preference\nsatisfaction can, in principle, serve as an empirically measurable welfare\nproxy in some of today's AI systems. Furthermore, our design offered an\nilluminating setting for qualitative observation of model behavior. Yet, the\nconsistency between measures was more pronounced in some models and conditions\nthan others and responses were not consistent across perturbations. Due to\nthis, and the background uncertainty about the nature of welfare and the\ncognitive states (and welfare subjecthood) of language models, we are currently\nuncertain whether our methods successfully measure the welfare state of\nlanguage models. Nevertheless, these findings highlight the feasibility of\nwelfare measurement in language models, inviting further exploration.",
+      "source": "arxiv.org",
+      "ts": "2025-09-09T17:48:44Z",
+      "score": 90.03
+    },
+    {
+      "id": "2794ec6d981a",
+      "title": "Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate",
+      "url": "https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/",
+      "summary": "The two-year-old startup has been in discussions with investors for a Series C round.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-10T01:36:51Z",
+      "score": 89.62
+    },
+    {
+      "id": "303e2c06f53a",
+      "title": "From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/",
+      "summary": "Each Side Event can unlock new opportunities for the hosts: investor deal flow, talent connections, and brand exposure with the startup community.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-09T22:40:47Z",
+      "score": 84.31
+    },
+    {
+      "id": "8f98668ee461",
+      "title": "Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold",
+      "url": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
+      "summary": "Anthropic’s $1.5 billion book piracy settlement has been put on pause after the federal judge overseeing the class action case raised concerns about the terms of the agreement. During a hearing this week, Judge William Alsup rejected the settlement over concerns that class action lawyers will create a deal behind closed doors that they will [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-09T21:45:42Z",
+      "score": 82.71
+    },
+    {
+      "id": "55eec3c25bc9",
+      "title": "Shipping smarter agents with every new model",
+      "url": "https://openai.com/index/safetykit",
+      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+      "source": "openai.com",
+      "ts": "2025-09-09T10:00:00Z",
+      "score": 76.51
+    },
+    {
+      "id": "1aaff3573e8d",
+      "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
+      "url": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/",
+      "summary": "As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. At AWS, we’re also seeing a transformation across the technology […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-09T17:40:53Z",
+      "score": 69.06
+    },
+    {
+      "id": "b44bbfe12e7f",
+      "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/",
+      "summary": "AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-09T14:35:22Z",
+      "score": 64.76
+    },
+    {
+      "id": "a9357f717f73",
+      "title": "A People-First AI Fund: $50M to support nonprofits",
+      "url": "https://openai.com/index/people-first-ai-fund",
+      "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
+      "source": "openai.com",
+      "ts": "2025-09-08T14:00:00Z",
+      "score": 50.44
+    },
+    {
+      "id": "06fed96e726d",
+      "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/",
+      "summary": "We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-08T20:50:04Z",
+      "score": 44.73
+    },
+    {
+      "id": "hn-45156671",
+      "title": "Cassette Logic: technology that never dies but is already dead",
+      "url": "https://www.differentshelf.com/cassette-logic/",
       "summary": "",
-      "source": "getxeneva.com",
-      "ts": "2025-09-07T11:09:43Z",
-      "score": 39.87
+      "source": "differentshelf.com",
+      "ts": "2025-09-07T09:20:56Z",
+      "score": 39.36
+    },
+    {
+      "id": "hn-45157505",
+      "title": "Semantic Line Breaks",
+      "url": "https://sembr.org",
+      "summary": "",
+      "source": "sembr.org",
+      "ts": "2025-09-07T12:14:41Z",
+      "score": 35.89
+    },
+    {
+      "id": "hn-45154088",
+      "title": "Knowledge and Memory",
+      "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+      "summary": "",
+      "source": "robinsloan.com",
+      "ts": "2025-09-07T00:15:59Z",
+      "score": 30.88
+    },
+    {
+      "id": "hn-45157094",
+      "title": "PKM apps need to get better at resurfacing information",
+      "url": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
+      "summary": "",
+      "source": "ankursethi.com",
+      "ts": "2025-09-07T10:56:41Z",
+      "score": 23.88
+    },
+    {
+      "id": "hn-45153380",
+      "title": "Interesting PEZY-SC4s",
+      "url": "https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025",
+      "summary": "",
+      "source": "chipsandcheese.com",
+      "ts": "2025-09-06T22:15:28Z",
+      "score": 23.55
+    },
+    {
+      "id": "hn-45149777",
+      "title": "Show HN: Downloading a folder from a repo using rust",
+      "url": "https://github.com/zikani03/git-down",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-06T14:51:31Z",
+      "score": 16.93
     },
     {
       "id": "fd79768a741e",
@@ -475,7 +475,7 @@
       "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
       "source": "openai.com",
       "ts": "2025-09-05T10:00:00Z",
-      "score": 13.29
+      "score": 10.35
     },
     {
       "id": "982ca303f669",
@@ -484,7 +484,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 2.58
+      "score": 2.01
     },
     {
       "id": "265e85cbbb22",
@@ -493,7 +493,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.08
+      "score": 0.06
     },
     {
       "id": "99b464916a99",
