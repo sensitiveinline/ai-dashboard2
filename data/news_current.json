@@ -1,40 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45192655",
-      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
-      "summary": "",
-      "source": "joshfonseca.com",
-      "ts": "2025-09-10T02:59:48Z",
-      "score": 547.66
-    },
-    {
       "id": "hn-45199931",
       "title": "I didn't bring my son to a museum to look at screens",
       "url": "https://sethpurcell.com/writing/screens-in-museums/",
       "summary": "",
       "source": "sethpurcell.com",
       "ts": "2025-09-10T16:20:55Z",
-      "score": 515.19
-    },
-    {
-      "id": "hn-45195520",
-      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-      "summary": "",
-      "source": "greeneuropeanjournal.eu",
-      "ts": "2025-09-10T10:08:14Z",
-      "score": 449.53
-    },
-    {
-      "id": "hn-45202200",
-      "title": "Charlie Kirk killed at event in Utah",
-      "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
-      "summary": "",
-      "source": "nbcnews.com",
-      "ts": "2025-09-10T19:02:48Z",
-      "score": 402.57
+      "score": 676.78
     },
     {
       "id": "hn-45181535",
@@ -43,7 +16,25 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-09T13:16:30Z",
-      "score": 401.24
+      "score": 588.42
+    },
+    {
+      "id": "hn-45195520",
+      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "summary": "",
+      "source": "greeneuropeanjournal.eu",
+      "ts": "2025-09-10T10:08:14Z",
+      "score": 549.23
+    },
+    {
+      "id": "hn-45192655",
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "summary": "",
+      "source": "joshfonseca.com",
+      "ts": "2025-09-10T02:59:48Z",
+      "score": 548.27
     },
     {
       "id": "hn-45199713",
@@ -52,79 +43,16 @@
       "summary": "",
       "source": "platform.openai.com",
       "ts": "2025-09-10T16:04:49Z",
-      "score": 382.08
+      "score": 442.53
     },
     {
-      "id": "hn-45196173",
-      "title": "OrioleDB Patent: now freely available to the Postgres community",
-      "url": "https://supabase.com/blog/orioledb-patent-free",
+      "id": "hn-45209366",
+      "title": "Germany is not supporting ChatControl – blocking minority secured",
+      "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
       "summary": "",
-      "source": "supabase.com",
-      "ts": "2025-09-10T11:31:55Z",
-      "score": 290.96
-    },
-    {
-      "id": "hn-45198420",
-      "title": "We can’t circumvent the work needed to train our minds",
-      "url": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
-      "summary": "",
-      "source": "zettelkasten.de",
-      "ts": "2025-09-10T14:38:59Z",
-      "score": 273.39
-    },
-    {
-      "id": "hn-45199760",
-      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
-      "url": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
-      "summary": "",
-      "source": "thenexus.media",
-      "ts": "2025-09-10T16:08:39Z",
-      "score": 237.63
-    },
-    {
-      "id": "hn-45200925",
-      "title": "Defeating Nondeterminism in LLM Inference",
-      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "summary": "",
-      "source": "thinkingmachines.ai",
-      "ts": "2025-09-10T17:26:08Z",
-      "score": 189.57
-    },
-    {
-      "id": "hn-45199031",
-      "title": "Zoox robotaxi launches in Las Vegas",
-      "url": "https://zoox.com/journal/las-vegas",
-      "summary": "",
-      "source": "zoox.com",
-      "ts": "2025-09-10T15:18:12Z",
-      "score": 179.13
-    },
-    {
-      "id": "hn-45171733",
-      "title": "All clickwheel iPod games have now been preserved for posterity",
-      "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-08T18:09:25Z",
-      "score": 168.53
-    },
-    {
-      "id": "hn-45196437",
-      "title": "Kerberoasting",
-      "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "summary": "",
-      "source": "blog.cryptographyengineering.com",
-      "ts": "2025-09-10T12:01:30Z",
-      "score": 161.57
-    },
-    {
-      "id": "hn-45198481",
-      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-      "url": "https://jiratui.sh/",
-      "summary": "",
-      "source": "jiratui.sh",
-      "ts": "2025-09-10T14:42:15Z",
-      "score": 151.09
+      "source": "digitalcourage.social",
+      "ts": "2025-09-11T08:59:40Z",
+      "score": 417.83
     },
     {
       "id": "hn-45204393",
@@ -133,97 +61,52 @@
       "summary": "",
       "source": "lwn.net",
       "ts": "2025-09-10T21:49:36Z",
-      "score": 145.81
+      "score": 394.5
     },
     {
-      "id": "hn-45202421",
-      "title": "UGMM-NN: Univariate Gaussian Mixture Model Neural Network",
-      "url": "https://arxiv.org/abs/2509.07569",
+      "id": "hn-45206567",
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-10T19:23:53Z",
-      "score": 140.46
+      "source": "arstechnica.com",
+      "ts": "2025-09-11T01:27:31Z",
+      "score": 347.02
     },
     {
-      "id": "hn-45203935",
-      "title": "Fraudulent Publishing in the Mathematical Sciences",
-      "url": "https://arxiv.org/abs/2509.07257",
+      "id": "hn-45205232",
+      "title": "DOOMscrolling: The Game",
+      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-10T21:21:36Z",
-      "score": 136.08
+      "source": "ironicsans.ghost.io",
+      "ts": "2025-09-10T22:56:55Z",
+      "score": 261.28
     },
     {
-      "id": "hn-45196568",
-      "title": "Tarsnap is cozy",
-      "url": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
+      "id": "hn-45200925",
+      "title": "Defeating Nondeterminism in LLM Inference",
+      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
       "summary": "",
-      "source": "til.andrew-quinn.me",
-      "ts": "2025-09-10T12:17:45Z",
-      "score": 134.41
+      "source": "thinkingmachines.ai",
+      "ts": "2025-09-10T17:26:08Z",
+      "score": 226.52
     },
     {
-      "id": "hn-45156414",
-      "title": "Things you can do with a debugger but not with print debugging",
-      "url": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
+      "id": "hn-45198481",
+      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+      "url": "https://jiratui.sh/",
       "summary": "",
-      "source": "mahesh-hegde.github.io",
-      "ts": "2025-09-07T08:22:54Z",
-      "score": 133.89
+      "source": "jiratui.sh",
+      "ts": "2025-09-10T14:42:15Z",
+      "score": 216.72
     },
     {
-      "id": "hn-45201372",
-      "title": "Delphi 13 Florence Released",
-      "url": "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/",
+      "id": "hn-45196437",
+      "title": "Kerberoasting",
+      "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
       "summary": "",
-      "source": "blogs.embarcadero.com",
-      "ts": "2025-09-10T17:56:18Z",
-      "score": 130.49
-    },
-    {
-      "id": "hn-45199378",
-      "title": "The origin story of merge queues",
-      "url": "https://mergify.com/blog/the-origin-story-of-merge-queues",
-      "summary": "",
-      "source": "mergify.com",
-      "ts": "2025-09-10T15:43:43Z",
-      "score": 127.09
-    },
-    {
-      "id": "hn-45200024",
-      "title": "\"No Tax on Tips\" Includes Digital Creators, Too",
-      "url": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
-      "summary": "",
-      "source": "hollywoodreporter.com",
-      "ts": "2025-09-10T16:26:07Z",
-      "score": 122.35
-    },
-    {
-      "id": "hn-45202252",
-      "title": "Dotter: Dotfile manager and templater written in Rust",
-      "url": "https://github.com/SuperCuber/dotter",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-10T19:08:05Z",
-      "score": 119.54
-    },
-    {
-      "id": "hn-45201703",
-      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
-      "url": "https://haystackeditor.com",
-      "summary": "",
-      "source": "haystackeditor.com",
-      "ts": "2025-09-10T18:21:12Z",
-      "score": 117.47
-    },
-    {
-      "id": "hn-45204305",
-      "title": "Christie's Deletes Digital Art Department",
-      "url": "https://news.artnet.com/market/christies-scraps-digital-art-department-2685784",
-      "summary": "",
-      "source": "news.artnet.com",
-      "ts": "2025-09-10T21:43:47Z",
-      "score": 114.42
+      "source": "blog.cryptographyengineering.com",
+      "ts": "2025-09-10T12:01:30Z",
+      "score": 169.99
     },
     {
       "id": "hn-45172058",
@@ -232,43 +115,52 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-08T18:36:46Z",
-      "score": 112.44
+      "score": 153.11
     },
     {
-      "id": "hn-45203617",
-      "title": "Show HN: HumanAlarm – Real people knock on your door to wake you up",
-      "url": "https://humanalarm.com",
+      "id": "hn-45203935",
+      "title": "Fraudulent Publishing in the Mathematical Sciences",
+      "url": "https://arxiv.org/abs/2509.07257",
       "summary": "",
-      "source": "humanalarm.com",
-      "ts": "2025-09-10T20:59:24Z",
-      "score": 108.74
+      "source": "arxiv.org",
+      "ts": "2025-09-10T21:21:36Z",
+      "score": 151.55
     },
     {
-      "id": "faaab0e20b26",
-      "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate",
-      "summary": "OpenAI and Oracle signed a deal “to purchase $300 billion in computing power over roughly five years,” one of the largest cloud computing deals ever, reports the Wall Street Journal. In July, the two companies revealed their partnership to build data centers worth 4.5 gigawatts of power as part of the broader Stargate project they [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T23:01:10Z",
-      "score": 107.73
+      "id": "hn-45200024",
+      "title": "“No Tax on Tips” Includes Digital Creators, Too",
+      "url": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
+      "summary": "",
+      "source": "hollywoodreporter.com",
+      "ts": "2025-09-10T16:26:07Z",
+      "score": 151.3
     },
     {
-      "id": "103c01518fe7",
-      "title": "Thinking Machines Lab wants to make AI models more consistent",
-      "url": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
-      "summary": "In a blog post shared Wednesday, Mira Murati's startup offered a rare glimpse into some of work its doing to improve AI models.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-10T21:30:11Z",
-      "score": 105.56
+      "id": "hn-45196568",
+      "title": "Tarsnap is cozy",
+      "url": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
+      "summary": "",
+      "source": "til.andrew-quinn.me",
+      "ts": "2025-09-10T12:17:45Z",
+      "score": 134.34
     },
     {
-      "id": "ec17e6488b65",
-      "title": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
-      "summary": "On Wednesday, Sen. Ted Cruz introduced legislation to create a regulation \"sandbox\" that would allow artificial intelligence companies to experiment with minimal federal oversight. The SANDBOX Act, if passed by Congress, would allow companies to apply for modifications to or waivers from any \"obstructive regulations\" to the testing and deployment of products or services that [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T21:25:20Z",
-      "score": 105.38
+      "id": "hn-45206311",
+      "title": "Where did the Smurfs get their hats (2018)",
+      "url": "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/",
+      "summary": "",
+      "source": "pipelinecomics.com",
+      "ts": "2025-09-11T00:52:32Z",
+      "score": 131.84
+    },
+    {
+      "id": "hn-45209599",
+      "title": "BCacheFS is being disabled in the openSUSE kernels 6.17+",
+      "url": "https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-11T09:41:07Z",
+      "score": 122.21
     },
     {
       "id": "hn-45204838",
@@ -277,142 +169,43 @@
       "summary": "",
       "source": "chipsandcheese.com",
       "ts": "2025-09-10T22:21:35Z",
-      "score": 103.69
+      "score": 119.94
     },
     {
-      "id": "hn-45205085",
-      "title": "ARM is great, ARM is terrible (and so is RISC-V) – The Changelog",
-      "url": "https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v",
+      "id": "hn-45201703",
+      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
+      "url": "https://haystackeditor.com",
       "summary": "",
-      "source": "changelog.complete.org",
-      "ts": "2025-09-10T22:42:01Z",
-      "score": 102.14
+      "source": "haystackeditor.com",
+      "ts": "2025-09-10T18:21:12Z",
+      "score": 113.25
     },
     {
-      "id": "cc209946a2d1",
-      "title": "OpenAI and Oracle reportedly ink historic cloud computing deal",
-      "url": "https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/",
-      "summary": "OpenAI and Oracle reportedly signed a deal that includes OpenAI buying $300 billion of compute over a five-year span.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-10T19:00:34Z",
-      "score": 100.21
-    },
-    {
-      "id": "hn-45203559",
-      "title": "In 1979 one of the best guitar solos recorded was cut for radio time",
-      "url": "https://www.seekhifi.com/my-sharona-by-the-knack/",
+      "id": "hn-45209389",
+      "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
+      "url": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
       "summary": "",
-      "source": "seekhifi.com",
-      "ts": "2025-09-10T20:56:03Z",
-      "score": 99.03
+      "source": "cnbc.com",
+      "ts": "2025-09-11T09:02:50Z",
+      "score": 110.13
     },
     {
-      "id": "2c3854a45583",
-      "title": "YouTube’s multi-language audio feature for dubbing videos rolls out to all creators",
-      "url": "https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/",
-      "summary": "YouTube's multi-language audio feature is rolling out to millions of creators, helping them reach a wider global audience.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-10T17:58:32Z",
-      "score": 98.08
-    },
-    {
-      "id": "hn-45203643",
-      "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
-      "url": "https://mux.com/jobs",
+      "id": "hn-45209558",
+      "title": "Reshaped is now open source",
+      "url": "https://reshaped.so/blog/reshaped-oss",
       "summary": "",
-      "source": "mux.com",
-      "ts": "2025-09-10T21:01:01Z",
-      "score": 95.6
+      "source": "reshaped.so",
+      "ts": "2025-09-11T09:32:49Z",
+      "score": 108.13
     },
     {
-      "id": "503718ea8595",
-      "title": "Larry Ellison usurps Elon Musk as the world’s richest person",
-      "url": "https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person",
-      "summary": "Elon Musk can no longer claim the title of the world’s richest man — at least for the time being. The net worth of Oracle CTO and co-founder, Larry Ellison, ballooned by $101 billion on Wednesday morning, bringing his total fortune to $393 billion, according to a report from Bloomberg. Ellison’s wealth now surpasses Musk’s, [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T16:29:12Z",
-      "score": 95.08
-    },
-    {
-      "id": "7a84e25f1575",
-      "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
-      "summary": "We are excited to announce the availability of the Technology Innovation Institute (TII)’s Falcon-H1 models on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, developers and data scientists can now use six instruction-tuned Falcon-H1 models (0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B) on AWS, and have access to a comprehensive suite of hybrid architecture models that combine traditional attention mechanisms with State Space Models (SSMs) to deliver exceptional performance with unprecedented efficiency.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:22:09Z",
-      "score": 86.23
-    },
-    {
-      "id": "e75e39d7c82e",
-      "title": "Oldcastle accelerates document processing with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/oldcastle-accelerates-document-processing-with-amazon-bedrock/",
-      "summary": "This post explores how Oldcastle partnered with AWS to transform their document processing workflow using Amazon Bedrock with Amazon Textract. We discuss how Oldcastle overcame the limitations of their previous OCR solution to automate the processing of hundreds of thousands of POD documents each month, dramatically improving accuracy while reducing manual effort.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:11:22Z",
-      "score": 85.91
-    },
-    {
-      "id": "0e459477834c",
-      "title": "How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-london-stock-exchange-group-is-detecting-market-abuse-with-their-ai-powered-surveillance-guide-on-amazon-bedrock/",
-      "summary": "In this post, we explore how London Stock Exchange Group (LSEG) used Amazon Bedrock and Anthropic's Claude foundation models to build an automated system that significantly improves the efficiency and accuracy of market surveillance operations.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:03:14Z",
-      "score": 85.66
-    },
-    {
-      "id": "dcf62c0fe351",
-      "title": "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual\n  Search",
-      "url": "http://arxiv.org/abs/2509.07969v1",
-      "summary": "Recent advances in large multimodal models have leveraged image-based tools\nwith reinforcement learning to tackle visual problems. However, existing\nopen-source approaches often exhibit monotonous reasoning patterns and allow\nonly a limited number of interaction turns, making them inadequate for\ndifficult tasks that require trial-and-error exploration. In this work, we\naddress this limitation by scaling up tool-based interactions and introduce\nMini-o3, a system that executes deep, multi-turn reasoning -- spanning tens of\nsteps -- and achieves state-of-the-art performance on challenging visual search\ntasks. Our recipe for reproducing OpenAI o3-style behaviors comprises three key\ncomponents. First, we construct the Visual Probe Dataset, a collection of\nthousands of challenging visual search problems designed for exploratory\nreasoning. Second, we develop an iterative data collection pipeline to obtain\ncold-start trajectories that exhibit diverse reasoning patterns, including\ndepth-first search, trial-and-error, and goal maintenance. Third, we propose an\nover-turn masking strategy that prevents penalization of over-turn responses\n(those that hit the maximum number of turns) during reinforcement learning,\nthereby balancing training-time efficiency with test-time scalability. Despite\ntraining with an upper bound of only six interaction turns, our model generates\ntrajectories that naturally scale to tens of turns at inference time, with\naccuracy improving as the number of turns increases. Extensive experiments\ndemonstrate that Mini-o3 produces rich reasoning patterns and deep thinking\npaths, effectively solving challenging visual search problems.",
-      "source": "arxiv.org",
-      "ts": "2025-09-09T17:54:21Z",
-      "score": 70.2
-    },
-    {
-      "id": "hn-45166655",
-      "title": "Distributing your own scripts via Homebrew",
-      "url": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+      "id": "hn-45209532",
+      "title": "DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking",
+      "url": "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/",
       "summary": "",
-      "source": "justin.searls.co",
-      "ts": "2025-09-08T10:36:17Z",
-      "score": 64.73
-    },
-    {
-      "id": "hn-45157505",
-      "title": "Semantic Line Breaks (2017)",
-      "url": "https://sembr.org",
-      "summary": "",
-      "source": "sembr.org",
-      "ts": "2025-09-07T12:14:41Z",
-      "score": 62.06
-    },
-    {
-      "id": "hn-45157425",
-      "title": "Some thoughts on personal Git hosting",
-      "url": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
-      "summary": "",
-      "source": "shkspr.mobi",
-      "ts": "2025-09-07T12:01:55Z",
-      "score": 61.38
-    },
-    {
-      "id": "55eec3c25bc9",
-      "title": "Shipping smarter agents with every new model",
-      "url": "https://openai.com/index/safetykit",
-      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
-      "source": "openai.com",
-      "ts": "2025-09-09T10:00:00Z",
-      "score": 59.54
-    },
-    {
-      "id": "hn-45163998",
-      "title": "Harvey Mudd Miniature Machine",
-      "url": "https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html",
-      "summary": "",
-      "source": "cs.hmc.edu",
-      "ts": "2025-09-08T01:46:14Z",
-      "score": 49.2
+      "source": "qodo.ai",
+      "ts": "2025-09-11T09:29:52Z",
+      "score": 105.63
     },
     {
       "id": "hn-45161410",
@@ -421,7 +214,223 @@
       "summary": "",
       "source": "infoq.com",
       "ts": "2025-09-07T19:31:50Z",
-      "score": 48.75
+      "score": 97.62
+    },
+    {
+      "id": "53c9bfdc1c86",
+      "title": "A California bill that would regulate AI companion chatbots is close to becoming law",
+      "url": "https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/",
+      "summary": "If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies legally accountable if their chatbots fail to meet those standards.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-11T05:10:51Z",
+      "score": 96.55
+    },
+    {
+      "id": "hn-45209065",
+      "title": "PgEdge Goes Open Source",
+      "url": "https://www.pgedge.com/blog/pgedge-goes-open-source",
+      "summary": "",
+      "source": "pgedge.com",
+      "ts": "2025-09-11T08:01:57Z",
+      "score": 96.14
+    },
+    {
+      "id": "19878f4c3661",
+      "title": "Perplexity reportedly raised $200M at $20B valuation",
+      "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
+      "summary": "The AI-powered search startup's valuation jumped from $18 billion two months earlier.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-11T03:59:10Z",
+      "score": 94.18
+    },
+    {
+      "id": "260e13ecf37e",
+      "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+      "url": "http://arxiv.org/abs/2509.08827v1",
+      "summary": "In this paper, we survey recent advances in Reinforcement Learning (RL) for\nreasoning with Large Language Models (LLMs). RL has achieved remarkable success\nin advancing the frontier of LLM capabilities, particularly in addressing\ncomplex logical tasks such as mathematics and coding. As a result, RL has\nemerged as a foundational methodology for transforming LLMs into LRMs. With the\nrapid progress of the field, further scaling of RL for LRMs now faces\nfoundational challenges not only in computational resources but also in\nalgorithm design, training data, and infrastructure. To this end, it is timely\nto revisit the development of this domain, reassess its trajectory, and explore\nstrategies to enhance the scalability of RL toward Artificial SuperIntelligence\n(ASI). In particular, we examine research applying RL to LLMs and LRMs for\nreasoning abilities, especially since the release of DeepSeek-R1, including\nfoundational components, core problems, training resources, and downstream\napplications, to identify future opportunities and directions for this rapidly\nevolving area. We hope this review will promote future research on RL for\nbroader reasoning models. Github:\nhttps://github.com/TsinghuaC3I/Awesome-RL-for-LRMs",
+      "source": "arxiv.org",
+      "ts": "2025-09-10T17:59:43Z",
+      "score": 90.38
+    },
+    {
+      "id": "5858dbe6d154",
+      "title": "Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs\n  for Text Annotation",
+      "url": "http://arxiv.org/abs/2509.08825v1",
+      "summary": "Large language models (LLMs) are rapidly transforming social science research\nby enabling the automation of labor-intensive tasks like data annotation and\ntext analysis. However, LLM outputs vary significantly depending on the\nimplementation choices made by researchers (e.g., model selection, prompting\nstrategy, or temperature settings). Such variation can introduce systematic\nbiases and random errors, which propagate to downstream analyses and cause Type\nI, Type II, Type S, or Type M errors. We call this LLM hacking.\n  We quantify the risk of LLM hacking by replicating 37 data annotation tasks\nfrom 21 published social science research studies with 18 different models.\nAnalyzing 13 million LLM labels, we test 2,361 realistic hypotheses to measure\nhow plausible researcher choices affect statistical conclusions. We find\nincorrect conclusions based on LLM-annotated data in approximately one in three\nhypotheses for state-of-the-art models, and in half the hypotheses for small\nlanguage models. While our findings show that higher task performance and\nbetter general model capabilities reduce LLM hacking risk, even highly accurate\nmodels do not completely eliminate it. The risk of LLM hacking decreases as\neffect sizes increase, indicating the need for more rigorous verification of\nfindings near significance thresholds. Our extensive analysis of LLM hacking\nmitigation techniques emphasizes the importance of human annotations in\nreducing false positive findings and improving model selection. Surprisingly,\ncommon regression estimator correction techniques are largely ineffective in\nreducing LLM hacking risk, as they heavily trade off Type I vs. Type II errors.\n  Beyond accidental errors, we find that intentional LLM hacking is\nunacceptably simple. With few LLMs and just a handful of prompt paraphrases,\nanything can be presented as statistically significant.",
+      "source": "arxiv.org",
+      "ts": "2025-09-10T17:58:53Z",
+      "score": 90.36
+    },
+    {
+      "id": "faaab0e20b26",
+      "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate",
+      "summary": "OpenAI and Oracle signed a deal “to purchase $300 billion in computing power over roughly five years,” one of the largest cloud computing deals ever, reports the Wall Street Journal. In July, the two companies revealed their partnership to build data centers worth 4.5 gigawatts of power as part of the broader Stargate project they [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-10T23:01:10Z",
+      "score": 84.92
+    },
+    {
+      "id": "hn-45167295",
+      "title": "A desktop environment without graphics (tmux-like)",
+      "url": "https://github.com/Julien-cpsn/desktop-tui",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-08T12:07:14Z",
+      "score": 82.63
+    },
+    {
+      "id": "103c01518fe7",
+      "title": "Thinking Machines Lab wants to make AI models more consistent",
+      "url": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
+      "summary": "In a blog post shared Wednesday, Mira Murati's startup offered a rare glimpse into some of work its doing to improve AI models.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-10T21:30:11Z",
+      "score": 82.28
+    },
+    {
+      "id": "ec17e6488b65",
+      "title": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
+      "summary": "On Wednesday, Sen. Ted Cruz introduced legislation to create a regulation \"sandbox\" that would allow artificial intelligence companies to experiment with minimal federal oversight. The SANDBOX Act, if passed by Congress, would allow companies to apply for modifications to or waivers from any \"obstructive regulations\" to the testing and deployment of products or services that [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-10T21:25:20Z",
+      "score": 82.14
+    },
+    {
+      "id": "hn-45203643",
+      "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
+      "url": "https://mux.com/jobs",
+      "summary": "",
+      "source": "mux.com",
+      "ts": "2025-09-10T21:01:01Z",
+      "score": 74.64
+    },
+    {
+      "id": "503718ea8595",
+      "title": "Larry Ellison usurps Elon Musk as the world’s richest person",
+      "url": "https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person",
+      "summary": "Elon Musk can no longer claim the title of the world’s richest man — at least for the time being. The net worth of Oracle CTO and co-founder, Larry Ellison, ballooned by $101 billion on Wednesday morning, bringing his total fortune to $393 billion, according to a report from Bloomberg. Ellison’s wealth now surpasses Musk’s, [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-10T16:29:12Z",
+      "score": 74.11
+    },
+    {
+      "id": "hn-45165721",
+      "title": "Hashed sorting is typically faster than hash tables",
+      "url": "https://reiner.org/hashed-sorting",
+      "summary": "",
+      "source": "reiner.org",
+      "ts": "2025-09-08T08:03:21Z",
+      "score": 72.99
+    },
+    {
+      "id": "7a84e25f1575",
+      "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+      "summary": "We are excited to announce the availability of the Technology Innovation Institute (TII)’s Falcon-H1 models on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, developers and data scientists can now use six instruction-tuned Falcon-H1 models (0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B) on AWS, and have access to a comprehensive suite of hybrid architecture models that combine traditional attention mechanisms with State Space Models (SSMs) to deliver exceptional performance with unprecedented efficiency.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-10T16:22:09Z",
+      "score": 67.21
+    },
+    {
+      "id": "hn-45157505",
+      "title": "Semantic Line Breaks (2017)",
+      "url": "https://sembr.org",
+      "summary": "",
+      "source": "sembr.org",
+      "ts": "2025-09-07T12:14:41Z",
+      "score": 67.16
+    },
+    {
+      "id": "e75e39d7c82e",
+      "title": "Oldcastle accelerates document processing with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/oldcastle-accelerates-document-processing-with-amazon-bedrock/",
+      "summary": "This post explores how Oldcastle partnered with AWS to transform their document processing workflow using Amazon Bedrock with Amazon Textract. We discuss how Oldcastle overcame the limitations of their previous OCR solution to automate the processing of hundreds of thousands of POD documents each month, dramatically improving accuracy while reducing manual effort.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-10T16:11:22Z",
+      "score": 66.96
+    },
+    {
+      "id": "0e459477834c",
+      "title": "How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-london-stock-exchange-group-is-detecting-market-abuse-with-their-ai-powered-surveillance-guide-on-amazon-bedrock/",
+      "summary": "In this post, we explore how London Stock Exchange Group (LSEG) used Amazon Bedrock and Anthropic's Claude foundation models to build an automated system that significantly improves the efficiency and accuracy of market surveillance operations.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-10T16:03:14Z",
+      "score": 66.77
+    },
+    {
+      "id": "hn-45169194",
+      "title": "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
+      "url": "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/",
+      "summary": "",
+      "source": "navylookout.com",
+      "ts": "2025-09-08T15:02:15Z",
+      "score": 54.05
+    },
+    {
+      "id": "hn-45155963",
+      "title": "A polyglot's guide to multiple-dispatch (2016)",
+      "url": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
+      "summary": "",
+      "source": "eli.thegreenplace.net",
+      "ts": "2025-09-07T06:49:20Z",
+      "score": 47.09
+    },
+    {
+      "id": "hn-45165608",
+      "title": "Rewriting Dataframes for MicroHaskell",
+      "url": "https://mchav.github.io/rewriting-dataframes-for-microhs/",
+      "summary": "",
+      "source": "mchav.github.io",
+      "ts": "2025-09-08T07:45:36Z",
+      "score": 47.07
+    },
+    {
+      "id": "55eec3c25bc9",
+      "title": "Shipping smarter agents with every new model",
+      "url": "https://openai.com/index/safetykit",
+      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+      "source": "openai.com",
+      "ts": "2025-09-09T10:00:00Z",
+      "score": 46.41
+    },
+    {
+      "id": "hn-45167757",
+      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
+      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
+      "summary": "",
+      "source": "logicprogramming.org",
+      "ts": "2025-09-08T13:04:47Z",
+      "score": 45.29
+    },
+    {
+      "id": "hn-45174328",
+      "title": "Formally verifying a floating-point division routine with Gappa – part 1",
+      "url": "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1",
+      "summary": "",
+      "source": "community.arm.com",
+      "ts": "2025-09-08T21:35:41Z",
+      "score": 44.97
+    },
+    {
+      "id": "hn-45163423",
+      "title": "Removing yellow stains from fabric with blue light",
+      "url": "https://phys.org/news/2025-09-yellow-fabric-blue.html",
+      "summary": "",
+      "source": "phys.org",
+      "ts": "2025-09-08T00:01:54Z",
+      "score": 43.99
+    },
+    {
+      "id": "hn-45167260",
+      "title": "Hot Chips 2025: Session 1 – CPUs – By George Cozma",
+      "url": "https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus",
+      "summary": "",
+      "source": "chipsandcheese.com",
+      "ts": "2025-09-08T12:02:56Z",
+      "score": 37.6
     },
     {
       "id": "a9357f717f73",
@@ -430,25 +439,25 @@
       "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
       "source": "openai.com",
       "ts": "2025-09-08T14:00:00Z",
-      "score": 39.25
+      "score": 30.59
     },
     {
-      "id": "hn-45167757",
-      "title": "Picat: A Logic-based Multi-paradigm Language(2014) [pdf]",
-      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
+      "id": "hn-45162559",
+      "title": "How the tz database works (2020)",
+      "url": "https://yatsushi.com/blog/tz-database/",
       "summary": "",
-      "source": "logicprogramming.org",
-      "ts": "2025-09-08T13:04:47Z",
-      "score": 34.42
+      "source": "yatsushi.com",
+      "ts": "2025-09-07T21:58:01Z",
+      "score": 27.65
     },
     {
-      "id": "hn-45155731",
-      "title": "Longhorn – A Kubernetes-Native Filesystem",
-      "url": "https://vegard.blog.engen.priv.no/?p=518",
+      "id": "hn-45165753",
+      "title": "Pure and Impure Software Engineering",
+      "url": "https://www.seangoedecke.com/pure-and-impure-engineering/",
       "summary": "",
-      "source": "vegard.blog.engen.priv.no",
-      "ts": "2025-09-07T05:49:29Z",
-      "score": 31.05
+      "source": "seangoedecke.com",
+      "ts": "2025-09-08T08:07:05Z",
+      "score": 27.42
     },
     {
       "id": "fd79768a741e",
@@ -457,7 +466,7 @@
       "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
       "source": "openai.com",
       "ts": "2025-09-05T10:00:00Z",
-      "score": 8.06
+      "score": 6.28
     },
     {
       "id": "982ca303f669",
@@ -466,7 +475,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 1.57
+      "score": 1.22
     },
     {
       "id": "265e85cbbb22",
@@ -475,7 +484,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.05
+      "score": 0.04
     },
     {
       "id": "99b464916a99",
