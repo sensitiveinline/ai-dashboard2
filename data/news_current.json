@@ -1,193 +1,49 @@
 {
   "items": [
     {
-      "id": "hn-45199931",
-      "title": "I didn't bring my son to a museum to look at screens",
-      "url": "https://sethpurcell.com/writing/screens-in-museums/",
+      "id": "hn-45210850",
+      "title": "Behind the scenes of Bun Install",
+      "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
       "summary": "",
-      "source": "sethpurcell.com",
-      "ts": "2025-09-10T16:20:55Z",
-      "score": 676.78
+      "source": "bun.com",
+      "ts": "2025-09-11T12:39:29Z",
+      "score": 264.13
     },
     {
-      "id": "hn-45181535",
-      "title": "Show HN: Term.everything – Run any GUI app in the terminal",
-      "url": "https://github.com/mmulet/term.everything",
+      "id": "hn-45214670",
+      "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
+      "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-09T13:16:30Z",
-      "score": 588.42
+      "ts": "2025-09-11T18:32:23Z",
+      "score": 250.55
     },
     {
-      "id": "hn-45195520",
-      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "id": "hn-45210564",
+      "title": "Gregg Kellogg has died",
+      "url": "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html",
       "summary": "",
-      "source": "greeneuropeanjournal.eu",
-      "ts": "2025-09-10T10:08:14Z",
-      "score": 549.23
+      "source": "lists.w3.org",
+      "ts": "2025-09-11T12:03:32Z",
+      "score": 250.54
     },
     {
-      "id": "hn-45192655",
-      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "id": "hn-45210910",
+      "title": "GrapheneOS and forensic extraction of data (2024)",
+      "url": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
       "summary": "",
-      "source": "joshfonseca.com",
-      "ts": "2025-09-10T02:59:48Z",
-      "score": 548.27
+      "source": "discuss.grapheneos.org",
+      "ts": "2025-09-11T12:46:27Z",
+      "score": 250.52
     },
     {
-      "id": "hn-45199713",
-      "title": "ChatGPT Developer Mode: Full MCP client access",
-      "url": "https://platform.openai.com/docs/guides/developer-mode",
+      "id": "hn-45212960",
+      "title": "Spiral",
+      "url": "https://spiraldb.com/post/announcing-spiral",
       "summary": "",
-      "source": "platform.openai.com",
-      "ts": "2025-09-10T16:04:49Z",
-      "score": 442.53
-    },
-    {
-      "id": "hn-45209366",
-      "title": "Germany is not supporting ChatControl – blocking minority secured",
-      "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
-      "summary": "",
-      "source": "digitalcourage.social",
-      "ts": "2025-09-11T08:59:40Z",
-      "score": 417.83
-    },
-    {
-      "id": "hn-45204393",
-      "title": "KDE launches its own distribution",
-      "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-10T21:49:36Z",
-      "score": 394.5
-    },
-    {
-      "id": "hn-45206567",
-      "title": "Court rejects Verizon claim that selling location data without consent is legal",
-      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-11T01:27:31Z",
-      "score": 347.02
-    },
-    {
-      "id": "hn-45205232",
-      "title": "DOOMscrolling: The Game",
-      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
-      "summary": "",
-      "source": "ironicsans.ghost.io",
-      "ts": "2025-09-10T22:56:55Z",
-      "score": 261.28
-    },
-    {
-      "id": "hn-45200925",
-      "title": "Defeating Nondeterminism in LLM Inference",
-      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "summary": "",
-      "source": "thinkingmachines.ai",
-      "ts": "2025-09-10T17:26:08Z",
-      "score": 226.52
-    },
-    {
-      "id": "hn-45198481",
-      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-      "url": "https://jiratui.sh/",
-      "summary": "",
-      "source": "jiratui.sh",
-      "ts": "2025-09-10T14:42:15Z",
-      "score": 216.72
-    },
-    {
-      "id": "hn-45196437",
-      "title": "Kerberoasting",
-      "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "summary": "",
-      "source": "blog.cryptographyengineering.com",
-      "ts": "2025-09-10T12:01:30Z",
-      "score": 169.99
-    },
-    {
-      "id": "hn-45172058",
-      "title": "The HackberryPi CM5 handheld computer",
-      "url": "https://github.com/ZitaoTech/HackberryPiCM5",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-08T18:36:46Z",
-      "score": 153.11
-    },
-    {
-      "id": "hn-45203935",
-      "title": "Fraudulent Publishing in the Mathematical Sciences",
-      "url": "https://arxiv.org/abs/2509.07257",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-10T21:21:36Z",
-      "score": 151.55
-    },
-    {
-      "id": "hn-45200024",
-      "title": "“No Tax on Tips” Includes Digital Creators, Too",
-      "url": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
-      "summary": "",
-      "source": "hollywoodreporter.com",
-      "ts": "2025-09-10T16:26:07Z",
-      "score": 151.3
-    },
-    {
-      "id": "hn-45196568",
-      "title": "Tarsnap is cozy",
-      "url": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
-      "summary": "",
-      "source": "til.andrew-quinn.me",
-      "ts": "2025-09-10T12:17:45Z",
-      "score": 134.34
-    },
-    {
-      "id": "hn-45206311",
-      "title": "Where did the Smurfs get their hats (2018)",
-      "url": "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/",
-      "summary": "",
-      "source": "pipelinecomics.com",
-      "ts": "2025-09-11T00:52:32Z",
-      "score": 131.84
-    },
-    {
-      "id": "hn-45209599",
-      "title": "BCacheFS is being disabled in the openSUSE kernels 6.17+",
-      "url": "https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-11T09:41:07Z",
-      "score": 122.21
-    },
-    {
-      "id": "hn-45204838",
-      "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
-      "url": "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at",
-      "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-09-10T22:21:35Z",
-      "score": 119.94
-    },
-    {
-      "id": "hn-45201703",
-      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
-      "url": "https://haystackeditor.com",
-      "summary": "",
-      "source": "haystackeditor.com",
-      "ts": "2025-09-10T18:21:12Z",
-      "score": 113.25
-    },
-    {
-      "id": "hn-45209389",
-      "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
-      "url": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-09-11T09:02:50Z",
-      "score": 110.13
+      "source": "spiraldb.com",
+      "ts": "2025-09-11T15:45:38Z",
+      "score": 226.87
     },
     {
       "id": "hn-45209558",
@@ -196,223 +52,322 @@
       "summary": "",
       "source": "reshaped.so",
       "ts": "2025-09-11T09:32:49Z",
-      "score": 108.13
+      "score": 222.51
     },
     {
-      "id": "hn-45209532",
-      "title": "DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking",
-      "url": "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/",
+      "id": "hn-45208925",
+      "title": "GrapheneOS accessed Android security patches but not allowed to publish sources",
+      "url": "https://grapheneos.social/@GrapheneOS/115164133992525834",
       "summary": "",
-      "source": "qodo.ai",
-      "ts": "2025-09-11T09:29:52Z",
-      "score": 105.63
+      "source": "grapheneos.social",
+      "ts": "2025-09-11T07:43:12Z",
+      "score": 214.92
     },
     {
-      "id": "hn-45161410",
-      "title": "Clojure's Solutions to the Expression Problem",
-      "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
+      "id": "hn-45214908",
+      "title": "Claude's memory architecture is the opposite of ChatGPT's",
+      "url": "https://www.shloked.com/writing/claude-memory",
       "summary": "",
-      "source": "infoq.com",
-      "ts": "2025-09-07T19:31:50Z",
-      "score": 97.62
+      "source": "shloked.com",
+      "ts": "2025-09-11T18:55:50Z",
+      "score": 188.89
     },
     {
-      "id": "53c9bfdc1c86",
-      "title": "A California bill that would regulate AI companion chatbots is close to becoming law",
-      "url": "https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/",
-      "summary": "If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies legally accountable if their chatbots fail to meet those standards.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-11T05:10:51Z",
-      "score": 96.55
-    },
-    {
-      "id": "hn-45209065",
-      "title": "PgEdge Goes Open Source",
-      "url": "https://www.pgedge.com/blog/pgedge-goes-open-source",
+      "id": "hn-45210428",
+      "title": "AirPods live translation blocked for EU users with EU Apple accounts",
+      "url": "https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/",
       "summary": "",
-      "source": "pgedge.com",
-      "ts": "2025-09-11T08:01:57Z",
-      "score": 96.14
+      "source": "macrumors.com",
+      "ts": "2025-09-11T11:46:13Z",
+      "score": 179.87
     },
     {
-      "id": "19878f4c3661",
-      "title": "Perplexity reportedly raised $200M at $20B valuation",
-      "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
-      "summary": "The AI-powered search startup's valuation jumped from $18 billion two months earlier.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-11T03:59:10Z",
-      "score": 94.18
+      "id": "hn-45211596",
+      "title": "CRISPR offers new hope for treating diabetes",
+      "url": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/",
+      "summary": "",
+      "source": "wired.com",
+      "ts": "2025-09-11T13:45:28Z",
+      "score": 172.38
     },
     {
-      "id": "260e13ecf37e",
-      "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
-      "url": "http://arxiv.org/abs/2509.08827v1",
-      "summary": "In this paper, we survey recent advances in Reinforcement Learning (RL) for\nreasoning with Large Language Models (LLMs). RL has achieved remarkable success\nin advancing the frontier of LLM capabilities, particularly in addressing\ncomplex logical tasks such as mathematics and coding. As a result, RL has\nemerged as a foundational methodology for transforming LLMs into LRMs. With the\nrapid progress of the field, further scaling of RL for LRMs now faces\nfoundational challenges not only in computational resources but also in\nalgorithm design, training data, and infrastructure. To this end, it is timely\nto revisit the development of this domain, reassess its trajectory, and explore\nstrategies to enhance the scalability of RL toward Artificial SuperIntelligence\n(ASI). In particular, we examine research applying RL to LLMs and LRMs for\nreasoning abilities, especially since the release of DeepSeek-R1, including\nfoundational components, core problems, training resources, and downstream\napplications, to identify future opportunities and directions for this rapidly\nevolving area. We hope this review will promote future research on RL for\nbroader reasoning models. Github:\nhttps://github.com/TsinghuaC3I/Awesome-RL-for-LRMs",
-      "source": "arxiv.org",
-      "ts": "2025-09-10T17:59:43Z",
-      "score": 90.38
-    },
-    {
-      "id": "5858dbe6d154",
-      "title": "Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs\n  for Text Annotation",
-      "url": "http://arxiv.org/abs/2509.08825v1",
-      "summary": "Large language models (LLMs) are rapidly transforming social science research\nby enabling the automation of labor-intensive tasks like data annotation and\ntext analysis. However, LLM outputs vary significantly depending on the\nimplementation choices made by researchers (e.g., model selection, prompting\nstrategy, or temperature settings). Such variation can introduce systematic\nbiases and random errors, which propagate to downstream analyses and cause Type\nI, Type II, Type S, or Type M errors. We call this LLM hacking.\n  We quantify the risk of LLM hacking by replicating 37 data annotation tasks\nfrom 21 published social science research studies with 18 different models.\nAnalyzing 13 million LLM labels, we test 2,361 realistic hypotheses to measure\nhow plausible researcher choices affect statistical conclusions. We find\nincorrect conclusions based on LLM-annotated data in approximately one in three\nhypotheses for state-of-the-art models, and in half the hypotheses for small\nlanguage models. While our findings show that higher task performance and\nbetter general model capabilities reduce LLM hacking risk, even highly accurate\nmodels do not completely eliminate it. The risk of LLM hacking decreases as\neffect sizes increase, indicating the need for more rigorous verification of\nfindings near significance thresholds. Our extensive analysis of LLM hacking\nmitigation techniques emphasizes the importance of human annotations in\nreducing false positive findings and improving model selection. Surprisingly,\ncommon regression estimator correction techniques are largely ineffective in\nreducing LLM hacking risk, as they heavily trade off Type I vs. Type II errors.\n  Beyond accidental errors, we find that intentional LLM hacking is\nunacceptably simple. With few LLMs and just a handful of prompt paraphrases,\nanything can be presented as statistically significant.",
-      "source": "arxiv.org",
-      "ts": "2025-09-10T17:58:53Z",
-      "score": 90.36
-    },
-    {
-      "id": "faaab0e20b26",
-      "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate",
-      "summary": "OpenAI and Oracle signed a deal “to purchase $300 billion in computing power over roughly five years,” one of the largest cloud computing deals ever, reports the Wall Street Journal. In July, the two companies revealed their partnership to build data centers worth 4.5 gigawatts of power as part of the broader Stargate project they [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T23:01:10Z",
-      "score": 84.92
-    },
-    {
-      "id": "hn-45167295",
-      "title": "A desktop environment without graphics (tmux-like)",
-      "url": "https://github.com/Julien-cpsn/desktop-tui",
+      "id": "hn-45215869",
+      "title": "Unusual Capabilities of Nano Banana (Examples)",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-08T12:07:14Z",
-      "score": 82.63
+      "ts": "2025-09-11T20:35:11Z",
+      "score": 171.69
     },
     {
-      "id": "103c01518fe7",
-      "title": "Thinking Machines Lab wants to make AI models more consistent",
-      "url": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
-      "summary": "In a blog post shared Wednesday, Mira Murati's startup offered a rare glimpse into some of work its doing to improve AI models.",
+      "id": "hn-45211527",
+      "title": "From burner phones to decks of cards: NYC teens adjusting to the smartphone ban",
+      "url": "https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban",
+      "summary": "",
+      "source": "gothamist.com",
+      "ts": "2025-09-11T13:39:43Z",
+      "score": 171.02
+    },
+    {
+      "id": "hn-45214164",
+      "title": "Bulletproof host Stark Industries evades EU sanctions",
+      "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "summary": "",
+      "source": "krebsonsecurity.com",
+      "ts": "2025-09-11T17:42:56Z",
+      "score": 171.01
+    },
+    {
+      "id": "hn-45211868",
+      "title": "Conway's Game of Life, but musical",
+      "url": "https://www.hudsong.dev/digital-darwin",
+      "summary": "",
+      "source": "hudsong.dev",
+      "ts": "2025-09-11T14:05:31Z",
+      "score": 166.35
+    },
+    {
+      "id": "hn-45215984",
+      "title": "How Palantir is mapping the nation’s data",
+      "url": "https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178",
+      "summary": "",
+      "source": "theconversation.com",
+      "ts": "2025-09-11T20:50:54Z",
+      "score": 163.8
+    },
+    {
+      "id": "hn-45210399",
+      "title": "Center for the Alignment of AI Alignment Centers",
+      "url": "https://alignmentalignment.ai",
+      "summary": "",
+      "source": "alignmentalignment.ai",
+      "ts": "2025-09-11T11:42:23Z",
+      "score": 162.96
+    },
+    {
+      "id": "hn-45213612",
+      "title": "A tech-law measurement and analysis of event listeners for wiretapping",
+      "url": "https://arxiv.org/abs/2508.19825",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-11T16:46:09Z",
+      "score": 160.78
+    },
+    {
+      "id": "hn-45209389",
+      "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
+      "url": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
+      "summary": "",
+      "source": "cnbc.com",
+      "ts": "2025-09-11T09:02:50Z",
+      "score": 157.54
+    },
+    {
+      "id": "hn-45211127",
+      "title": "An engineering history of the Manhattan Project",
+      "url": "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan",
+      "summary": "",
+      "source": "construction-physics.com",
+      "ts": "2025-09-11T13:04:49Z",
+      "score": 147.84
+    },
+    {
+      "id": "hn-45213732",
+      "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532",
+      "summary": "",
+      "source": "cbc.ca",
+      "ts": "2025-09-11T16:58:08Z",
+      "score": 147.44
+    },
+    {
+      "id": "hn-45213299",
+      "title": "NT OS Kernel Information Disclosure Vulnerability",
+      "url": "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/",
+      "summary": "",
+      "source": "crowdfense.com",
+      "ts": "2025-09-11T16:13:09Z",
+      "score": 141.89
+    },
+    {
+      "id": "hn-45214933",
+      "title": "Rails on SQLite: new ways to cause outages",
+      "url": "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/",
+      "summary": "",
+      "source": "andre.arko.net",
+      "ts": "2025-09-11T18:58:22Z",
+      "score": 133.77
+    },
+    {
+      "id": "hn-45196945",
+      "title": "Show HN: Small Transfers – charge from 0.000001 USD per request for your SaaS",
+      "url": "https://smalltransfers.com/",
+      "summary": "",
+      "source": "smalltransfers.com",
+      "ts": "2025-09-10T12:56:19Z",
+      "score": 122.56
+    },
+    {
+      "id": "hn-45214159",
+      "title": "A Web Framework for Zig",
+      "url": "https://www.jetzig.dev/",
+      "summary": "",
+      "source": "jetzig.dev",
+      "ts": "2025-09-11T17:42:30Z",
+      "score": 120.0
+    },
+    {
+      "id": "hn-45214672",
+      "title": "Making io_uring pervasive in QEMU [pdf]",
+      "url": "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf",
+      "summary": "",
+      "source": "vmsplice.net",
+      "ts": "2025-09-11T18:32:43Z",
+      "score": 115.56
+    },
+    {
+      "id": "hn-45216844",
+      "title": "Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook",
+      "url": "https://github.com/iannuttall/fartscroll-lid",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-11T22:41:43Z",
+      "score": 115.34
+    },
+    {
+      "id": "hn-45216805",
+      "title": "Danish supermarket chain is setting up \"Emergency Stores\"",
+      "url": "https://swiss.social/@swaldorff/115186445638788782",
+      "summary": "",
+      "source": "swiss.social",
+      "ts": "2025-09-11T22:35:36Z",
+      "score": 112.34
+    },
+    {
+      "id": "85a7845f06c3",
+      "title": "A California bill that would regulate AI companion chatbots is close to becoming law",
+      "url": "https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/",
+      "summary": "SB 243 passed the California Senate on Thursday and heads to Gov. Newsom's desk. If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies legally accountable if their chatbots fail to meet those standards.",
       "source": "techcrunch.com",
-      "ts": "2025-09-10T21:30:11Z",
-      "score": 82.28
+      "ts": "2025-09-11T22:23:09Z",
+      "score": 107.68
     },
     {
-      "id": "ec17e6488b65",
-      "title": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
-      "summary": "On Wednesday, Sen. Ted Cruz introduced legislation to create a regulation \"sandbox\" that would allow artificial intelligence companies to experiment with minimal federal oversight. The SANDBOX Act, if passed by Congress, would allow companies to apply for modifications to or waivers from any \"obstructive regulations\" to the testing and deployment of products or services that [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T21:25:20Z",
-      "score": 82.14
+      "id": "fb9784a4b871",
+      "title": "OpenAI secures Microsoft’s blessing to transition its for-profit arm",
+      "url": "https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/",
+      "summary": "OpenAI and Microsoft say they reached a non-binding agreement on a revised partnership.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-11T22:18:29Z",
+      "score": 107.5
     },
     {
-      "id": "hn-45203643",
-      "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
-      "url": "https://mux.com/jobs",
-      "summary": "",
-      "source": "mux.com",
-      "ts": "2025-09-10T21:01:01Z",
-      "score": 74.64
-    },
-    {
-      "id": "503718ea8595",
-      "title": "Larry Ellison usurps Elon Musk as the world’s richest person",
-      "url": "https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person",
-      "summary": "Elon Musk can no longer claim the title of the world’s richest man — at least for the time being. The net worth of Oracle CTO and co-founder, Larry Ellison, ballooned by $101 billion on Wednesday morning, bringing his total fortune to $393 billion, according to a report from Bloomberg. Ellison’s wealth now surpasses Musk’s, [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-10T16:29:12Z",
-      "score": 74.11
-    },
-    {
-      "id": "hn-45165721",
-      "title": "Hashed sorting is typically faster than hash tables",
-      "url": "https://reiner.org/hashed-sorting",
-      "summary": "",
-      "source": "reiner.org",
-      "ts": "2025-09-08T08:03:21Z",
-      "score": 72.99
-    },
-    {
-      "id": "7a84e25f1575",
-      "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
-      "summary": "We are excited to announce the availability of the Technology Innovation Institute (TII)’s Falcon-H1 models on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, developers and data scientists can now use six instruction-tuned Falcon-H1 models (0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B) on AWS, and have access to a comprehensive suite of hybrid architecture models that combine traditional attention mechanisms with State Space Models (SSMs) to deliver exceptional performance with unprecedented efficiency.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:22:09Z",
-      "score": 67.21
-    },
-    {
-      "id": "hn-45157505",
-      "title": "Semantic Line Breaks (2017)",
-      "url": "https://sembr.org",
-      "summary": "",
-      "source": "sembr.org",
-      "ts": "2025-09-07T12:14:41Z",
-      "score": 67.16
-    },
-    {
-      "id": "e75e39d7c82e",
-      "title": "Oldcastle accelerates document processing with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/oldcastle-accelerates-document-processing-with-amazon-bedrock/",
-      "summary": "This post explores how Oldcastle partnered with AWS to transform their document processing workflow using Amazon Bedrock with Amazon Textract. We discuss how Oldcastle overcame the limitations of their previous OCR solution to automate the processing of hundreds of thousands of POD documents each month, dramatically improving accuracy while reducing manual effort.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:11:22Z",
-      "score": 66.96
-    },
-    {
-      "id": "0e459477834c",
-      "title": "How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-london-stock-exchange-group-is-detecting-market-abuse-with-their-ai-powered-surveillance-guide-on-amazon-bedrock/",
-      "summary": "In this post, we explore how London Stock Exchange Group (LSEG) used Amazon Bedrock and Anthropic's Claude foundation models to build an automated system that significantly improves the efficiency and accuracy of market surveillance operations.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-10T16:03:14Z",
-      "score": 66.77
-    },
-    {
-      "id": "hn-45169194",
-      "title": "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
-      "url": "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/",
-      "summary": "",
-      "source": "navylookout.com",
-      "ts": "2025-09-08T15:02:15Z",
-      "score": 54.05
-    },
-    {
-      "id": "hn-45155963",
-      "title": "A polyglot's guide to multiple-dispatch (2016)",
-      "url": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
-      "summary": "",
-      "source": "eli.thegreenplace.net",
-      "ts": "2025-09-07T06:49:20Z",
-      "score": 47.09
-    },
-    {
-      "id": "hn-45165608",
-      "title": "Rewriting Dataframes for MicroHaskell",
-      "url": "https://mchav.github.io/rewriting-dataframes-for-microhs/",
-      "summary": "",
-      "source": "mchav.github.io",
-      "ts": "2025-09-08T07:45:36Z",
-      "score": 47.07
-    },
-    {
-      "id": "55eec3c25bc9",
-      "title": "Shipping smarter agents with every new model",
-      "url": "https://openai.com/index/safetykit",
-      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+      "id": "4f06a3965c9b",
+      "title": "Statement on OpenAI’s Nonprofit and PBC",
+      "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+      "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
       "source": "openai.com",
-      "ts": "2025-09-09T10:00:00Z",
-      "score": 46.41
+      "ts": "2025-09-11T14:00:00Z",
+      "score": 106.86
     },
     {
-      "id": "hn-45167757",
-      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
-      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
-      "summary": "",
-      "source": "logicprogramming.org",
-      "ts": "2025-09-08T13:04:47Z",
-      "score": 45.29
+      "id": "046838869b44",
+      "title": "A joint statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+      "source": "openai.com",
+      "ts": "2025-09-11T14:00:00Z",
+      "score": 106.86
     },
     {
-      "id": "hn-45174328",
-      "title": "Formally verifying a floating-point division routine with Gappa – part 1",
-      "url": "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1",
+      "id": "fcd827f27518",
+      "title": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
+      "url": "https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise",
+      "summary": "Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting. The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the context of the project they’re working on, and their main priorities into each of its responses. Anthropic rolled [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-11T21:43:46Z",
+      "score": 106.21
+    },
+    {
+      "id": "c16187b9ce7a",
+      "title": "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter",
+      "url": "https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter",
+      "summary": "Earlier today, the FBI shared two blurry photos on X of a person of interest in the shooting of right-wing activist Charlie Kirk. Numerous users replied with AI-upscaled, &#8220;enhanced&#8221; versions of the pictures almost immediately, turning the pixelated surveillance shots into sharp, high-resolution images. But AI tools aren&#8217;t uncovering secret details in a fuzzy picture, [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-11T21:26:26Z",
+      "score": 105.58
+    },
+    {
+      "id": "f4f973a92c8d",
+      "title": "Aligning those who align AI, one satirical website at a time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers",
+      "summary": "The work of creating artificial intelligence that holds to the guardrails of human values, known in the industry as alignment, has developed into its own (somewhat ambiguous) field of study rife with policy papers and benchmarks to rank models against each other.&#160; But who aligns the alignment researchers?&#160; Enter the Center for the Alignment of [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-11T20:24:32Z",
+      "score": 103.33
+    },
+    {
+      "id": "hn-45215417",
+      "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
+      "url": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
       "summary": "",
-      "source": "community.arm.com",
-      "ts": "2025-09-08T21:35:41Z",
-      "score": 44.97
+      "source": "honeycomb.io",
+      "ts": "2025-09-11T19:46:03Z",
+      "score": 98.69
+    },
+    {
+      "id": "b20d82827431",
+      "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others",
+      "url": "https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/",
+      "summary": "The federal consumer regulator seeks to learn about how AI companies evaluate the safety of their chatbots.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-11T18:06:15Z",
+      "score": 98.49
+    },
+    {
+      "id": "228a355fb3bb",
+      "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/",
+      "summary": "In real-world video and image analysis, businesses often face the challenge of detecting objects that weren’t part of a model’s original training set. This becomes especially difficult in dynamic environments where new, unknown, or user-defined objects frequently appear. In this post, we explore how Amazon Bedrock Data Automation uses OSOD to enhance video understanding.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-11T19:20:13Z",
+      "score": 91.86
+    },
+    {
+      "id": "hn-45214498",
+      "title": "Adam (YC W25) Is Hiring to Build the Future of CAD",
+      "url": "https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-11T18:16:09Z",
+      "score": 90.44
+    },
+    {
+      "id": "d444e1eb10c8",
+      "title": "How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skello-uses-amazon-bedrock-to-query-data-in-a-multi-tenant-environment-while-keeping-logical-boundaries/",
+      "summary": "Skello is a leading human resources (HR) software as a service (SaaS) solution focusing on employee scheduling and workforce management. Catering to diverse sectors such as hospitality, retail, healthcare, construction, and industry, Skello offers features including schedule creation, time tracking, and payroll preparation. We dive deep into the challenges of implementing large language models (LLMs) for data querying, particularly in the context of a French company operating under the General Data Protection Regulation (GDPR).",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-11T17:59:15Z",
+      "score": 89.32
+    },
+    {
+      "id": "f629c3bc3994",
+      "title": "Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/",
+      "summary": "In this post, we present a complete solution for programmatically creating private workforces on Amazon SageMaker AI using the AWS Cloud Development Kit (AWS CDK), including the setup of a dedicated, fully configured Amazon Cognito user pool.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-11T17:56:01Z",
+      "score": 89.22
+    },
+    {
+      "id": "hn-45202489",
+      "title": "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
+      "url": "https://pion.ly/blog/making-a-game-with-pion/",
+      "summary": "",
+      "source": "pion.ly",
+      "ts": "2025-09-10T19:30:37Z",
+      "score": 84.12
     },
     {
       "id": "hn-45163423",
@@ -421,52 +376,97 @@
       "summary": "",
       "source": "phys.org",
       "ts": "2025-09-08T00:01:54Z",
-      "score": 43.99
+      "score": 80.91
     },
     {
-      "id": "hn-45167260",
-      "title": "Hot Chips 2025: Session 1 – CPUs – By George Cozma",
-      "url": "https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus",
+      "id": "260e13ecf37e",
+      "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+      "url": "http://arxiv.org/abs/2509.08827v1",
+      "summary": "In this paper, we survey recent advances in Reinforcement Learning (RL) for\nreasoning with Large Language Models (LLMs). RL has achieved remarkable success\nin advancing the frontier of LLM capabilities, particularly in addressing\ncomplex logical tasks such as mathematics and coding. As a result, RL has\nemerged as a foundational methodology for transforming LLMs into LRMs. With the\nrapid progress of the field, further scaling of RL for LRMs now faces\nfoundational challenges not only in computational resources but also in\nalgorithm design, training data, and infrastructure. To this end, it is timely\nto revisit the development of this domain, reassess its trajectory, and explore\nstrategies to enhance the scalability of RL toward Artificial SuperIntelligence\n(ASI). In particular, we examine research applying RL to LLMs and LRMs for\nreasoning abilities, especially since the release of DeepSeek-R1, including\nfoundational components, core problems, training resources, and downstream\napplications, to identify future opportunities and directions for this rapidly\nevolving area. We hope this review will promote future research on RL for\nbroader reasoning models. Github:\nhttps://github.com/TsinghuaC3I/Awesome-RL-for-LRMs",
+      "source": "arxiv.org",
+      "ts": "2025-09-10T17:59:43Z",
+      "score": 70.44
+    },
+    {
+      "id": "5858dbe6d154",
+      "title": "Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs\n  for Text Annotation",
+      "url": "http://arxiv.org/abs/2509.08825v1",
+      "summary": "Large language models (LLMs) are rapidly transforming social science research\nby enabling the automation of labor-intensive tasks like data annotation and\ntext analysis. However, LLM outputs vary significantly depending on the\nimplementation choices made by researchers (e.g., model selection, prompting\nstrategy, or temperature settings). Such variation can introduce systematic\nbiases and random errors, which propagate to downstream analyses and cause Type\nI, Type II, Type S, or Type M errors. We call this LLM hacking.\n  We quantify the risk of LLM hacking by replicating 37 data annotation tasks\nfrom 21 published social science research studies with 18 different models.\nAnalyzing 13 million LLM labels, we test 2,361 realistic hypotheses to measure\nhow plausible researcher choices affect statistical conclusions. We find\nincorrect conclusions based on LLM-annotated data in approximately one in three\nhypotheses for state-of-the-art models, and in half the hypotheses for small\nlanguage models. While our findings show that higher task performance and\nbetter general model capabilities reduce LLM hacking risk, even highly accurate\nmodels do not completely eliminate it. The risk of LLM hacking decreases as\neffect sizes increase, indicating the need for more rigorous verification of\nfindings near significance thresholds. Our extensive analysis of LLM hacking\nmitigation techniques emphasizes the importance of human annotations in\nreducing false positive findings and improving model selection. Surprisingly,\ncommon regression estimator correction techniques are largely ineffective in\nreducing LLM hacking risk, as they heavily trade off Type I vs. Type II errors.\n  Beyond accidental errors, we find that intentional LLM hacking is\nunacceptably simple. With few LLMs and just a handful of prompt paraphrases,\nanything can be presented as statistically significant.",
+      "source": "arxiv.org",
+      "ts": "2025-09-10T17:58:53Z",
+      "score": 70.42
+    },
+    {
+      "id": "hn-45169194",
+      "title": "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
+      "url": "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/",
       "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-09-08T12:02:56Z",
-      "score": 37.6
+      "source": "navylookout.com",
+      "ts": "2025-09-08T15:02:15Z",
+      "score": 61.94
     },
     {
-      "id": "a9357f717f73",
-      "title": "A People-First AI Fund: $50M to support nonprofits",
-      "url": "https://openai.com/index/people-first-ai-fund",
-      "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
+      "id": "hn-45167688",
+      "title": "Public Suffix List",
+      "url": "https://publicsuffix.org/",
+      "summary": "",
+      "source": "publicsuffix.org",
+      "ts": "2025-09-08T12:56:55Z",
+      "score": 53.34
+    },
+    {
+      "id": "hn-45167049",
+      "title": "Beyond package management: How Nix refactored my digital life",
+      "url": "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/",
+      "summary": "",
+      "source": "jimmyff.co.uk",
+      "ts": "2025-09-08T11:36:25Z",
+      "score": 48.05
+    },
+    {
+      "id": "55eec3c25bc9",
+      "title": "Shipping smarter agents with every new model",
+      "url": "https://openai.com/index/safetykit",
+      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
       "source": "openai.com",
-      "ts": "2025-09-08T14:00:00Z",
-      "score": 30.59
+      "ts": "2025-09-09T10:00:00Z",
+      "score": 36.17
     },
     {
-      "id": "hn-45162559",
-      "title": "How the tz database works (2020)",
-      "url": "https://yatsushi.com/blog/tz-database/",
+      "id": "hn-45168823",
+      "title": "Doorbell prankster that tormented residents of apartments turns out to be a slug",
+      "url": "https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug",
       "summary": "",
-      "source": "yatsushi.com",
-      "ts": "2025-09-07T21:58:01Z",
-      "score": 27.65
+      "source": "theguardian.com",
+      "ts": "2025-09-08T14:33:26Z",
+      "score": 35.35
     },
     {
-      "id": "hn-45165753",
-      "title": "Pure and Impure Software Engineering",
-      "url": "https://www.seangoedecke.com/pure-and-impure-engineering/",
+      "id": "hn-45167346",
+      "title": "Adjacency Matrix and std:mdspan, C++23",
+      "url": "https://www.cppstories.com/2025/cpp23_mdspan_adj/",
       "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-09-08T08:07:05Z",
-      "score": 27.42
+      "source": "cppstories.com",
+      "ts": "2025-09-08T12:14:20Z",
+      "score": 30.28
     },
     {
-      "id": "fd79768a741e",
-      "title": "Why language models hallucinate",
-      "url": "https://openai.com/index/why-language-models-hallucinate",
-      "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
-      "source": "openai.com",
-      "ts": "2025-09-05T10:00:00Z",
-      "score": 6.28
+      "id": "hn-45165070",
+      "title": "Building my childhood dream PC",
+      "url": "https://fabiensanglard.net/2168/",
+      "summary": "",
+      "source": "fabiensanglard.net",
+      "ts": "2025-09-08T06:05:54Z",
+      "score": 29.36
+    },
+    {
+      "id": "hn-45167694",
+      "title": "Tumult and Sympathy – The Letters of Oliver Sacks",
+      "url": "https://www.commonwealmagazine.org/tumult-and-sympathy",
+      "summary": "",
+      "source": "commonwealmagazine.org",
+      "ts": "2025-09-08T12:58:09Z",
+      "score": 28.15
     },
     {
       "id": "982ca303f669",
@@ -475,7 +475,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 1.22
+      "score": 0.95
     },
     {
       "id": "265e85cbbb22",
@@ -484,7 +484,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.04
+      "score": 0.03
     },
     {
       "id": "99b464916a99",
