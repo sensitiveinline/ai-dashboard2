@@ -1,49 +1,22 @@
 {
   "items": [
     {
-      "id": "hn-45221274",
-      "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
-      "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
-      "summary": "",
-      "source": "tftc.io",
-      "ts": "2025-09-12T12:10:29Z",
-      "score": 465.92
-    },
-    {
       "id": "hn-45224967",
       "title": "EU court rules nuclear energy is clean energy",
       "url": "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy",
       "summary": "",
       "source": "weplanet.org",
       "ts": "2025-09-12T18:18:00Z",
-      "score": 430.14
+      "score": 571.12
     },
     {
-      "id": "hn-45219228",
-      "title": "Qwen3-Next",
-      "url": "https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list",
+      "id": "hn-45221274",
+      "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
+      "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
       "summary": "",
-      "source": "qwen.ai",
-      "ts": "2025-09-12T06:32:04Z",
-      "score": 382.99
-    },
-    {
-      "id": "hn-45222695",
-      "title": "Many hard LeetCode problems are easy constraint problems",
-      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
-      "summary": "",
-      "source": "buttondown.com",
-      "ts": "2025-09-12T14:44:05Z",
-      "score": 310.3
-    },
-    {
-      "id": "hn-45221580",
-      "title": "Chat Control faces blocking minority in the EU",
-      "url": "https://twitter.com/TutaPrivacy/status/1966384776883142661",
-      "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-09-12T12:52:52Z",
-      "score": 304.14
+      "source": "tftc.io",
+      "ts": "2025-09-12T12:10:29Z",
+      "score": 525.27
     },
     {
       "id": "hn-45225098",
@@ -52,16 +25,7 @@
       "summary": "",
       "source": "iamvishnu.com",
       "ts": "2025-09-12T18:30:15Z",
-      "score": 274.53
-    },
-    {
-      "id": "hn-45224156",
-      "title": "QGIS is a free, open-source, cross platform geographical information system",
-      "url": "https://github.com/qgis/QGIS",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-12T16:57:17Z",
-      "score": 243.46
+      "score": 429.22
     },
     {
       "id": "hn-45223719",
@@ -70,7 +34,25 @@
       "summary": "",
       "source": "thehill.com",
       "ts": "2025-09-12T16:13:49Z",
-      "score": 230.75
+      "score": 404.96
+    },
+    {
+      "id": "hn-45222695",
+      "title": "Many hard LeetCode problems are easy constraint problems",
+      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
+      "summary": "",
+      "source": "buttondown.com",
+      "ts": "2025-09-12T14:44:05Z",
+      "score": 383.1
+    },
+    {
+      "id": "hn-45224156",
+      "title": "QGIS is a free, open-source, cross platform geographical information system",
+      "url": "https://github.com/qgis/QGIS",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-12T16:57:17Z",
+      "score": 332.18
     },
     {
       "id": "hn-45222369",
@@ -79,88 +61,79 @@
       "summary": "",
       "source": "arvinpoddar.com",
       "ts": "2025-09-12T14:12:23Z",
-      "score": 215.19
+      "score": 236.59
     },
     {
-      "id": "hn-45221996",
-      "title": "Ships are sailing with fake insurance from the Norwegian Ro Marine",
-      "url": "https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216",
+      "id": "hn-45229414",
+      "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
+      "url": "https://skiftos.org",
       "summary": "",
-      "source": "nrk.no",
-      "ts": "2025-09-12T13:36:40Z",
-      "score": 212.97
+      "source": "skiftos.org",
+      "ts": "2025-09-13T04:55:14Z",
+      "score": 212.39
     },
     {
-      "id": "hn-45220069",
-      "title": "Show HN: I made a generative online drum machine with ClojureScript",
-      "url": "https://dopeloop.ai/beat-maker/",
+      "id": "hn-45228472",
+      "title": "Life, work, death and the peasant: Rent and extraction",
+      "url": "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/",
       "summary": "",
-      "source": "dopeloop.ai",
-      "ts": "2025-09-12T08:44:15Z",
-      "score": 172.7
+      "source": "acoup.blog",
+      "ts": "2025-09-13T01:15:37Z",
+      "score": 204.06
     },
     {
-      "id": "hn-45223726",
-      "title": "VaultGemma: The most capable differentially private LLM",
-      "url": "https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/",
+      "id": "hn-45227212",
+      "title": "FFglitch, FFmpeg fork for glitch art",
+      "url": "https://ffglitch.org/gallery/",
       "summary": "",
-      "source": "research.google",
-      "ts": "2025-09-12T16:14:50Z",
-      "score": 169.75
+      "source": "ffglitch.org",
+      "ts": "2025-09-12T21:54:34Z",
+      "score": 198.0
     },
     {
-      "id": "hn-45226903",
-      "title": "Proton Mail suspended journalist accounts at request of cybersecurity agency",
-      "url": "https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/",
+      "id": "hn-45228552",
+      "title": "California lawmakers pass SB 79, housing bill that brings dense housing",
+      "url": "https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs",
       "summary": "",
-      "source": "theintercept.com",
-      "ts": "2025-09-12T21:20:36Z",
-      "score": 159.43
+      "source": "latimes.com",
+      "ts": "2025-09-13T01:32:33Z",
+      "score": 195.54
+    },
+    {
+      "id": "hn-45228692",
+      "title": "Legal win",
+      "url": "https://ma.tt/2025/09/legal-win/",
+      "summary": "",
+      "source": "ma.tt",
+      "ts": "2025-09-13T01:55:23Z",
+      "score": 193.19
+    },
+    {
+      "id": "hn-45229799",
+      "title": "Social media promised connection, but it has delivered exhaustion",
+      "url": "https://www.noemamag.com/the-last-days-of-social-media/",
+      "summary": "",
+      "source": "noemamag.com",
+      "ts": "2025-09-13T06:27:19Z",
+      "score": 186.33
     },
     {
       "id": "hn-45226639",
-      "title": "Emacs: A Paradigm Shift",
+      "title": "I used standard Emacs extension-points to extend org-mode",
       "url": "https://edoput.it/2025/04/16/emacs-paradigm-shift.html",
       "summary": "",
       "source": "edoput.it",
       "ts": "2025-09-12T20:53:33Z",
-      "score": 146.53
+      "score": 171.21
     },
     {
-      "id": "hn-45225506",
-      "title": "Polylaminin, a drug considered capable of reversing spinal cord injury",
-      "url": "https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2025/09/groundbreaking-brazilian-drug-considered-capable-of-reversing-spinal-cord-injury-presented-in-sao-paulo.shtml",
+      "id": "hn-45230677",
+      "title": "AI Coding",
+      "url": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "summary": "",
-      "source": "www1.folha.uol.com.br",
-      "ts": "2025-09-12T19:07:56Z",
-      "score": 146.12
-    },
-    {
-      "id": "hn-45223419",
-      "title": "Advanced Scheme Techniques (2004) [pdf]",
-      "url": "https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf",
-      "summary": "",
-      "source": "people.csail.mit.edu",
-      "ts": "2025-09-12T15:44:52Z",
-      "score": 139.29
-    },
-    {
-      "id": "hn-45224219",
-      "title": "K2-think: A parameter-efficient reasoning system",
-      "url": "https://arxiv.org/abs/2509.07604",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-12T17:04:03Z",
-      "score": 138.92
-    },
-    {
-      "id": "hn-45224141",
-      "title": "Vector database that can index 1B vectors in 48M",
-      "url": "https://www.vectroid.com/blog/why-and-how-we-built-Vectroid",
-      "summary": "",
-      "source": "vectroid.com",
-      "ts": "2025-09-12T16:56:18Z",
-      "score": 135.43
+      "source": "geohot.github.io",
+      "ts": "2025-09-13T09:28:30Z",
+      "score": 157.99
     },
     {
       "id": "hn-45224421",
@@ -169,25 +142,7 @@
       "summary": "",
       "source": "f-droid.org",
       "ts": "2025-09-12T17:22:38Z",
-      "score": 134.43
-    },
-    {
-      "id": "hn-45222799",
-      "title": "Oq: Terminal OpenAPI Spec Viewer",
-      "url": "https://github.com/plutov/oq",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-12T14:53:45Z",
-      "score": 133.58
-    },
-    {
-      "id": "hn-45224246",
-      "title": "Humanely dealing with humungus crawlers",
-      "url": "https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers",
-      "summary": "",
-      "source": "flak.tedunangst.com",
-      "ts": "2025-09-12T17:06:52Z",
-      "score": 126.75
+      "score": 144.38
     },
     {
       "id": "hn-45219817",
@@ -196,160 +151,70 @@
       "summary": "",
       "source": "youtube.com",
       "ts": "2025-09-12T07:58:55Z",
-      "score": 120.55
+      "score": 138.76
     },
     {
-      "id": "hn-45224542",
-      "title": "Why do browsers throttle JavaScript timers?",
-      "url": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
+      "id": "hn-45228396",
+      "title": "Meow: Yet another modal editing on Emacs",
+      "url": "https://github.com/meow-edit/meow",
       "summary": "",
-      "source": "nolanlawson.com",
-      "ts": "2025-09-12T17:35:08Z",
-      "score": 115.01
+      "source": "github.com",
+      "ts": "2025-09-13T01:00:22Z",
+      "score": 137.03
     },
     {
-      "id": "9878dd4f6392",
-      "title": "Read Meta’s 2025 Sustainability Report",
-      "url": "https://sustainability.atmeta.com/2025-sustainability-report/",
-      "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "sustainability.atmeta.com",
-      "ts": "2025-09-12T16:36:33Z",
-      "score": 112.88
-    },
-    {
-      "id": "hn-45227064",
-      "title": "ARM is great, ARM is terrible, and so is RISC-V",
-      "url": "https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v",
+      "id": "hn-45227749",
+      "title": "Tips for installing Windows 98 in QEMU/UTM",
+      "url": "https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/",
       "summary": "",
-      "source": "changelog.complete.org",
-      "ts": "2025-09-12T21:37:09Z",
-      "score": 111.38
+      "source": "sporks.space",
+      "ts": "2025-09-12T23:04:08Z",
+      "score": 132.64
     },
     {
-      "id": "hn-45227212",
-      "title": "FFglitch, FFmpeg fork for glitch arch",
-      "url": "https://ffglitch.org/gallery/",
+      "id": "hn-45229227",
+      "title": "Raspberry Pi Synthesizers – How the Pi is transforming synths",
+      "url": "https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/",
       "summary": "",
-      "source": "ffglitch.org",
-      "ts": "2025-09-12T21:54:34Z",
-      "score": 111.37
+      "source": "gearnews.com",
+      "ts": "2025-09-13T04:08:57Z",
+      "score": 123.29
     },
     {
-      "id": "hn-45226277",
-      "title": "Show HN: I made a small site to share text & files. Free, no ads or registration",
-      "url": "https://www.dum.pt/",
+      "id": "hn-45228891",
+      "title": "OCI Registry Explorer",
+      "url": "https://oci.dag.dev/",
       "summary": "",
-      "source": "dum.pt",
-      "ts": "2025-09-12T20:17:23Z",
-      "score": 111.15
+      "source": "oci.dag.dev",
+      "ts": "2025-09-13T02:41:57Z",
+      "score": 119.53
     },
     {
-      "id": "hn-45227134",
-      "title": "Show HN: Aris – a free AI-powered answer engine for kids",
-      "url": "https://www.aris.chat",
+      "id": "hn-45228766",
+      "title": "Chatbox app is back on the US app store",
+      "url": "https://github.com/chatboxai/chatbox/issues/2644",
       "summary": "",
-      "source": "aris.chat",
-      "ts": "2025-09-12T21:44:47Z",
-      "score": 103.24
+      "source": "github.com",
+      "ts": "2025-09-13T02:13:40Z",
+      "score": 112.11
     },
     {
-      "id": "d6effab1fb16",
-      "title": "Why the Oracle-OpenAI deal caught Wall Street by surprise",
-      "url": "https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/",
-      "summary": "The $300B deal is a reminder that despite Oracle’s legacy status, it shouldn’t be overlooked when it comes to AI infrastructure. But key questions around power and how OpenAI will pay for this remain.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-12T20:01:41Z",
-      "score": 102.56
-    },
-    {
-      "id": "1524b7a996a7",
-      "title": "Working with US CAISI and UK AISI to build more secure AI systems",
-      "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
-      "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security. The collaboration is setting new standards for responsible frontier AI deployment through joint red-teaming, biosecurity safeguards, and agentic system testing.",
-      "source": "openai.com",
-      "ts": "2025-09-12T12:00:00Z",
-      "score": 102.54
-    },
-    {
-      "id": "hn-45227679",
-      "title": "People Who Hunt Down Old TVs",
-      "url": "https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs",
+      "id": "hn-45230265",
+      "title": "Java 25's new CPU-Time Profiler (1)",
+      "url": "https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/",
       "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-09-12T22:51:19Z",
-      "score": 101.54
+      "source": "mostlynerdless.de",
+      "ts": "2025-09-13T08:11:27Z",
+      "score": 105.05
     },
     {
-      "id": "372da010122a",
-      "title": "Google is a ‘bad actor’ says People CEO, accusing the company of stealing content",
-      "url": "https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/",
-      "summary": "People CEO Neil Vogel says Google's AI crawler can't be blocked because it would block the web crawler too. This lets the search giant steal its content for AI.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-12T18:53:26Z",
-      "score": 100.16
-    },
-    {
-      "id": "2d91e54d12bf",
-      "title": "Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions",
-      "url": "https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster",
-      "summary": "The AI web search company Perplexity is being hit by another lawsuit alleging copyright and trademark infringement, this time from Encyclopedia Britannica and Merriam-Webster. Britannica, the centuries-old publisher that owns Merriam-Webster, sued Perplexity in New York federal court on September 10th. In the lawsuit, the companies allege that Perplexity’s “answer engine” scrapes their websites, steals [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-12T17:23:34Z",
-      "score": 97.08
-    },
-    {
-      "id": "f16fec166fc8",
-      "title": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
-      "url": "https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/",
-      "summary": "A three-year-old startup providing data for AI labs is trying to fill the gap in the market left by Scale AI.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-12T17:00:00Z",
-      "score": 96.29
-    },
-    {
-      "id": "d3941dee22b6",
-      "title": "Announcing OpenAI Grove",
-      "url": "https://openai.com/index/openai-grove",
-      "summary": "Applications are now open for OpenAI Grove, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
-      "source": "openai.com",
-      "ts": "2025-09-12T07:00:00Z",
-      "score": 92.4
-    },
-    {
-      "id": "b80e439d30fd",
-      "title": "Our hottest takes on AI&#8217;s wild summer",
-      "url": "https://www.theverge.com/the-vergecast/777145/ai-friends-openai-claude-takes-vergecast",
-      "summary": "There's a lot happening in the world of artificial intelligence. There is always a lot happening in the world of artificial intelligence. The money is enormous; the stakes are high; the products are, well, all over the place. Sit on your couch and read about it all long enough, and you're bound to feel some [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-12T14:02:02Z",
-      "score": 90.52
-    },
-    {
-      "id": "e605550fbb66",
-      "title": "Automate advanced agentic RAG pipeline with Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/",
-      "summary": "In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-12T17:36:19Z",
-      "score": 88.65
-    },
-    {
-      "id": "59072e49b115",
-      "title": "Unlock model insights with log probability support for Amazon Bedrock Custom Model Import",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-model-insights-with-log-probability-support-for-amazon-bedrock-custom-model-import/",
-      "summary": "In this post, we explore how log probabilities work with imported models in Amazon Bedrock. You will learn what log probabilities are, how to enable them in your API calls, and how to interpret the returned data. We also highlight practical applications—from detecting potential hallucinations to optimizing RAG systems and evaluating fine-tuned models—that demonstrate how these insights can improve your AI applications, helping you build more trustworthy solutions with your custom models.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-12T17:34:16Z",
-      "score": 88.59
-    },
-    {
-      "id": "8e2902c4d3eb",
-      "title": "Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/",
-      "summary": "This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-12T17:31:19Z",
-      "score": 88.5
+      "id": "hn-45229960",
+      "title": "I unified convolution and attention into a single framework",
+      "url": "https://zenodo.org/records/17103133",
+      "summary": "",
+      "source": "zenodo.org",
+      "ts": "2025-09-13T07:02:27Z",
+      "score": 99.24
     },
     {
       "id": "hn-45174366",
@@ -358,70 +223,133 @@
       "summary": "",
       "source": "identity4.com",
       "ts": "2025-09-08T21:39:00Z",
-      "score": 88.05
+      "score": 89.98
     },
     {
-      "id": "hn-45175982",
-      "title": "Windows-Use: an AI agent that interacts with Windows at GUI layer",
-      "url": "https://github.com/CursorTouch/Windows-Use",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-09T00:33:56Z",
-      "score": 72.67
+      "id": "9878dd4f6392",
+      "title": "Read Meta’s 2025 Sustainability Report",
+      "url": "https://sustainability.atmeta.com/2025-sustainability-report/",
+      "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "sustainability.atmeta.com",
+      "ts": "2025-09-12T16:36:33Z",
+      "score": 88.0
     },
     {
-      "id": "d97198f8ebe2",
-      "title": "ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable\n  Orthogonal Butterfly Transforms",
-      "url": "http://arxiv.org/abs/2509.09679v1",
-      "summary": "Large language models require massive memory footprints, severely limiting\ndeployment on consumer hardware. Quantization reduces memory through lower\nnumerical precision, but extreme 2-bit quantization suffers from catastrophic\nperformance loss due to outliers in activations. Rotation-based methods such as\nQuIP and QuaRot apply orthogonal transforms to eliminate outliers before\nquantization, using computational invariance: $\\mathbf{y} = \\mathbf{Wx} =\n(\\mathbf{WQ}^T)(\\mathbf{Qx})$ for orthogonal $\\mathbf{Q}$. However, these\nmethods use fixed transforms--Hadamard matrices achieving optimal worst-case\ncoherence $\\mu = 1/\\sqrt{n}$--that cannot adapt to specific weight\ndistributions. We identify that different transformer layers exhibit distinct\noutlier patterns, motivating layer-adaptive rotations rather than\none-size-fits-all approaches. We propose ButterflyQuant, which replaces\nHadamard rotations with learnable butterfly transforms parameterized by\ncontinuous Givens rotation angles. Unlike Hadamard's discrete $\\{+1, -1\\}$\nentries that are non-differentiable and prohibit gradient-based learning,\nbutterfly transforms' continuous parameterization enables smooth optimization\nwhile guaranteeing orthogonality by construction. This orthogonal constraint\nensures theoretical guarantees in outlier suppression while achieving $O(n \\log\nn)$ computational complexity with only $\\frac{n \\log n}{2}$ learnable\nparameters. We further introduce a uniformity regularization on\npost-transformation activations to promote smoother distributions amenable to\nquantization. Learning requires only 128 calibration samples and converges in\nminutes on a single GPU--a negligible one-time cost. On LLaMA-2-7B with 2-bit\nquantization, ButterflyQuant achieves 15.4 perplexity versus 22.1 for QuaRot.",
-      "source": "arxiv.org",
-      "ts": "2025-09-11T17:59:51Z",
-      "score": 70.47
-    },
-    {
-      "id": "c373098244dc",
-      "title": "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in\n  LLMs",
-      "url": "http://arxiv.org/abs/2509.09677v1",
-      "summary": "Does continued scaling of large language models (LLMs) yield diminishing\nreturns? Real-world value often stems from the length of task an agent can\ncomplete. We start this work by observing the simple but counterintuitive fact\nthat marginal gains in single-step accuracy can compound into exponential\nimprovements in the length of a task a model can successfully complete. Then,\nwe argue that failures of LLMs when simple tasks are made longer arise from\nmistakes in execution, rather than an inability to reason. We propose isolating\nexecution capability, by explicitly providing the knowledge and plan needed to\nsolve a long-horizon task. We find that larger models can correctly execute\nsignificantly more turns even when small models have 100\\% single-turn\naccuracy. We observe that the per-step accuracy of models degrades as the\nnumber of steps increases. This is not just due to long-context limitations --\ncuriously, we observe a self-conditioning effect -- models become more likely\nto make mistakes when the context contains their errors from prior turns.\nSelf-conditioning does not reduce by just scaling the model size. In contrast,\nrecent thinking models do not self-condition, and can also execute much longer\ntasks in a single turn. We conclude by benchmarking frontier thinking models on\nthe length of task they can execute in a single turn. Overall, by focusing on\nthe ability to execute, we hope to reconcile debates on how LLMs can solve\ncomplex reasoning problems yet fail at simple tasks when made longer, and\nhighlight the massive benefits of scaling model size and sequential test-time\ncompute for long-horizon tasks.",
-      "source": "arxiv.org",
-      "ts": "2025-09-11T17:59:34Z",
-      "score": 70.47
-    },
-    {
-      "id": "hn-45199256",
-      "title": "Building a Deep Research Agent Using MCP-Agent",
-      "url": "https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent",
-      "summary": "",
-      "source": "thealliance.ai",
-      "ts": "2025-09-10T15:36:20Z",
-      "score": 69.68
-    },
-    {
-      "id": "bed30dbcd164",
-      "title": "Microsoft and OpenAI have a new deal that could clear the way for an IPO",
-      "url": "https://www.theverge.com/news/776884/openai-microsoft-mou",
-      "summary": "As OpenAI attempts to restructure itself and eventually go public, a hurdle for the startup, recently valued at $500 billion, is its increasingly complicated partnership with Microsoft.&#160; On Thursday afternoon, the two companies released this joint statement about an agreement they’ve reached. Microsoft &#38; OpenAI: Microsoft and OpenAI have signed a non-binding memorandum of understanding [&#8230;]",
+      "id": "f3d9bc92bda7",
+      "title": "Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &#8216;on your orders&#8217;",
+      "url": "https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview",
+      "summary": "While interviewing OpenAI CEO Sam Altman this week, former Fox News host Tucker Carlson brought up his belief in a conspiracy theory that former OpenAI researcher Suchir Balaji was “definitely murdered.” The researcher’s death in November 2024, which was ruled a suicide by the San Francisco police, followed his release of statements online and in [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-11T23:00:03Z",
-      "score": 66.18
+      "ts": "2025-09-13T00:19:28Z",
+      "score": 87.45
     },
     {
-      "id": "046838869b44",
-      "title": "A joint statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
-      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+      "id": "d6effab1fb16",
+      "title": "Why the Oracle-OpenAI deal caught Wall Street by surprise",
+      "url": "https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/",
+      "summary": "The $300B deal is a reminder that despite Oracle’s legacy status, it shouldn’t be overlooked when it comes to AI infrastructure. But key questions around power and how OpenAI will pay for this remain.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-12T20:01:41Z",
+      "score": 79.96
+    },
+    {
+      "id": "1524b7a996a7",
+      "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+      "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+      "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security. The collaboration is setting new standards for responsible frontier AI deployment through joint red-teaming, biosecurity safeguards, and agentic system testing.",
       "source": "openai.com",
-      "ts": "2025-09-11T14:00:00Z",
-      "score": 64.84
+      "ts": "2025-09-12T12:00:00Z",
+      "score": 79.94
     },
     {
-      "id": "hn-45178541",
-      "title": "How to Become a Pure Mathematician (Or Statistician)",
-      "url": "http://hbpms.blogspot.com/",
+      "id": "372da010122a",
+      "title": "Google is a ‘bad actor’ says People CEO, accusing the company of stealing content",
+      "url": "https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/",
+      "summary": "People CEO Neil Vogel says Google's AI crawler can't be blocked because it would block the web crawler too. This lets the search giant steal its content for AI.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-12T18:53:26Z",
+      "score": 78.09
+    },
+    {
+      "id": "2d91e54d12bf",
+      "title": "Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions",
+      "url": "https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster",
+      "summary": "The AI web search company Perplexity is being hit by another lawsuit alleging copyright and trademark infringement, this time from Encyclopedia Britannica and Merriam-Webster. Britannica, the centuries-old publisher that owns Merriam-Webster, sued Perplexity in New York federal court on September 10th. In the lawsuit, the companies allege that Perplexity’s “answer engine” scrapes their websites, steals [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-12T17:23:34Z",
+      "score": 75.69
+    },
+    {
+      "id": "hn-45218017",
+      "title": "Discovery of a new satellite or ring arc around Quaoar",
+      "url": "https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html",
       "summary": "",
-      "source": "hbpms.blogspot.com",
-      "ts": "2025-09-09T07:10:53Z",
-      "score": 51.92
+      "source": "phys.org",
+      "ts": "2025-09-12T02:17:54Z",
+      "score": 75.44
+    },
+    {
+      "id": "f16fec166fc8",
+      "title": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+      "url": "https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/",
+      "summary": "A three-year-old startup providing data for AI labs is trying to fill the gap in the market left by Scale AI.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-12T17:00:00Z",
+      "score": 75.07
+    },
+    {
+      "id": "hn-45181577",
+      "title": "How to Use Claude Code Subagents to Parallelize Development",
+      "url": "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/",
+      "summary": "",
+      "source": "zachwills.net",
+      "ts": "2025-09-09T13:21:18Z",
+      "score": 74.11
+    },
+    {
+      "id": "d3941dee22b6",
+      "title": "Announcing OpenAI Grove",
+      "url": "https://openai.com/index/openai-grove",
+      "summary": "Applications are now open for OpenAI Grove, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "source": "openai.com",
+      "ts": "2025-09-12T07:00:00Z",
+      "score": 72.03
+    },
+    {
+      "id": "b80e439d30fd",
+      "title": "Our hottest takes on AI&#8217;s wild summer",
+      "url": "https://www.theverge.com/the-vergecast/777145/ai-friends-openai-claude-takes-vergecast",
+      "summary": "There's a lot happening in the world of artificial intelligence. There is always a lot happening in the world of artificial intelligence. The money is enormous; the stakes are high; the products are, well, all over the place. Sit on your couch and read about it all long enough, and you're bound to feel some [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-12T14:02:02Z",
+      "score": 70.57
+    },
+    {
+      "id": "e605550fbb66",
+      "title": "Automate advanced agentic RAG pipeline with Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/",
+      "summary": "In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-12T17:36:19Z",
+      "score": 69.11
+    },
+    {
+      "id": "59072e49b115",
+      "title": "Unlock model insights with log probability support for Amazon Bedrock Custom Model Import",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-model-insights-with-log-probability-support-for-amazon-bedrock-custom-model-import/",
+      "summary": "In this post, we explore how log probabilities work with imported models in Amazon Bedrock. You will learn what log probabilities are, how to enable them in your API calls, and how to interpret the returned data. We also highlight practical applications—from detecting potential hallucinations to optimizing RAG systems and evaluating fine-tuned models—that demonstrate how these insights can improve your AI applications, helping you build more trustworthy solutions with your custom models.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-12T17:34:16Z",
+      "score": 69.06
+    },
+    {
+      "id": "8e2902c4d3eb",
+      "title": "Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/",
+      "summary": "This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-12T17:31:19Z",
+      "score": 68.99
     },
     {
       "id": "hn-45175439",
@@ -430,25 +358,7 @@
       "summary": "",
       "source": "blog.danielh.cc",
       "ts": "2025-09-08T23:24:24Z",
-      "score": 44.14
-    },
-    {
-      "id": "hn-45192618",
-      "title": "Power series, power serious (1999) [pdf]",
-      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/19863F4EAACC33E1E01DE2A2114EC7DF/S0956796899003299a.pdf/div-class-title-power-series-power-serious-div.pdf",
-      "summary": "",
-      "source": "cambridge.org",
-      "ts": "2025-09-10T02:55:33Z",
-      "score": 31.82
-    },
-    {
-      "id": "hn-45176471",
-      "title": "First 'perovskite camera' can see inside the human body",
-      "url": "https://news.northwestern.edu/stories/2025/09/first-perovskite-camera-can-see-inside-the-human-body/",
-      "summary": "",
-      "source": "news.northwestern.edu",
-      "ts": "2025-09-09T01:49:08Z",
-      "score": 31.64
+      "score": 66.35
     },
     {
       "id": "hn-45183008",
@@ -457,16 +367,43 @@
       "summary": "",
       "source": "virtuallyfun.com",
       "ts": "2025-09-09T15:09:34Z",
-      "score": 29.0
+      "score": 56.05
     },
     {
-      "id": "hn-45176858",
-      "title": "Wysiwid: What you see is what it does",
-      "url": "https://essenceofsoftware.com/posts/wysiwid/",
-      "summary": "",
-      "source": "essenceofsoftware.com",
-      "ts": "2025-09-09T02:54:09Z",
-      "score": 23.94
+      "id": "d97198f8ebe2",
+      "title": "ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable\n  Orthogonal Butterfly Transforms",
+      "url": "http://arxiv.org/abs/2509.09679v1",
+      "summary": "Large language models require massive memory footprints, severely limiting\ndeployment on consumer hardware. Quantization reduces memory through lower\nnumerical precision, but extreme 2-bit quantization suffers from catastrophic\nperformance loss due to outliers in activations. Rotation-based methods such as\nQuIP and QuaRot apply orthogonal transforms to eliminate outliers before\nquantization, using computational invariance: $\\mathbf{y} = \\mathbf{Wx} =\n(\\mathbf{WQ}^T)(\\mathbf{Qx})$ for orthogonal $\\mathbf{Q}$. However, these\nmethods use fixed transforms--Hadamard matrices achieving optimal worst-case\ncoherence $\\mu = 1/\\sqrt{n}$--that cannot adapt to specific weight\ndistributions. We identify that different transformer layers exhibit distinct\noutlier patterns, motivating layer-adaptive rotations rather than\none-size-fits-all approaches. We propose ButterflyQuant, which replaces\nHadamard rotations with learnable butterfly transforms parameterized by\ncontinuous Givens rotation angles. Unlike Hadamard's discrete $\\{+1, -1\\}$\nentries that are non-differentiable and prohibit gradient-based learning,\nbutterfly transforms' continuous parameterization enables smooth optimization\nwhile guaranteeing orthogonality by construction. This orthogonal constraint\nensures theoretical guarantees in outlier suppression while achieving $O(n \\log\nn)$ computational complexity with only $\\frac{n \\log n}{2}$ learnable\nparameters. We further introduce a uniformity regularization on\npost-transformation activations to promote smoother distributions amenable to\nquantization. Learning requires only 128 calibration samples and converges in\nminutes on a single GPU--a negligible one-time cost. On LLaMA-2-7B with 2-bit\nquantization, ButterflyQuant achieves 15.4 perplexity versus 22.1 for QuaRot.",
+      "source": "arxiv.org",
+      "ts": "2025-09-11T17:59:51Z",
+      "score": 54.94
+    },
+    {
+      "id": "c373098244dc",
+      "title": "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in\n  LLMs",
+      "url": "http://arxiv.org/abs/2509.09677v1",
+      "summary": "Does continued scaling of large language models (LLMs) yield diminishing\nreturns? Real-world value often stems from the length of task an agent can\ncomplete. We start this work by observing the simple but counterintuitive fact\nthat marginal gains in single-step accuracy can compound into exponential\nimprovements in the length of a task a model can successfully complete. Then,\nwe argue that failures of LLMs when simple tasks are made longer arise from\nmistakes in execution, rather than an inability to reason. We propose isolating\nexecution capability, by explicitly providing the knowledge and plan needed to\nsolve a long-horizon task. We find that larger models can correctly execute\nsignificantly more turns even when small models have 100\\% single-turn\naccuracy. We observe that the per-step accuracy of models degrades as the\nnumber of steps increases. This is not just due to long-context limitations --\ncuriously, we observe a self-conditioning effect -- models become more likely\nto make mistakes when the context contains their errors from prior turns.\nSelf-conditioning does not reduce by just scaling the model size. In contrast,\nrecent thinking models do not self-condition, and can also execute much longer\ntasks in a single turn. We conclude by benchmarking frontier thinking models on\nthe length of task they can execute in a single turn. Overall, by focusing on\nthe ability to execute, we hope to reconcile debates on how LLMs can solve\ncomplex reasoning problems yet fail at simple tasks when made longer, and\nhighlight the massive benefits of scaling model size and sequential test-time\ncompute for long-horizon tasks.",
+      "source": "arxiv.org",
+      "ts": "2025-09-11T17:59:34Z",
+      "score": 54.94
+    },
+    {
+      "id": "3df6006b1c01",
+      "title": "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2509.09674v1",
+      "summary": "Vision-Language-Action (VLA) models have recently emerged as a powerful\nparadigm for robotic manipulation. Despite substantial progress enabled by\nlarge-scale pretraining and supervised fine-tuning (SFT), these models face two\nfundamental challenges: (i) the scarcity and high cost of large-scale\nhuman-operated robotic trajectories required for SFT scaling, and (ii) limited\ngeneralization to tasks involving distribution shift. Recent breakthroughs in\nLarge Reasoning Models (LRMs) demonstrate that reinforcement learning (RL) can\ndramatically enhance step-by-step reasoning capabilities, raising a natural\nquestion: Can RL similarly improve the long-horizon step-by-step action\nplanning of VLA? In this work, we introduce SimpleVLA-RL, an efficient RL\nframework tailored for VLA models. Building upon veRL, we introduce\nVLA-specific trajectory sampling, scalable parallelization, multi-environment\nrendering, and optimized loss computation. When applied to OpenVLA-OFT,\nSimpleVLA-RL achieves SoTA performance on LIBERO and even outperforms $\\pi_0$\non RoboTwin 1.0\\&2.0 with the exploration-enhancing strategies we introduce.\nSimpleVLA-RL not only reduces dependence on large-scale data and enables robust\ngeneralization, but also remarkably surpasses SFT in real-world tasks.\nMoreover, we identify a novel phenomenon ``pushcut'' during RL training,\nwherein the policy discovers previously unseen patterns beyond those seen in\nthe previous training process. Github: https://github.com/PRIME-RL/SimpleVLA-RL",
+      "source": "arxiv.org",
+      "ts": "2025-09-11T17:59:17Z",
+      "score": 54.93
+    },
+    {
+      "id": "046838869b44",
+      "title": "A joint statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+      "source": "openai.com",
+      "ts": "2025-09-11T14:00:00Z",
+      "score": 50.55
     },
     {
       "id": "hn-45180876",
@@ -475,7 +412,79 @@
       "summary": "",
       "source": "devcenter.upsun.com",
       "ts": "2025-09-09T12:14:58Z",
-      "score": 20.69
+      "score": 49.79
+    },
+    {
+      "id": "hn-45193291",
+      "title": "Automate compile_flags for C/C++ projects on the Zig build system",
+      "url": "https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/",
+      "summary": "",
+      "source": "simonhartcher.com",
+      "ts": "2025-09-10T04:28:49Z",
+      "score": 40.94
+    },
+    {
+      "id": "hn-45182098",
+      "title": "Antlr-Ng Parser Generator",
+      "url": "https://www.antlr-ng.org/",
+      "summary": "",
+      "source": "antlr-ng.org",
+      "ts": "2025-09-09T14:04:28Z",
+      "score": 37.13
+    },
+    {
+      "id": "hn-45180094",
+      "title": "Resizing images in Rust, now with EXIF orientation support",
+      "url": "https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/",
+      "summary": "",
+      "source": "alexwlchan.net",
+      "ts": "2025-09-09T10:31:22Z",
+      "score": 35.51
+    },
+    {
+      "id": "hn-45180213",
+      "title": "Weird CPU architectures, the MOV only CPU (2020)",
+      "url": "https://justanotherelectronicsblog.com/?p=771",
+      "summary": "",
+      "source": "justanotherelectronicsblog.com",
+      "ts": "2025-09-09T10:46:46Z",
+      "score": 27.18
+    },
+    {
+      "id": "hn-45180898",
+      "title": "My Quarterly System Health Check-In: Beyond the Dashboard",
+      "url": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
+      "summary": "",
+      "source": "blog.nilenso.com",
+      "ts": "2025-09-09T12:16:30Z",
+      "score": 21.6
+    },
+    {
+      "id": "hn-45192919",
+      "title": "Close the loop: analytics that teach your chatbot to fix itself",
+      "url": "https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself",
+      "summary": "",
+      "source": "hoverbot.ai",
+      "ts": "2025-09-10T03:37:01Z",
+      "score": 21.4
+    },
+    {
+      "id": "hn-45182081",
+      "title": "Behind Kamathipura's Closed Doors",
+      "url": "https://failedarchitecture.com/behind-kamathipuras-closed-doors/",
+      "summary": "",
+      "source": "failedarchitecture.com",
+      "ts": "2025-09-09T14:03:03Z",
+      "score": 20.32
+    },
+    {
+      "id": "hn-45183057",
+      "title": "Does All Semiconductor Manufacturing Depend on Spruce Pine Quartz? (2024)",
+      "url": "https://www.construction-physics.com/p/does-all-semiconductor-manufacturing",
+      "summary": "",
+      "source": "construction-physics.com",
+      "ts": "2025-09-09T15:12:46Z",
+      "score": 16.47
     },
     {
       "id": "982ca303f669",
@@ -484,7 +493,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.58
+      "score": 0.45
     },
     {
       "id": "265e85cbbb22",
@@ -493,7 +502,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.02
+      "score": 0.01
     },
     {
       "id": "99b464916a99",
