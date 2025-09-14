@@ -7,34 +7,16 @@
       "summary": "",
       "source": "anycrap.shop",
       "ts": "2025-09-13T12:02:11Z",
-      "score": 612.34
-    },
-    {
-      "id": "hn-45235648",
-      "title": "Myocardial infarction may be an infectious disease",
-      "url": "https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease",
-      "summary": "",
-      "source": "tuni.fi",
-      "ts": "2025-09-13T21:55:42Z",
-      "score": 338.43
+      "score": 667.08
     },
     {
       "id": "hn-45238055",
-      "title": "Models of European Metro Stations",
+      "title": "Models of European metro stations",
       "url": "http://stations.albertguillaumes.cat/",
       "summary": "",
       "source": "stations.albertguillaumes.cat",
       "ts": "2025-09-14T07:00:44Z",
-      "score": 264.18
-    },
-    {
-      "id": "hn-45232562",
-      "title": "Four-year wedding crasher mystery solved",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-09-13T14:52:33Z",
-      "score": 255.49
+      "score": 465.29
     },
     {
       "id": "hn-45236263",
@@ -43,43 +25,16 @@
       "summary": "",
       "source": "joefatula.com",
       "ts": "2025-09-13T23:50:25Z",
-      "score": 235.3
+      "score": 373.22
     },
     {
-      "id": "hn-45234323",
-      "title": "The case against social media is stronger than you think",
-      "url": "https://arachnemag.substack.com/p/the-case-against-social-media-is",
+      "id": "hn-45242458",
+      "title": "ChatControl update: blocking minority held but Denmark is moving forward anyway",
+      "url": "https://disobey.net/@yawnbox/115203365485529363",
       "summary": "",
-      "source": "arachnemag.substack.com",
-      "ts": "2025-09-13T18:39:17Z",
-      "score": 223.04
-    },
-    {
-      "id": "hn-45236079",
-      "title": "Pass: Unix Password Manager",
-      "url": "https://www.passwordstore.org/",
-      "summary": "",
-      "source": "passwordstore.org",
-      "ts": "2025-09-13T23:16:40Z",
-      "score": 204.38
-    },
-    {
-      "id": "hn-45233713",
-      "title": "RIP pthread_cancel",
-      "url": "https://eissing.org/icing/posts/rip_pthread_cancel/",
-      "summary": "",
-      "source": "eissing.org",
-      "ts": "2025-09-13T17:20:21Z",
-      "score": 187.53
-    },
-    {
-      "id": "hn-45231852",
-      "title": "My first impressions of Gleam",
-      "url": "https://mtlynch.io/notes/gleam-first-impressions/",
-      "summary": "",
-      "source": "mtlynch.io",
-      "ts": "2025-09-13T13:15:26Z",
-      "score": 184.93
+      "source": "disobey.net",
+      "ts": "2025-09-14T19:15:24Z",
+      "score": 340.15
     },
     {
       "id": "hn-45233415",
@@ -88,79 +43,61 @@
       "summary": "",
       "source": "gfw.report",
       "ts": "2025-09-13T16:43:26Z",
-      "score": 181.85
+      "score": 281.39
     },
     {
-      "id": "hn-45232565",
-      "title": "486Tang – 486 on a credit-card-sized FPGA board",
-      "url": "https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/",
+      "id": "hn-45236079",
+      "title": "Pass: Unix Password Manager",
+      "url": "https://www.passwordstore.org/",
       "summary": "",
-      "source": "nand2mario.github.io",
-      "ts": "2025-09-13T14:52:45Z",
-      "score": 173.9
+      "source": "passwordstore.org",
+      "ts": "2025-09-13T23:16:40Z",
+      "score": 243.51
     },
     {
-      "id": "hn-45234460",
-      "title": "Safe C++ proposal is not being continued",
-      "url": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "id": "hn-45239085",
+      "title": "Repetitive negative thinking associated with cognitive decline in older adults",
+      "url": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2",
       "summary": "",
-      "source": "sibellavia.lol",
-      "ts": "2025-09-13T19:00:29Z",
-      "score": 167.76
+      "source": "bmcpsychiatry.biomedcentral.com",
+      "ts": "2025-09-14T11:37:33Z",
+      "score": 242.06
     },
     {
-      "id": "hn-45230265",
-      "title": "Java 25's new CPU-Time Profiler",
-      "url": "https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/",
+      "id": "hn-45240682",
+      "title": "Writing an operating system kernel from scratch",
+      "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
       "summary": "",
-      "source": "mostlynerdless.de",
-      "ts": "2025-09-13T08:11:27Z",
-      "score": 165.4
+      "source": "popovicu.com",
+      "ts": "2025-09-14T15:44:44Z",
+      "score": 214.88
     },
     {
-      "id": "hn-45235676",
-      "title": "Will AI be the basis of many future industrial fortunes, or a net loser?",
-      "url": "https://joincolossus.com/article/ai-will-not-make-you-rich/",
+      "id": "hn-45240304",
+      "title": "Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud",
+      "url": "https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/",
       "summary": "",
-      "source": "joincolossus.com",
-      "ts": "2025-09-13T22:01:35Z",
-      "score": 156.18
+      "source": "thaienquirer.com",
+      "ts": "2025-09-14T15:05:28Z",
+      "score": 201.72
     },
     {
-      "id": "hn-45235293",
-      "title": "AMD’s RDNA4 GPU architecture",
-      "url": "https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot",
+      "id": "hn-45240146",
+      "title": "Why We Spiral",
+      "url": "https://behavioralscientist.org/why-we-spiral/",
       "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-09-13T21:04:18Z",
-      "score": 148.09
+      "source": "behavioralscientist.org",
+      "ts": "2025-09-14T14:46:58Z",
+      "score": 199.38
     },
     {
-      "id": "hn-45232299",
-      "title": "Show HN: CLAVIER-36 – A programming environment for generative music",
-      "url": "https://clavier36.com/p/LtZDdcRP3haTWHErgvdM",
+      "id": "hn-45238930",
+      "title": "macOS Tahoe is certified Unix 03 [pdf]",
+      "url": "https://www.opengroup.org/openbrand/certificates/1223p.pdf",
       "summary": "",
-      "source": "clavier36.com",
-      "ts": "2025-09-13T14:22:59Z",
-      "score": 141.42
-    },
-    {
-      "id": "hn-45237717",
-      "title": "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
-      "url": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
-      "summary": "",
-      "source": "oldvcr.blogspot.com",
-      "ts": "2025-09-14T05:42:38Z",
-      "score": 135.74
-    },
-    {
-      "id": "hn-45233237",
-      "title": "Recreating the US/* time zone situation",
-      "url": "https://rachelbythebay.com/w/2025/09/12/tz/",
-      "summary": "",
-      "source": "rachelbythebay.com",
-      "ts": "2025-09-13T16:14:11Z",
-      "score": 119.97
+      "source": "opengroup.org",
+      "ts": "2025-09-14T11:01:53Z",
+      "score": 191.3
     },
     {
       "id": "hn-45237442",
@@ -169,25 +106,34 @@
       "summary": "",
       "source": "quantamagazine.org",
       "ts": "2025-09-14T04:27:12Z",
-      "score": 119.64
+      "score": 174.2
     },
     {
-      "id": "hn-45237184",
-      "title": "High Altitude Living – 8,000 ft and above (2021)",
-      "url": "https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters",
+      "id": "hn-45240391",
+      "title": "Nicu's test website made with SVG (2007)",
+      "url": "https://svg.nicubunu.ro/",
       "summary": "",
-      "source": "studioq.com",
-      "ts": "2025-09-14T03:29:35Z",
-      "score": 114.92
+      "source": "svg.nicubunu.ro",
+      "ts": "2025-09-14T15:13:42Z",
+      "score": 164.76
     },
     {
-      "id": "hn-45236473",
-      "title": "How the restoration of ancient Babylon is drawing tourists back to Iraq",
-      "url": "https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq",
+      "id": "hn-45237717",
+      "title": "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
+      "url": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
       "summary": "",
-      "source": "theartnewspaper.com",
-      "ts": "2025-09-14T00:34:25Z",
-      "score": 114.11
+      "source": "oldvcr.blogspot.com",
+      "ts": "2025-09-14T05:42:38Z",
+      "score": 154.99
+    },
+    {
+      "id": "hn-45239601",
+      "title": "Read to forget",
+      "url": "https://mo42.bearblog.dev/read-to-forget/",
+      "summary": "",
+      "source": "mo42.bearblog.dev",
+      "ts": "2025-09-14T13:23:12Z",
+      "score": 150.79
     },
     {
       "id": "hn-45237754",
@@ -196,43 +142,88 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-14T05:49:42Z",
-      "score": 112.56
+      "score": 149.16
     },
     {
-      "id": "hn-45236774",
-      "title": "Visual programming is stuck on the form",
-      "url": "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/",
+      "id": "hn-45242591",
+      "title": "OCSP Service Has Reached End of Life",
+      "url": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
       "summary": "",
-      "source": "interjectedfuture.com",
-      "ts": "2025-09-14T01:53:31Z",
-      "score": 106.74
+      "source": "letsencrypt.org",
+      "ts": "2025-09-14T19:34:48Z",
+      "score": 145.77
     },
     {
-      "id": "hn-45235458",
-      "title": "The Software Engineers Paid to Fix Vibe Coded Messes",
-      "url": "https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/",
+      "id": "hn-45204587",
+      "title": "You’re a slow thinker. Now what?",
+      "url": "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what",
       "summary": "",
-      "source": "404media.co",
-      "ts": "2025-09-13T21:26:32Z",
-      "score": 103.66
+      "source": "chillphysicsenjoyer.substack.com",
+      "ts": "2025-09-10T22:01:45Z",
+      "score": 142.16
     },
     {
-      "id": "hn-45238827",
-      "title": "Osteo-Odonto-Keratoprosthesis",
-      "url": "https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis",
+      "id": "hn-45238836",
+      "title": "Fukushima insects tested for cognition",
+      "url": "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition",
       "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-09-14T10:30:49Z",
-      "score": 101.54
+      "source": "news.cnrs.fr",
+      "ts": "2025-09-14T10:32:22Z",
+      "score": 137.71
     },
     {
-      "id": "hn-45238536",
-      "title": "Gemini (2023)",
-      "url": "https://geminiquickst.art/",
+      "id": "hn-45243019",
+      "title": "My thoughts on renting versus buying",
+      "url": "https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/",
       "summary": "",
-      "source": "geminiquickst.art",
-      "ts": "2025-09-14T09:04:53Z",
-      "score": 99.61
+      "source": "milesbarr.me",
+      "ts": "2025-09-14T20:36:14Z",
+      "score": 135.16
+    },
+    {
+      "id": "hn-45242337",
+      "title": "How older parents divorce affects their adult children",
+      "url": "https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-09-14T18:57:14Z",
+      "score": 134.37
+    },
+    {
+      "id": "hn-45243635",
+      "title": "Betty Crocker broke recipes by shrinking boxes",
+      "url": "https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058",
+      "summary": "",
+      "source": "cubbyathome.com",
+      "ts": "2025-09-14T21:54:07Z",
+      "score": 130.55
+    },
+    {
+      "id": "hn-45241861",
+      "title": "Eye drops could replace glasses or surgery for longsightedness, study says",
+      "url": "https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study",
+      "summary": "",
+      "source": "theguardian.com",
+      "ts": "2025-09-14T17:59:16Z",
+      "score": 127.75
+    },
+    {
+      "id": "hn-45243803",
+      "title": "Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days",
+      "url": "https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem",
+      "summary": "",
+      "source": "sdstate.edu",
+      "ts": "2025-09-14T22:15:33Z",
+      "score": 126.47
+    },
+    {
+      "id": "hn-45243867",
+      "title": "Cannabis use associated with quadrupled risk of developing type 2 diabetes",
+      "url": "https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html",
+      "summary": "",
+      "source": "medicalxpress.com",
+      "ts": "2025-09-14T22:22:32Z",
+      "score": 117.71
     },
     {
       "id": "hn-45238567",
@@ -241,79 +232,106 @@
       "summary": "",
       "source": "thechipletter.substack.com",
       "ts": "2025-09-14T09:13:39Z",
-      "score": 98.7
+      "score": 111.05
     },
     {
-      "id": "hn-45237970",
-      "title": "Cat Aquariums",
-      "url": "https://cataquariums.com/",
+      "id": "hn-45243925",
+      "title": "Titania Programming Language",
+      "url": "https://github.com/gingerBill/titania",
       "summary": "",
-      "source": "cataquariums.com",
-      "ts": "2025-09-14T06:42:56Z",
-      "score": 93.22
+      "source": "github.com",
+      "ts": "2025-09-14T22:29:49Z",
+      "score": 106.94
     },
     {
-      "id": "hn-45237136",
-      "title": "Ollee Watch: Turn your classic Casio watch into a smartwatch",
-      "url": "https://www.olleewatch.com",
+      "id": "hn-45243800",
+      "title": "Website is hosted on a disposable vape",
+      "url": "http://ewaste.fka.wtf/",
       "summary": "",
-      "source": "olleewatch.com",
-      "ts": "2025-09-14T03:18:01Z",
-      "score": 89.98
+      "source": "ewaste.fka.wtf",
+      "ts": "2025-09-14T22:14:56Z",
+      "score": 104.85
     },
     {
-      "id": "hn-45189058",
-      "title": "How Ruby executes JIT code",
-      "url": "https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/",
+      "id": "hn-45243740",
+      "title": "Trigger Crossbar",
+      "url": "https://serd.es/2025/09/14/Trigger-crossbar.html",
       "summary": "",
-      "source": "railsatscale.com",
-      "ts": "2025-09-09T21:01:53Z",
-      "score": 87.45
+      "source": "serd.es",
+      "ts": "2025-09-14T22:08:13Z",
+      "score": 102.22
     },
     {
-      "id": "hn-45213407",
-      "title": "Orange rivers signal toxic shift in Arctic wilderness",
-      "url": "https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness",
+      "id": "hn-45244049",
+      "title": "California age verification bill backed by Google, Meta, OpenAI heads to Newsom",
+      "url": "https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005",
       "summary": "",
-      "source": "news.ucr.edu",
-      "ts": "2025-09-11T16:24:05Z",
-      "score": 80.6
+      "source": "politico.com",
+      "ts": "2025-09-14T22:46:35Z",
+      "score": 102.14
     },
     {
-      "id": "7e14b3dd2c6e",
-      "title": "California lawmakers pass AI safety bill SB 53 — but Newsom could still veto",
-      "url": "https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/",
-      "summary": "The state's landmark safety bill sets new transparency requirements for large AI companies.",
+      "id": "3289ad81cfe8",
+      "title": "OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)",
+      "url": "https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/",
+      "summary": "Like OpenAI CEO Sam Altman, Bret Taylor thinks we're in an AI bubble — but he doesn't sound too worried about it.",
       "source": "techcrunch.com",
-      "ts": "2025-09-13T18:56:50Z",
-      "score": 78.18
+      "ts": "2025-09-14T19:33:22Z",
+      "score": 101.55
     },
     {
-      "id": "hn-45192012",
-      "title": "Open Source SDR Ham Transceiver Prototype",
-      "url": "https://m17project.org/2025/08/18/first-linht-tests/",
-      "summary": "",
-      "source": "m17project.org",
-      "ts": "2025-09-10T01:38:28Z",
-      "score": 73.46
-    },
-    {
-      "id": "0485b11ace5e",
-      "title": "xAI reportedly lays off 500 workers from data annotation team",
-      "url": "https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/",
-      "summary": "Elon Musk's AI startup says it's shifting focus from generalist AI tutors to specialists.",
+      "id": "4d3235babdcf",
+      "title": "Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it",
+      "url": "https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/",
+      "summary": "TechCrunch spoke to experienced coders about their time using AI-generated code about what they see as the future of vibe coding.",
       "source": "techcrunch.com",
-      "ts": "2025-09-13T15:50:50Z",
-      "score": 73.29
+      "ts": "2025-09-14T19:00:00Z",
+      "score": 100.38
     },
     {
-      "id": "hn-45197862",
-      "title": "The Socratic Journal Method: A Simple Journaling Method That Works",
-      "url": "https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/",
+      "id": "04b5aa2065df",
+      "title": "Users turn to chatbots for spiritual guidance",
+      "url": "https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/",
+      "summary": "At least one website claims to allow users to chat with God.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-14T18:45:26Z",
+      "score": 99.88
+    },
+    {
+      "id": "9b8658062c60",
+      "title": "Rolling Stone’s parent company sues Google over AI Overviews",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
+      "summary": "Disclosure: Penske Media Corporation is an investor in Vox Media, The Verge’s parent company. Penske Media Corporation, the publisher of Rolling Stone and The Hollywood Reporter, has become the first major American media company to sue Google over its AI summaries. The company claims that the AI Overviews that often appear at the top of [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-14T16:49:38Z",
+      "score": 95.94
+    },
+    {
+      "id": "hn-45200133",
+      "title": "Introduction to GrapheneOS",
+      "url": "https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html",
       "summary": "",
-      "source": "mindthenerd.com",
-      "ts": "2025-09-10T14:03:11Z",
-      "score": 72.52
+      "source": "dataswamp.org",
+      "ts": "2025-09-10T16:32:23Z",
+      "score": 80.73
+    },
+    {
+      "id": "hn-45200642",
+      "title": "Observable Notebooks Data Loaders",
+      "url": "https://observablehq.com/notebook-kit/data-loaders",
+      "summary": "",
+      "source": "observablehq.com",
+      "ts": "2025-09-10T17:04:29Z",
+      "score": 49.66
+    },
+    {
+      "id": "hn-45215952",
+      "title": "Accelerated Game of Life with CUDA / Triton",
+      "url": "https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/",
+      "summary": "",
+      "source": "boristhebrave.com",
+      "ts": "2025-09-11T20:46:02Z",
+      "score": 46.33
     },
     {
       "id": "9878dd4f6392",
@@ -322,7 +340,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 53.38
+      "score": 41.52
     },
     {
       "id": "f3d9bc92bda7",
@@ -331,43 +349,16 @@
       "summary": "While interviewing OpenAI CEO Sam Altman this week, former Fox News host Tucker Carlson brought up his belief in a conspiracy theory that former OpenAI researcher Suchir Balaji was “definitely murdered.” The researcher’s death in November 2024, which was ruled a suicide by the San Francisco police, followed his release of statements online and in [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-13T00:19:28Z",
-      "score": 53.04
+      "score": 41.26
     },
     {
-      "id": "hn-45196991",
-      "title": "Adding OR logic forced us to confront why users preferred raw SQL",
-      "url": "https://signoz.io/blog/query-builder-v5/",
+      "id": "hn-45219383",
+      "title": "Implementing namespaces and coding standards in WordPress plugin development",
+      "url": "https://developer.wordpress.org/news/2025/09/implementing-namespaces-and-coding-standards-in-wordpress-plugin-development/",
       "summary": "",
-      "source": "signoz.io",
-      "ts": "2025-09-10T13:00:16Z",
-      "score": 51.81
-    },
-    {
-      "id": "hn-45189963",
-      "title": "Perceived Age (2024)",
-      "url": "https://sdan.io/blog/perceived-age",
-      "summary": "",
-      "source": "sdan.io",
-      "ts": "2025-09-09T22:06:49Z",
-      "score": 51.67
-    },
-    {
-      "id": "hn-45197896",
-      "title": "Lexy: A parser combinator library for C++17",
-      "url": "https://github.com/foonathan/lexy",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-10T14:05:45Z",
-      "score": 48.53
-    },
-    {
-      "id": "d6effab1fb16",
-      "title": "Why the Oracle-OpenAI deal caught Wall Street by surprise",
-      "url": "https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/",
-      "summary": "The $300B deal is a reminder that despite Oracle’s legacy status, it shouldn’t be overlooked when it comes to AI infrastructure. But key questions around power and how OpenAI will pay for this remain.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-12T20:01:41Z",
-      "score": 48.5
+      "source": "developer.wordpress.org",
+      "ts": "2025-09-12T06:56:32Z",
+      "score": 38.11
     },
     {
       "id": "1524b7a996a7",
@@ -376,7 +367,7 @@
       "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security. The collaboration is setting new standards for responsible frontier AI deployment through joint red-teaming, biosecurity safeguards, and agentic system testing.",
       "source": "openai.com",
       "ts": "2025-09-12T12:00:00Z",
-      "score": 48.49
+      "score": 37.72
     },
     {
       "id": "2d91e54d12bf",
@@ -385,7 +376,7 @@
       "summary": "The AI web search company Perplexity is being hit by another lawsuit alleging copyright and trademark infringement, this time from Encyclopedia Britannica and Merriam-Webster. Britannica, the centuries-old publisher that owns Merriam-Webster, sued Perplexity in New York federal court on September 10th. In the lawsuit, the companies allege that Perplexity’s “answer engine” scrapes their websites, steals [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-12T17:23:34Z",
-      "score": 45.91
+      "score": 35.71
     },
     {
       "id": "d3941dee22b6",
@@ -394,16 +385,7 @@
       "summary": "Applications are now open for OpenAI Grove, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
       "source": "openai.com",
       "ts": "2025-09-12T07:00:00Z",
-      "score": 43.69
-    },
-    {
-      "id": "b80e439d30fd",
-      "title": "Our hottest takes on AI&#8217;s wild summer",
-      "url": "https://www.theverge.com/the-vergecast/777145/ai-friends-openai-claude-takes-vergecast",
-      "summary": "There's a lot happening in the world of artificial intelligence. There is always a lot happening in the world of artificial intelligence. The money is enormous; the stakes are high; the products are, well, all over the place. Sit on your couch and read about it all long enough, and you're bound to feel some [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-12T14:02:02Z",
-      "score": 42.8
+      "score": 33.99
     },
     {
       "id": "e605550fbb66",
@@ -412,7 +394,7 @@
       "summary": "In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:36:19Z",
-      "score": 41.92
+      "score": 32.61
     },
     {
       "id": "59072e49b115",
@@ -421,7 +403,7 @@
       "summary": "In this post, we explore how log probabilities work with imported models in Amazon Bedrock. You will learn what log probabilities are, how to enable them in your API calls, and how to interpret the returned data. We also highlight practical applications—from detecting potential hallucinations to optimizing RAG systems and evaluating fine-tuned models—that demonstrate how these insights can improve your AI applications, helping you build more trustworthy solutions with your custom models.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:34:16Z",
-      "score": 41.89
+      "score": 32.59
     },
     {
       "id": "8e2902c4d3eb",
@@ -430,25 +412,16 @@
       "summary": "This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:31:19Z",
-      "score": 41.85
+      "score": 32.55
     },
     {
-      "id": "hn-45208828",
-      "title": "The unreasonable effectiveness of modern sort algorithms",
-      "url": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+      "id": "hn-45216578",
+      "title": "Patela: A basement full of amnesic servers",
+      "url": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-11T07:27:52Z",
-      "score": 40.98
-    },
-    {
-      "id": "hn-45212521",
-      "title": "A Trick for Backpropagation of Linear Transformations",
-      "url": "https://tripplyons.com/blog/backprop-trick",
-      "summary": "",
-      "source": "tripplyons.com",
-      "ts": "2025-09-11T15:05:28Z",
-      "score": 34.33
+      "source": "osservatorionessuno.org",
+      "ts": "2025-09-11T22:03:54Z",
+      "score": 31.31
     },
     {
       "id": "d97198f8ebe2",
@@ -457,7 +430,7 @@
       "summary": "Large language models require massive memory footprints, severely limiting\ndeployment on consumer hardware. Quantization reduces memory through lower\nnumerical precision, but extreme 2-bit quantization suffers from catastrophic\nperformance loss due to outliers in activations. Rotation-based methods such as\nQuIP and QuaRot apply orthogonal transforms to eliminate outliers before\nquantization, using computational invariance: $\\mathbf{y} = \\mathbf{Wx} =\n(\\mathbf{WQ}^T)(\\mathbf{Qx})$ for orthogonal $\\mathbf{Q}$. However, these\nmethods use fixed transforms--Hadamard matrices achieving optimal worst-case\ncoherence $\\mu = 1/\\sqrt{n}$--that cannot adapt to specific weight\ndistributions. We identify that different transformer layers exhibit distinct\noutlier patterns, motivating layer-adaptive rotations rather than\none-size-fits-all approaches. We propose ButterflyQuant, which replaces\nHadamard rotations with learnable butterfly transforms parameterized by\ncontinuous Givens rotation angles. Unlike Hadamard's discrete $\\{+1, -1\\}$\nentries that are non-differentiable and prohibit gradient-based learning,\nbutterfly transforms' continuous parameterization enables smooth optimization\nwhile guaranteeing orthogonality by construction. This orthogonal constraint\nensures theoretical guarantees in outlier suppression while achieving $O(n \\log\nn)$ computational complexity with only $\\frac{n \\log n}{2}$ learnable\nparameters. We further introduce a uniformity regularization on\npost-transformation activations to promote smoother distributions amenable to\nquantization. Learning requires only 128 calibration samples and converges in\nminutes on a single GPU--a negligible one-time cost. On LLaMA-2-7B with 2-bit\nquantization, ButterflyQuant achieves 15.4 perplexity versus 22.1 for QuaRot.",
       "source": "arxiv.org",
       "ts": "2025-09-11T17:59:51Z",
-      "score": 33.32
+      "score": 25.92
     },
     {
       "id": "c373098244dc",
@@ -466,7 +439,7 @@
       "summary": "Does continued scaling of large language models (LLMs) yield diminishing\nreturns? Real-world value often stems from the length of task an agent can\ncomplete. We start this work by observing the simple but counterintuitive fact\nthat marginal gains in single-step accuracy can compound into exponential\nimprovements in the length of a task a model can successfully complete. Then,\nwe argue that failures of LLMs when simple tasks are made longer arise from\nmistakes in execution, rather than an inability to reason. We propose isolating\nexecution capability, by explicitly providing the knowledge and plan needed to\nsolve a long-horizon task. We find that larger models can correctly execute\nsignificantly more turns even when small models have 100\\% single-turn\naccuracy. We observe that the per-step accuracy of models degrades as the\nnumber of steps increases. This is not just due to long-context limitations --\ncuriously, we observe a self-conditioning effect -- models become more likely\nto make mistakes when the context contains their errors from prior turns.\nSelf-conditioning does not reduce by just scaling the model size. In contrast,\nrecent thinking models do not self-condition, and can also execute much longer\ntasks in a single turn. We conclude by benchmarking frontier thinking models on\nthe length of task they can execute in a single turn. Overall, by focusing on\nthe ability to execute, we hope to reconcile debates on how LLMs can solve\ncomplex reasoning problems yet fail at simple tasks when made longer, and\nhighlight the massive benefits of scaling model size and sequential test-time\ncompute for long-horizon tasks.",
       "source": "arxiv.org",
       "ts": "2025-09-11T17:59:34Z",
-      "score": 33.32
+      "score": 25.92
     },
     {
       "id": "3df6006b1c01",
@@ -475,7 +448,16 @@
       "summary": "Vision-Language-Action (VLA) models have recently emerged as a powerful\nparadigm for robotic manipulation. Despite substantial progress enabled by\nlarge-scale pretraining and supervised fine-tuning (SFT), these models face two\nfundamental challenges: (i) the scarcity and high cost of large-scale\nhuman-operated robotic trajectories required for SFT scaling, and (ii) limited\ngeneralization to tasks involving distribution shift. Recent breakthroughs in\nLarge Reasoning Models (LRMs) demonstrate that reinforcement learning (RL) can\ndramatically enhance step-by-step reasoning capabilities, raising a natural\nquestion: Can RL similarly improve the long-horizon step-by-step action\nplanning of VLA? In this work, we introduce SimpleVLA-RL, an efficient RL\nframework tailored for VLA models. Building upon veRL, we introduce\nVLA-specific trajectory sampling, scalable parallelization, multi-environment\nrendering, and optimized loss computation. When applied to OpenVLA-OFT,\nSimpleVLA-RL achieves SoTA performance on LIBERO and even outperforms $\\pi_0$\non RoboTwin 1.0\\&2.0 with the exploration-enhancing strategies we introduce.\nSimpleVLA-RL not only reduces dependence on large-scale data and enables robust\ngeneralization, but also remarkably surpasses SFT in real-world tasks.\nMoreover, we identify a novel phenomenon ``pushcut'' during RL training,\nwherein the policy discovers previously unseen patterns beyond those seen in\nthe previous training process. Github: https://github.com/PRIME-RL/SimpleVLA-RL",
       "source": "arxiv.org",
       "ts": "2025-09-11T17:59:17Z",
-      "score": 33.32
+      "score": 25.92
+    },
+    {
+      "id": "hn-45214749",
+      "title": "Irrlicht Engine – a cross-platform realtime 3D engine",
+      "url": "https://irrlicht.sourceforge.io/?page_id=45",
+      "summary": "",
+      "source": "irrlicht.sourceforge.io",
+      "ts": "2025-09-11T18:40:17Z",
+      "score": 25.62
     },
     {
       "id": "046838869b44",
@@ -484,16 +466,16 @@
       "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
       "source": "openai.com",
       "ts": "2025-09-11T14:00:00Z",
-      "score": 30.66
+      "score": 23.85
     },
     {
-      "id": "hn-45197453",
-      "title": "Dynamic Bird Migration Map",
-      "url": "https://explorer.audubon.org/explore/species?sidebar=expand",
+      "id": "hn-45211580",
+      "title": "La-Proteina",
+      "url": "https://github.com/NVIDIA-Digital-Bio/la-proteina",
       "summary": "",
-      "source": "explorer.audubon.org",
-      "ts": "2025-09-10T13:36:55Z",
-      "score": 29.79
+      "source": "github.com",
+      "ts": "2025-09-11T13:43:58Z",
+      "score": 23.65
     },
     {
       "id": "982ca303f669",
@@ -502,7 +484,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.27
+      "score": 0.21
     },
     {
       "id": "265e85cbbb22",
