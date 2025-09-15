@@ -7,7 +7,7 @@
       "summary": "",
       "source": "anycrap.shop",
       "ts": "2025-09-13T12:02:11Z",
-      "score": 667.08
+      "score": 695.48
     },
     {
       "id": "hn-45238055",
@@ -16,43 +16,7 @@
       "summary": "",
       "source": "stations.albertguillaumes.cat",
       "ts": "2025-09-14T07:00:44Z",
-      "score": 465.29
-    },
-    {
-      "id": "hn-45236263",
-      "title": "Two Slice, a font that's only 2px tall",
-      "url": "https://joefatula.com/twoslice.html",
-      "summary": "",
-      "source": "joefatula.com",
-      "ts": "2025-09-13T23:50:25Z",
-      "score": 373.22
-    },
-    {
-      "id": "hn-45242458",
-      "title": "ChatControl update: blocking minority held but Denmark is moving forward anyway",
-      "url": "https://disobey.net/@yawnbox/115203365485529363",
-      "summary": "",
-      "source": "disobey.net",
-      "ts": "2025-09-14T19:15:24Z",
-      "score": 340.15
-    },
-    {
-      "id": "hn-45233415",
-      "title": "Geedge and MESA leak: Analyzing the great firewall’s largest document leak",
-      "url": "https://gfw.report/blog/geedge_and_mesa_leak/en/",
-      "summary": "",
-      "source": "gfw.report",
-      "ts": "2025-09-13T16:43:26Z",
-      "score": 281.39
-    },
-    {
-      "id": "hn-45236079",
-      "title": "Pass: Unix Password Manager",
-      "url": "https://www.passwordstore.org/",
-      "summary": "",
-      "source": "passwordstore.org",
-      "ts": "2025-09-13T23:16:40Z",
-      "score": 243.51
+      "score": 480.76
     },
     {
       "id": "hn-45239085",
@@ -61,133 +25,7 @@
       "summary": "",
       "source": "bmcpsychiatry.biomedcentral.com",
       "ts": "2025-09-14T11:37:33Z",
-      "score": 242.06
-    },
-    {
-      "id": "hn-45240682",
-      "title": "Writing an operating system kernel from scratch",
-      "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
-      "summary": "",
-      "source": "popovicu.com",
-      "ts": "2025-09-14T15:44:44Z",
-      "score": 214.88
-    },
-    {
-      "id": "hn-45240304",
-      "title": "Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud",
-      "url": "https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/",
-      "summary": "",
-      "source": "thaienquirer.com",
-      "ts": "2025-09-14T15:05:28Z",
-      "score": 201.72
-    },
-    {
-      "id": "hn-45240146",
-      "title": "Why We Spiral",
-      "url": "https://behavioralscientist.org/why-we-spiral/",
-      "summary": "",
-      "source": "behavioralscientist.org",
-      "ts": "2025-09-14T14:46:58Z",
-      "score": 199.38
-    },
-    {
-      "id": "hn-45238930",
-      "title": "macOS Tahoe is certified Unix 03 [pdf]",
-      "url": "https://www.opengroup.org/openbrand/certificates/1223p.pdf",
-      "summary": "",
-      "source": "opengroup.org",
-      "ts": "2025-09-14T11:01:53Z",
-      "score": 191.3
-    },
-    {
-      "id": "hn-45237442",
-      "title": "A single, 'naked' black hole confounds theories of the young cosmos",
-      "url": "https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-14T04:27:12Z",
-      "score": 174.2
-    },
-    {
-      "id": "hn-45240391",
-      "title": "Nicu's test website made with SVG (2007)",
-      "url": "https://svg.nicubunu.ro/",
-      "summary": "",
-      "source": "svg.nicubunu.ro",
-      "ts": "2025-09-14T15:13:42Z",
-      "score": 164.76
-    },
-    {
-      "id": "hn-45237717",
-      "title": "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
-      "url": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
-      "summary": "",
-      "source": "oldvcr.blogspot.com",
-      "ts": "2025-09-14T05:42:38Z",
-      "score": 154.99
-    },
-    {
-      "id": "hn-45239601",
-      "title": "Read to forget",
-      "url": "https://mo42.bearblog.dev/read-to-forget/",
-      "summary": "",
-      "source": "mo42.bearblog.dev",
-      "ts": "2025-09-14T13:23:12Z",
-      "score": 150.79
-    },
-    {
-      "id": "hn-45237754",
-      "title": "SpikingBrain 7B – More efficient than classic LLMs",
-      "url": "https://github.com/BICLab/SpikingBrain-7B",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-14T05:49:42Z",
-      "score": 149.16
-    },
-    {
-      "id": "hn-45242591",
-      "title": "OCSP Service Has Reached End of Life",
-      "url": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
-      "summary": "",
-      "source": "letsencrypt.org",
-      "ts": "2025-09-14T19:34:48Z",
-      "score": 145.77
-    },
-    {
-      "id": "hn-45204587",
-      "title": "You’re a slow thinker. Now what?",
-      "url": "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what",
-      "summary": "",
-      "source": "chillphysicsenjoyer.substack.com",
-      "ts": "2025-09-10T22:01:45Z",
-      "score": 142.16
-    },
-    {
-      "id": "hn-45238836",
-      "title": "Fukushima insects tested for cognition",
-      "url": "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition",
-      "summary": "",
-      "source": "news.cnrs.fr",
-      "ts": "2025-09-14T10:32:22Z",
-      "score": 137.71
-    },
-    {
-      "id": "hn-45243019",
-      "title": "My thoughts on renting versus buying",
-      "url": "https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/",
-      "summary": "",
-      "source": "milesbarr.me",
-      "ts": "2025-09-14T20:36:14Z",
-      "score": 135.16
-    },
-    {
-      "id": "hn-45242337",
-      "title": "How older parents divorce affects their adult children",
-      "url": "https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-09-14T18:57:14Z",
-      "score": 134.37
+      "score": 345.95
     },
     {
       "id": "hn-45243635",
@@ -196,43 +34,142 @@
       "summary": "",
       "source": "cubbyathome.com",
       "ts": "2025-09-14T21:54:07Z",
-      "score": 130.55
-    },
-    {
-      "id": "hn-45241861",
-      "title": "Eye drops could replace glasses or surgery for longsightedness, study says",
-      "url": "https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-09-14T17:59:16Z",
-      "score": 127.75
+      "score": 317.9
     },
     {
       "id": "hn-45243803",
-      "title": "Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days",
+      "title": "Grapevine canes can be converted into plastic-like material that will decompose",
       "url": "https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem",
       "summary": "",
       "source": "sdstate.edu",
       "ts": "2025-09-14T22:15:33Z",
-      "score": 126.47
+      "score": 277.66
     },
     {
-      "id": "hn-45243867",
-      "title": "Cannabis use associated with quadrupled risk of developing type 2 diabetes",
-      "url": "https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html",
+      "id": "hn-45204587",
+      "title": "You’re a slow thinker. Now what?",
+      "url": "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what",
       "summary": "",
-      "source": "medicalxpress.com",
-      "ts": "2025-09-14T22:22:32Z",
-      "score": 117.71
+      "source": "chillphysicsenjoyer.substack.com",
+      "ts": "2025-09-10T22:01:45Z",
+      "score": 271.24
     },
     {
-      "id": "hn-45238567",
-      "title": "The PC was never a true 'IBMer'",
-      "url": "https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer",
+      "id": "hn-45240146",
+      "title": "Why We Spiral",
+      "url": "https://behavioralscientist.org/why-we-spiral/",
       "summary": "",
-      "source": "thechipletter.substack.com",
-      "ts": "2025-09-14T09:13:39Z",
-      "score": 111.05
+      "source": "behavioralscientist.org",
+      "ts": "2025-09-14T14:46:58Z",
+      "score": 252.89
+    },
+    {
+      "id": "hn-45240682",
+      "title": "Writing an operating system kernel from scratch",
+      "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "summary": "",
+      "source": "popovicu.com",
+      "ts": "2025-09-14T15:44:44Z",
+      "score": 247.61
+    },
+    {
+      "id": "hn-45245948",
+      "title": "Language Models Pack Billions of Concepts into 12k Dimensions",
+      "url": "https://nickyoder.com/johnson-lindenstrauss/",
+      "summary": "",
+      "source": "nickyoder.com",
+      "ts": "2025-09-15T03:54:20Z",
+      "score": 204.96
+    },
+    {
+      "id": "hn-45245962",
+      "title": "A qualitative analysis of pig-butchering scams",
+      "url": "https://arxiv.org/abs/2503.20821",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-15T03:58:23Z",
+      "score": 197.96
+    },
+    {
+      "id": "hn-45239601",
+      "title": "Read to forget",
+      "url": "https://mo42.bearblog.dev/read-to-forget/",
+      "summary": "",
+      "source": "mo42.bearblog.dev",
+      "ts": "2025-09-14T13:23:12Z",
+      "score": 193.43
+    },
+    {
+      "id": "hn-45242591",
+      "title": "OCSP Service Has Reached End of Life",
+      "url": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
+      "summary": "",
+      "source": "letsencrypt.org",
+      "ts": "2025-09-14T19:34:48Z",
+      "score": 186.53
+    },
+    {
+      "id": "hn-45244295",
+      "title": "Gentoo AI Policy",
+      "url": "https://wiki.gentoo.org/wiki/Project:Council/AI_policy",
+      "summary": "",
+      "source": "wiki.gentoo.org",
+      "ts": "2025-09-14T23:20:01Z",
+      "score": 173.78
+    },
+    {
+      "id": "hn-45240391",
+      "title": "Nicu's test website made with SVG (2007)",
+      "url": "https://svg.nicubunu.ro/",
+      "summary": "",
+      "source": "svg.nicubunu.ro",
+      "ts": "2025-09-14T15:13:42Z",
+      "score": 162.9
+    },
+    {
+      "id": "hn-45246953",
+      "title": "Folks, we have the best π",
+      "url": "https://lcamtuf.substack.com/p/folks-we-have-the-best",
+      "summary": "",
+      "source": "lcamtuf.substack.com",
+      "ts": "2025-09-15T07:10:03Z",
+      "score": 153.97
+    },
+    {
+      "id": "hn-45247890",
+      "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
+      "url": "https://github.com/tekaratzas/RustGPT",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-15T09:47:18Z",
+      "score": 151.31
+    },
+    {
+      "id": "hn-45245678",
+      "title": "Which NPM package has the largest version number?",
+      "url": "https://adamhl.dev/blog/largest-number-in-npm-package/",
+      "summary": "",
+      "source": "adamhl.dev",
+      "ts": "2025-09-15T03:03:18Z",
+      "score": 146.45
+    },
+    {
+      "id": "hn-45245802",
+      "title": "Decentralized YouTube alternative adds livestream scheduling in new release",
+      "url": "https://news.itsfoss.com/peertube-7-3/",
+      "summary": "",
+      "source": "news.itsfoss.com",
+      "ts": "2025-09-15T03:27:34Z",
+      "score": 137.57
+    },
+    {
+      "id": "hn-45246403",
+      "title": "Celestia – Real-time 3D visualization of space",
+      "url": "https://celestiaproject.space/",
+      "summary": "",
+      "source": "celestiaproject.space",
+      "ts": "2025-09-15T05:30:19Z",
+      "score": 132.26
     },
     {
       "id": "hn-45243925",
@@ -241,70 +178,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-14T22:29:49Z",
-      "score": 106.94
-    },
-    {
-      "id": "hn-45243800",
-      "title": "Website is hosted on a disposable vape",
-      "url": "http://ewaste.fka.wtf/",
-      "summary": "",
-      "source": "ewaste.fka.wtf",
-      "ts": "2025-09-14T22:14:56Z",
-      "score": 104.85
-    },
-    {
-      "id": "hn-45243740",
-      "title": "Trigger Crossbar",
-      "url": "https://serd.es/2025/09/14/Trigger-crossbar.html",
-      "summary": "",
-      "source": "serd.es",
-      "ts": "2025-09-14T22:08:13Z",
-      "score": 102.22
-    },
-    {
-      "id": "hn-45244049",
-      "title": "California age verification bill backed by Google, Meta, OpenAI heads to Newsom",
-      "url": "https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005",
-      "summary": "",
-      "source": "politico.com",
-      "ts": "2025-09-14T22:46:35Z",
-      "score": 102.14
-    },
-    {
-      "id": "3289ad81cfe8",
-      "title": "OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)",
-      "url": "https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/",
-      "summary": "Like OpenAI CEO Sam Altman, Bret Taylor thinks we're in an AI bubble — but he doesn't sound too worried about it.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-14T19:33:22Z",
-      "score": 101.55
-    },
-    {
-      "id": "4d3235babdcf",
-      "title": "Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it",
-      "url": "https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/",
-      "summary": "TechCrunch spoke to experienced coders about their time using AI-generated code about what they see as the future of vibe coding.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-14T19:00:00Z",
-      "score": 100.38
-    },
-    {
-      "id": "04b5aa2065df",
-      "title": "Users turn to chatbots for spiritual guidance",
-      "url": "https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/",
-      "summary": "At least one website claims to allow users to chat with God.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-14T18:45:26Z",
-      "score": 99.88
-    },
-    {
-      "id": "9b8658062c60",
-      "title": "Rolling Stone’s parent company sues Google over AI Overviews",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
-      "summary": "Disclosure: Penske Media Corporation is an investor in Vox Media, The Verge’s parent company. Penske Media Corporation, the publisher of Rolling Stone and The Hollywood Reporter, has become the first major American media company to sue Google over its AI summaries. The company claims that the AI Overviews that often appear at the top of [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-14T16:49:38Z",
-      "score": 95.94
+      "score": 130.44
     },
     {
       "id": "hn-45200133",
@@ -313,7 +187,133 @@
       "summary": "",
       "source": "dataswamp.org",
       "ts": "2025-09-10T16:32:23Z",
-      "score": 80.73
+      "score": 128.54
+    },
+    {
+      "id": "hn-45243740",
+      "title": "Trigger Crossbar",
+      "url": "https://serd.es/2025/09/14/Trigger-crossbar.html",
+      "summary": "",
+      "source": "serd.es",
+      "ts": "2025-09-14T22:08:13Z",
+      "score": 120.27
+    },
+    {
+      "id": "hn-45245313",
+      "title": "For Good First Issue – A repository of social impact and open source projects",
+      "url": "https://forgoodfirstissue.github.com/",
+      "summary": "",
+      "source": "forgoodfirstissue.github.com",
+      "ts": "2025-09-15T02:02:39Z",
+      "score": 114.7
+    },
+    {
+      "id": "hn-45246325",
+      "title": "Omarchy on CachyOS",
+      "url": "https://github.com/mroboff/omarchy-on-cachyos",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-15T05:13:33Z",
+      "score": 113.74
+    },
+    {
+      "id": "hn-45243439",
+      "title": "AMD Turin PSP binaries analysis from open-source firmware perspective",
+      "url": "https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/",
+      "summary": "",
+      "source": "blog.3mdeb.com",
+      "ts": "2025-09-14T21:35:42Z",
+      "score": 112.22
+    },
+    {
+      "id": "9bf2135904c6",
+      "title": "How people are using ChatGPT",
+      "url": "https://openai.com/index/how-people-are-using-chatgpt",
+      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+      "source": "openai.com",
+      "ts": "2025-09-15T03:00:00Z",
+      "score": 109.15
+    },
+    {
+      "id": "hn-45225903",
+      "title": "Which colours dominate movie posters and why?",
+      "url": "https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why",
+      "summary": "",
+      "source": "stephenfollows.com",
+      "ts": "2025-09-12T19:43:26Z",
+      "score": 101.54
+    },
+    {
+      "id": "hn-45238567",
+      "title": "The PC was never a true 'IBMer'",
+      "url": "https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer",
+      "summary": "",
+      "source": "thechipletter.substack.com",
+      "ts": "2025-09-14T09:13:39Z",
+      "score": 101.18
+    },
+    {
+      "id": "hn-45240266",
+      "title": "The AI-Scraping Free-for-All Is Coming to an End",
+      "url": "https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html",
+      "summary": "",
+      "source": "nymag.com",
+      "ts": "2025-09-14T15:01:38Z",
+      "score": 97.82
+    },
+    {
+      "id": "3289ad81cfe8",
+      "title": "OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)",
+      "url": "https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/",
+      "summary": "Like OpenAI CEO Sam Altman, Bret Taylor thinks we're in an AI bubble — but he doesn't sound too worried about it.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-14T19:33:22Z",
+      "score": 79.09
+    },
+    {
+      "id": "4d3235babdcf",
+      "title": "Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it",
+      "url": "https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/",
+      "summary": "TechCrunch spoke to experienced coders about their time using AI-generated code about what they see as the future of vibe coding.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-14T19:00:00Z",
+      "score": 78.18
+    },
+    {
+      "id": "04b5aa2065df",
+      "title": "Users turn to chatbots for spiritual guidance",
+      "url": "https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/",
+      "summary": "At least one website claims to allow users to chat with God.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-14T18:45:26Z",
+      "score": 77.78
+    },
+    {
+      "id": "9b8658062c60",
+      "title": "Rolling Stone’s parent company sues Google over AI Overviews",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
+      "summary": "Disclosure: Penske Media Corporation is an investor in Vox Media, The Verge’s parent company. Penske Media Corporation, the publisher of Rolling Stone and The Hollywood Reporter, has become the first major American media company to sue Google over its AI summaries. The company claims that the AI Overviews that often appear at the top of [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-14T16:49:38Z",
+      "score": 74.72
+    },
+    {
+      "id": "hn-45216327",
+      "title": "Analyzing the memory ordering models of the Apple M1",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000390",
+      "summary": "",
+      "source": "sciencedirect.com",
+      "ts": "2025-09-11T21:33:46Z",
+      "score": 70.13
+    },
+    {
+      "id": "hn-45221023",
+      "title": "PythonBPF – Writing eBPF Programs in Pure Python",
+      "url": "https://xeon.me/gnome/pythonbpf/",
+      "summary": "",
+      "source": "xeon.me",
+      "ts": "2025-09-12T11:29:47Z",
+      "score": 60.16
     },
     {
       "id": "hn-45200642",
@@ -322,16 +322,70 @@
       "summary": "",
       "source": "observablehq.com",
       "ts": "2025-09-10T17:04:29Z",
-      "score": 49.66
+      "score": 54.84
     },
     {
-      "id": "hn-45215952",
-      "title": "Accelerated Game of Life with CUDA / Triton",
-      "url": "https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/",
+      "id": "hn-45223827",
+      "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
+      "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
       "summary": "",
-      "source": "boristhebrave.com",
-      "ts": "2025-09-11T20:46:02Z",
-      "score": 46.33
+      "source": "log.bede.im",
+      "ts": "2025-09-12T16:25:11Z",
+      "score": 48.78
+    },
+    {
+      "id": "hn-45226938",
+      "title": "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
+      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "summary": "",
+      "source": "jpl.nasa.gov",
+      "ts": "2025-09-12T21:25:08Z",
+      "score": 45.5
+    },
+    {
+      "id": "hn-45221112",
+      "title": "Death to Type Classes",
+      "url": "https://jappie.me/death-to-type-classes.html",
+      "summary": "",
+      "source": "jappie.me",
+      "ts": "2025-09-12T11:46:57Z",
+      "score": 44.09
+    },
+    {
+      "id": "hn-45210705",
+      "title": "Learning Lens Blur Fields",
+      "url": "https://blur-fields.github.io/",
+      "summary": "",
+      "source": "blur-fields.github.io",
+      "ts": "2025-09-11T12:21:27Z",
+      "score": 39.01
+    },
+    {
+      "id": "hn-45228615",
+      "title": "A set of smooth, fzf-powered shell aliases&functions for systemctl",
+      "url": "https://silverrainz.me/blog/2025-09-systemd-fzf-aliases.html",
+      "summary": "",
+      "source": "silverrainz.me",
+      "ts": "2025-09-13T01:40:37Z",
+      "score": 34.25
+    },
+    {
+      "id": "92add30345d4",
+      "title": "Standards in the Preparation of Biomedical Research Metadata: A\n  Bridge2AI Perspective",
+      "url": "http://arxiv.org/abs/2509.10432v1",
+      "summary": "AI-readiness describes the degree to which data may be optimally and\nethically used for subsequent AI and Machine Learning (AI/ML) methods, where\nthose methods may involve some combination of model training, data\nclassification, and ethical, explainable prediction. The Bridge2AI consortium\nhas defined the particular criteria a biomedical dataset may possess to render\nit AI-ready: in brief, a dataset's readiness is related to its FAIRness,\nprovenance, degree of characterization, explainability, sustainability, and\ncomputability, in addition to its accompaniment with documentation about\nethical data practices.\n  To ensure AI-readiness and to clarify data structure and relationships within\nBridge2AI's Grand Challenges (GCs), particular types of metadata are necessary.\nThe GCs within the Bridge2AI initiative include four data-generating projects\nfocusing on generating AI/ML-ready datasets to tackle complex biomedical and\nbehavioral research problems. These projects develop standardized, multimodal\ndata, tools, and training resources to support AI integration, while addressing\nethical data practices. Examples include using voice as a biomarker, building\ninterpretable genomic tools, modeling disease trajectories with diverse\nmultimodal data, and mapping cellular and molecular health indicators across\nthe human body.\n  This report assesses the state of metadata creation and standardization in\nthe Bridge2AI GCs, provides guidelines where required, and identifies gaps and\nareas for improvement across the program. New projects, including those outside\nthe Bridge2AI consortium, would benefit from what we have learned about\ncreating metadata as part of efforts to promote AI readiness.",
+      "source": "arxiv.org",
+      "ts": "2025-09-12T17:38:46Z",
+      "score": 33.04
+    },
+    {
+      "id": "ad005004e829",
+      "title": "Mutual Information Tracks Policy Coherence in Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2509.10423v1",
+      "summary": "Reinforcement Learning (RL) agents deployed in real-world environments face\ndegradation from sensor faults, actuator wear, and environmental shifts, yet\nlack intrinsic mechanisms to detect and diagnose these failures. We present an\ninformation-theoretic framework that reveals both the fundamental dynamics of\nRL and provides practical methods for diagnosing deployment-time anomalies.\nThrough analysis of state-action mutual information patterns in a robotic\ncontrol task, we first demonstrate that successful learning exhibits\ncharacteristic information signatures: mutual information between states and\nactions steadily increases from 0.84 to 2.83 bits (238% growth) despite growing\nstate entropy, indicating that agents develop increasingly selective attention\nto task-relevant patterns. Intriguingly, states, actions and next states joint\nmutual information, MI(S,A;S'), follows an inverted U-curve, peaking during\nearly learning before declining as the agent specializes suggesting a\ntransition from broad exploration to efficient exploitation. More immediately\nactionable, we show that information metrics can differentially diagnose system\nfailures: observation-space, i.e., states noise (sensor faults) produces broad\ncollapses across all information channels with pronounced drops in state-action\ncoupling, while action-space noise (actuator faults) selectively disrupts\naction-outcome predictability while preserving state-action relationships. This\ndifferential diagnostic capability demonstrated through controlled perturbation\nexperiments enables precise fault localization without architectural\nmodifications or performance degradation. By establishing information patterns\nas both signatures of learning and diagnostic for system health, we provide the\nfoundation for adaptive RL systems capable of autonomous fault detection and\npolicy adjustment based on information-theoretic principles.",
+      "source": "arxiv.org",
+      "ts": "2025-09-12T17:24:20Z",
+      "score": 32.88
     },
     {
       "id": "9878dd4f6392",
@@ -340,7 +394,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 41.52
+      "score": 32.34
     },
     {
       "id": "f3d9bc92bda7",
@@ -349,16 +403,7 @@
       "summary": "While interviewing OpenAI CEO Sam Altman this week, former Fox News host Tucker Carlson brought up his belief in a conspiracy theory that former OpenAI researcher Suchir Balaji was “definitely murdered.” The researcher’s death in November 2024, which was ruled a suicide by the San Francisco police, followed his release of statements online and in [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-13T00:19:28Z",
-      "score": 41.26
-    },
-    {
-      "id": "hn-45219383",
-      "title": "Implementing namespaces and coding standards in WordPress plugin development",
-      "url": "https://developer.wordpress.org/news/2025/09/implementing-namespaces-and-coding-standards-in-wordpress-plugin-development/",
-      "summary": "",
-      "source": "developer.wordpress.org",
-      "ts": "2025-09-12T06:56:32Z",
-      "score": 38.11
+      "score": 32.13
     },
     {
       "id": "1524b7a996a7",
@@ -367,7 +412,16 @@
       "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security. The collaboration is setting new standards for responsible frontier AI deployment through joint red-teaming, biosecurity safeguards, and agentic system testing.",
       "source": "openai.com",
       "ts": "2025-09-12T12:00:00Z",
-      "score": 37.72
+      "score": 29.38
+    },
+    {
+      "id": "hn-45208102",
+      "title": "Page Object (2013)",
+      "url": "https://martinfowler.com/bliki/PageObject.html",
+      "summary": "",
+      "source": "martinfowler.com",
+      "ts": "2025-09-11T05:26:19Z",
+      "score": 28.75
     },
     {
       "id": "2d91e54d12bf",
@@ -376,7 +430,7 @@
       "summary": "The AI web search company Perplexity is being hit by another lawsuit alleging copyright and trademark infringement, this time from Encyclopedia Britannica and Merriam-Webster. Britannica, the centuries-old publisher that owns Merriam-Webster, sued Perplexity in New York federal court on September 10th. In the lawsuit, the companies allege that Perplexity’s “answer engine” scrapes their websites, steals [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-12T17:23:34Z",
-      "score": 35.71
+      "score": 27.81
     },
     {
       "id": "d3941dee22b6",
@@ -385,7 +439,16 @@
       "summary": "Applications are now open for OpenAI Grove, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
       "source": "openai.com",
       "ts": "2025-09-12T07:00:00Z",
-      "score": 33.99
+      "score": 26.47
+    },
+    {
+      "id": "hn-45216460",
+      "title": "Sandboxing Browser AI Agents",
+      "url": "https://www.earlence.com/blog.html#/post/cellmate",
+      "summary": "",
+      "source": "earlence.com",
+      "ts": "2025-09-11T21:48:47Z",
+      "score": 25.81
     },
     {
       "id": "e605550fbb66",
@@ -394,7 +457,7 @@
       "summary": "In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:36:19Z",
-      "score": 32.61
+      "score": 25.4
     },
     {
       "id": "59072e49b115",
@@ -403,7 +466,7 @@
       "summary": "In this post, we explore how log probabilities work with imported models in Amazon Bedrock. You will learn what log probabilities are, how to enable them in your API calls, and how to interpret the returned data. We also highlight practical applications—from detecting potential hallucinations to optimizing RAG systems and evaluating fine-tuned models—that demonstrate how these insights can improve your AI applications, helping you build more trustworthy solutions with your custom models.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:34:16Z",
-      "score": 32.59
+      "score": 25.38
     },
     {
       "id": "8e2902c4d3eb",
@@ -412,70 +475,7 @@
       "summary": "This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:31:19Z",
-      "score": 32.55
-    },
-    {
-      "id": "hn-45216578",
-      "title": "Patela: A basement full of amnesic servers",
-      "url": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/",
-      "summary": "",
-      "source": "osservatorionessuno.org",
-      "ts": "2025-09-11T22:03:54Z",
-      "score": 31.31
-    },
-    {
-      "id": "d97198f8ebe2",
-      "title": "ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable\n  Orthogonal Butterfly Transforms",
-      "url": "http://arxiv.org/abs/2509.09679v1",
-      "summary": "Large language models require massive memory footprints, severely limiting\ndeployment on consumer hardware. Quantization reduces memory through lower\nnumerical precision, but extreme 2-bit quantization suffers from catastrophic\nperformance loss due to outliers in activations. Rotation-based methods such as\nQuIP and QuaRot apply orthogonal transforms to eliminate outliers before\nquantization, using computational invariance: $\\mathbf{y} = \\mathbf{Wx} =\n(\\mathbf{WQ}^T)(\\mathbf{Qx})$ for orthogonal $\\mathbf{Q}$. However, these\nmethods use fixed transforms--Hadamard matrices achieving optimal worst-case\ncoherence $\\mu = 1/\\sqrt{n}$--that cannot adapt to specific weight\ndistributions. We identify that different transformer layers exhibit distinct\noutlier patterns, motivating layer-adaptive rotations rather than\none-size-fits-all approaches. We propose ButterflyQuant, which replaces\nHadamard rotations with learnable butterfly transforms parameterized by\ncontinuous Givens rotation angles. Unlike Hadamard's discrete $\\{+1, -1\\}$\nentries that are non-differentiable and prohibit gradient-based learning,\nbutterfly transforms' continuous parameterization enables smooth optimization\nwhile guaranteeing orthogonality by construction. This orthogonal constraint\nensures theoretical guarantees in outlier suppression while achieving $O(n \\log\nn)$ computational complexity with only $\\frac{n \\log n}{2}$ learnable\nparameters. We further introduce a uniformity regularization on\npost-transformation activations to promote smoother distributions amenable to\nquantization. Learning requires only 128 calibration samples and converges in\nminutes on a single GPU--a negligible one-time cost. On LLaMA-2-7B with 2-bit\nquantization, ButterflyQuant achieves 15.4 perplexity versus 22.1 for QuaRot.",
-      "source": "arxiv.org",
-      "ts": "2025-09-11T17:59:51Z",
-      "score": 25.92
-    },
-    {
-      "id": "c373098244dc",
-      "title": "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in\n  LLMs",
-      "url": "http://arxiv.org/abs/2509.09677v1",
-      "summary": "Does continued scaling of large language models (LLMs) yield diminishing\nreturns? Real-world value often stems from the length of task an agent can\ncomplete. We start this work by observing the simple but counterintuitive fact\nthat marginal gains in single-step accuracy can compound into exponential\nimprovements in the length of a task a model can successfully complete. Then,\nwe argue that failures of LLMs when simple tasks are made longer arise from\nmistakes in execution, rather than an inability to reason. We propose isolating\nexecution capability, by explicitly providing the knowledge and plan needed to\nsolve a long-horizon task. We find that larger models can correctly execute\nsignificantly more turns even when small models have 100\\% single-turn\naccuracy. We observe that the per-step accuracy of models degrades as the\nnumber of steps increases. This is not just due to long-context limitations --\ncuriously, we observe a self-conditioning effect -- models become more likely\nto make mistakes when the context contains their errors from prior turns.\nSelf-conditioning does not reduce by just scaling the model size. In contrast,\nrecent thinking models do not self-condition, and can also execute much longer\ntasks in a single turn. We conclude by benchmarking frontier thinking models on\nthe length of task they can execute in a single turn. Overall, by focusing on\nthe ability to execute, we hope to reconcile debates on how LLMs can solve\ncomplex reasoning problems yet fail at simple tasks when made longer, and\nhighlight the massive benefits of scaling model size and sequential test-time\ncompute for long-horizon tasks.",
-      "source": "arxiv.org",
-      "ts": "2025-09-11T17:59:34Z",
-      "score": 25.92
-    },
-    {
-      "id": "3df6006b1c01",
-      "title": "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2509.09674v1",
-      "summary": "Vision-Language-Action (VLA) models have recently emerged as a powerful\nparadigm for robotic manipulation. Despite substantial progress enabled by\nlarge-scale pretraining and supervised fine-tuning (SFT), these models face two\nfundamental challenges: (i) the scarcity and high cost of large-scale\nhuman-operated robotic trajectories required for SFT scaling, and (ii) limited\ngeneralization to tasks involving distribution shift. Recent breakthroughs in\nLarge Reasoning Models (LRMs) demonstrate that reinforcement learning (RL) can\ndramatically enhance step-by-step reasoning capabilities, raising a natural\nquestion: Can RL similarly improve the long-horizon step-by-step action\nplanning of VLA? In this work, we introduce SimpleVLA-RL, an efficient RL\nframework tailored for VLA models. Building upon veRL, we introduce\nVLA-specific trajectory sampling, scalable parallelization, multi-environment\nrendering, and optimized loss computation. When applied to OpenVLA-OFT,\nSimpleVLA-RL achieves SoTA performance on LIBERO and even outperforms $\\pi_0$\non RoboTwin 1.0\\&2.0 with the exploration-enhancing strategies we introduce.\nSimpleVLA-RL not only reduces dependence on large-scale data and enables robust\ngeneralization, but also remarkably surpasses SFT in real-world tasks.\nMoreover, we identify a novel phenomenon ``pushcut'' during RL training,\nwherein the policy discovers previously unseen patterns beyond those seen in\nthe previous training process. Github: https://github.com/PRIME-RL/SimpleVLA-RL",
-      "source": "arxiv.org",
-      "ts": "2025-09-11T17:59:17Z",
-      "score": 25.92
-    },
-    {
-      "id": "hn-45214749",
-      "title": "Irrlicht Engine – a cross-platform realtime 3D engine",
-      "url": "https://irrlicht.sourceforge.io/?page_id=45",
-      "summary": "",
-      "source": "irrlicht.sourceforge.io",
-      "ts": "2025-09-11T18:40:17Z",
-      "score": 25.62
-    },
-    {
-      "id": "046838869b44",
-      "title": "A joint statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
-      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
-      "source": "openai.com",
-      "ts": "2025-09-11T14:00:00Z",
-      "score": 23.85
-    },
-    {
-      "id": "hn-45211580",
-      "title": "La-Proteina",
-      "url": "https://github.com/NVIDIA-Digital-Bio/la-proteina",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-11T13:43:58Z",
-      "score": 23.65
+      "score": 25.35
     },
     {
       "id": "982ca303f669",
@@ -484,7 +484,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.21
+      "score": 0.17
     },
     {
       "id": "265e85cbbb22",
@@ -493,7 +493,7 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.01
+      "score": 0.0
     },
     {
       "id": "99b464916a99",
