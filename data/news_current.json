@@ -7,97 +7,16 @@
       "summary": "",
       "source": "bogdanthegeek.github.io",
       "ts": "2025-09-15T17:53:19Z",
-      "score": 426.37
+      "score": 753.44
     },
     {
-      "id": "hn-45249915",
-      "title": "PayPal to support Ethereum and Bitcoin",
-      "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
+      "id": "hn-45256651",
+      "title": "Linux phones are more important now than ever",
+      "url": "https://feddit.org/post/18353777",
       "summary": "",
-      "source": "newsroom.paypal-corp.com",
-      "ts": "2025-09-15T14:04:47Z",
-      "score": 273.16
-    },
-    {
-      "id": "hn-45247890",
-      "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
-      "url": "https://github.com/tekaratzas/RustGPT",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-15T09:47:18Z",
-      "score": 269.72
-    },
-    {
-      "id": "hn-45250370",
-      "title": "Apple has a private CSS property to add Liquid Glass effects to web content",
-      "url": "https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/",
-      "summary": "",
-      "source": "alastair.is",
-      "ts": "2025-09-15T14:49:00Z",
-      "score": 267.84
-    },
-    {
-      "id": "hn-45246971",
-      "title": "The Mac App Flea Market",
-      "url": "https://blog.jim-nielsen.com/2025/mac-app-flea-market/",
-      "summary": "",
-      "source": "blog.jim-nielsen.com",
-      "ts": "2025-09-15T07:14:13Z",
-      "score": 266.42
-    },
-    {
-      "id": "hn-45246953",
-      "title": "Folks, we have the best π",
-      "url": "https://lcamtuf.substack.com/p/folks-we-have-the-best",
-      "summary": "",
-      "source": "lcamtuf.substack.com",
-      "ts": "2025-09-15T07:10:03Z",
-      "score": 259.12
-    },
-    {
-      "id": "hn-45251690",
-      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
-      "url": "https://kennedn.com/blog/posts/tapo/",
-      "summary": "",
-      "source": "kennedn.com",
-      "ts": "2025-09-15T16:28:54Z",
-      "score": 252.79
-    },
-    {
-      "id": "hn-45251375",
-      "title": "Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format",
-      "url": "https://blog.asciinema.org/post/three-point-o/",
-      "summary": "",
-      "source": "blog.asciinema.org",
-      "ts": "2025-09-15T16:06:30Z",
-      "score": 251.52
-    },
-    {
-      "id": "hn-45245962",
-      "title": "A qualitative analysis of pig-butchering scams",
-      "url": "https://arxiv.org/abs/2503.20821",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-15T03:58:23Z",
-      "score": 238.84
-    },
-    {
-      "id": "hn-45252378",
-      "title": "macOS Tahoe",
-      "url": "https://www.apple.com/os/macos/",
-      "summary": "",
-      "source": "apple.com",
-      "ts": "2025-09-15T17:16:42Z",
-      "score": 223.64
-    },
-    {
-      "id": "hn-45248899",
-      "title": "How big a solar battery do I need to store all my home's electricity?",
-      "url": "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/",
-      "summary": "",
-      "source": "shkspr.mobi",
-      "ts": "2025-09-15T12:33:28Z",
-      "score": 218.99
+      "source": "feddit.org",
+      "ts": "2025-09-16T00:33:12Z",
+      "score": 398.98
     },
     {
       "id": "hn-45252715",
@@ -106,43 +25,61 @@
       "summary": "",
       "source": "lorenstew.art",
       "ts": "2025-09-15T17:46:01Z",
-      "score": 207.14
+      "score": 389.06
     },
     {
-      "id": "hn-45249878",
-      "title": "CubeSats are fascinating learning tools for space",
-      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "id": "hn-45252378",
+      "title": "macOS Tahoe",
+      "url": "https://www.apple.com/os/macos/",
       "summary": "",
-      "source": "jeffgeerling.com",
-      "ts": "2025-09-15T14:02:02Z",
-      "score": 175.88
+      "source": "apple.com",
+      "ts": "2025-09-15T17:16:42Z",
+      "score": 357.16
     },
     {
-      "id": "hn-45245678",
-      "title": "Which NPM package has the largest version number?",
-      "url": "https://adamhl.dev/blog/largest-number-in-npm-package/",
+      "id": "hn-45251690",
+      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
+      "url": "https://kennedn.com/blog/posts/tapo/",
       "summary": "",
-      "source": "adamhl.dev",
-      "ts": "2025-09-15T03:03:18Z",
-      "score": 160.26
+      "source": "kennedn.com",
+      "ts": "2025-09-15T16:28:54Z",
+      "score": 341.03
     },
     {
-      "id": "hn-45223827",
-      "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
-      "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
+      "id": "hn-45249915",
+      "title": "PayPal to support Ethereum and Bitcoin",
+      "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
       "summary": "",
-      "source": "log.bede.im",
-      "ts": "2025-09-12T16:25:11Z",
-      "score": 155.5
+      "source": "newsroom.paypal-corp.com",
+      "ts": "2025-09-15T14:04:47Z",
+      "score": 330.54
     },
     {
-      "id": "hn-45253775",
-      "title": "How People Use ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf",
+      "id": "hn-45256577",
+      "title": "I feel Apple has lost its alignment with me and other long-time customers",
+      "url": "https://morrick.me/archives/10137",
       "summary": "",
-      "source": "cdn.openai.com",
-      "ts": "2025-09-15T19:14:28Z",
-      "score": 154.33
+      "source": "morrick.me",
+      "ts": "2025-09-16T00:20:59Z",
+      "score": 293.65
+    },
+    {
+      "id": "hn-45247890",
+      "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
+      "url": "https://github.com/tekaratzas/RustGPT",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-15T09:47:18Z",
+      "score": 273.46
+    },
+    {
+      "id": "hn-45248899",
+      "title": "How big a solar battery do I need to store all my home's electricity?",
+      "url": "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/",
+      "summary": "",
+      "source": "shkspr.mobi",
+      "ts": "2025-09-15T12:33:28Z",
+      "score": 268.54
     },
     {
       "id": "hn-45255400",
@@ -151,7 +88,16 @@
       "summary": "",
       "source": "gadgetreview.com",
       "ts": "2025-09-15T21:51:55Z",
-      "score": 153.87
+      "score": 247.04
+    },
+    {
+      "id": "hn-45245962",
+      "title": "A qualitative analysis of pig-butchering scams",
+      "url": "https://arxiv.org/abs/2503.20821",
+      "summary": "",
+      "source": "arxiv.org",
+      "ts": "2025-09-15T03:58:23Z",
+      "score": 232.13
     },
     {
       "id": "hn-45255137",
@@ -160,7 +106,43 @@
       "summary": "",
       "source": "bearcave.com",
       "ts": "2025-09-15T21:28:01Z",
-      "score": 149.47
+      "score": 223.02
+    },
+    {
+      "id": "hn-45257627",
+      "title": "\"Your\" vs. \"My\" in user interfaces",
+      "url": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
+      "summary": "",
+      "source": "adamsilver.io",
+      "ts": "2025-09-16T03:05:53Z",
+      "score": 217.33
+    },
+    {
+      "id": "hn-45253775",
+      "title": "How People Use ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf",
+      "summary": "",
+      "source": "cdn.openai.com",
+      "ts": "2025-09-15T19:14:28Z",
+      "score": 197.37
+    },
+    {
+      "id": "hn-45249878",
+      "title": "CubeSats are fascinating learning tools for space",
+      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "summary": "",
+      "source": "jeffgeerling.com",
+      "ts": "2025-09-15T14:02:02Z",
+      "score": 180.48
+    },
+    {
+      "id": "hn-45223827",
+      "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
+      "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
+      "summary": "",
+      "source": "log.bede.im",
+      "ts": "2025-09-12T16:25:11Z",
+      "score": 174.03
     },
     {
       "id": "hn-45250202",
@@ -169,7 +151,16 @@
       "summary": "",
       "source": "blog.velocifyer.com",
       "ts": "2025-09-15T14:33:41Z",
-      "score": 148.59
+      "score": 160.19
+    },
+    {
+      "id": "hn-45245678",
+      "title": "Which NPM package has the largest version number?",
+      "url": "https://adamhl.dev/blog/largest-number-in-npm-package/",
+      "summary": "",
+      "source": "adamhl.dev",
+      "ts": "2025-09-15T03:03:18Z",
+      "score": 148.18
     },
     {
       "id": "hn-45251093",
@@ -178,169 +169,106 @@
       "summary": "",
       "source": "iaziz786.com",
       "ts": "2025-09-15T15:44:29Z",
-      "score": 135.66
-    },
-    {
-      "id": "hn-45250193",
-      "title": "Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform",
-      "url": "https://github.com/graycoreio/daffodil",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-15T14:32:22Z",
-      "score": 114.36
-    },
-    {
-      "id": "hn-45254330",
-      "title": "Scryer Prolog Meetup 2025",
-      "url": "https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/",
-      "summary": "",
-      "source": "hsd-pbsa.de",
-      "ts": "2025-09-15T20:07:48Z",
-      "score": 112.03
-    },
-    {
-      "id": "hn-45251178",
-      "title": "A string formatting library in 65 lines of C++",
-      "url": "https://riki.house/fmt",
-      "summary": "",
-      "source": "riki.house",
-      "ts": "2025-09-15T15:51:28Z",
-      "score": 108.87
-    },
-    {
-      "id": "hn-45255921",
-      "title": "Total porn ban proposed by Michigan lawmakers",
-      "url": "https://www.fox2detroit.com/news/total-porn-ban-proposed-michigan-lawmakers",
-      "summary": "",
-      "source": "fox2detroit.com",
-      "ts": "2025-09-15T22:48:05Z",
-      "score": 108.74
-    },
-    {
-      "id": "hn-45253807",
-      "title": "GPT‑5-Codex and upgrades to Codex",
-      "url": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/",
-      "summary": "",
-      "source": "simonwillison.net",
-      "ts": "2025-09-15T19:17:35Z",
-      "score": 108.01
+      "score": 140.2
     },
     {
       "id": "hn-45256043",
-      "title": "Why do software developers love complexity?",
+      "title": "Why do we keep gravitating toward complexity?",
       "url": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
       "summary": "",
       "source": "kyrylo.org",
       "ts": "2025-09-15T23:02:31Z",
-      "score": 104.54
+      "score": 139.71
     },
     {
-      "id": "8959a3cd5c5a",
-      "title": "The 9 most sought-after startups from YC Demo Day",
-      "url": "https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/",
-      "summary": "We asked YC-focused investors to name the startups from the Summer 2025 batch that generated the most interest.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-15T20:11:51Z",
-      "score": 102.92
-    },
-    {
-      "id": "hn-45255155",
-      "title": "The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]",
-      "url": "https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf",
+      "id": "hn-45259139",
+      "title": "IBM Technology Atlas",
+      "url": "https://www.ibm.com/roadmaps/",
       "summary": "",
-      "source": "dspace.mit.edu",
-      "ts": "2025-09-15T21:29:40Z",
-      "score": 102.72
+      "source": "ibm.com",
+      "ts": "2025-09-16T07:28:42Z",
+      "score": 119.17
     },
     {
-      "id": "8b70b9d0642d",
-      "title": "Google thinks it can have AI summaries and a healthy web, too",
-      "url": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
-      "summary": "One of Google’s top executives defended its use of AI summaries in search results during an AI summit in New York on Monday.&#160; When asked about a new lawsuit by Rolling Stone’s parent company, Penske Media Corporation, over Google’s AI Overviews, the company’s vice president of government affairs and public policy Markham Erickson said user [&#8230;]",
+      "id": "5580bbaf1c8e",
+      "title": "Microsoft favors Anthropic over OpenAI for Visual Studio Code",
+      "url": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4",
+      "summary": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\" [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-15T18:05:39Z",
-      "score": 98.5
+      "ts": "2025-09-16T10:08:19Z",
+      "score": 107.16
     },
     {
-      "id": "a7a0c8c9ee2c",
-      "title": "Introducing upgrades to Codex",
-      "url": "https://openai.com/index/introducing-upgrades-to-codex",
-      "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
-      "source": "openai.com",
-      "ts": "2025-09-15T10:00:00Z",
-      "score": 98.35
-    },
-    {
-      "id": "4807471bcdb1",
-      "title": "Microsoft’s Office apps now have free Copilot Chat features",
-      "url": "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat",
-      "summary": "Microsoft is adding the free Microsoft 365 Copilot Chat and agents to Office apps for all Microsoft 365 business users today. Word, Excel, PowerPoint, Outlook, and OneNote are all being updated with a Copilot Chat sidebar that will help draft documents, analyze spreadsheets, and more without needing an additional Microsoft 365 Copilot license. “Copilot Chat [&#8230;]",
+      "id": "9b2667d346db",
+      "title": "Nothing plans to launch &#8216;first AI-native devices next year&#8217;",
+      "url": "https://www.theverge.com/news/778636/nothing-ai-native-devices",
+      "summary": "London-based consumer tech startup Nothing has raised $200 million and vowed to usher in a new generation of “AI-native” devices running on operating systems that “are significantly different from the ones today.” In a press release that reads part ode to technology and part manifesto, Nothing founder and CEO Carl Pei said the cash infusion [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-09-15T17:32:55Z",
-      "score": 97.39
+      "ts": "2025-09-16T10:02:07Z",
+      "score": 106.93
     },
     {
-      "id": "3eff88210739",
-      "title": "Inside the shift at Disrupt: Building community and scaling in the AI era",
-      "url": "https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/",
-      "summary": "Nirav Tolia (Nextdoor), Jane Alexander (CapitalG), and Vanessa Larco (Premise, NEA) join TechCrunch Disrupt 2025 (October 27–29, SF) to share strategies for building resilient companies and scaling in the AI era.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-15T17:15:00Z",
-      "score": 96.79
-    },
-    {
-      "id": "hn-45250328",
-      "title": "GuitarPie: Electric Guitar Fretboard Pie Menus",
-      "url": "https://andreasfender.com/publications.php",
+      "id": "hn-45253760",
+      "title": "California reached a union deal with tech giants",
+      "url": "https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680",
       "summary": "",
-      "source": "andreasfender.com",
-      "ts": "2025-09-15T14:45:45Z",
-      "score": 96.74
+      "source": "politico.com",
+      "ts": "2025-09-15T19:13:40Z",
+      "score": 103.21
     },
     {
-      "id": "f7e8b5595890",
-      "title": "OpenAI upgrades Codex with a new version of GPT-5",
-      "url": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/",
-      "summary": "OpenAI's AI coding agent, Codex, can now spend anywhere from a few seconds to several hours on a task, thanks to a new, customized version of GPT-5.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-15T17:03:40Z",
-      "score": 96.41
+      "id": "hn-45259529",
+      "title": "Automating Distro Updates in CI",
+      "url": "https://paretosecurity.com/blog/automating-distro-updates-in-ci/",
+      "summary": "",
+      "source": "paretosecurity.com",
+      "ts": "2025-09-16T08:20:24Z",
+      "score": 102.24
     },
     {
-      "id": "03fe9d338440",
-      "title": "Here&#8217;s why usage of Gemini&#8217;s Nano Banana image editor is growing",
-      "url": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
-      "summary": "Google Gemini is breaking out of ChatGPT’s shadow, likely on the wings of its Nano Banana image editor and the viral trend of AI-generated, lifelike figurines.&#160; Google launched Nano Banana in late August. It hyped the model as a way to “transform images in amazing new ways” inside the Gemini app. To get the “perfect [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-15T14:59:52Z",
-      "score": 92.35
+      "id": "hn-45257929",
+      "title": "Show HN: Pyproc – Call Python from Go Without CGO or Microservices",
+      "url": "https://github.com/YuminosukeSato/pyproc",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-16T04:08:00Z",
+      "score": 101.56
     },
     {
-      "id": "b039be900ff4",
-      "title": "Schedule topology-aware workloads using Amazon SageMaker HyperPod task governance",
-      "url": "https://aws.amazon.com/blogs/machine-learning/schedule-topology-aware-workloads-using-amazon-sagemaker-hyperpod-task-governance/",
-      "summary": "In this post, we introduce topology-aware scheduling with SageMaker HyperPod task governance by submitting jobs that represent hierarchical network information. We provide details about how to use SageMaker HyperPod task governance to optimize your job efficiency.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-15T17:15:20Z",
-      "score": 88.0
+      "id": "hn-45258038",
+      "title": "Assassination Sparks Social Media Crackdown",
+      "url": "https://www.kenklippenstein.com/p/charlie-kirk-assassination-sparks-6da",
+      "summary": "",
+      "source": "kenklippenstein.com",
+      "ts": "2025-09-16T04:31:02Z",
+      "score": 95.05
     },
     {
-      "id": "4f57af45eb60",
-      "title": "How msg enhanced HR workforce transformation with Amazon Bedrock and msg.ProfileMap",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-msg-enhanced-hr-workforce-transformation-with-amazon-bedrock-and-msg-profilemap/",
-      "summary": "In this post, we share how msg automated data harmonization for msg.ProfileMap, using Amazon Bedrock to power its large language model (LLM)-driven data enrichment workflows, resulting in higher accuracy in HR concept matching, reduced manual workload, and improved alignment with compliance requirements under the EU AI Act and GDPR.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-15T17:05:18Z",
-      "score": 87.69
+      "id": "hn-45221567",
+      "title": "Learn x86-64 assembly by writing a GUI from scratch (2023)",
+      "url": "https://gaultier.github.io/blog/x11_x64.html",
+      "summary": "",
+      "source": "gaultier.github.io",
+      "ts": "2025-09-12T12:51:46Z",
+      "score": 91.35
     },
     {
-      "id": "9bf2135904c6",
-      "title": "How people are using ChatGPT",
-      "url": "https://openai.com/index/how-people-are-using-chatgpt",
-      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-      "source": "openai.com",
-      "ts": "2025-09-15T03:00:00Z",
-      "score": 85.0
+      "id": "af28d6f69ace",
+      "title": "Dynamic Relational Priming Improves Transformer in Multivariate Time\n  Series",
+      "url": "http://arxiv.org/abs/2509.12196v1",
+      "summary": "Standard attention mechanisms in transformers employ static token\nrepresentations that remain unchanged across all pair-wise computations in each\nlayer. This limits their representational alignment with the potentially\ndiverse relational dynamics of each token-pair interaction. While they excel in\ndomains with relatively homogeneous relationships, standard attention's static\nrelational learning struggles to capture the diverse, heterogeneous\ninter-channel dependencies of multivariate time series (MTS) data--where\ndifferent channel-pair interactions within a single system may be governed by\nentirely different physical laws or temporal dynamics. To better align the\nattention mechanism for such domain phenomena, we propose attention with\ndynamic relational priming (prime attention). Unlike standard attention where\neach token presents an identical representation across all of its pair-wise\ninteractions, prime attention tailors each token dynamically (or per\ninteraction) through learnable modulations to best capture the unique\nrelational dynamics of each token pair, optimizing each pair-wise interaction\nfor that specific relationship. This representational plasticity of prime\nattention enables effective extraction of relationship-specific information in\nMTS while maintaining the same asymptotic computational complexity as standard\nattention. Our results demonstrate that prime attention consistently\noutperforms standard attention across benchmarks, achieving up to 6.5\\%\nimprovement in forecasting accuracy. In addition, we find that prime attention\nachieves comparable or superior performance using up to 40\\% less sequence\nlength compared to standard attention, further demonstrating its superior\nrelational modeling capabilities.",
+      "source": "arxiv.org",
+      "ts": "2025-09-15T17:56:15Z",
+      "score": 90.36
+    },
+    {
+      "id": "06e6a163b475",
+      "title": "Advancing Medical Artificial Intelligence Using a Century of Cases",
+      "url": "http://arxiv.org/abs/2509.12194v1",
+      "summary": "BACKGROUND: For over a century, the New England Journal of Medicine\nClinicopathological Conferences (CPCs) have tested the reasoning of expert\nphysicians and, recently, artificial intelligence (AI). However, prior AI\nevaluations have focused on final diagnoses without addressing the multifaceted\nreasoning and presentation skills required of expert discussants.\n  METHODS: Using 7102 CPCs (1923-2025) and 1021 Image Challenges (2006-2025),\nwe conducted extensive physician annotation and automated processing to create\nCPC-Bench, a physician-validated benchmark spanning 10 text-based and\nmultimodal tasks, against which we evaluated leading large language models\n(LLMs). Then, we developed \"Dr. CaBot,\" an AI discussant designed to produce\nwritten and slide-based video presentations using only the case presentation,\nmodeling the role of the human expert in these cases.\n  RESULTS: When challenged with 377 contemporary CPCs, o3 (OpenAI) ranked the\nfinal diagnosis first in 60% of cases and within the top ten in 84% of cases,\noutperforming a 20-physician baseline; next-test selection accuracy reached\n98%. Event-level physician annotations quantified AI diagnostic accuracy per\nunit of information. Performance was lower on literature search and image\ntasks; o3 and Gemini 2.5 Pro (Google) achieved 67% accuracy on image\nchallenges. In blinded comparisons of CaBot vs. human expert-generated text,\nphysicians misclassified the source of the differential in 46 of 62 (74%) of\ntrials, and scored CaBot more favorably across quality dimensions. To promote\nresearch, we are releasing CaBot and CPC-Bench.\n  CONCLUSIONS: LLMs exceed physician performance on complex text-based\ndifferential diagnosis and convincingly emulate expert medical presentations,\nbut image interpretation and literature retrieval remain weaker. CPC-Bench and\nCaBot may enable transparent and continued tracking of progress in medical AI.",
+      "source": "arxiv.org",
+      "ts": "2025-09-15T17:54:51Z",
+      "score": 90.32
     },
     {
       "id": "hn-45221112",
@@ -349,61 +277,70 @@
       "summary": "",
       "source": "jappie.me",
       "ts": "2025-09-12T11:46:57Z",
-      "score": 83.52
+      "score": 86.24
     },
     {
-      "id": "7d1e13edca9f",
-      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
-      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
-      "summary": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.",
+      "id": "8959a3cd5c5a",
+      "title": "The 9 most sought-after startups from YC Demo Day",
+      "url": "https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/",
+      "summary": "We asked YC-focused investors to name the startups from the Summer 2025 batch that generated the most interest.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-15T20:11:51Z",
+      "score": 80.15
+    },
+    {
+      "id": "8b70b9d0642d",
+      "title": "Google thinks it can have AI summaries and a healthy web, too",
+      "url": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
+      "summary": "One of Google’s top executives defended its use of AI summaries in search results during an AI summit in New York on Monday.&#160; When asked about a new lawsuit by Rolling Stone’s parent company, Penske Media Corporation, over Google’s AI Overviews, the company’s vice president of government affairs and public policy Markham Erickson said user [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-15T18:05:39Z",
+      "score": 76.71
+    },
+    {
+      "id": "a7a0c8c9ee2c",
+      "title": "Introducing upgrades to Codex",
+      "url": "https://openai.com/index/introducing-upgrades-to-codex",
+      "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
       "source": "openai.com",
-      "ts": "2025-09-15T00:00:00Z",
-      "score": 79.85
+      "ts": "2025-09-15T10:00:00Z",
+      "score": 76.59
     },
     {
-      "id": "hn-45243320",
-      "title": "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
-      "url": "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-14T21:17:56Z",
-      "score": 77.86
+      "id": "3eff88210739",
+      "title": "Inside the shift at Disrupt: Building community and scaling in the AI era",
+      "url": "https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/",
+      "summary": "Nirav Tolia (Nextdoor), Jane Alexander (CapitalG), and Vanessa Larco (Premise, NEA) join TechCrunch Disrupt 2025 (October 27–29, SF) to share strategies for building resilient companies and scaling in the AI era.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-15T17:15:00Z",
+      "score": 75.38
     },
     {
-      "id": "hn-45234707",
-      "title": "Turgot Map of Paris",
-      "url": "https://en.wikipedia.org/wiki/Turgot_map_of_Paris",
-      "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-09-13T19:36:09Z",
-      "score": 60.39
+      "id": "f7e8b5595890",
+      "title": "OpenAI upgrades Codex with a new version of GPT-5",
+      "url": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/",
+      "summary": "OpenAI's AI coding agent, Codex, can now spend anywhere from a few seconds to several hours on a task, thanks to a new, customized version of GPT-5.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-15T17:03:40Z",
+      "score": 75.08
     },
     {
-      "id": "hn-45220939",
-      "title": "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
-      "url": "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/",
+      "id": "hn-45227679",
+      "title": "People Who Hunt Down Old TVs",
+      "url": "https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs",
       "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-12T11:15:56Z",
-      "score": 46.73
+      "source": "bbc.com",
+      "ts": "2025-09-12T22:51:19Z",
+      "score": 69.98
     },
     {
-      "id": "hn-45218080",
-      "title": "When Your Father Is a Magician, What Do You Believe?",
-      "url": "https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/",
-      "summary": "",
-      "source": "thereader.mitpress.mit.edu",
-      "ts": "2025-09-12T02:28:15Z",
-      "score": 31.23
-    },
-    {
-      "id": "hn-45218046",
-      "title": "Researchers revive the pinhole camera for next-gen infrared imaging",
-      "url": "https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html",
-      "summary": "",
-      "source": "phys.org",
-      "ts": "2025-09-12T02:22:22Z",
-      "score": 31.2
+      "id": "b039be900ff4",
+      "title": "Schedule topology-aware workloads using Amazon SageMaker HyperPod task governance",
+      "url": "https://aws.amazon.com/blogs/machine-learning/schedule-topology-aware-workloads-using-amazon-sagemaker-hyperpod-task-governance/",
+      "summary": "In this post, we introduce topology-aware scheduling with SageMaker HyperPod task governance by submitting jobs that represent hierarchical network information. We provide details about how to use SageMaker HyperPod task governance to optimize your job efficiency.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-15T17:15:20Z",
+      "score": 68.53
     },
     {
       "id": "hn-45226135",
@@ -412,25 +349,106 @@
       "summary": "",
       "source": "interconnected.org",
       "ts": "2025-09-12T20:05:05Z",
-      "score": 29.83
+      "score": 68.42
     },
     {
-      "id": "92add30345d4",
-      "title": "Standards in the Preparation of Biomedical Research Metadata: A\n  Bridge2AI Perspective",
-      "url": "http://arxiv.org/abs/2509.10432v1",
-      "summary": "AI-readiness describes the degree to which data may be optimally and\nethically used for subsequent AI and Machine Learning (AI/ML) methods, where\nthose methods may involve some combination of model training, data\nclassification, and ethical, explainable prediction. The Bridge2AI consortium\nhas defined the particular criteria a biomedical dataset may possess to render\nit AI-ready: in brief, a dataset's readiness is related to its FAIRness,\nprovenance, degree of characterization, explainability, sustainability, and\ncomputability, in addition to its accompaniment with documentation about\nethical data practices.\n  To ensure AI-readiness and to clarify data structure and relationships within\nBridge2AI's Grand Challenges (GCs), particular types of metadata are necessary.\nThe GCs within the Bridge2AI initiative include four data-generating projects\nfocusing on generating AI/ML-ready datasets to tackle complex biomedical and\nbehavioral research problems. These projects develop standardized, multimodal\ndata, tools, and training resources to support AI integration, while addressing\nethical data practices. Examples include using voice as a biomarker, building\ninterpretable genomic tools, modeling disease trajectories with diverse\nmultimodal data, and mapping cellular and molecular health indicators across\nthe human body.\n  This report assesses the state of metadata creation and standardization in\nthe Bridge2AI GCs, provides guidelines where required, and identifies gaps and\nareas for improvement across the program. New projects, including those outside\nthe Bridge2AI consortium, would benefit from what we have learned about\ncreating metadata as part of efforts to promote AI readiness.",
-      "source": "arxiv.org",
-      "ts": "2025-09-12T17:38:46Z",
-      "score": 25.73
+      "id": "4f57af45eb60",
+      "title": "How msg enhanced HR workforce transformation with Amazon Bedrock and msg.ProfileMap",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-msg-enhanced-hr-workforce-transformation-with-amazon-bedrock-and-msg-profilemap/",
+      "summary": "In this post, we share how msg automated data harmonization for msg.ProfileMap, using Amazon Bedrock to power its large language model (LLM)-driven data enrichment workflows, resulting in higher accuracy in HR concept matching, reduced manual workload, and improved alignment with compliance requirements under the EU AI Act and GDPR.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-15T17:05:18Z",
+      "score": 68.29
     },
     {
-      "id": "ad005004e829",
-      "title": "Mutual Information Tracks Policy Coherence in Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2509.10423v1",
-      "summary": "Reinforcement Learning (RL) agents deployed in real-world environments face\ndegradation from sensor faults, actuator wear, and environmental shifts, yet\nlack intrinsic mechanisms to detect and diagnose these failures. We present an\ninformation-theoretic framework that reveals both the fundamental dynamics of\nRL and provides practical methods for diagnosing deployment-time anomalies.\nThrough analysis of state-action mutual information patterns in a robotic\ncontrol task, we first demonstrate that successful learning exhibits\ncharacteristic information signatures: mutual information between states and\nactions steadily increases from 0.84 to 2.83 bits (238% growth) despite growing\nstate entropy, indicating that agents develop increasingly selective attention\nto task-relevant patterns. Intriguingly, states, actions and next states joint\nmutual information, MI(S,A;S'), follows an inverted U-curve, peaking during\nearly learning before declining as the agent specializes suggesting a\ntransition from broad exploration to efficient exploitation. More immediately\nactionable, we show that information metrics can differentially diagnose system\nfailures: observation-space, i.e., states noise (sensor faults) produces broad\ncollapses across all information channels with pronounced drops in state-action\ncoupling, while action-space noise (actuator faults) selectively disrupts\naction-outcome predictability while preserving state-action relationships. This\ndifferential diagnostic capability demonstrated through controlled perturbation\nexperiments enables precise fault localization without architectural\nmodifications or performance degradation. By establishing information patterns\nas both signatures of learning and diagnostic for system health, we provide the\nfoundation for adaptive RL systems capable of autonomous fault detection and\npolicy adjustment based on information-theoretic principles.",
-      "source": "arxiv.org",
-      "ts": "2025-09-12T17:24:20Z",
-      "score": 25.61
+      "id": "9bf2135904c6",
+      "title": "How people are using ChatGPT",
+      "url": "https://openai.com/index/how-people-are-using-chatgpt",
+      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+      "source": "openai.com",
+      "ts": "2025-09-15T03:00:00Z",
+      "score": 66.2
+    },
+    {
+      "id": "7d1e13edca9f",
+      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+      "summary": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.",
+      "source": "openai.com",
+      "ts": "2025-09-15T00:00:00Z",
+      "score": 62.19
+    },
+    {
+      "id": "hn-45231614",
+      "title": "60 years after Gemini, newly processed images reveal details",
+      "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-09-13T12:43:54Z",
+      "score": 59.54
+    },
+    {
+      "id": "hn-45218080",
+      "title": "When Your Father Is a Magician, What Do You Believe?",
+      "url": "https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/",
+      "summary": "",
+      "source": "thereader.mitpress.mit.edu",
+      "ts": "2025-09-12T02:28:15Z",
+      "score": 58.04
+    },
+    {
+      "id": "hn-45226657",
+      "title": "Debian Upgrade Marathon: 3.1 Sarge",
+      "url": "https://wrongthink.link/posts/debian-upgrade-marathon-sarge/",
+      "summary": "",
+      "source": "wrongthink.link",
+      "ts": "2025-09-12T20:55:18Z",
+      "score": 45.3
+    },
+    {
+      "id": "hn-45232596",
+      "title": "From unit tests to whole universe tests (with will wilson of antithesis) [video]",
+      "url": "https://www.youtube.com/watch?v=_xJ4maWhSNU",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-09-13T14:56:17Z",
+      "score": 39.62
+    },
+    {
+      "id": "hn-45231433",
+      "title": "The Artistry of Avril Harrison (2024)",
+      "url": "https://scanlineartifacts.co.uk/2024/09/30/the-artistry-of-avril-harrison/",
+      "summary": "",
+      "source": "scanlineartifacts.co.uk",
+      "ts": "2025-09-13T12:15:38Z",
+      "score": 35.32
+    },
+    {
+      "id": "hn-45230840",
+      "title": "The Mythical Creatures of London",
+      "url": "https://londonist.com/london/history/the-mythical-creatures-of-london",
+      "summary": "",
+      "source": "londonist.com",
+      "ts": "2025-09-13T10:09:30Z",
+      "score": 27.75
+    },
+    {
+      "id": "hn-45228981",
+      "title": "Basics of Equality Saturation",
+      "url": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
+      "summary": "",
+      "source": "egglog-python.readthedocs.io",
+      "ts": "2025-09-13T03:05:57Z",
+      "score": 22.97
+    },
+    {
+      "id": "hn-45222819",
+      "title": "Experimental browser MMO with bots, boss fights and power-ups",
+      "url": "https://www.blobeer.com/",
+      "summary": "",
+      "source": "blobeer.com",
+      "ts": "2025-09-12T14:55:38Z",
+      "score": 20.57
     },
     {
       "id": "9878dd4f6392",
@@ -439,16 +457,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 25.18
-    },
-    {
-      "id": "hn-45220697",
-      "title": "The Rising Sea: Foundations of Algebraic Geometry Notes",
-      "url": "https://math.stanford.edu/~vakil/216blog/",
-      "summary": "",
-      "source": "math.stanford.edu",
-      "ts": "2025-09-12T10:30:45Z",
-      "score": 21.26
+      "score": 19.61
     },
     {
       "id": "e605550fbb66",
@@ -457,7 +466,7 @@
       "summary": "In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.",
       "source": "aws.amazon.com",
       "ts": "2025-09-12T17:36:19Z",
-      "score": 19.78
+      "score": 15.4
     },
     {
       "id": "982ca303f669",
@@ -466,7 +475,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.13
+      "score": 0.1
     },
     {
       "id": "265e85cbbb22",
