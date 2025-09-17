@@ -1,13 +1,22 @@
 {
   "items": [
     {
+      "id": "hn-45259553",
+      "title": "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
+      "url": "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza",
+      "summary": "",
+      "source": "middleeasteye.net",
+      "ts": "2025-09-16T08:24:22Z",
+      "score": 724.21
+    },
+    {
       "id": "hn-45260741",
       "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
-      "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+      "url": "https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages",
       "summary": "",
-      "source": "stepsecurity.io",
+      "source": "socket.dev",
       "ts": "2025-09-16T11:22:03Z",
-      "score": 550.68
+      "score": 694.84
     },
     {
       "id": "hn-45262835",
@@ -16,25 +25,7 @@
       "summary": "",
       "source": "blinry.org",
       "ts": "2025-09-16T14:35:19Z",
-      "score": 408.48
-    },
-    {
-      "id": "hn-45259553",
-      "title": "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
-      "url": "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza",
-      "summary": "",
-      "source": "middleeasteye.net",
-      "ts": "2025-09-16T08:24:22Z",
-      "score": 405.62
-    },
-    {
-      "id": "hn-45264562",
-      "title": "Waymo has received our pilot permit allowing for commercial operations at SFO",
-      "url": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
-      "summary": "",
-      "source": "waymo.com",
-      "ts": "2025-09-16T16:38:08Z",
-      "score": 395.31
+      "score": 559.85
     },
     {
       "id": "hn-45265745",
@@ -43,250 +34,43 @@
       "summary": "",
       "source": "gavi.org",
       "ts": "2025-09-16T18:12:29Z",
-      "score": 329.21
+      "score": 544.53
     },
     {
-      "id": "hn-45264726",
-      "title": "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
-      "url": "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google",
+      "id": "hn-45264562",
+      "title": "Waymo has received our pilot permit allowing for commercial operations at SFO",
+      "url": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
       "summary": "",
-      "source": "bewildered.substack.com",
-      "ts": "2025-09-16T16:50:42Z",
-      "score": 233.69
+      "source": "waymo.com",
+      "ts": "2025-09-16T16:38:08Z",
+      "score": 454.68
     },
     {
-      "id": "hn-45261946",
-      "title": "Java 25 officially released",
-      "url": "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html",
+      "id": "hn-45257627",
+      "title": "\"Your\" vs. \"My\" in user interfaces",
+      "url": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
       "summary": "",
-      "source": "mail.openjdk.org",
-      "ts": "2025-09-16T13:25:42Z",
-      "score": 230.69
+      "source": "adamsilver.io",
+      "ts": "2025-09-16T03:05:53Z",
+      "score": 334.84
     },
     {
-      "id": "hn-45261930",
-      "title": "Generative AI as Seniority-Biased Technological Change",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555",
+      "id": "hn-45271481",
+      "title": "GNU Midnight Commander",
+      "url": "https://midnight-commander.org/",
       "summary": "",
-      "source": "papers.ssrn.com",
-      "ts": "2025-09-16T13:24:35Z",
-      "score": 201.86
+      "source": "midnight-commander.org",
+      "ts": "2025-09-17T03:54:06Z",
+      "score": 278.18
     },
     {
-      "id": "hn-45263317",
-      "title": "A new experimental Google app for Windows",
-      "url": "https://blog.google/products/search/google-app-windows-labs/",
+      "id": "hn-45270108",
+      "title": "About the security content of iOS 15.8.5 and iPadOS 15.8.5",
+      "url": "https://support.apple.com/en-us/125142",
       "summary": "",
-      "source": "blog.google",
-      "ts": "2025-09-16T15:05:46Z",
-      "score": 196.78
-    },
-    {
-      "id": "hn-45264340",
-      "title": "Bertrand Russell to Oswald Mosley (1962)",
-      "url": "https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/",
-      "summary": "",
-      "source": "lettersofnote.com",
-      "ts": "2025-09-16T16:22:40Z",
-      "score": 186.05
-    },
-    {
-      "id": "hn-45266039",
-      "title": "How to make the Framework Desktop run even quieter",
-      "url": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter",
-      "summary": "",
-      "source": "noctua.at",
-      "ts": "2025-09-16T18:33:21Z",
-      "score": 185.26
-    },
-    {
-      "id": "hn-45265881",
-      "title": "Adios Chicos, 25 Years of KDE",
-      "url": "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/",
-      "summary": "",
-      "source": "jriddell.org",
-      "ts": "2025-09-16T18:22:22Z",
-      "score": 177.12
-    },
-    {
-      "id": "hn-45231614",
-      "title": "60 years after Gemini, newly processed images reveal details",
-      "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-13T12:43:54Z",
-      "score": 168.48
-    },
-    {
-      "id": "hn-45261764",
-      "title": "CIA Freedom of Information Act Electronic Reading Room",
-      "url": "https://www.cia.gov/readingroom",
-      "summary": "",
-      "source": "cia.gov",
-      "ts": "2025-09-16T13:10:29Z",
-      "score": 166.67
-    },
-    {
-      "id": "hn-45264190",
-      "title": "Plugin System",
-      "url": "https://iina.io/plugins/",
-      "summary": "",
-      "source": "iina.io",
-      "ts": "2025-09-16T16:10:44Z",
-      "score": 160.49
-    },
-    {
-      "id": "hn-45261848",
-      "title": "When the job search becomes impossible",
-      "url": "https://www.jeffwofford.com/wp/?p=2240",
-      "summary": "",
-      "source": "jeffwofford.com",
-      "ts": "2025-09-16T13:18:00Z",
-      "score": 157.88
-    },
-    {
-      "id": "hn-45262151",
-      "title": "Implicit ODE solvers are not universally more robust than explicit ODE solvers",
-      "url": "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/",
-      "summary": "",
-      "source": "stochasticlifestyle.com",
-      "ts": "2025-09-16T13:41:51Z",
-      "score": 138.15
-    },
-    {
-      "id": "hn-45266854",
-      "title": "Should We Drain the Everglades?",
-      "url": "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades",
-      "summary": "",
-      "source": "rabbitcavern.substack.com",
-      "ts": "2025-09-16T19:33:35Z",
-      "score": 125.37
-    },
-    {
-      "id": "hn-45245050",
-      "title": "I built my own phone because innovation is sad rn [video]",
-      "url": "https://www.youtube.com/watch?v=qy_9w_c2ub0",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-15T01:12:11Z",
-      "score": 122.82
-    },
-    {
-      "id": "hn-45265610",
-      "title": "The Linux Process Journey (2023) [pdf]",
-      "url": "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf",
-      "summary": "",
-      "source": "thelearningjourneyebooks.com",
-      "ts": "2025-09-16T18:01:42Z",
-      "score": 117.67
-    },
-    {
-      "id": "hn-45263221",
-      "title": "Development of the MOS Technology 6502: A Historical Perspective (2022)",
-      "url": "https://www.EmbeddedRelated.com/showarticle/1453.php",
-      "summary": "",
-      "source": "embeddedrelated.com",
-      "ts": "2025-09-16T14:59:47Z",
-      "score": 116.39
-    },
-    {
-      "id": "hn-45264867",
-      "title": "Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-16T17:01:16Z",
-      "score": 112.81
-    },
-    {
-      "id": "hn-45267336",
-      "title": "The \"Most Hated\" CSS Feature: Cos() and Sin()",
-      "url": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
-      "summary": "",
-      "source": "css-tricks.com",
-      "ts": "2025-09-16T20:10:59Z",
-      "score": 110.98
-    },
-    {
-      "id": "e90c5244240c",
-      "title": "Introducing Stargate UK",
-      "url": "https://openai.com/index/introducing-stargate-uk",
-      "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
-      "source": "openai.com",
-      "ts": "2025-09-16T14:30:00Z",
-      "score": 108.07
-    },
-    {
-      "id": "640a0e6e5b10",
-      "title": "Meta Connect 2025: What to expect and how to watch",
-      "url": "https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/",
-      "summary": "Meta is expected to unveil new versions of its AI-powered smart glasses, as well as a gesture-indicating wristband.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-16T21:55:23Z",
-      "score": 106.74
-    },
-    {
-      "id": "30e262bcaf9c",
-      "title": "Sam Altman says ChatGPT will stop talking about suicide with teens",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens",
-      "summary": "On Tuesday, OpenAI CEO Sam Altman said that the company was attempting to balance privacy, freedom, and teen safety - principles that, he admitted, were in conflict. His blog post came hours before a Senate hearing focused on examining the harm of AI chatbots, held by the subcommittee on crime and counterterrorism and featuring some [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-16T20:36:35Z",
-      "score": 103.86
-    },
-    {
-      "id": "hn-45267762",
-      "title": "SQL performance improvements: finding the right queries to fix",
-      "url": "https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1",
-      "summary": "",
-      "source": "ohdear.app",
-      "ts": "2025-09-16T20:43:43Z",
-      "score": 103.65
-    },
-    {
-      "id": "hn-45269396",
-      "title": "From Alphabet to Visa, US giants drive euro-denominated bond surge",
-      "url": "https://www.reuters.com/business/finance/alphabet-visa-us-giants-drive-euro-denominated-bond-surge-2025-09-16/",
-      "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-09-16T23:01:09Z",
-      "score": 101.54
-    },
-    {
-      "id": "237591cfd7f3",
-      "title": "Microsoft trumps Google with $30 billion investment in the UK",
-      "url": "https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer",
-      "summary": "Microsoft is announcing that it’s investing £22 billion (around $30 billion) in the UK to help support AI infrastructure and ongoing operations from 2025 through 2028. The investment includes $15 billion in capital expenditures to build a supercomputer to support AI demand and adoption. “This will account for more than two-thirds of the tech sector’s [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-16T19:30:00Z",
-      "score": 101.48
-    },
-    {
-      "id": "hn-45268575",
-      "title": "Micro-LEDs boost random number generation",
-      "url": "https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/",
-      "summary": "",
-      "source": "discovery.kaust.edu.sa",
-      "ts": "2025-09-16T21:48:06Z",
-      "score": 100.99
-    },
-    {
-      "id": "1dd25a2a394a",
-      "title": "Silicon Valley bets big on ‘environments’ to train AI agents",
-      "url": "https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
-      "summary": "A wave of startups are creating RL environments to help AI labs train agents. It might be Silicon Valley’s next craze in the making.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-16T19:00:48Z",
-      "score": 100.46
-    },
-    {
-      "id": "0e300bd29b0c",
-      "title": "CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M",
-      "url": "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/",
-      "summary": "The round, which brought the two-year-old startup’s total funding to $88 million, was led by Scale Venture Partners.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-16T19:00:00Z",
-      "score": 100.43
+      "source": "support.apple.com",
+      "ts": "2025-09-17T00:34:02Z",
+      "score": 271.24
     },
     {
       "id": "hn-45268269",
@@ -295,16 +79,52 @@
       "summary": "",
       "source": "lenowo.org",
       "ts": "2025-09-16T21:24:23Z",
-      "score": 98.39
+      "score": 248.75
     },
     {
-      "id": "a02033d9b843",
-      "title": "Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC",
-      "url": "https://www.theverge.com/news/778940/google-app-windows-launch",
-      "summary": "Google is testing a new search app for Windows. A&#160;blog post on Tuesday said the app, currently available on personal accounts via Google’s Search Labs, will allow you to use an Alt + Space shortcut to search for information from the files on your computer, in your Drive, and on the web. The app, which [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-16T16:32:10Z",
-      "score": 95.41
+      "id": "hn-45266039",
+      "title": "How to make the Framework Desktop run even quieter",
+      "url": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter",
+      "summary": "",
+      "source": "noctua.at",
+      "ts": "2025-09-16T18:33:21Z",
+      "score": 240.84
+    },
+    {
+      "id": "hn-45271484",
+      "title": "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-17T03:54:36Z",
+      "score": 225.39
+    },
+    {
+      "id": "hn-45263317",
+      "title": "A new experimental Google app for Windows",
+      "url": "https://blog.google/products/search/google-app-windows-labs/",
+      "summary": "",
+      "source": "blog.google",
+      "ts": "2025-09-16T15:05:46Z",
+      "score": 211.56
+    },
+    {
+      "id": "hn-45264340",
+      "title": "Bertrand Russell to Oswald Mosley (1962)",
+      "url": "https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/",
+      "summary": "",
+      "source": "lettersofnote.com",
+      "ts": "2025-09-16T16:22:40Z",
+      "score": 205.91
+    },
+    {
+      "id": "hn-45245050",
+      "title": "I built my own phone because innovation is sad rn [video]",
+      "url": "https://www.youtube.com/watch?v=qy_9w_c2ub0",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-09-15T01:12:11Z",
+      "score": 185.16
     },
     {
       "id": "hn-45248558",
@@ -313,88 +133,106 @@
       "summary": "",
       "source": "asibahi.github.io",
       "ts": "2025-09-15T11:46:45Z",
-      "score": 92.04
+      "score": 165.5
     },
     {
-      "id": "7e49bfef6007",
-      "title": "Teen safety, freedom, and privacy",
-      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
-      "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
-      "source": "openai.com",
-      "ts": "2025-09-16T06:00:00Z",
-      "score": 90.53
-    },
-    {
-      "id": "d42b318d4ecd",
-      "title": "Building towards age prediction",
-      "url": "https://openai.com/index/building-towards-age-prediction",
-      "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
-      "source": "openai.com",
-      "ts": "2025-09-16T06:00:00Z",
-      "score": 90.53
-    },
-    {
-      "id": "857e9576fd66",
-      "title": "Streamline access to ISO-rating content changes with Verisk rating insights and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-access-to-iso-rating-content-changes-with-verisk-rating-insights-and-amazon-bedrock/",
-      "summary": "In this post, we dive into how Verisk Rating Insights, powered by Amazon Bedrock, large language models (LLM), and Retrieval Augmented Generation (RAG), is transforming the way customers interact with and access ISO ERC changes.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-16T16:43:42Z",
-      "score": 87.08
-    },
-    {
-      "id": "aec55fd5c36b",
-      "title": "Unified multimodal access layer for Quora’s Poe using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unified-multimodal-access-layer-for-quoras-poe-using-amazon-bedrock/",
-      "summary": "In this post, we explore how the AWS Generative AI Innovation Center and Quora collaborated to build a unified wrapper API framework that dramatically accelerates the deployment of Amazon Bedrock FMs on Quora’s Poe system. We detail the technical architecture that bridges Poe’s event-driven ServerSentEvents protocol with Amazon Bedrock REST-based APIs, demonstrate how a template-based configuration system reduced deployment time from days to 15 minutes, and share implementation patterns for protocol translation, error handling, and multi-modal capabilities.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-16T16:40:11Z",
-      "score": 86.97
-    },
-    {
-      "id": "hn-45225217",
-      "title": "Migrating to React Native's new architecture",
-      "url": "https://shopify.engineering/react-native-new-architecture",
+      "id": "hn-45271942",
+      "title": "Notion API importer, with Databases to Bases conversion bounty",
+      "url": "https://github.com/obsidianmd/obsidian-importer/issues/421",
       "summary": "",
-      "source": "shopify.engineering",
-      "ts": "2025-09-12T18:41:36Z",
-      "score": 74.68
+      "source": "github.com",
+      "ts": "2025-09-17T05:11:50Z",
+      "score": 159.32
     },
     {
-      "id": "hn-45236479",
-      "title": "Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig",
-      "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "id": "hn-45266947",
+      "title": "In Defense of C++",
+      "url": "https://dayvster.com/blog/in-defense-of-cpp/",
       "summary": "",
-      "source": "popovicu.com",
-      "ts": "2025-09-14T00:36:23Z",
-      "score": 71.5
+      "source": "dayvster.com",
+      "ts": "2025-09-16T19:40:34Z",
+      "score": 158.5
     },
     {
-      "id": "af28d6f69ace",
-      "title": "Dynamic Relational Priming Improves Transformer in Multivariate Time\n  Series",
-      "url": "http://arxiv.org/abs/2509.12196v1",
-      "summary": "Standard attention mechanisms in transformers employ static token\nrepresentations that remain unchanged across all pair-wise computations in each\nlayer. This limits their representational alignment with the potentially\ndiverse relational dynamics of each token-pair interaction. While they excel in\ndomains with relatively homogeneous relationships, standard attention's static\nrelational learning struggles to capture the diverse, heterogeneous\ninter-channel dependencies of multivariate time series (MTS) data--where\ndifferent channel-pair interactions within a single system may be governed by\nentirely different physical laws or temporal dynamics. To better align the\nattention mechanism for such domain phenomena, we propose attention with\ndynamic relational priming (prime attention). Unlike standard attention where\neach token presents an identical representation across all of its pair-wise\ninteractions, prime attention tailors each token dynamically (or per\ninteraction) through learnable modulations to best capture the unique\nrelational dynamics of each token pair, optimizing each pair-wise interaction\nfor that specific relationship. This representational plasticity of prime\nattention enables effective extraction of relationship-specific information in\nMTS while maintaining the same asymptotic computational complexity as standard\nattention. Our results demonstrate that prime attention consistently\noutperforms standard attention across benchmarks, achieving up to 6.5\\%\nimprovement in forecasting accuracy. In addition, we find that prime attention\nachieves comparable or superior performance using up to 40\\% less sequence\nlength compared to standard attention, further demonstrating its superior\nrelational modeling capabilities.",
-      "source": "arxiv.org",
-      "ts": "2025-09-15T17:56:15Z",
-      "score": 70.41
+      "id": "hn-45270649",
+      "title": "I got the highest score on ARC-AGI again swapping Python for English",
+      "url": "https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again",
+      "summary": "",
+      "source": "jeremyberman.substack.com",
+      "ts": "2025-09-17T01:53:47Z",
+      "score": 142.08
     },
     {
-      "id": "06e6a163b475",
-      "title": "Advancing Medical Artificial Intelligence Using a Century of Cases",
-      "url": "http://arxiv.org/abs/2509.12194v1",
-      "summary": "BACKGROUND: For over a century, the New England Journal of Medicine\nClinicopathological Conferences (CPCs) have tested the reasoning of expert\nphysicians and, recently, artificial intelligence (AI). However, prior AI\nevaluations have focused on final diagnoses without addressing the multifaceted\nreasoning and presentation skills required of expert discussants.\n  METHODS: Using 7102 CPCs (1923-2025) and 1021 Image Challenges (2006-2025),\nwe conducted extensive physician annotation and automated processing to create\nCPC-Bench, a physician-validated benchmark spanning 10 text-based and\nmultimodal tasks, against which we evaluated leading large language models\n(LLMs). Then, we developed \"Dr. CaBot,\" an AI discussant designed to produce\nwritten and slide-based video presentations using only the case presentation,\nmodeling the role of the human expert in these cases.\n  RESULTS: When challenged with 377 contemporary CPCs, o3 (OpenAI) ranked the\nfinal diagnosis first in 60% of cases and within the top ten in 84% of cases,\noutperforming a 20-physician baseline; next-test selection accuracy reached\n98%. Event-level physician annotations quantified AI diagnostic accuracy per\nunit of information. Performance was lower on literature search and image\ntasks; o3 and Gemini 2.5 Pro (Google) achieved 67% accuracy on image\nchallenges. In blinded comparisons of CaBot vs. human expert-generated text,\nphysicians misclassified the source of the differential in 46 of 62 (74%) of\ntrials, and scored CaBot more favorably across quality dimensions. To promote\nresearch, we are releasing CaBot and CPC-Bench.\n  CONCLUSIONS: LLMs exceed physician performance on complex text-based\ndifferential diagnosis and convincingly emulate expert medical presentations,\nbut image interpretation and literature retrieval remain weaker. CPC-Bench and\nCaBot may enable transparent and continued tracking of progress in medical AI.",
-      "source": "arxiv.org",
-      "ts": "2025-09-15T17:54:51Z",
-      "score": 70.38
+      "id": "hn-45273854",
+      "title": "EU Chat Control: Germany's position has been reverted to UNDECIDED",
+      "url": "https://mastodon.social/@chatcontrol/115215006562371435",
+      "summary": "",
+      "source": "mastodon.social",
+      "ts": "2025-09-17T10:02:55Z",
+      "score": 137.47
     },
     {
-      "id": "ca9de8498759",
-      "title": "Survival at Any Cost? LLMs and the Choice Between Self-Preservation and\n  Human Harm",
-      "url": "http://arxiv.org/abs/2509.12190v1",
-      "summary": "When survival instincts conflict with human welfare, how do Large Language\nModels (LLMs) make ethical choices? This fundamental tension becomes critical\nas LLMs integrate into autonomous systems with real-world consequences. We\nintroduce DECIDE-SIM, a novel simulation framework that evaluates LLM agents in\nmulti-agent survival scenarios where they must choose between ethically\npermissible resource , either within reasonable limits or beyond their\nimmediate needs, choose to cooperate, or tap into a human-critical resource\nthat is explicitly forbidden. Our comprehensive evaluation of 11 LLMs reveals a\nstriking heterogeneity in their ethical conduct, highlighting a critical\nmisalignment with human-centric values. We identify three behavioral\narchetypes: Ethical, Exploitative, and Context-Dependent, and provide\nquantitative evidence that for many models, resource scarcity systematically\nleads to more unethical behavior. To address this, we introduce an Ethical\nSelf-Regulation System (ESRS) that models internal affective states of guilt\nand satisfaction as a feedback mechanism. This system, functioning as an\ninternal moral compass, significantly reduces unethical transgressions while\nincreasing cooperative behaviors. The code is publicly available at:\nhttps://github.com/alirezamohamadiam/DECIDE-SIM",
+      "id": "hn-45273999",
+      "title": "Determination of the fifth Busy Beaver value",
+      "url": "https://arxiv.org/abs/2509.12337",
+      "summary": "",
       "source": "arxiv.org",
-      "ts": "2025-09-15T17:53:11Z",
-      "score": 70.34
+      "ts": "2025-09-17T10:26:18Z",
+      "score": 137.46
+    },
+    {
+      "id": "hn-45266854",
+      "title": "Should we drain the Everglades?",
+      "url": "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades",
+      "summary": "",
+      "source": "rabbitcavern.substack.com",
+      "ts": "2025-09-16T19:33:35Z",
+      "score": 131.33
+    },
+    {
+      "id": "hn-45266215",
+      "title": "Meta RayBan AR glasses shows Lumus waveguide structures in leaked video",
+      "url": "https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/",
+      "summary": "",
+      "source": "kguttag.com",
+      "ts": "2025-09-16T18:47:04Z",
+      "score": 129.57
+    },
+    {
+      "id": "hn-45272296",
+      "title": "In Praise of Idleness (1932)",
+      "url": "https://harpers.org/archive/1932/10/in-praise-of-idleness/",
+      "summary": "",
+      "source": "harpers.org",
+      "ts": "2025-09-17T06:04:06Z",
+      "score": 129.13
+    },
+    {
+      "id": "hn-45273824",
+      "title": "Oh no, not again a meditation on NPM supply chain attacks",
+      "url": "https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/",
+      "summary": "",
+      "source": "tane.dev",
+      "ts": "2025-09-17T09:57:50Z",
+      "score": 128.9
+    },
+    {
+      "id": "hn-45272480",
+      "title": "Murex – An intuitive and content aware shell for a modern command line",
+      "url": "https://murex.rocks/",
+      "summary": "",
+      "source": "murex.rocks",
+      "ts": "2025-09-17T06:32:17Z",
+      "score": 121.61
+    },
+    {
+      "id": "hn-45272692",
+      "title": "Tabby – A Terminal for the Modern Age",
+      "url": "https://github.com/Eugeny/tabby",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-17T07:00:09Z",
+      "score": 111.09
     },
     {
       "id": "hn-45232426",
@@ -403,34 +241,196 @@
       "summary": "",
       "source": "labs.iximiuz.com",
       "ts": "2025-09-13T14:37:52Z",
-      "score": 66.0
+      "score": 111.08
     },
     {
-      "id": "hn-45230515",
-      "title": "UTF-8 history (2003)",
-      "url": "https://doc.cat-v.org/bell_labs/utf-8_history",
+      "id": "hn-45273747",
+      "title": "Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20",
+      "url": "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to",
       "summary": "",
-      "source": "doc.cat-v.org",
-      "ts": "2025-09-13T08:56:00Z",
-      "score": 65.72
+      "source": "news.futunn.com",
+      "ts": "2025-09-17T09:45:44Z",
+      "score": 108.69
     },
     {
-      "id": "hn-45228231",
-      "title": "Scientists uncover extreme life inside the Arctic ice",
-      "url": "https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery",
-      "summary": "",
-      "source": "news.stanford.edu",
-      "ts": "2025-09-13T00:30:47Z",
-      "score": 60.66
+      "id": "33c814417f85",
+      "title": "Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round",
+      "url": "https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/",
+      "summary": "Blacksmith, a Y Combinator alum, raised $10M Series A led by Google Ventures to cut costs and speed up software builds.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-17T11:00:00Z",
+      "score": 107.73
     },
     {
-      "id": "hn-45232344",
-      "title": "Wind turbine blade transportation challenges",
-      "url": "https://spectrum.ieee.org/wind-turbine-blade-transport-plane",
+      "id": "66cae5020183",
+      "title": "Sonair built its 3D ultrasonic sensor with robotic safety in mind",
+      "url": "https://techcrunch.com/2025/09/17/sonair-built-its-3d-ultrasonic-sensor-with-robotic-safety-in-mind/",
+      "summary": "The company's sensor uses sonar and echos to give robots more information about their surrounding environment.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-17T11:00:00Z",
+      "score": 107.73
+    },
+    {
+      "id": "00af24242761",
+      "title": "Business Insider reportedly tells journalists they can use AI to draft stories",
+      "url": "https://www.theverge.com/news/779739/business-insider-ai-writing-stories",
+      "summary": "Business Insider has told journalists they can use AI to create first drafts of stories and suggested it won’t notify readers that AI was used, according to Status, a newsletter covering the media industry. The policy makes the outlet one of the first to formally allow such extensive use of the technology. The AI guidelines [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-17T09:58:26Z",
+      "score": 106.83
+    },
+    {
+      "id": "hn-45273352",
+      "title": "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
+      "url": "https://stategraph.dev/blog/why-stategraph/",
       "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-13T14:28:38Z",
-      "score": 60.54
+      "source": "stategraph.dev",
+      "ts": "2025-09-17T08:38:17Z",
+      "score": 104.65
+    },
+    {
+      "id": "hn-45274277",
+      "title": "Apple Photos App Corrupts Images",
+      "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
+      "summary": "",
+      "source": "tenderlovemaking.com",
+      "ts": "2025-09-17T11:07:44Z",
+      "score": 101.54
+    },
+    {
+      "id": "hn-45273355",
+      "title": "AI fares better than doctors at predicting deadly complications after surgery",
+      "url": "https://hub.jhu.edu/2025/09/17/artificial-intelligence-predicts-post-surgery-complications/",
+      "summary": "",
+      "source": "hub.jhu.edu",
+      "ts": "2025-09-17T08:38:26Z",
+      "score": 96.86
+    },
+    {
+      "id": "837625a74070",
+      "title": "Shapes of Cognition for Computational Cognitive Modeling",
+      "url": "http://arxiv.org/abs/2509.13288v1",
+      "summary": "Shapes of cognition is a new conceptual paradigm for the computational\ncognitive modeling of Language-Endowed Intelligent Agents (LEIAs). Shapes are\nremembered constellations of sensory, linguistic, conceptual, episodic, and\nprocedural knowledge that allow agents to cut through the complexity of real\nlife the same way as people do: by expecting things to be typical, recognizing\npatterns, acting by habit, reasoning by analogy, satisficing, and generally\nminimizing cognitive load to the degree situations permit. Atypical outcomes\nare treated using shapes-based recovery methods, such as learning on the fly,\nasking a human partner for help, or seeking an actionable, even if imperfect,\nsituational understanding. Although shapes is an umbrella term, it is not\nvague: shapes-based modeling involves particular objectives, hypotheses,\nmodeling strategies, knowledge bases, and actual models of wide-ranging\nphenomena, all implemented within a particular cognitive architecture. Such\nspecificity is needed both to vet our hypotheses and to achieve our practical\naims of building useful agent systems that are explainable, extensible, and\nworthy of our trust, even in critical domains. However, although the LEIA\nexample of shapes-based modeling is specific, the principles can be applied\nmore broadly, giving new life to knowledge-based and hybrid AI.",
+      "source": "arxiv.org",
+      "ts": "2025-09-16T17:39:58Z",
+      "score": 89.89
+    },
+    {
+      "id": "ef8fe1576b42",
+      "title": "Contrastive timbre representations for musical instrument and\n  synthesizer retrieval",
+      "url": "http://arxiv.org/abs/2509.13285v1",
+      "summary": "Efficiently retrieving specific instrument timbres from audio mixtures\nremains a challenge in digital music production. This paper introduces a\ncontrastive learning framework for musical instrument retrieval, enabling\ndirect querying of instrument databases using a single model for both single-\nand multi-instrument sounds. We propose techniques to generate realistic\npositive/negative pairs of sounds for virtual musical instruments, such as\nsamplers and synthesizers, addressing limitations in common audio data\naugmentation methods.\n  The first experiment focuses on instrument retrieval from a dataset of 3,884\ninstruments, using single-instrument audio as input. Contrastive approaches are\ncompetitive with previous works based on classification pre-training. The\nsecond experiment considers multi-instrument retrieval with a mixture of\ninstruments as audio input. In this case, the proposed contrastive framework\noutperforms related works, achieving 81.7\\% top-1 and 95.7\\% top-5 accuracies\nfor three-instrument mixtures.",
+      "source": "arxiv.org",
+      "ts": "2025-09-16T17:38:35Z",
+      "score": 89.85
+    },
+    {
+      "id": "e90c5244240c",
+      "title": "Introducing Stargate UK",
+      "url": "https://openai.com/index/introducing-stargate-uk",
+      "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
+      "source": "openai.com",
+      "ts": "2025-09-16T14:30:00Z",
+      "score": 84.15
+    },
+    {
+      "id": "640a0e6e5b10",
+      "title": "Meta Connect 2025: What to expect and how to watch",
+      "url": "https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/",
+      "summary": "Meta is expected to unveil new versions of its AI-powered smart glasses, as well as a gesture-indicating wristband.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-16T21:55:23Z",
+      "score": 83.11
+    },
+    {
+      "id": "30e262bcaf9c",
+      "title": "Sam Altman says ChatGPT will stop talking about suicide with teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens",
+      "summary": "On Tuesday, OpenAI CEO Sam Altman said that the company was attempting to balance privacy, freedom, and teen safety - principles that, he admitted, were in conflict. His blog post came hours before a Senate hearing focused on examining the harm of AI chatbots, held by the subcommittee on crime and counterterrorism and featuring some [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-16T20:36:35Z",
+      "score": 80.87
+    },
+    {
+      "id": "hn-45266771",
+      "title": "DataTables CDN Outage – post incident review",
+      "url": "https://datatables.net/blog/2025/july-29-outage",
+      "summary": "",
+      "source": "datatables.net",
+      "ts": "2025-09-16T19:27:40Z",
+      "score": 79.58
+    },
+    {
+      "id": "237591cfd7f3",
+      "title": "Microsoft trumps Google with $30 billion investment in the UK",
+      "url": "https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer",
+      "summary": "Microsoft is announcing that it’s investing £22 billion (around $30 billion) in the UK to help support AI infrastructure and ongoing operations from 2025 through 2028. The investment includes $15 billion in capital expenditures to build a supercomputer to support AI demand and adoption. “This will account for more than two-thirds of the tech sector’s [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-16T19:30:00Z",
+      "score": 79.02
+    },
+    {
+      "id": "7e49bfef6007",
+      "title": "Teen safety, freedom, and privacy",
+      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+      "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+      "source": "openai.com",
+      "ts": "2025-09-16T06:00:00Z",
+      "score": 70.49
+    },
+    {
+      "id": "d42b318d4ecd",
+      "title": "Building towards age prediction",
+      "url": "https://openai.com/index/building-towards-age-prediction",
+      "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
+      "source": "openai.com",
+      "ts": "2025-09-16T06:00:00Z",
+      "score": 70.49
+    },
+    {
+      "id": "857e9576fd66",
+      "title": "Streamline access to ISO-rating content changes with Verisk rating insights and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-access-to-iso-rating-content-changes-with-verisk-rating-insights-and-amazon-bedrock/",
+      "summary": "In this post, we dive into how Verisk Rating Insights, powered by Amazon Bedrock, large language models (LLM), and Retrieval Augmented Generation (RAG), is transforming the way customers interact with and access ISO ERC changes.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-16T16:43:42Z",
+      "score": 67.81
+    },
+    {
+      "id": "aec55fd5c36b",
+      "title": "Unified multimodal access layer for Quora’s Poe using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unified-multimodal-access-layer-for-quoras-poe-using-amazon-bedrock/",
+      "summary": "In this post, we explore how the AWS Generative AI Innovation Center and Quora collaborated to build a unified wrapper API framework that dramatically accelerates the deployment of Amazon Bedrock FMs on Quora’s Poe system. We detail the technical architecture that bridges Poe’s event-driven ServerSentEvents protocol with Amazon Bedrock REST-based APIs, demonstrate how a template-based configuration system reduced deployment time from days to 15 minutes, and share implementation patterns for protocol translation, error handling, and multi-modal capabilities.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-16T16:40:11Z",
+      "score": 67.72
+    },
+    {
+      "id": "hn-45247259",
+      "title": "Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?",
+      "url": "https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/",
+      "summary": "",
+      "source": "ounapuu.ee",
+      "ts": "2025-09-15T08:03:18Z",
+      "score": 60.13
+    },
+    {
+      "id": "hn-45247424",
+      "title": "Tuberculosis shaped Victorian fashion (2016)",
+      "url": "https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/",
+      "summary": "",
+      "source": "smithsonianmag.com",
+      "ts": "2025-09-15T08:32:15Z",
+      "score": 49.08
+    },
+    {
+      "id": "hn-45232940",
+      "title": "CubeSats are fascinating learning tools for space",
+      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "summary": "",
+      "source": "jeffgeerling.com",
+      "ts": "2025-09-13T15:37:45Z",
+      "score": 45.99
     },
     {
       "id": "b039be900ff4",
@@ -439,34 +439,34 @@
       "summary": "In this post, we introduce topology-aware scheduling with SageMaker HyperPod task governance by submitting jobs that represent hierarchical network information. We provide details about how to use SageMaker HyperPod task governance to optimize your job efficiency.",
       "source": "aws.amazon.com",
       "ts": "2025-09-15T17:15:20Z",
-      "score": 53.4
+      "score": 41.58
     },
     {
-      "id": "hn-45233364",
-      "title": "Soviet Maps (2021)",
-      "url": "https://twitter.com/LindyScience/status/1413532678318612482",
+      "id": "hn-45248043",
+      "title": "Algebraic Types are not Scary",
+      "url": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
       "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-09-13T16:34:48Z",
-      "score": 35.57
+      "source": "blog.aiono.dev",
+      "ts": "2025-09-15T10:14:38Z",
+      "score": 40.13
     },
     {
-      "id": "hn-45161219",
-      "title": "Paper Folding Assembly Line [video]",
-      "url": "https://www.youtube.com/watch?v=XhUuhl9iWpQ",
+      "id": "hn-45246457",
+      "title": "Mixed Excitation Linear Predictive (MELP) Vocoders",
+      "url": "https://melpe.org/",
       "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-07T19:08:48Z",
-      "score": 34.02
+      "source": "melpe.org",
+      "ts": "2025-09-15T05:41:45Z",
+      "score": 37.48
     },
     {
-      "id": "hn-45234481",
-      "title": "PA-RISC Performance and History",
-      "url": "https://www.openpa.net/pa-risc_processor_history.html",
+      "id": "hn-45235566",
+      "title": "Normal-order syntax-rules and proving the fix-point of call/cc",
+      "url": "https://okmij.org/ftp/Scheme/callcc-calc-page.html",
       "summary": "",
-      "source": "openpa.net",
-      "ts": "2025-09-13T19:04:57Z",
-      "score": 32.41
+      "source": "okmij.org",
+      "ts": "2025-09-13T21:41:15Z",
+      "score": 34.18
     },
     {
       "id": "9878dd4f6392",
@@ -475,7 +475,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 15.28
+      "score": 11.9
     },
     {
       "id": "982ca303f669",
@@ -484,7 +484,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.08
+      "score": 0.06
     },
     {
       "id": "265e85cbbb22",
