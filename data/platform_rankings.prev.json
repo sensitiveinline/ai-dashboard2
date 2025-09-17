@@ -2,12 +2,12 @@
   {
     "id": "openai",
     "name": "OpenAI",
-    "score": 82
+    "score": 80
   },
   {
     "id": "deepseek",
     "name": "DeepSeek",
-    "score": 81
+    "score": 83
   },
   {
     "id": "anthropic",
