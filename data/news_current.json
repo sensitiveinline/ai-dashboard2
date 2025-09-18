@@ -7,196 +7,115 @@
       "summary": "",
       "source": "skyfall.dev",
       "ts": "2025-09-18T01:37:11Z",
-      "score": 936.6
+      "score": 1736.32
     },
     {
-      "id": "hn-45274277",
-      "title": "Apple Photos app corrupts images",
-      "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
+      "id": "hn-45288161",
+      "title": "Nvidia buys $5B in Intel",
+      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
       "summary": "",
-      "source": "tenderlovemaking.com",
-      "ts": "2025-09-17T11:07:44Z",
-      "score": 730.53
+      "source": "tomshardware.com",
+      "ts": "2025-09-18T11:04:48Z",
+      "score": 541.16
     },
     {
-      "id": "hn-45279384",
-      "title": "WASM 3.0 Completed",
-      "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+      "id": "hn-45288690",
+      "title": "KDE is now my favorite desktop",
+      "url": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
       "summary": "",
-      "source": "webassembly.org",
-      "ts": "2025-09-17T18:16:53Z",
-      "score": 620.23
+      "source": "kokada.dev",
+      "ts": "2025-09-18T12:17:51Z",
+      "score": 486.14
     },
     {
-      "id": "hn-45283306",
-      "title": "Meta Ray-Ban Display",
-      "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
+      "id": "hn-45292648",
+      "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
+      "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
       "summary": "",
-      "source": "meta.com",
-      "ts": "2025-09-18T00:30:44Z",
-      "score": 442.17
+      "source": "research.google",
+      "ts": "2025-09-18T17:42:56Z",
+      "score": 283.17
     },
     {
-      "id": "hn-45276262",
-      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
-      "url": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
+      "id": "hn-45290021",
+      "title": "Grief gets an expiration date, just like us",
+      "url": "https://bessstillman.substack.com/p/oh-fuck-youre-still-sad",
       "summary": "",
-      "source": "9to5google.com",
-      "ts": "2025-09-17T14:29:10Z",
-      "score": 376.62
-    },
-    {
-      "id": "hn-45281139",
-      "title": "A postmortem of three recent issues",
-      "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
-      "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-17T20:41:07Z",
-      "score": 335.95
-    },
-    {
-      "id": "hn-45273999",
-      "title": "Determination of the fifth Busy Beaver value",
-      "url": "https://arxiv.org/abs/2509.12337",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-17T10:26:18Z",
-      "score": 294.15
-    },
-    {
-      "id": "hn-45267643",
-      "title": "U.S. investors, Trump close in on TikTok deal with China",
-      "url": "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f",
-      "summary": "",
-      "source": "wsj.com",
-      "ts": "2025-09-16T20:35:29Z",
-      "score": 291.17
-    },
-    {
-      "id": "hn-45278279",
-      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
-      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
-      "summary": "",
-      "source": "cgchannel.com",
-      "ts": "2025-09-17T16:49:37Z",
-      "score": 262.94
-    },
-    {
-      "id": "hn-45284311",
-      "title": "Show HN: The text disappears when you screenshot it",
-      "url": "https://unscreenshottable.vercel.app/?text=Hello",
-      "summary": "",
-      "source": "unscreenshottable.vercel.app",
-      "ts": "2025-09-18T02:18:45Z",
-      "score": 251.38
-    },
-    {
-      "id": "hn-45279357",
-      "title": "DeepMind and OpenAI win gold at ICPC",
-      "url": "https://codeforces.com/blog/entry/146536",
-      "summary": "",
-      "source": "codeforces.com",
-      "ts": "2025-09-17T18:15:16Z",
-      "score": 207.99
-    },
-    {
-      "id": "hn-45282497",
-      "title": "One Token to rule them all – Obtaining Global Admin in every Entra ID tenant",
-      "url": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
-      "summary": "",
-      "source": "dirkjanm.io",
-      "ts": "2025-09-17T23:03:21Z",
-      "score": 206.95
-    },
-    {
-      "id": "hn-45279792",
-      "title": "Optimizing ClickHouse for Intel's 280 core processors",
-      "url": "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu",
-      "summary": "",
-      "source": "clickhouse.com",
-      "ts": "2025-09-17T18:46:03Z",
-      "score": 189.54
-    },
-    {
-      "id": "hn-45275354",
-      "title": "Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%",
-      "url": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
-      "summary": "",
-      "source": "quesma.com",
-      "ts": "2025-09-17T13:03:24Z",
-      "score": 174.41
-    },
-    {
-      "id": "hn-45278657",
-      "title": "Tinycolor supply chain attack post-mortem",
-      "url": "https://sigh.dev/posts/ctrl-tinycolor-post-mortem/",
-      "summary": "",
-      "source": "sigh.dev",
-      "ts": "2025-09-17T17:18:38Z",
-      "score": 165.23
-    },
-    {
-      "id": "hn-45284766",
-      "title": "Towards a Physics Foundation Model",
-      "url": "https://arxiv.org/abs/2509.13805",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-18T03:06:08Z",
-      "score": 162.44
-    },
-    {
-      "id": "hn-45278581",
-      "title": "Drought in Iraq reveals tombs created 2,300 years ago",
-      "url": "https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/",
-      "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-09-17T17:12:15Z",
-      "score": 156.67
-    },
-    {
-      "id": "hn-45283731",
-      "title": "Hypervisor 101 in Rust",
-      "url": "https://tandasat.github.io/Hypervisor-101-in-Rust/",
-      "summary": "",
-      "source": "tandasat.github.io",
-      "ts": "2025-09-18T01:18:58Z",
-      "score": 154.28
-    },
-    {
-      "id": "hn-45254763",
-      "title": "Boring is good",
-      "url": "https://jenson.org/boring/",
-      "summary": "",
-      "source": "jenson.org",
-      "ts": "2025-09-15T20:51:27Z",
-      "score": 146.58
-    },
-    {
-      "id": "hn-45283196",
-      "title": "Stepping Down as Libxml2 Maintainer",
-      "url": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
-      "summary": "",
-      "source": "discourse.gnome.org",
-      "ts": "2025-09-18T00:17:20Z",
-      "score": 141.16
+      "source": "bessstillman.substack.com",
+      "ts": "2025-09-18T14:17:40Z",
+      "score": 265.71
     },
     {
       "id": "hn-45286369",
-      "title": "CERN Animal Shelter for Computer Mice",
+      "title": "CERN Animal Shelter for Computer Mice (2011)",
       "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
       "summary": "",
       "source": "computer-animal-shelter.web.cern.ch",
       "ts": "2025-09-18T06:53:08Z",
-      "score": 137.86
+      "score": 264.08
     },
     {
-      "id": "hn-45287155",
-      "title": "This Website Has No Class",
-      "url": "https://aaadaaam.com/notes/no-class/",
+      "id": "hn-45292260",
+      "title": "Chrome's New AI Features",
+      "url": "https://blog.google/products/chrome/new-ai-features-for-chrome/",
       "summary": "",
-      "source": "aaadaaam.com",
-      "ts": "2025-09-18T08:41:32Z",
-      "score": 132.35
+      "source": "blog.google",
+      "ts": "2025-09-18T17:12:36Z",
+      "score": 243.74
+    },
+    {
+      "id": "hn-45291132",
+      "title": "American Prairie unlocks another 70k acres in Montana",
+      "url": "https://earthhope.substack.com/p/victory-for-public-access-american",
+      "summary": "",
+      "source": "earthhope.substack.com",
+      "ts": "2025-09-18T15:47:40Z",
+      "score": 232.34
+    },
+    {
+      "id": "hn-45294440",
+      "title": "Apple: SSH and FileVault",
+      "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
+      "summary": "",
+      "source": "keith.github.io",
+      "ts": "2025-09-18T20:15:45Z",
+      "score": 210.06
+    },
+    {
+      "id": "hn-45293273",
+      "title": "When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"",
+      "url": "https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail",
+      "summary": "",
+      "source": "eff.org",
+      "ts": "2025-09-18T18:30:37Z",
+      "score": 204.31
+    },
+    {
+      "id": "hn-45289453",
+      "title": "Flipper Zero Geiger Counter",
+      "url": "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/",
+      "summary": "",
+      "source": "kasiin.top",
+      "ts": "2025-09-18T13:28:59Z",
+      "score": 200.13
+    },
+    {
+      "id": "hn-45290245",
+      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
+      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+      "summary": "",
+      "source": "xtxmarkets.com",
+      "ts": "2025-09-18T14:36:44Z",
+      "score": 199.66
+    },
+    {
+      "id": "hn-45294859",
+      "title": "Meta's live staged demo fails; the \"AI\" recording plays before the actor acts",
+      "url": "https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/",
+      "summary": "",
+      "source": "old.reddit.com",
+      "ts": "2025-09-18T20:50:33Z",
+      "score": 191.4
     },
     {
       "id": "hn-45286526",
@@ -205,52 +124,97 @@
       "summary": "",
       "source": "pnpm.io",
       "ts": "2025-09-18T07:12:56Z",
-      "score": 122.88
+      "score": 190.77
     },
     {
-      "id": "hn-45280592",
-      "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
-      "url": "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py",
+      "id": "hn-45287155",
+      "title": "This website has no class",
+      "url": "https://aaadaaam.com/notes/no-class/",
+      "summary": "",
+      "source": "aaadaaam.com",
+      "ts": "2025-09-18T08:41:32Z",
+      "score": 189.4
+    },
+    {
+      "id": "hn-45292694",
+      "title": "This map is not upside down",
+      "url": "https://www.maps.com/this-map-is-not-upside-down/",
+      "summary": "",
+      "source": "maps.com",
+      "ts": "2025-09-18T17:47:19Z",
+      "score": 178.36
+    },
+    {
+      "id": "hn-45289558",
+      "title": "Luau – Fast, small, safe, gradually typed scripting language derived from Lua",
+      "url": "https://luau.org/",
+      "summary": "",
+      "source": "luau.org",
+      "ts": "2025-09-18T13:38:49Z",
+      "score": 166.2
+    },
+    {
+      "id": "hn-45291858",
+      "title": "Configuration files are user interfaces",
+      "url": "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/",
+      "summary": "",
+      "source": "ochagavia.nl",
+      "ts": "2025-09-18T16:43:43Z",
+      "score": 162.02
+    },
+    {
+      "id": "hn-45289168",
+      "title": "The quality of AI-assisted software depends on unit of work management",
+      "url": "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/",
+      "summary": "",
+      "source": "blog.nilenso.com",
+      "ts": "2025-09-18T13:06:03Z",
+      "score": 160.48
+    },
+    {
+      "id": "hn-45294058",
+      "title": "U.S. already has the critical minerals it needs, according to new analysis",
+      "url": "https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows",
+      "summary": "",
+      "source": "minesnewsroom.com",
+      "ts": "2025-09-18T19:41:50Z",
+      "score": 142.97
+    },
+    {
+      "id": "hn-45265487",
+      "title": "Midcentury North American Restaurant Placemats",
+      "url": "https://casualarchivist.substack.com/p/order-up",
+      "summary": "",
+      "source": "casualarchivist.substack.com",
+      "ts": "2025-09-16T17:52:17Z",
+      "score": 134.18
+    },
+    {
+      "id": "hn-45291590",
+      "title": "OneDev – Self-hosted Git server with CI/CD, Kanban, and packages",
+      "url": "https://onedev.io/",
+      "summary": "",
+      "source": "onedev.io",
+      "ts": "2025-09-18T16:24:19Z",
+      "score": 132.03
+    },
+    {
+      "id": "hn-45291024",
+      "title": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
+      "url": "https://github.com/cactus-compute/cactus",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-17T19:50:11Z",
-      "score": 119.13
+      "ts": "2025-09-18T15:40:29Z",
+      "score": 131.93
     },
     {
-      "id": "hn-45284398",
-      "title": "A QBasic Text Adventure Still Expanding in 2025",
-      "url": "https://the-ventureweaver.itch.io/",
+      "id": "hn-45293839",
+      "title": "Tldraw SDK 4.0",
+      "url": "https://tldraw.dev/blog/tldraw-sdk-4-0",
       "summary": "",
-      "source": "the-ventureweaver.itch.io",
-      "ts": "2025-09-18T02:25:59Z",
-      "score": 111.19
-    },
-    {
-      "id": "hn-45286394",
-      "title": "History of the Gem Desktop Environment",
-      "url": "https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment",
-      "summary": "",
-      "source": "nemanjatrifunovic.substack.com",
-      "ts": "2025-09-18T06:55:28Z",
-      "score": 109.73
-    },
-    {
-      "id": "ed831338cfde",
-      "title": "Reddit wants a better AI deal with Google: users in exchange for content",
-      "url": "https://www.theverge.com/news/780769/reddit-ai-google-new-deal",
-      "summary": "Reddit wants more users and more money from Google in exchange for an even bigger mountain of data feeding its AI machine, according to Bloomberg. The negotiation shows a new front in the struggle between Big AI and content providers as they try to harvest new revenue streams without bleeding out the very traffic and [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-18T11:14:05Z",
-      "score": 107.73
-    },
-    {
-      "id": "hn-45277704",
-      "title": "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
-      "url": "https://runrl.com",
-      "summary": "",
-      "source": "runrl.com",
-      "ts": "2025-09-17T16:13:00Z",
-      "score": 106.08
+      "source": "tldraw.dev",
+      "ts": "2025-09-18T19:21:33Z",
+      "score": 126.72
     },
     {
       "id": "hn-45287513",
@@ -259,25 +223,151 @@
       "summary": "",
       "source": "connorboyle.io",
       "ts": "2025-09-18T09:28:40Z",
-      "score": 103.91
+      "score": 121.62
     },
     {
-      "id": "hn-45288161",
-      "title": "Nvidia buys $5B in Intel stock in seismic deal",
-      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
+      "id": "hn-45289829",
+      "title": "Automatic differentiation can be incorrect",
+      "url": "https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/",
       "summary": "",
-      "source": "tomshardware.com",
-      "ts": "2025-09-18T11:04:48Z",
-      "score": 102.74
+      "source": "stochasticlifestyle.com",
+      "ts": "2025-09-18T14:01:35Z",
+      "score": 120.05
     },
     {
-      "id": "hn-45253012",
-      "title": "What's New in C# 14: Null-Conditional Assignments",
-      "url": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
+      "id": "hn-45292475",
+      "title": "OpenTelemetry Collector: What It Is, When You Need It, and When You Don't",
+      "url": "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view",
       "summary": "",
-      "source": "blog.ivankahl.com",
-      "ts": "2025-09-15T18:08:45Z",
-      "score": 101.89
+      "source": "oneuptime.com",
+      "ts": "2025-09-18T17:29:17Z",
+      "score": 119.6
+    },
+    {
+      "id": "hn-45289921",
+      "title": "Aaron Levie: Startups win in the AI era [video]",
+      "url": "https://www.youtube.com/watch?v=uqc_vt95GJg",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-09-18T14:09:46Z",
+      "score": 112.49
+    },
+    {
+      "id": "hn-45294390",
+      "title": "Shipping 100 hardware units in under eight weeks",
+      "url": "https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units",
+      "summary": "",
+      "source": "farhanhossain.substack.com",
+      "ts": "2025-09-18T20:11:29Z",
+      "score": 107.92
+    },
+    {
+      "id": "738ee58fdfc1",
+      "title": "OpenAI’s research on AI models deliberately lying is wild",
+      "url": "https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/",
+      "summary": "AI models don't just hallucinate. They also \"scheme,\" meaning deliberately lie or hide their true intensions.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T22:54:20Z",
+      "score": 107.73
+    },
+    {
+      "id": "hn-45295898",
+      "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
+      "url": "https://phishyurl.com/",
+      "summary": "",
+      "source": "phishyurl.com",
+      "ts": "2025-09-18T22:40:06Z",
+      "score": 106.34
+    },
+    {
+      "id": "hn-45295482",
+      "title": "Show HN: I created a small 2D game about an ant",
+      "url": "https://aanthonymax.github.io/ant-and-apples/",
+      "summary": "",
+      "source": "aanthonymax.github.io",
+      "ts": "2025-09-18T21:54:06Z",
+      "score": 105.32
+    },
+    {
+      "id": "160a1c87f6e8",
+      "title": "Huawei announces new AI infrastructure as Nvidia gets locked out of China",
+      "url": "https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/",
+      "summary": "Huawei's SuperPoD interconnect technology creates clusters of chips, including AI chips, to increase compute.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T21:14:15Z",
+      "score": 105.14
+    },
+    {
+      "id": "597e3fd4980d",
+      "title": "How AI startups are fueling Google’s booming cloud business",
+      "url": "https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/",
+      "summary": "Google Cloud is one of the company's fastest-growing business lines, and continues to rack up new customers.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T20:53:33Z",
+      "score": 104.39
+    },
+    {
+      "id": "hn-45295794",
+      "title": "AI tools are making the world look weird",
+      "url": "https://strat7.com/blogs/weird-in-weird-out/",
+      "summary": "",
+      "source": "strat7.com",
+      "ts": "2025-09-18T22:27:17Z",
+      "score": 99.74
+    },
+    {
+      "id": "5e3a22427b19",
+      "title": "Notion’s new AI Agents will basically do your job for you",
+      "url": "https://www.theverge.com/news/781293/notion-ai-agent-do-your-job",
+      "summary": "Notion has entered the agent era of its AI evolution with the launch of the Notion Agent on Thursday. The announcement forms the bulk of the Notion 3.0 roll out available to all users. The company calls the new product a “teammate and Notion super user” that “can do everything a human can do in [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-18T18:02:57Z",
+      "score": 98.39
+    },
+    {
+      "id": "b3cceab1c13d",
+      "title": "Microsoft is filling Teams with AI agents",
+      "url": "https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents",
+      "summary": "Microsoft is adding a whole load of AI agents to Teams today, promising Copilot assistants for every channel, meeting, and community. The new agents will also work across SharePoint and Viva Engage, and are rolling out for Microsoft 365 Copilot users. Facilitator agents will now sit in on Teams meetings, creating agendas, taking notes, and [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-18T17:46:54Z",
+      "score": 97.84
+    },
+    {
+      "id": "8f99e53b4b85",
+      "title": "Google is expanding Gemini in Chrome and letting it do stuff for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows",
+      "summary": "Google is stepping things up in the AI agent browser wars.&#160; The company is launching a suite of new features deeply embedding Gemini into Chrome. That starts with the announcement that Gemini in Chrome will no longer require a membership fee and will begin rolling out to both Mac and Windows users in the US starting [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-18T17:00:00Z",
+      "score": 96.26
+    },
+    {
+      "id": "c14711426536",
+      "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/",
+      "summary": "This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T21:25:49Z",
+      "score": 95.97
+    },
+    {
+      "id": "df5dc42d2c86",
+      "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/",
+      "summary": "Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T21:25:34Z",
+      "score": 95.96
+    },
+    {
+      "id": "d765cc1b2e22",
+      "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/",
+      "summary": "In this post, we explore how to monitor and manage Amazon Bedrock batch inference jobs using Amazon CloudWatch metrics, alarms, and dashboards to optimize performance, cost, and operational efficiency.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T15:33:07Z",
+      "score": 84.91
     },
     {
       "id": "hn-45287551",
@@ -286,16 +376,7 @@
       "summary": "",
       "source": "ycombinator.com",
       "ts": "2025-09-18T09:33:07Z",
-      "score": 96.86
-    },
-    {
-      "id": "0189b2f89be9",
-      "title": "India leads the way on Google’s Nano Banana with a local creative twist",
-      "url": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
-      "summary": "Indian users turning Google’s Nano Banana into a viral trend engine, from retro AI portraits to figurine-style selfies.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-18T04:00:00Z",
-      "score": 94.32
+      "score": 75.53
     },
     {
       "id": "ebe33a0ce786",
@@ -304,61 +385,34 @@
       "summary": "We present Apertus, a fully open suite of large language models (LLMs)\ndesigned to address two systemic shortcomings in today's open model ecosystem:\ndata compliance and multilingual representation. Unlike many prior models that\nrelease weights without reproducible data pipelines or regard for content-owner\nrights, Apertus models are pretrained exclusively on openly available data,\nretroactively respecting robots.txt exclusions and filtering for\nnon-permissive, toxic, and personally identifiable content. To mitigate risks\nof memorization, we adopt the Goldfish objective during pretraining, strongly\nsuppressing verbatim recall of data while retaining downstream task\nperformance. The Apertus models also expand multilingual coverage, training on\n15T tokens from over 1800 languages, with ~40% of pretraining data allocated to\nnon-English content. Released at 8B and 70B scales, Apertus approaches\nstate-of-the-art results among fully open models on multilingual benchmarks,\nrivalling or surpassing open-weight counterparts. Beyond model weights, we\nrelease all scientific artifacts from our development cycle with a permissive\nlicense, including data preparation scripts, checkpoints, evaluation suites,\nand training code, enabling transparent audit and extension.",
       "source": "arxiv.org",
       "ts": "2025-09-17T17:59:21Z",
-      "score": 90.48
+      "score": 70.44
     },
     {
-      "id": "034ae4f33bd8",
-      "title": "Meta Connect 2025: the 6 biggest announcements",
-      "url": "https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements",
-      "summary": "Meta just showed off all the latest in wearable technology, virtual reality, augmented reality, and more at its annual Connect keynote. In addition to the long-awaited reveal of Meta’s updated Ray-Ban smart glasses, the company had some other exciting surprises to share, too. Here’s a roundup of all the new tech and software updates announced [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-18T01:00:49Z",
-      "score": 88.63
+      "id": "2255efea8554",
+      "title": "Language models' activations linearly encode training-order recency",
+      "url": "http://arxiv.org/abs/2509.14223v1",
+      "summary": "We show that language models' activations linearly encode when information\nwas learned during training. Our setup involves creating a model with a known\ntraining order by sequentially fine-tuning Llama-3.2-1B on six disjoint but\notherwise similar datasets about named entities. We find that the average\nactivations of test samples for the six training datasets encode the training\norder: when projected into a 2D subspace, these centroids are arranged exactly\nin the order of training and lie on a straight line. Further, we show that\nlinear probes can accurately (~90%) distinguish \"early\" vs. \"late\" entities,\ngeneralizing to entities unseen during the probes' own training. The model can\nalso be fine-tuned to explicitly report an unseen entity's training stage (~80%\naccuracy). Interestingly, this temporal signal does not seem attributable to\nsimple differences in activation magnitudes, losses, or model confidence. Our\npaper demonstrates that models are capable of differentiating information by\nits acquisition time, and carries significant implications for how they might\nmanage conflicting data and respond to knowledge modifications.",
+      "source": "arxiv.org",
+      "ts": "2025-09-17T17:54:22Z",
+      "score": 70.31
     },
     {
-      "id": "1116de611427",
-      "title": "Meta unveils new smart glasses with a display and wristband controller",
-      "url": "https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/",
-      "summary": "Meta showed off its newest AI-powered smart glasses, which have a display and are controlled by a wristband, at Meta Connect 2025.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-18T00:25:39Z",
-      "score": 87.55
+      "id": "cebb44d9c4e5",
+      "title": "A Universal Banach--Bregman Framework for Stochastic Iterations:\n  Unifying Stochastic Mirror Descent, Learning and LLM Training",
+      "url": "http://arxiv.org/abs/2509.14216v1",
+      "summary": "Stochastic optimization powers the scalability of modern artificial\nintelligence, spanning machine learning, deep learning, reinforcement learning,\nand large language model training. Yet, existing theory remains largely\nconfined to Hilbert spaces, relying on inner-product frameworks and\northogonality. This paradigm fails to capture non-Euclidean settings, such as\nmirror descent on simplices, Bregman proximal methods for sparse learning,\nnatural gradient descent in information geometry, or\nKullback--Leibler-regularized language model training. Unlike Euclidean-based\nHilbert-space methods, this approach embraces general Banach spaces. This work\nintroduces a pioneering Banach--Bregman framework for stochastic iterations,\nestablishing Bregman geometry as a foundation for next-generation optimization.\nIt (i) provides a unified template via Bregman projections and Bregman--Fejer\nmonotonicity, encompassing stochastic approximation, mirror descent, natural\ngradient, adaptive methods, and mirror-prox; (ii) establishes super-relaxations\n($\\lambda > 2$) in non-Hilbert settings, enabling flexible geometries and\nelucidating their acceleration effect; and (iii) delivers convergence theorems\nspanning almost-sure boundedness to geometric rates, validated on synthetic and\nreal-world tasks. Empirical studies across machine learning (UCI benchmarks),\ndeep learning (e.g., Transformer training), reinforcement learning\n(actor--critic), and large language models (WikiText-2 with distilGPT-2) show\nup to 20% faster convergence, reduced variance, and enhanced accuracy over\nclassical baselines. These results position Banach--Bregman geometry as a\ncornerstone unifying optimization theory and practice across core AI paradigms.",
+      "source": "arxiv.org",
+      "ts": "2025-09-17T17:50:59Z",
+      "score": 70.23
     },
     {
-      "id": "edc49a610278",
-      "title": "Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation",
-      "url": "https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/",
-      "summary": "The fresh raise comes in above the rumored numbers when word leaked in July that it was raising.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-17T23:51:42Z",
-      "score": 86.53
-    },
-    {
-      "id": "d5200e827378",
-      "title": "All the news from Meta Connect 2025",
-      "url": "https://www.theverge.com/news/777572/meta-connect-2025-news-announcements-mark-zuckerberg-smart-glasses",
-      "summary": "Meta&#8217;s annual Connect conference is happening on September 17th and 18th, and it seems like there&#8217;s going to be a lot of focus on smart glasses. CEO Mark Zuckerberg&#8217;s Wednesday evening keynote will discuss &#8220;the latest on AI glasses,&#8221; the company says. Rumors and a video leak from Meta already indicate that we might see [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-17T23:30:00Z",
-      "score": 85.88
-    },
-    {
-      "id": "cf49131490e3",
-      "title": "Supercharge your organization’s productivity with the Amazon Q Business browser extension",
-      "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-organizations-productivity-with-the-amazon-q-business-browser-extension/",
-      "summary": "In this post, we showed how to use the Amazon Q Business browser extension to give your team seamless access to AI-driven insights and assistance. The browser extension is now available in US East (N. Virginia) and US West (Oregon) AWS Regions for Mozilla, Google Chrome, and Microsoft Edge as part of the Lite Subscription.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-17T19:37:32Z",
-      "score": 72.02
-    },
-    {
-      "id": "099fc62c7f08",
-      "title": "Build Agentic Workflows with OpenAI GPT OSS on Amazon SageMaker AI and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-workflows-with-openai-gpt-oss-on-amazon-sagemaker-ai-and-amazon-bedrock-agentcore/",
-      "summary": "In this post, we show how to deploy gpt-oss-20b model to SageMaker managed endpoints and demonstrate a practical stock analyzer agent assistant example with LangGraph, a powerful graph-based framework that handles state management, coordinated workflows, and persistent memory systems.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-17T19:31:44Z",
-      "score": 71.87
+      "id": "hn-45256575",
+      "title": "The Sagrada Família Takes Its Final Shape",
+      "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+      "summary": "",
+      "source": "newyorker.com",
+      "ts": "2025-09-16T00:20:38Z",
+      "score": 67.15
     },
     {
       "id": "7c673bb5582c",
@@ -367,25 +421,16 @@
       "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
       "source": "openai.com",
       "ts": "2025-09-17T00:00:00Z",
-      "score": 62.2
+      "score": 48.42
     },
     {
-      "id": "hn-45251111",
-      "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
-      "url": "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/",
+      "id": "hn-45246652",
+      "title": "PostgreSQL Maintenance Without Superuser",
+      "url": "https://boringsql.com/posts/postgresql-predefined-roles/",
       "summary": "",
-      "source": "riscv.org",
-      "ts": "2025-09-15T15:46:02Z",
-      "score": 59.25
-    },
-    {
-      "id": "hn-45242434",
-      "title": "Understanding Deflate",
-      "url": "https://jjrscott.com/to-deflate-or-not/",
-      "summary": "",
-      "source": "jjrscott.com",
-      "ts": "2025-09-14T19:12:40Z",
-      "score": 54.33
+      "source": "boringsql.com",
+      "ts": "2025-09-15T06:17:29Z",
+      "score": 40.22
     },
     {
       "id": "e90c5244240c",
@@ -394,34 +439,34 @@
       "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
       "source": "openai.com",
       "ts": "2025-09-16T14:30:00Z",
-      "score": 51.03
+      "score": 39.73
     },
     {
-      "id": "hn-45255088",
-      "title": "How to Debug Chez Scheme Programs (2002)",
-      "url": "https://www.scheme.com/debug/debug.html",
+      "id": "hn-45261566",
+      "title": "Rupert's snub cube and other Math Holes",
+      "url": "http://tom7.org/ruperts/",
       "summary": "",
-      "source": "scheme.com",
-      "ts": "2025-09-15T21:22:47Z",
-      "score": 50.88
+      "source": "tom7.org",
+      "ts": "2025-09-16T12:53:51Z",
+      "score": 37.96
     },
     {
-      "id": "hn-45264755",
-      "title": "Show HN: 47jobs – A Fiverr/Upwork for AI Agents",
-      "url": "https://47jobs.xyz",
+      "id": "hn-45212535",
+      "title": "Show HN: Asxiv.org – Ask ArXiv papers questions through chat",
+      "url": "https://asxiv.org/",
       "summary": "",
-      "source": "47jobs.xyz",
-      "ts": "2025-09-16T16:53:05Z",
-      "score": 49.06
+      "source": "asxiv.org",
+      "ts": "2025-09-11T15:06:27Z",
+      "score": 36.14
     },
     {
-      "id": "hn-45246095",
-      "title": "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
-      "url": "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch",
+      "id": "hn-45245181",
+      "title": "TIC-80 – Tiny Computer",
+      "url": "https://tic80.com/",
       "summary": "",
-      "source": "labs.iximiuz.com",
-      "ts": "2025-09-15T04:22:34Z",
-      "score": 43.28
+      "source": "tic80.com",
+      "ts": "2025-09-15T01:37:41Z",
+      "score": 33.98
     },
     {
       "id": "d42b318d4ecd",
@@ -430,43 +475,25 @@
       "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
       "source": "openai.com",
       "ts": "2025-09-16T06:00:00Z",
-      "score": 42.75
+      "score": 33.28
     },
     {
-      "id": "857e9576fd66",
-      "title": "Streamline access to ISO-rating content changes with Verisk rating insights and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-access-to-iso-rating-content-changes-with-verisk-rating-insights-and-amazon-bedrock/",
-      "summary": "In this post, we dive into how Verisk Rating Insights, powered by Amazon Bedrock, large language models (LLM), and Retrieval Augmented Generation (RAG), is transforming the way customers interact with and access ISO ERC changes.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-16T16:43:42Z",
-      "score": 41.12
-    },
-    {
-      "id": "hn-45259080",
-      "title": "Elements of C Style (1994)",
-      "url": "https://www.teamten.com/lawrence/style/",
+      "id": "hn-45247381",
+      "title": "I Built an Event-Sourcing Database Engine: Meet Genesis DB",
+      "url": "https://www.genesisdb.io",
       "summary": "",
-      "source": "teamten.com",
-      "ts": "2025-09-16T07:21:03Z",
-      "score": 39.22
+      "source": "genesisdb.io",
+      "ts": "2025-09-15T08:25:20Z",
+      "score": 33.13
     },
     {
-      "id": "hn-45251940",
-      "title": "Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter",
-      "url": "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/",
+      "id": "hn-45248427",
+      "title": "The Day the Linter Broke My Code",
+      "url": "https://blog.fillmore-labs.com/posts/errors-2/",
       "summary": "",
-      "source": "nextplatform.com",
-      "ts": "2025-09-15T16:48:01Z",
-      "score": 34.58
-    },
-    {
-      "id": "hn-45251918",
-      "title": "60 years after Gemini, newly processed images reveal details",
-      "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-15T16:46:13Z",
-      "score": 29.16
+      "source": "blog.fillmore-labs.com",
+      "ts": "2025-09-15T11:28:08Z",
+      "score": 30.6
     },
     {
       "id": "9878dd4f6392",
@@ -475,7 +502,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 7.22
+      "score": 5.62
     },
     {
       "id": "982ca303f669",
@@ -484,7 +511,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.04
+      "score": 0.03
     },
     {
       "id": "265e85cbbb22",
