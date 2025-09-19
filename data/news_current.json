@@ -7,7 +7,7 @@
       "summary": "",
       "source": "skyfall.dev",
       "ts": "2025-09-18T01:37:11Z",
-      "score": 1736.32
+      "score": 1887.87
     },
     {
       "id": "hn-45288161",
@@ -16,7 +16,7 @@
       "summary": "",
       "source": "tomshardware.com",
       "ts": "2025-09-18T11:04:48Z",
-      "score": 541.16
+      "score": 608.05
     },
     {
       "id": "hn-45288690",
@@ -25,250 +25,7 @@
       "summary": "",
       "source": "kokada.dev",
       "ts": "2025-09-18T12:17:51Z",
-      "score": 486.14
-    },
-    {
-      "id": "hn-45292648",
-      "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
-      "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
-      "summary": "",
-      "source": "research.google",
-      "ts": "2025-09-18T17:42:56Z",
-      "score": 283.17
-    },
-    {
-      "id": "hn-45290021",
-      "title": "Grief gets an expiration date, just like us",
-      "url": "https://bessstillman.substack.com/p/oh-fuck-youre-still-sad",
-      "summary": "",
-      "source": "bessstillman.substack.com",
-      "ts": "2025-09-18T14:17:40Z",
-      "score": 265.71
-    },
-    {
-      "id": "hn-45286369",
-      "title": "CERN Animal Shelter for Computer Mice (2011)",
-      "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
-      "summary": "",
-      "source": "computer-animal-shelter.web.cern.ch",
-      "ts": "2025-09-18T06:53:08Z",
-      "score": 264.08
-    },
-    {
-      "id": "hn-45292260",
-      "title": "Chrome's New AI Features",
-      "url": "https://blog.google/products/chrome/new-ai-features-for-chrome/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-09-18T17:12:36Z",
-      "score": 243.74
-    },
-    {
-      "id": "hn-45291132",
-      "title": "American Prairie unlocks another 70k acres in Montana",
-      "url": "https://earthhope.substack.com/p/victory-for-public-access-american",
-      "summary": "",
-      "source": "earthhope.substack.com",
-      "ts": "2025-09-18T15:47:40Z",
-      "score": 232.34
-    },
-    {
-      "id": "hn-45294440",
-      "title": "Apple: SSH and FileVault",
-      "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
-      "summary": "",
-      "source": "keith.github.io",
-      "ts": "2025-09-18T20:15:45Z",
-      "score": 210.06
-    },
-    {
-      "id": "hn-45293273",
-      "title": "When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"",
-      "url": "https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail",
-      "summary": "",
-      "source": "eff.org",
-      "ts": "2025-09-18T18:30:37Z",
-      "score": 204.31
-    },
-    {
-      "id": "hn-45289453",
-      "title": "Flipper Zero Geiger Counter",
-      "url": "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/",
-      "summary": "",
-      "source": "kasiin.top",
-      "ts": "2025-09-18T13:28:59Z",
-      "score": 200.13
-    },
-    {
-      "id": "hn-45290245",
-      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
-      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
-      "summary": "",
-      "source": "xtxmarkets.com",
-      "ts": "2025-09-18T14:36:44Z",
-      "score": 199.66
-    },
-    {
-      "id": "hn-45294859",
-      "title": "Meta's live staged demo fails; the \"AI\" recording plays before the actor acts",
-      "url": "https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/",
-      "summary": "",
-      "source": "old.reddit.com",
-      "ts": "2025-09-18T20:50:33Z",
-      "score": 191.4
-    },
-    {
-      "id": "hn-45286526",
-      "title": "Pnpm has a new setting to stave off supply chain attacks",
-      "url": "https://pnpm.io/blog/releases/10.16",
-      "summary": "",
-      "source": "pnpm.io",
-      "ts": "2025-09-18T07:12:56Z",
-      "score": 190.77
-    },
-    {
-      "id": "hn-45287155",
-      "title": "This website has no class",
-      "url": "https://aaadaaam.com/notes/no-class/",
-      "summary": "",
-      "source": "aaadaaam.com",
-      "ts": "2025-09-18T08:41:32Z",
-      "score": 189.4
-    },
-    {
-      "id": "hn-45292694",
-      "title": "This map is not upside down",
-      "url": "https://www.maps.com/this-map-is-not-upside-down/",
-      "summary": "",
-      "source": "maps.com",
-      "ts": "2025-09-18T17:47:19Z",
-      "score": 178.36
-    },
-    {
-      "id": "hn-45289558",
-      "title": "Luau – Fast, small, safe, gradually typed scripting language derived from Lua",
-      "url": "https://luau.org/",
-      "summary": "",
-      "source": "luau.org",
-      "ts": "2025-09-18T13:38:49Z",
-      "score": 166.2
-    },
-    {
-      "id": "hn-45291858",
-      "title": "Configuration files are user interfaces",
-      "url": "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/",
-      "summary": "",
-      "source": "ochagavia.nl",
-      "ts": "2025-09-18T16:43:43Z",
-      "score": 162.02
-    },
-    {
-      "id": "hn-45289168",
-      "title": "The quality of AI-assisted software depends on unit of work management",
-      "url": "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/",
-      "summary": "",
-      "source": "blog.nilenso.com",
-      "ts": "2025-09-18T13:06:03Z",
-      "score": 160.48
-    },
-    {
-      "id": "hn-45294058",
-      "title": "U.S. already has the critical minerals it needs, according to new analysis",
-      "url": "https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows",
-      "summary": "",
-      "source": "minesnewsroom.com",
-      "ts": "2025-09-18T19:41:50Z",
-      "score": 142.97
-    },
-    {
-      "id": "hn-45265487",
-      "title": "Midcentury North American Restaurant Placemats",
-      "url": "https://casualarchivist.substack.com/p/order-up",
-      "summary": "",
-      "source": "casualarchivist.substack.com",
-      "ts": "2025-09-16T17:52:17Z",
-      "score": 134.18
-    },
-    {
-      "id": "hn-45291590",
-      "title": "OneDev – Self-hosted Git server with CI/CD, Kanban, and packages",
-      "url": "https://onedev.io/",
-      "summary": "",
-      "source": "onedev.io",
-      "ts": "2025-09-18T16:24:19Z",
-      "score": 132.03
-    },
-    {
-      "id": "hn-45291024",
-      "title": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
-      "url": "https://github.com/cactus-compute/cactus",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-18T15:40:29Z",
-      "score": 131.93
-    },
-    {
-      "id": "hn-45293839",
-      "title": "Tldraw SDK 4.0",
-      "url": "https://tldraw.dev/blog/tldraw-sdk-4-0",
-      "summary": "",
-      "source": "tldraw.dev",
-      "ts": "2025-09-18T19:21:33Z",
-      "score": 126.72
-    },
-    {
-      "id": "hn-45287513",
-      "title": "Fast Fourier Transforms Part 1: Cooley-Tukey",
-      "url": "https://connorboyle.io/2025/09/11/fft-cooley-tukey.html",
-      "summary": "",
-      "source": "connorboyle.io",
-      "ts": "2025-09-18T09:28:40Z",
-      "score": 121.62
-    },
-    {
-      "id": "hn-45289829",
-      "title": "Automatic differentiation can be incorrect",
-      "url": "https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/",
-      "summary": "",
-      "source": "stochasticlifestyle.com",
-      "ts": "2025-09-18T14:01:35Z",
-      "score": 120.05
-    },
-    {
-      "id": "hn-45292475",
-      "title": "OpenTelemetry Collector: What It Is, When You Need It, and When You Don't",
-      "url": "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view",
-      "summary": "",
-      "source": "oneuptime.com",
-      "ts": "2025-09-18T17:29:17Z",
-      "score": 119.6
-    },
-    {
-      "id": "hn-45289921",
-      "title": "Aaron Levie: Startups win in the AI era [video]",
-      "url": "https://www.youtube.com/watch?v=uqc_vt95GJg",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-18T14:09:46Z",
-      "score": 112.49
-    },
-    {
-      "id": "hn-45294390",
-      "title": "Shipping 100 hardware units in under eight weeks",
-      "url": "https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units",
-      "summary": "",
-      "source": "farhanhossain.substack.com",
-      "ts": "2025-09-18T20:11:29Z",
-      "score": 107.92
-    },
-    {
-      "id": "738ee58fdfc1",
-      "title": "OpenAI’s research on AI models deliberately lying is wild",
-      "url": "https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/",
-      "summary": "AI models don't just hallucinate. They also \"scheme,\" meaning deliberately lie or hide their true intensions.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-18T22:54:20Z",
-      "score": 107.73
+      "score": 550.8
     },
     {
       "id": "hn-45295898",
@@ -277,34 +34,115 @@
       "summary": "",
       "source": "phishyurl.com",
       "ts": "2025-09-18T22:40:06Z",
-      "score": 106.34
+      "score": 477.5
     },
     {
-      "id": "hn-45295482",
-      "title": "Show HN: I created a small 2D game about an ant",
-      "url": "https://aanthonymax.github.io/ant-and-apples/",
+      "id": "hn-45292648",
+      "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
+      "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
       "summary": "",
-      "source": "aanthonymax.github.io",
-      "ts": "2025-09-18T21:54:06Z",
-      "score": 105.32
+      "source": "research.google",
+      "ts": "2025-09-18T17:42:56Z",
+      "score": 334.86
     },
     {
-      "id": "160a1c87f6e8",
-      "title": "Huawei announces new AI infrastructure as Nvidia gets locked out of China",
-      "url": "https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/",
-      "summary": "Huawei's SuperPoD interconnect technology creates clusters of chips, including AI chips, to increase compute.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-18T21:14:15Z",
-      "score": 105.14
+      "id": "hn-45294440",
+      "title": "Apple: SSH and FileVault",
+      "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
+      "summary": "",
+      "source": "keith.github.io",
+      "ts": "2025-09-18T20:15:45Z",
+      "score": 315.95
     },
     {
-      "id": "597e3fd4980d",
-      "title": "How AI startups are fueling Google’s booming cloud business",
-      "url": "https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/",
-      "summary": "Google Cloud is one of the company's fastest-growing business lines, and continues to rack up new customers.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-18T20:53:33Z",
-      "score": 104.39
+      "id": "hn-45290021",
+      "title": "Grief gets an expiration date, just like us",
+      "url": "https://bessstillman.substack.com/p/oh-fuck-youre-still-sad",
+      "summary": "",
+      "source": "bessstillman.substack.com",
+      "ts": "2025-09-18T14:17:40Z",
+      "score": 287.62
+    },
+    {
+      "id": "hn-45297331",
+      "title": "Gemini in Chrome",
+      "url": "https://gemini.google/overview/gemini-in-chrome/",
+      "summary": "",
+      "source": "gemini.google",
+      "ts": "2025-09-19T02:25:34Z",
+      "score": 256.03
+    },
+    {
+      "id": "hn-45292694",
+      "title": "This map is not upside down",
+      "url": "https://www.maps.com/this-map-is-not-upside-down/",
+      "summary": "",
+      "source": "maps.com",
+      "ts": "2025-09-18T17:47:19Z",
+      "score": 240.29
+    },
+    {
+      "id": "hn-45289453",
+      "title": "Flipper Zero Geiger Counter",
+      "url": "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/",
+      "summary": "",
+      "source": "kasiin.top",
+      "ts": "2025-09-18T13:28:59Z",
+      "score": 212.14
+    },
+    {
+      "id": "hn-45290245",
+      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
+      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+      "summary": "",
+      "source": "xtxmarkets.com",
+      "ts": "2025-09-18T14:36:44Z",
+      "score": 203.45
+    },
+    {
+      "id": "hn-45296638",
+      "title": "David Lynch LA House",
+      "url": "https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale",
+      "summary": "",
+      "source": "wallpaper.com",
+      "ts": "2025-09-19T00:30:14Z",
+      "score": 192.49
+    },
+    {
+      "id": "hn-45256575",
+      "title": "The Sagrada Família takes its final shape",
+      "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+      "summary": "",
+      "source": "newyorker.com",
+      "ts": "2025-09-16T00:20:38Z",
+      "score": 185.72
+    },
+    {
+      "id": "hn-45286526",
+      "title": "Pnpm has a new setting to stave off supply chain attacks",
+      "url": "https://pnpm.io/blog/releases/10.16",
+      "summary": "",
+      "source": "pnpm.io",
+      "ts": "2025-09-18T07:12:56Z",
+      "score": 180.99
+    },
+    {
+      "id": "hn-45294058",
+      "title": "U.S. already has the critical minerals it needs, according to new analysis",
+      "url": "https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows",
+      "summary": "",
+      "source": "minesnewsroom.com",
+      "ts": "2025-09-18T19:41:50Z",
+      "score": 178.9
+    },
+    {
+      "id": "hn-45289558",
+      "title": "Luau – Fast, small, safe, gradually typed scripting language derived from Lua",
+      "url": "https://luau.org/",
+      "summary": "",
+      "source": "luau.org",
+      "ts": "2025-09-18T13:38:49Z",
+      "score": 165.56
     },
     {
       "id": "hn-45295794",
@@ -313,133 +151,169 @@
       "summary": "",
       "source": "strat7.com",
       "ts": "2025-09-18T22:27:17Z",
-      "score": 99.74
+      "score": 153.16
     },
     {
-      "id": "5e3a22427b19",
-      "title": "Notion’s new AI Agents will basically do your job for you",
-      "url": "https://www.theverge.com/news/781293/notion-ai-agent-do-your-job",
-      "summary": "Notion has entered the agent era of its AI evolution with the launch of the Notion Agent on Thursday. The announcement forms the bulk of the Notion 3.0 roll out available to all users. The company calls the new product a “teammate and Notion super user” that “can do everything a human can do in [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-18T18:02:57Z",
-      "score": 98.39
-    },
-    {
-      "id": "b3cceab1c13d",
-      "title": "Microsoft is filling Teams with AI agents",
-      "url": "https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents",
-      "summary": "Microsoft is adding a whole load of AI agents to Teams today, promising Copilot assistants for every channel, meeting, and community. The new agents will also work across SharePoint and Viva Engage, and are rolling out for Microsoft 365 Copilot users. Facilitator agents will now sit in on Teams meetings, creating agendas, taking notes, and [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-18T17:46:54Z",
-      "score": 97.84
-    },
-    {
-      "id": "8f99e53b4b85",
-      "title": "Google is expanding Gemini in Chrome and letting it do stuff for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows",
-      "summary": "Google is stepping things up in the AI agent browser wars.&#160; The company is launching a suite of new features deeply embedding Gemini into Chrome. That starts with the announcement that Gemini in Chrome will no longer require a membership fee and will begin rolling out to both Mac and Windows users in the US starting [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-18T17:00:00Z",
-      "score": 96.26
-    },
-    {
-      "id": "c14711426536",
-      "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/",
-      "summary": "This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-18T21:25:49Z",
-      "score": 95.97
-    },
-    {
-      "id": "df5dc42d2c86",
-      "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/",
-      "summary": "Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-18T21:25:34Z",
-      "score": 95.96
-    },
-    {
-      "id": "d765cc1b2e22",
-      "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
-      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/",
-      "summary": "In this post, we explore how to monitor and manage Amazon Bedrock batch inference jobs using Amazon CloudWatch metrics, alarms, and dashboards to optimize performance, cost, and operational efficiency.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-18T15:33:07Z",
-      "score": 84.91
-    },
-    {
-      "id": "hn-45287551",
-      "title": "CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)",
-      "url": "https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer",
+      "id": "hn-45297258",
+      "title": "Playing “Minecraft” without Minecraft (2024)",
+      "url": "https://lenowo.org/viewtopic.php?t=5",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-18T09:33:07Z",
-      "score": 75.53
+      "source": "lenowo.org",
+      "ts": "2025-09-19T02:13:05Z",
+      "score": 147.39
     },
     {
-      "id": "ebe33a0ce786",
-      "title": "Apertus: Democratizing Open and Compliant LLMs for Global Language\n  Environments",
-      "url": "http://arxiv.org/abs/2509.14233v1",
-      "summary": "We present Apertus, a fully open suite of large language models (LLMs)\ndesigned to address two systemic shortcomings in today's open model ecosystem:\ndata compliance and multilingual representation. Unlike many prior models that\nrelease weights without reproducible data pipelines or regard for content-owner\nrights, Apertus models are pretrained exclusively on openly available data,\nretroactively respecting robots.txt exclusions and filtering for\nnon-permissive, toxic, and personally identifiable content. To mitigate risks\nof memorization, we adopt the Goldfish objective during pretraining, strongly\nsuppressing verbatim recall of data while retaining downstream task\nperformance. The Apertus models also expand multilingual coverage, training on\n15T tokens from over 1800 languages, with ~40% of pretraining data allocated to\nnon-English content. Released at 8B and 70B scales, Apertus approaches\nstate-of-the-art results among fully open models on multilingual benchmarks,\nrivalling or surpassing open-weight counterparts. Beyond model weights, we\nrelease all scientific artifacts from our development cycle with a permissive\nlicense, including data preparation scripts, checkpoints, evaluation suites,\nand training code, enabling transparent audit and extension.",
-      "source": "arxiv.org",
-      "ts": "2025-09-17T17:59:21Z",
-      "score": 70.44
-    },
-    {
-      "id": "2255efea8554",
-      "title": "Language models' activations linearly encode training-order recency",
-      "url": "http://arxiv.org/abs/2509.14223v1",
-      "summary": "We show that language models' activations linearly encode when information\nwas learned during training. Our setup involves creating a model with a known\ntraining order by sequentially fine-tuning Llama-3.2-1B on six disjoint but\notherwise similar datasets about named entities. We find that the average\nactivations of test samples for the six training datasets encode the training\norder: when projected into a 2D subspace, these centroids are arranged exactly\nin the order of training and lie on a straight line. Further, we show that\nlinear probes can accurately (~90%) distinguish \"early\" vs. \"late\" entities,\ngeneralizing to entities unseen during the probes' own training. The model can\nalso be fine-tuned to explicitly report an unseen entity's training stage (~80%\naccuracy). Interestingly, this temporal signal does not seem attributable to\nsimple differences in activation magnitudes, losses, or model confidence. Our\npaper demonstrates that models are capable of differentiating information by\nits acquisition time, and carries significant implications for how they might\nmanage conflicting data and respond to knowledge modifications.",
-      "source": "arxiv.org",
-      "ts": "2025-09-17T17:54:22Z",
-      "score": 70.31
-    },
-    {
-      "id": "cebb44d9c4e5",
-      "title": "A Universal Banach--Bregman Framework for Stochastic Iterations:\n  Unifying Stochastic Mirror Descent, Learning and LLM Training",
-      "url": "http://arxiv.org/abs/2509.14216v1",
-      "summary": "Stochastic optimization powers the scalability of modern artificial\nintelligence, spanning machine learning, deep learning, reinforcement learning,\nand large language model training. Yet, existing theory remains largely\nconfined to Hilbert spaces, relying on inner-product frameworks and\northogonality. This paradigm fails to capture non-Euclidean settings, such as\nmirror descent on simplices, Bregman proximal methods for sparse learning,\nnatural gradient descent in information geometry, or\nKullback--Leibler-regularized language model training. Unlike Euclidean-based\nHilbert-space methods, this approach embraces general Banach spaces. This work\nintroduces a pioneering Banach--Bregman framework for stochastic iterations,\nestablishing Bregman geometry as a foundation for next-generation optimization.\nIt (i) provides a unified template via Bregman projections and Bregman--Fejer\nmonotonicity, encompassing stochastic approximation, mirror descent, natural\ngradient, adaptive methods, and mirror-prox; (ii) establishes super-relaxations\n($\\lambda > 2$) in non-Hilbert settings, enabling flexible geometries and\nelucidating their acceleration effect; and (iii) delivers convergence theorems\nspanning almost-sure boundedness to geometric rates, validated on synthetic and\nreal-world tasks. Empirical studies across machine learning (UCI benchmarks),\ndeep learning (e.g., Transformer training), reinforcement learning\n(actor--critic), and large language models (WikiText-2 with distilGPT-2) show\nup to 20% faster convergence, reduced variance, and enhanced accuracy over\nclassical baselines. These results position Banach--Bregman geometry as a\ncornerstone unifying optimization theory and practice across core AI paradigms.",
-      "source": "arxiv.org",
-      "ts": "2025-09-17T17:50:59Z",
-      "score": 70.23
-    },
-    {
-      "id": "hn-45256575",
-      "title": "The Sagrada Família Takes Its Final Shape",
-      "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+      "id": "hn-45298793",
+      "title": "iTerm2 Web Browser",
+      "url": "https://iterm2.com/documentation-web.html",
       "summary": "",
-      "source": "newyorker.com",
-      "ts": "2025-09-16T00:20:38Z",
-      "score": 67.15
+      "source": "iterm2.com",
+      "ts": "2025-09-19T07:14:34Z",
+      "score": 145.7
     },
     {
-      "id": "7c673bb5582c",
-      "title": "Detecting and reducing scheming in AI models",
-      "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
-      "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
-      "source": "openai.com",
-      "ts": "2025-09-17T00:00:00Z",
-      "score": 48.42
-    },
-    {
-      "id": "hn-45246652",
-      "title": "PostgreSQL Maintenance Without Superuser",
-      "url": "https://boringsql.com/posts/postgresql-predefined-roles/",
+      "id": "hn-45265487",
+      "title": "Midcentury North American Restaurant Placemats",
+      "url": "https://casualarchivist.substack.com/p/order-up",
       "summary": "",
-      "source": "boringsql.com",
-      "ts": "2025-09-15T06:17:29Z",
-      "score": 40.22
+      "source": "casualarchivist.substack.com",
+      "ts": "2025-09-16T17:52:17Z",
+      "score": 136.53
     },
     {
-      "id": "e90c5244240c",
-      "title": "Introducing Stargate UK",
-      "url": "https://openai.com/index/introducing-stargate-uk",
-      "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
-      "source": "openai.com",
-      "ts": "2025-09-16T14:30:00Z",
-      "score": 39.73
+      "id": "hn-45297066",
+      "title": "Help Us Raise $200k to Free JavaScript from Oracle",
+      "url": "https://deno.com/blog/javascript-tm-gofundme",
+      "summary": "",
+      "source": "deno.com",
+      "ts": "2025-09-19T01:40:35Z",
+      "score": 134.46
+    },
+    {
+      "id": "hn-45296403",
+      "title": "Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs",
+      "url": "https://github.com/hiyouga/LLaMA-Factory",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-18T23:48:48Z",
+      "score": 131.35
+    },
+    {
+      "id": "hn-45291024",
+      "title": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
+      "url": "https://github.com/cactus-compute/cactus",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-18T15:40:29Z",
+      "score": 129.9
+    },
+    {
+      "id": "hn-45292475",
+      "title": "OpenTelemetry collector: What it is, when you need it, and when you don't",
+      "url": "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view",
+      "summary": "",
+      "source": "oneuptime.com",
+      "ts": "2025-09-18T17:29:17Z",
+      "score": 127.65
+    },
+    {
+      "id": "hn-45295482",
+      "title": "Show HN: I created a small 2D game about an ant",
+      "url": "https://aanthonymax.github.io/ant-and-apples/",
+      "summary": "",
+      "source": "aanthonymax.github.io",
+      "ts": "2025-09-18T21:54:06Z",
+      "score": 119.89
+    },
+    {
+      "id": "hn-45259471",
+      "title": "Rules for creating good-looking user interfaces, from a developer",
+      "url": "https://weberdominik.com/blog/rules-user-interfaces/",
+      "summary": "",
+      "source": "weberdominik.com",
+      "ts": "2025-09-16T08:13:48Z",
+      "score": 117.49
+    },
+    {
+      "id": "hn-45298489",
+      "title": "Count Folke Bernadotte: Sweden's Servant of Peace (2010)",
+      "url": "https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace",
+      "summary": "",
+      "source": "historytoday.com",
+      "ts": "2025-09-19T06:21:04Z",
+      "score": 111.02
+    },
+    {
+      "id": "a46967519c06",
+      "title": "ChatGPT tricked to swipe sensitive data from Gmail",
+      "url": "https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak",
+      "summary": "Security researchers employed ChatGPT as a co-conspirator to plunder sensitive data from Gmail inboxes without alerting users. The vulnerability exploited has been closed by OpenAI but it’s a good example of the new risks inherent to agentic AI. The heist, called Shadow Leak and published by security firm Radware this week, relied on a quirk [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-19T11:06:46Z",
+      "score": 107.73
+    },
+    {
+      "id": "070fd18d1e1b",
+      "title": "Meta&#8217;s failed smart glasses demos had nothing to do with the Wi-Fi",
+      "url": "https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures",
+      "summary": "Meta ran into some spectacularly embarrassing technical issues during the live demos of its new smart glasses this week, and now we know why. Andrew Bosworth, Meta’s chief technology officer, explained in an Instagram AMA why two notable demos — an influencer asking the AI assistant for cooking instructions, and Mark Zuckerberg attempting to pick [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-19T10:53:36Z",
+      "score": 107.73
+    },
+    {
+      "id": "hn-45297030",
+      "title": "The Math of Catastrophe",
+      "url": "https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-09-19T01:34:58Z",
+      "score": 106.1
+    },
+    {
+      "id": "hn-45299625",
+      "title": "Statistical Physics with R: Ising Model with Monte Carlo",
+      "url": "https://github.com/msuzen/isingLenzMC",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-19T09:19:04Z",
+      "score": 99.95
+    },
+    {
+      "id": "fe0462f4a6e6",
+      "title": "Generalizable Geometric Image Caption Synthesis",
+      "url": "http://arxiv.org/abs/2509.15217v1",
+      "summary": "Multimodal large language models have various practical applications that\ndemand strong reasoning abilities. Despite recent advancements, these models\nstill struggle to solve complex geometric problems. A key challenge stems from\nthe lack of high-quality image-text pair datasets for understanding geometric\nimages. Furthermore, most template-based data synthesis pipelines typically\nfail to generalize to questions beyond their predefined templates. In this\npaper, we bridge this gap by introducing a complementary process of\nReinforcement Learning with Verifiable Rewards (RLVR) into the data generation\npipeline. By adopting RLVR to refine captions for geometric images synthesized\nfrom 50 basic geometric relations and using reward signals derived from\nmathematical problem-solving tasks, our pipeline successfully captures the key\nfeatures of geometry problem-solving. This enables better task generalization\nand yields non-trivial improvements. Furthermore, even in out-of-distribution\nscenarios, the generated dataset enhances the general reasoning capabilities of\nmultimodal large language models, yielding accuracy improvements of\n$2.8\\%\\text{-}4.8\\%$ in statistics, arithmetic, algebraic, and numerical tasks\nwith non-geometric input images of MathVista and MathVerse, along with\n$2.4\\%\\text{-}3.9\\%$ improvements in Art, Design, Tech, and Engineering tasks\nin MMMU.",
+      "source": "arxiv.org",
+      "ts": "2025-09-18T17:59:11Z",
+      "score": 90.45
+    },
+    {
+      "id": "cbad38693511",
+      "title": "Explicit Context-Driven Neural Acoustic Modeling for High-Fidelity RIR\n  Generation",
+      "url": "http://arxiv.org/abs/2509.15210v1",
+      "summary": "Realistic sound simulation plays a critical role in many applications. A key\nelement in sound simulation is the room impulse response (RIR), which\ncharacterizes how sound propagates from a source to a listener within a given\nspace. Recent studies have applied neural implicit methods to learn RIR using\ncontext information collected from the environment, such as scene images.\nHowever, these approaches do not effectively leverage explicit geometric\ninformation from the environment. To further exploit the potential of neural\nimplicit models with direct geometric features, we present Mesh-infused Neural\nAcoustic Field (MiNAF), which queries a rough room mesh at given locations and\nextracts distance distributions as an explicit representation of local context.\nOur approach demonstrates that incorporating explicit local geometric features\ncan better guide the neural network in generating more accurate RIR\npredictions. Through comparisons with conventional and state-of-the-art\nbaseline methods, we show that MiNAF performs competitively across various\nevaluation metrics. Furthermore, we verify the robustness of MiNAF in datasets\nwith limited training samples, demonstrating an advance in high-fidelity sound\nsimulation.",
+      "source": "arxiv.org",
+      "ts": "2025-09-18T17:57:07Z",
+      "score": 90.38
+    },
+    {
+      "id": "3422c1cca64a",
+      "title": "FlowRL: Matching Reward Distributions for LLM Reasoning",
+      "url": "http://arxiv.org/abs/2509.15207v1",
+      "summary": "We propose FlowRL: matching the full reward distribution via flow balancing\ninstead of maximizing rewards in large language model (LLM) reinforcement\nlearning (RL). Recent advanced reasoning models adopt reward-maximizing methods\n(\\eg, PPO and GRPO), which tend to over-optimize dominant reward signals while\nneglecting less frequent but valid reasoning paths, thus reducing diversity. In\ncontrast, we transform scalar rewards into a normalized target distribution\nusing a learnable partition function, and then minimize the reverse KL\ndivergence between the policy and the target distribution. We implement this\nidea as a flow-balanced optimization method that promotes diverse exploration\nand generalizable reasoning trajectories. We conduct experiments on math and\ncode reasoning tasks: FlowRL achieves a significant average improvement of\n$10.0\\%$ over GRPO and $5.1\\%$ over PPO on math benchmarks, and performs\nconsistently better on code reasoning tasks. These results highlight reward\ndistribution-matching as a key step toward efficient exploration and diverse\nreasoning in LLM reinforcement learning.",
+      "source": "arxiv.org",
+      "ts": "2025-09-18T17:56:36Z",
+      "score": 90.36
+    },
+    {
+      "id": "hn-45248356",
+      "title": "Leatherman (vagabond)",
+      "url": "https://en.wikipedia.org/wiki/Leatherman_(vagabond)",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-09-15T11:17:03Z",
+      "score": 89.1
     },
     {
       "id": "hn-45261566",
@@ -448,7 +322,16 @@
       "summary": "",
       "source": "tom7.org",
       "ts": "2025-09-16T12:53:51Z",
-      "score": 37.96
+      "score": 87.82
+    },
+    {
+      "id": "738ee58fdfc1",
+      "title": "OpenAI’s research on AI models deliberately lying is wild",
+      "url": "https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/",
+      "summary": "AI models don't just hallucinate. They also \"scheme,\" meaning deliberately lie or hide their true intentions.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T22:54:20Z",
+      "score": 84.79
     },
     {
       "id": "hn-45212535",
@@ -457,7 +340,70 @@
       "summary": "",
       "source": "asxiv.org",
       "ts": "2025-09-11T15:06:27Z",
-      "score": 36.14
+      "score": 82.98
+    },
+    {
+      "id": "160a1c87f6e8",
+      "title": "Huawei announces new AI infrastructure as Nvidia gets locked out of China",
+      "url": "https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/",
+      "summary": "Huawei's SuperPoD interconnect technology creates clusters of chips, including AI chips, to increase compute.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T21:14:15Z",
+      "score": 81.89
+    },
+    {
+      "id": "597e3fd4980d",
+      "title": "How AI startups are fueling Google’s booming cloud business",
+      "url": "https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/",
+      "summary": "Google Cloud is one of the company's fastest-growing business lines and continues to rack up new customers.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-18T20:53:33Z",
+      "score": 81.31
+    },
+    {
+      "id": "5e3a22427b19",
+      "title": "Notion’s new AI Agents will basically do your job for you",
+      "url": "https://www.theverge.com/news/781293/notion-ai-agent-do-your-job",
+      "summary": "Notion has entered the agent era of its AI evolution with the launch of the Notion Agent on Thursday. The announcement forms the bulk of the Notion 3.0 roll out available to all users. The company calls the new product a “teammate and Notion super user” that “can do everything a human can do in [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-18T18:02:57Z",
+      "score": 76.63
+    },
+    {
+      "id": "c14711426536",
+      "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/",
+      "summary": "This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T21:25:49Z",
+      "score": 74.75
+    },
+    {
+      "id": "df5dc42d2c86",
+      "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/",
+      "summary": "Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T21:25:34Z",
+      "score": 74.74
+    },
+    {
+      "id": "hn-45248242",
+      "title": "Tracking trust with Rust in the kernel",
+      "url": "https://lwn.net/Articles/1034603/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-15T10:54:11Z",
+      "score": 72.19
+    },
+    {
+      "id": "d765cc1b2e22",
+      "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/",
+      "summary": "In this post, we explore how to monitor and manage Amazon Bedrock batch inference jobs using Amazon CloudWatch metrics, alarms, and dashboards to optimize performance, cost, and operational efficiency.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-18T15:33:07Z",
+      "score": 66.13
     },
     {
       "id": "hn-45245181",
@@ -466,7 +412,70 @@
       "summary": "",
       "source": "tic80.com",
       "ts": "2025-09-15T01:37:41Z",
-      "score": 33.98
+      "score": 53.04
+    },
+    {
+      "id": "hn-45253795",
+      "title": "Visual lexicon of consumer aesthetics from the 1970s until now",
+      "url": "https://cari.institute/",
+      "summary": "",
+      "source": "cari.institute",
+      "ts": "2025-09-15T19:15:53Z",
+      "score": 51.94
+    },
+    {
+      "id": "hn-45258279",
+      "title": "The Rise and Fall of the British Detective Novel (2010)",
+      "url": "https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel",
+      "summary": "",
+      "source": "historytoday.com",
+      "ts": "2025-09-16T05:18:18Z",
+      "score": 43.65
+    },
+    {
+      "id": "hn-45253926",
+      "title": "The Ruliology of Lambdas",
+      "url": "https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/",
+      "summary": "",
+      "source": "writings.stephenwolfram.com",
+      "ts": "2025-09-15T19:28:58Z",
+      "score": 41.82
+    },
+    {
+      "id": "7c673bb5582c",
+      "title": "Detecting and reducing scheming in AI models",
+      "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+      "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
+      "source": "openai.com",
+      "ts": "2025-09-17T00:00:00Z",
+      "score": 37.71
+    },
+    {
+      "id": "hn-45263123",
+      "title": "The Fisherman and His Wife (1857)",
+      "url": "https://sites.pitt.edu/~dash/grimm019.html",
+      "summary": "",
+      "source": "sites.pitt.edu",
+      "ts": "2025-09-16T14:53:02Z",
+      "score": 36.59
+    },
+    {
+      "id": "e90c5244240c",
+      "title": "Introducing Stargate UK",
+      "url": "https://openai.com/index/introducing-stargate-uk",
+      "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
+      "source": "openai.com",
+      "ts": "2025-09-16T14:30:00Z",
+      "score": 30.94
+    },
+    {
+      "id": "hn-45260374",
+      "title": "Sylvia Plath's fig tree meets machine learning",
+      "url": "https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine",
+      "summary": "",
+      "source": "dontlognow.substack.com",
+      "ts": "2025-09-16T10:25:01Z",
+      "score": 29.66
     },
     {
       "id": "d42b318d4ecd",
@@ -475,25 +484,16 @@
       "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
       "source": "openai.com",
       "ts": "2025-09-16T06:00:00Z",
-      "score": 33.28
+      "score": 25.92
     },
     {
-      "id": "hn-45247381",
-      "title": "I Built an Event-Sourcing Database Engine: Meet Genesis DB",
-      "url": "https://www.genesisdb.io",
+      "id": "hn-45257241",
+      "title": "JIT-ing a stack machine (with SLJIT)",
+      "url": "https://bullno1.com/blog/jiting-a-stack-machine",
       "summary": "",
-      "source": "genesisdb.io",
-      "ts": "2025-09-15T08:25:20Z",
-      "score": 33.13
-    },
-    {
-      "id": "hn-45248427",
-      "title": "The Day the Linter Broke My Code",
-      "url": "https://blog.fillmore-labs.com/posts/errors-2/",
-      "summary": "",
-      "source": "blog.fillmore-labs.com",
-      "ts": "2025-09-15T11:28:08Z",
-      "score": 30.6
+      "source": "bullno1.com",
+      "ts": "2025-09-16T02:09:52Z",
+      "score": 21.41
     },
     {
       "id": "9878dd4f6392",
@@ -502,7 +502,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 5.62
+      "score": 4.38
     },
     {
       "id": "982ca303f669",
@@ -511,7 +511,7 @@
       "summary": "<p>We’re sharing how Meta is applying machine learning (ML) and diversity algorithms to improve notification quality and user experience.  We’ve introduced a diversity-aware notification ranking framework to reduce uniformity and deliver a more varied and engaging mix of notifications. This new framework reduces the volume of notifications and drives higher engagement rates through more diverse [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/\" rel=\"nofollow\">A New Ranking Framework for Better Notification Quality on Instagram</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-02T16:00:08Z",
-      "score": 0.03
+      "score": 0.02
     },
     {
       "id": "265e85cbbb22",
