@@ -1,76 +1,40 @@
 {
   "items": [
     {
-      "id": "hn-45283887",
-      "title": "Slack has raised our charges by $195k per year",
-      "url": "https://skyfall.dev/posts/slack",
+      "id": "hn-45314592",
+      "title": "Ultrasonic Chef's Knife",
+      "url": "https://seattleultrasonics.com/",
       "summary": "",
-      "source": "skyfall.dev",
-      "ts": "2025-09-18T01:37:11Z",
-      "score": 1992.03
+      "source": "seattleultrasonics.com",
+      "ts": "2025-09-20T16:12:56Z",
+      "score": 267.91
     },
     {
-      "id": "hn-45305845",
-      "title": "Trump to impose $100k fee for H-1B worker visas, White House says",
-      "url": "https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/",
+      "id": "hn-45312696",
+      "title": "Git: Introduce Rust and announce it will become mandatory in the build system",
+      "url": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
       "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-09-19T19:59:33Z",
-      "score": 764.4
+      "source": "lore.kernel.org",
+      "ts": "2025-09-20T12:17:33Z",
+      "score": 253.95
     },
     {
-      "id": "hn-45295898",
-      "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
-      "url": "https://phishyurl.com/",
+      "id": "hn-45313557",
+      "title": "Cormac McCarthy's tips on how to write a science paper (2019) [pdf]",
+      "url": "https://gwern.net/doc/science/2019-savage.pdf",
       "summary": "",
-      "source": "phishyurl.com",
-      "ts": "2025-09-18T22:40:06Z",
-      "score": 677.76
+      "source": "gwern.net",
+      "ts": "2025-09-20T14:08:24Z",
+      "score": 194.06
     },
     {
-      "id": "hn-45300865",
-      "title": "Ants that seem to defy biology – They lay eggs that hatch into another species",
-      "url": "https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/",
+      "id": "hn-45314432",
+      "title": "Are touchscreens in cars dangerous?",
+      "url": "https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous",
       "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-09-19T12:25:50Z",
-      "score": 302.62
-    },
-    {
-      "id": "hn-45307242",
-      "title": "Less is safer: How Obsidian reduces the risk of supply chain attacks",
-      "url": "https://obsidian.md/blog/less-is-safer/",
-      "summary": "",
-      "source": "obsidian.md",
-      "ts": "2025-09-19T22:02:29Z",
-      "score": 294.77
-    },
-    {
-      "id": "hn-45300810",
-      "title": "The best YouTube downloaders, and how Google silenced the press",
-      "url": "https://windowsread.me/p/best-youtube-downloaders",
-      "summary": "",
-      "source": "windowsread.me",
-      "ts": "2025-09-19T12:20:10Z",
-      "score": 279.1
-    },
-    {
-      "id": "hn-45298336",
-      "title": "Nostr",
-      "url": "https://nostr.com/",
-      "summary": "",
-      "source": "nostr.com",
-      "ts": "2025-09-19T05:49:08Z",
-      "score": 265.84
-    },
-    {
-      "id": "hn-45255785",
-      "title": "Internet Archive's big battle with music publishers ends in settlement",
-      "url": "https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-15T22:34:15Z",
-      "score": 202.97
+      "source": "economist.com",
+      "ts": "2025-09-20T15:57:52Z",
+      "score": 190.66
     },
     {
       "id": "hn-45306120",
@@ -79,124 +43,43 @@
       "summary": "",
       "source": "weuseelixir.com",
       "ts": "2025-09-19T20:25:14Z",
-      "score": 173.45
+      "score": 178.81
     },
     {
-      "id": "hn-45302721",
-      "title": "Kernel: Introduce Multikernel Architecture Support",
-      "url": "https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+      "id": "hn-45287474",
+      "title": "Scream cipher",
+      "url": "https://sethmlarson.dev/scream-cipher",
       "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-19T15:29:25Z",
-      "score": 165.1
+      "source": "sethmlarson.dev",
+      "ts": "2025-09-18T09:22:39Z",
+      "score": 170.27
     },
     {
-      "id": "hn-45307095",
-      "title": "Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration",
-      "url": "https://www.codeintegrity.ai/blog/notion",
+      "id": "hn-45312515",
+      "title": "Images over DNS",
+      "url": "https://dgl.cx/2025/09/images-over-dns",
       "summary": "",
-      "source": "codeintegrity.ai",
-      "ts": "2025-09-19T21:49:37Z",
-      "score": 156.43
+      "source": "dgl.cx",
+      "ts": "2025-09-20T11:50:15Z",
+      "score": 167.4
     },
     {
-      "id": "hn-45306701",
-      "title": "Feedmaker: URL + CSS selectors = RSS feed",
-      "url": "https://feedmaker.fly.dev",
+      "id": "hn-45315312",
+      "title": "Designing NotebookLM",
+      "url": "https://jasonspielman.com/notebooklm",
       "summary": "",
-      "source": "feedmaker.fly.dev",
-      "ts": "2025-09-19T21:14:56Z",
-      "score": 156.13
+      "source": "jasonspielman.com",
+      "ts": "2025-09-20T17:25:58Z",
+      "score": 166.92
     },
     {
-      "id": "hn-45307166",
-      "title": "Show HN: Zedis – A Redis clone I'm writing in Zig",
-      "url": "https://github.com/barddoo/zedis",
+      "id": "hn-45263035",
+      "title": "I'm Not a Robot",
+      "url": "https://neal.fun/not-a-robot/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-19T21:55:43Z",
-      "score": 145.19
-    },
-    {
-      "id": "hn-45304706",
-      "title": "An untidy history of AI across four books",
-      "url": "https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity",
-      "summary": "",
-      "source": "hedgehogreview.com",
-      "ts": "2025-09-19T18:15:18Z",
-      "score": 134.22
-    },
-    {
-      "id": "hn-45265760",
-      "title": "Show the Physics",
-      "url": "https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html",
-      "summary": "",
-      "source": "interactivetextbooks.tudelft.nl",
-      "ts": "2025-09-16T18:13:30Z",
-      "score": 134.0
-    },
-    {
-      "id": "hn-45310123",
-      "title": "Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First",
-      "url": "https://arxiv.org/abs/2509.00997",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-20T03:41:23Z",
-      "score": 128.74
-    },
-    {
-      "id": "hn-45304379",
-      "title": "Your very own humane interface: Try Jef Raskin's ideas at home",
-      "url": "https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-09-19T17:43:33Z",
-      "score": 128.65
-    },
-    {
-      "id": "hn-45305180",
-      "title": "Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease",
-      "url": "https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/",
-      "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-09-19T19:03:02Z",
-      "score": 128.19
-    },
-    {
-      "id": "hn-45294390",
-      "title": "Shipping 100 hardware units in under eight weeks",
-      "url": "https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units",
-      "summary": "",
-      "source": "farhanhossain.substack.com",
-      "ts": "2025-09-18T20:11:29Z",
-      "score": 124.62
-    },
-    {
-      "id": "hn-45310529",
-      "title": "If you are good at code review, you will be good at using AI agents",
-      "url": "https://www.seangoedecke.com/ai-agents-and-code-review/",
-      "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-09-20T04:59:10Z",
-      "score": 121.76
-    },
-    {
-      "id": "hn-45311247",
-      "title": "Show HN: FocusStream – Focused, distraction-free YouTube for learners",
-      "url": "https://focusstream.media",
-      "summary": "",
-      "source": "focusstream.media",
-      "ts": "2025-09-20T07:25:03Z",
-      "score": 113.11
-    },
-    {
-      "id": "hn-45310294",
-      "title": "High-performance read-through cache for object storage",
-      "url": "https://github.com/s2-streamstore/cachey",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-20T04:13:17Z",
-      "score": 112.58
+      "source": "neal.fun",
+      "ts": "2025-09-16T14:47:24Z",
+      "score": 164.31
     },
     {
       "id": "hn-45259623",
@@ -205,43 +88,232 @@
       "summary": "",
       "source": "jtibs.substack.com",
       "ts": "2025-09-16T08:33:45Z",
-      "score": 108.77
+      "score": 163.54
     },
     {
-      "id": "hn-45305660",
-      "title": "The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]",
-      "url": "https://kevinbryanecon.com/BryanAIBookReview.pdf",
+      "id": "hn-45312326",
+      "title": "FLX1s phone is launched",
+      "url": "https://furilabs.com/flx1s-is-launched/",
       "summary": "",
-      "source": "kevinbryanecon.com",
-      "ts": "2025-09-19T19:44:16Z",
-      "score": 108.22
+      "source": "furilabs.com",
+      "ts": "2025-09-20T11:20:04Z",
+      "score": 160.58
     },
     {
-      "id": "hn-45302222",
-      "title": "Revamping an Old TV as a Gift (2019)",
-      "url": "https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/",
+      "id": "hn-45313597",
+      "title": "Is Zig's new writer unsafe?",
+      "url": "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/",
       "summary": "",
-      "source": "blog.davidv.dev",
-      "ts": "2025-09-19T14:43:50Z",
-      "score": 105.86
+      "source": "openmymind.net",
+      "ts": "2025-09-20T14:12:30Z",
+      "score": 156.38
     },
     {
-      "id": "hn-45312031",
-      "title": "For comedians around the world, the laughs often end as democracy fades",
-      "url": "https://www.theguardian.com/world/2025/sep/19/for-comedians-around-the-world-the-laughs-often-end-as-democracy-fades",
+      "id": "hn-45317527",
+      "title": "$2 WeAct Display FS adds a 0.96-inch USB information display to your computer",
+      "url": "https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/",
       "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-09-20T10:22:49Z",
-      "score": 100.34
+      "source": "cnx-software.com",
+      "ts": "2025-09-20T21:04:47Z",
+      "score": 156.3
     },
     {
-      "id": "hn-45311115",
-      "title": "LLM-Deflate: Extracting LLMs into Datasets",
-      "url": "https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/",
+      "id": "hn-45307166",
+      "title": "Show HN: Zedis – A Redis clone I'm writing in Zig",
+      "url": "https://github.com/barddoo/zedis",
       "summary": "",
-      "source": "scalarlm.com",
-      "ts": "2025-09-20T06:59:54Z",
-      "score": 96.71
+      "source": "github.com",
+      "ts": "2025-09-19T21:55:43Z",
+      "score": 147.63
+    },
+    {
+      "id": "hn-45310529",
+      "title": "If you are good at code review, you will be good at using AI agents",
+      "url": "https://www.seangoedecke.com/ai-agents-and-code-review/",
+      "summary": "",
+      "source": "seangoedecke.com",
+      "ts": "2025-09-20T04:59:10Z",
+      "score": 144.95
+    },
+    {
+      "id": "hn-45314157",
+      "title": "Systemd can be a cause of restrictions on daemons",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause",
+      "summary": "",
+      "source": "utcc.utoronto.ca",
+      "ts": "2025-09-20T15:26:50Z",
+      "score": 141.14
+    },
+    {
+      "id": "hn-45316833",
+      "title": "Philips announces digital pathology scanner with native DICOM JPEG XL output",
+      "url": "https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html",
+      "summary": "",
+      "source": "philips.com",
+      "ts": "2025-09-20T20:00:11Z",
+      "score": 136.38
+    },
+    {
+      "id": "hn-45313415",
+      "title": "Vapor chamber tech keeps iPhone 17 Pro cool",
+      "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
+      "summary": "",
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-20T13:50:58Z",
+      "score": 128.17
+    },
+    {
+      "id": "hn-45313127",
+      "title": "China's 200M gig workers are a warning for the world",
+      "url": "https://www.economist.com/leaders/2025/09/18/chinas-200m-gig-workers-are-a-warning-for-the-world",
+      "summary": "",
+      "source": "economist.com",
+      "ts": "2025-09-20T13:18:16Z",
+      "score": 127.84
+    },
+    {
+      "id": "hn-45313418",
+      "title": "Living microbial cement supercapacitors with reactivatable energy storage",
+      "url": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6",
+      "summary": "",
+      "source": "cell.com",
+      "ts": "2025-09-20T13:51:12Z",
+      "score": 127.57
+    },
+    {
+      "id": "hn-45275058",
+      "title": "Claude can sometimes prove it",
+      "url": "https://www.galois.com/articles/claude-can-sometimes-prove-it",
+      "summary": "",
+      "source": "galois.com",
+      "ts": "2025-09-17T12:30:58Z",
+      "score": 126.99
+    },
+    {
+      "id": "hn-45310995",
+      "title": "PYREX vs. pyrex: What's the difference?",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html",
+      "summary": "",
+      "source": "corning.com",
+      "ts": "2025-09-20T06:37:01Z",
+      "score": 123.9
+    },
+    {
+      "id": "hn-45316244",
+      "title": "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
+      "url": "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html",
+      "summary": "",
+      "source": "quarters.captaintouch.com",
+      "ts": "2025-09-20T18:59:51Z",
+      "score": 120.65
+    },
+    {
+      "id": "hn-45316744",
+      "title": "A revolution in English bell ringing",
+      "url": "https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/",
+      "summary": "",
+      "source": "harpers.org",
+      "ts": "2025-09-20T19:51:36Z",
+      "score": 113.3
+    },
+    {
+      "id": "hn-45293012",
+      "title": "MapSCII – World map in terminal",
+      "url": "https://github.com/rastapasta/mapscii",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-18T18:12:58Z",
+      "score": 112.23
+    },
+    {
+      "id": "hn-45317526",
+      "title": "A brief history of threads and threading",
+      "url": "https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/",
+      "summary": "",
+      "source": "eclecticlight.co",
+      "ts": "2025-09-20T21:04:38Z",
+      "score": 111.49
+    },
+    {
+      "id": "hn-45313194",
+      "title": "Bezier Curve as Easing Function in C++",
+      "url": "https://asawicki.info/news_1790_bezier_curve_as_easing_function_in_c",
+      "summary": "",
+      "source": "asawicki.info",
+      "ts": "2025-09-20T13:27:29Z",
+      "score": 110.7
+    },
+    {
+      "id": "hn-45312447",
+      "title": "Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery",
+      "url": "https://www.isct.ac.jp/en/news/okmktjxyrvdc",
+      "summary": "",
+      "source": "isct.ac.jp",
+      "ts": "2025-09-20T11:40:28Z",
+      "score": 108.93
+    },
+    {
+      "id": "hn-45318060",
+      "title": "US Gov acknowledges that 100K fee does not apply to existing H-1B visas holders [pdf]",
+      "url": "https://www.uscis.gov/sites/default/files/document/memos/H1B_Proc_Memo_FINAL.pdf",
+      "summary": "",
+      "source": "uscis.gov",
+      "ts": "2025-09-20T22:11:22Z",
+      "score": 108.92
+    },
+    {
+      "id": "hn-45316266",
+      "title": "Bringing restartable sequences out of the niche",
+      "url": "https://lwn.net/Articles/1033955/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-20T19:01:30Z",
+      "score": 108.7
+    },
+    {
+      "id": "hn-45318017",
+      "title": "SpamGPT makes cybercriminals' wildest dreams come true",
+      "url": "https://www.techradar.com/pro/security/a-crm-for-cybercriminals-spamgpt-makes-cybercriminals-wildest-dreams-come-true-with-business-grade-marketing-tools-and-features",
+      "summary": "",
+      "source": "techradar.com",
+      "ts": "2025-09-20T22:06:24Z",
+      "score": 102.75
+    },
+    {
+      "id": "5cac2a0b405d",
+      "title": "Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube",
+      "url": "https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/",
+      "summary": "YouTube unveiled tons of new updates, features, and tools geared toward creators.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-20T15:00:00Z",
+      "score": 92.35
+    },
+    {
+      "id": "bec3a60b19b4",
+      "title": "Lincoln Center’s Collider Fellows explore how tech could transform the performing arts",
+      "url": "https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/",
+      "summary": "At a time of high anxiety around technology’s impact on arts and culture, Lincoln Center for the Performing Arts’ Collider Fellowship is focused on new opportunities, welcoming multi-disciplinary artists to explore how emerging tech can transform live performance and the performing arts.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-20T14:19:31Z",
+      "score": 91.06
+    },
+    {
+      "id": "6f622882d309",
+      "title": "Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now",
+      "url": "https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/",
+      "summary": "Time is running out to grab your pass to TechCrunch Disrupt 2025, happening October 27–29 in San Francisco. With less than 7 days left to lock in Regular Bird pricing, now’s your chance to save up to $668 on your ticket and join 10,000+ founders, investors, and builders at one of the most iconic startup conferences of the year.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-20T14:00:00Z",
+      "score": 90.45
+    },
+    {
+      "id": "hn-45265688",
+      "title": "Escapee pregnancy test frogs colonised Wales for 50 years (2019)",
+      "url": "https://www.bbc.com/news/uk-wales-44886585",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-09-16T18:08:01Z",
+      "score": 75.13
     },
     {
       "id": "ef26bf59d818",
@@ -250,70 +322,16 @@
       "summary": "Have enough Copilot buttons in your life? No you don’t — have another one! This one pops up in the latest Windows 11 Insider Preview when mousing over an open app in your taskbar; it lets you share the contents with Copilot Vision. Want to know who is celebrating in that dogpile on the mound, [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-19T22:12:02Z",
-      "score": 83.62
+      "score": 65.08
     },
     {
-      "id": "d5de728f1847",
-      "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
-      "url": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
-      "summary": "Equity debates California's new AI safety bill and why it has a better shot at becoming law.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-19T21:00:37Z",
-      "score": 81.57
-    },
-    {
-      "id": "7d0e8f769793",
-      "title": "Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/",
-      "summary": "Rajat Bhageria (Chef Robotics), Ann Bordetsky (NEA), and Murali Joshi (ICONIQ) share actionable strategies for finding product-market fit at TechCrunch Disrupt 2025.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-19T20:30:00Z",
-      "score": 80.71
-    },
-    {
-      "id": "hn-45277900",
-      "title": "A 3D-Printed Business Card Embosser",
-      "url": "https://www.core77.com/posts/138492/A-3D-Printed-Business-Card-Embosser",
+      "id": "hn-45289150",
+      "title": "Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)",
+      "url": "https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/",
       "summary": "",
-      "source": "core77.com",
-      "ts": "2025-09-17T16:24:14Z",
-      "score": 79.98
-    },
-    {
-      "id": "hn-45283074",
-      "title": "Xmonad seeking help for Wayland port (2023)",
-      "url": "https://xmonad.org/news/2023/10/06/wayland.html",
-      "summary": "",
-      "source": "xmonad.org",
-      "ts": "2025-09-18T00:04:35Z",
-      "score": 78.88
-    },
-    {
-      "id": "c762ecbf1fab",
-      "title": "Meta’s AR ambitions meet reality, and California gets serious about AI safety … again",
-      "url": "https://techcrunch.com/video/metas-ar-ambitions-meet-reality-and-california-gets-serious-about-ai-safetyagain/",
-      "summary": "This week on Equity, Anthony Ha, Kirsten Korosec, and Max Zeff unpack the biggest moves in AI, robotics, and regulation. Listen to the full episode to hear about: Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.Subscribe to us on Apple Podcasts, Overcast, Spotify, and all the casts. You [&#8230;]",
-      "source": "techcrunch.com",
-      "ts": "2025-09-19T17:20:38Z",
-      "score": 75.57
-    },
-    {
-      "id": "hn-45263035",
-      "title": "I'm Not a Robot Game",
-      "url": "https://neal.fun/not-a-robot/",
-      "summary": "",
-      "source": "neal.fun",
-      "ts": "2025-09-16T14:47:24Z",
-      "score": 75.14
-    },
-    {
-      "id": "hn-45270015",
-      "title": "R MCP Server",
-      "url": "https://github.com/finite-sample/rmcp",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-17T00:18:54Z",
-      "score": 73.53
+      "source": "chargerlab.com",
+      "ts": "2025-09-18T13:04:27Z",
+      "score": 62.67
     },
     {
       "id": "296c7b4740f5",
@@ -322,7 +340,16 @@
       "summary": "One of the mysterious AI devices that OpenAI is considering developing with Apple’s former chief design officer, Jony Ive, “resembles a smart speaker without a display,” The Information reports. People “with direct knowledge of the matter” told the publication that OpenAI has already secured a contract with Luxshare, and has also approached Goertek — two [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-19T14:50:38Z",
-      "score": 71.74
+      "score": 55.83
+    },
+    {
+      "id": "hn-45285711",
+      "title": "Evals in 2025: going beyond simple benchmarks to build models people can use",
+      "url": "https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-18T05:16:48Z",
+      "score": 55.82
     },
     {
       "id": "e0b05269ac78",
@@ -331,7 +358,7 @@
       "summary": "Following the announcement that it is bringing Gemini to its Google Home smart home platform, it appears the company is updating its Google Home app to incorporate the new features. Android Authority dove into code for the upcoming v3.41.50.3 version of the app and found “a significant redesign.” While the overall UI doesn’t look like [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-19T14:40:59Z",
-      "score": 71.5
+      "score": 55.64
     },
     {
       "id": "c4ea293b98e6",
@@ -340,16 +367,34 @@
       "summary": "This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards.",
       "source": "aws.amazon.com",
       "ts": "2025-09-19T16:09:26Z",
-      "score": 67.03
+      "score": 52.16
     },
     {
-      "id": "hn-45287474",
-      "title": "SCREAM CIPHER (\"ǠĂȦẶAẦ ĂǍÄẴẶȦ\")",
-      "url": "https://sethmlarson.dev/scream-cipher",
+      "id": "hn-45268084",
+      "title": "PyPI Blog: Token Exfiltration Campaign via GitHub Actions Workflows",
+      "url": "https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/",
       "summary": "",
-      "source": "sethmlarson.dev",
-      "ts": "2025-09-18T09:22:39Z",
-      "score": 61.7
+      "source": "blog.pypi.org",
+      "ts": "2025-09-16T21:09:47Z",
+      "score": 51.92
+    },
+    {
+      "id": "hn-45277052",
+      "title": "Knitted Anatomy",
+      "url": "https://www.knitted-anatomy.at/cardiovascular-system/",
+      "summary": "",
+      "source": "knitted-anatomy.at",
+      "ts": "2025-09-17T15:30:51Z",
+      "score": 48.33
+    },
+    {
+      "id": "hn-45287838",
+      "title": "After Babel Fish: The promise of cheap translations at the speed of the Web",
+      "url": "https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish",
+      "summary": "",
+      "source": "hedgehogreview.com",
+      "ts": "2025-09-18T10:16:54Z",
+      "score": 45.39
     },
     {
       "id": "fe0462f4a6e6",
@@ -358,7 +403,7 @@
       "summary": "Multimodal large language models have various practical applications that\ndemand strong reasoning abilities. Despite recent advancements, these models\nstill struggle to solve complex geometric problems. A key challenge stems from\nthe lack of high-quality image-text pair datasets for understanding geometric\nimages. Furthermore, most template-based data synthesis pipelines typically\nfail to generalize to questions beyond their predefined templates. In this\npaper, we bridge this gap by introducing a complementary process of\nReinforcement Learning with Verifiable Rewards (RLVR) into the data generation\npipeline. By adopting RLVR to refine captions for geometric images synthesized\nfrom 50 basic geometric relations and using reward signals derived from\nmathematical problem-solving tasks, our pipeline successfully captures the key\nfeatures of geometry problem-solving. This enables better task generalization\nand yields non-trivial improvements. Furthermore, even in out-of-distribution\nscenarios, the generated dataset enhances the general reasoning capabilities of\nmultimodal large language models, yielding accuracy improvements of\n$2.8\\%\\text{-}4.8\\%$ in statistics, arithmetic, algebraic, and numerical tasks\nwith non-geometric input images of MathVista and MathVerse, along with\n$2.4\\%\\text{-}3.9\\%$ improvements in Art, Design, Tech, and Engineering tasks\nin MMMU.",
       "source": "arxiv.org",
       "ts": "2025-09-18T17:59:11Z",
-      "score": 54.9
+      "score": 42.73
     },
     {
       "id": "cbad38693511",
@@ -367,52 +412,34 @@
       "summary": "Realistic sound simulation plays a critical role in many applications. A key\nelement in sound simulation is the room impulse response (RIR), which\ncharacterizes how sound propagates from a source to a listener within a given\nspace. Recent studies have applied neural implicit methods to learn RIR using\ncontext information collected from the environment, such as scene images.\nHowever, these approaches do not effectively leverage explicit geometric\ninformation from the environment. To further exploit the potential of neural\nimplicit models with direct geometric features, we present Mesh-infused Neural\nAcoustic Field (MiNAF), which queries a rough room mesh at given locations and\nextracts distance distributions as an explicit representation of local context.\nOur approach demonstrates that incorporating explicit local geometric features\ncan better guide the neural network in generating more accurate RIR\npredictions. Through comparisons with conventional and state-of-the-art\nbaseline methods, we show that MiNAF performs competitively across various\nevaluation metrics. Furthermore, we verify the robustness of MiNAF in datasets\nwith limited training samples, demonstrating an advance in high-fidelity sound\nsimulation.",
       "source": "arxiv.org",
       "ts": "2025-09-18T17:57:07Z",
-      "score": 54.86
+      "score": 42.7
     },
     {
-      "id": "hn-45282504",
-      "title": "Mini: Tonemaps (2023)",
-      "url": "https://mini.gmshaders.com/p/tonemaps",
-      "summary": "",
-      "source": "mini.gmshaders.com",
-      "ts": "2025-09-17T23:04:21Z",
-      "score": 53.08
+      "id": "3422c1cca64a",
+      "title": "FlowRL: Matching Reward Distributions for LLM Reasoning",
+      "url": "http://arxiv.org/abs/2509.15207v1",
+      "summary": "We propose FlowRL: matching the full reward distribution via flow balancing\ninstead of maximizing rewards in large language model (LLM) reinforcement\nlearning (RL). Recent advanced reasoning models adopt reward-maximizing methods\n(\\eg, PPO and GRPO), which tend to over-optimize dominant reward signals while\nneglecting less frequent but valid reasoning paths, thus reducing diversity. In\ncontrast, we transform scalar rewards into a normalized target distribution\nusing a learnable partition function, and then minimize the reverse KL\ndivergence between the policy and the target distribution. We implement this\nidea as a flow-balanced optimization method that promotes diverse exploration\nand generalizable reasoning trajectories. We conduct experiments on math and\ncode reasoning tasks: FlowRL achieves a significant average improvement of\n$10.0\\%$ over GRPO and $5.1\\%$ over PPO on math benchmarks, and performs\nconsistently better on code reasoning tasks. These results highlight reward\ndistribution-matching as a key step toward efficient exploration and diverse\nreasoning in LLM reinforcement learning.",
+      "source": "arxiv.org",
+      "ts": "2025-09-18T17:56:36Z",
+      "score": 42.69
     },
     {
-      "id": "hn-45291538",
-      "title": "Faster Argmin on Floats",
-      "url": "https://algorithmiker.github.io/faster-float-argmin/",
+      "id": "hn-45272022",
+      "title": "Solving a wooden puzzle using Haskell",
+      "url": "https://glocq.github.io/en/blog/20250428/",
       "summary": "",
-      "source": "algorithmiker.github.io",
-      "ts": "2025-09-18T16:20:46Z",
-      "score": 52.21
+      "source": "glocq.github.io",
+      "ts": "2025-09-17T05:22:21Z",
+      "score": 40.53
     },
     {
-      "id": "hn-45271493",
-      "title": "Compiling with Continuations",
-      "url": "https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html",
+      "id": "hn-45291903",
+      "title": "Show HN: I Parallelized RNN Training from O(T) to O(log T) Using CUDA",
+      "url": "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/",
       "summary": "",
-      "source": "swatson555.github.io",
-      "ts": "2025-09-17T03:56:39Z",
-      "score": 50.92
-    },
-    {
-      "id": "hn-45268575",
-      "title": "Micro-LEDs boost random number generation",
-      "url": "https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/",
-      "summary": "",
-      "source": "discovery.kaust.edu.sa",
-      "ts": "2025-09-16T21:48:06Z",
-      "score": 48.02
-    },
-    {
-      "id": "hn-45275058",
-      "title": "Claude Can (Sometimes) Prove It",
-      "url": "https://www.galois.com/articles/claude-can-sometimes-prove-it",
-      "summary": "",
-      "source": "galois.com",
-      "ts": "2025-09-17T12:30:58Z",
-      "score": 46.26
+      "source": "dhruvmsheth.github.io",
+      "ts": "2025-09-18T16:47:15Z",
+      "score": 36.26
     },
     {
       "id": "c14711426536",
@@ -421,7 +448,7 @@
       "summary": "This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-18T21:25:49Z",
-      "score": 45.37
+      "score": 35.31
     },
     {
       "id": "df5dc42d2c86",
@@ -430,25 +457,7 @@
       "summary": "Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-18T21:25:34Z",
-      "score": 45.37
-    },
-    {
-      "id": "hn-45271108",
-      "title": "Starfront Observatories",
-      "url": "https://starfront.space/",
-      "summary": "",
-      "source": "starfront.space",
-      "ts": "2025-09-17T02:59:13Z",
-      "score": 45.14
-    },
-    {
-      "id": "hn-45265307",
-      "title": "Sangaku Puzzle I Can't Solve",
-      "url": "https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/",
-      "summary": "",
-      "source": "samjshah.com",
-      "ts": "2025-09-16T17:37:47Z",
-      "score": 29.82
+      "score": 35.31
     },
     {
       "id": "7c673bb5582c",
@@ -457,7 +466,7 @@
       "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
       "source": "openai.com",
       "ts": "2025-09-17T00:00:00Z",
-      "score": 22.89
+      "score": 17.82
     },
     {
       "id": "e90c5244240c",
@@ -466,16 +475,7 @@
       "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
       "source": "openai.com",
       "ts": "2025-09-16T14:30:00Z",
-      "score": 18.78
-    },
-    {
-      "id": "hn-45265688",
-      "title": "Escapee pregnancy test frogs colonised Wales for 50 years",
-      "url": "https://www.bbc.com/news/uk-wales-44886585",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-09-16T18:08:01Z",
-      "score": 17.98
+      "score": 14.62
     },
     {
       "id": "d42b318d4ecd",
@@ -484,7 +484,7 @@
       "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
       "source": "openai.com",
       "ts": "2025-09-16T06:00:00Z",
-      "score": 15.73
+      "score": 12.25
     },
     {
       "id": "9878dd4f6392",
@@ -493,7 +493,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 2.66
+      "score": 2.07
     },
     {
       "id": "982ca303f669",
