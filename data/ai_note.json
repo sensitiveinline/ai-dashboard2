@@ -1,1 +1,3 @@
-{}
+{
+  "markdown": "Insights (fallback):\n- Delete FROM users WHERE location = 'Iran'; (gist.github.com)\n- Cap'n Web: a new RPC system for browsers and web servers (blog.cloudflare.com)\n- Qwen3-Omni: Native Omni AI model for text, image and video (github.com)\n- Nine Things I Learned in Ninety Years (edwardpackard.com)\n- Why haven't local-first apps become popular? (marcobambini.substack.com)\n- I'm spoiled by Apple Silicon but still love Framework (simonhartcher.com)\n- The Beginner's Textbook for Fully Homomorphic Encryption (arxiv.org)\n- Is a movie prop the ultimate laptop bag? (blog.jgc.org)"
+}
