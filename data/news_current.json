@@ -1,418 +1,238 @@
 {
   "items": [
     {
-      "id": "hn-45343108",
-      "title": "Delete FROM users WHERE location = 'Iran';",
-      "url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
-      "summary": "",
-      "source": "gist.github.com",
-      "ts": "2025-09-23T05:30:28Z",
-      "score": 414.26
-    },
-    {
-      "id": "hn-45332883",
-      "title": "Cap'n Web: a new RPC system for browsers and web servers",
-      "url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
-      "summary": "",
-      "source": "blog.cloudflare.com",
-      "ts": "2025-09-22T13:05:32Z",
-      "score": 392.84
-    },
-    {
-      "id": "hn-45336989",
-      "title": "Qwen3-Omni: Native Omni AI model for text, image and video",
-      "url": "https://github.com/QwenLM/Qwen3-Omni",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-22T17:50:21Z",
-      "score": 365.17
-    },
-    {
-      "id": "hn-45342364",
-      "title": "Nine Things I Learned in Ninety Years",
-      "url": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
-      "summary": "",
-      "source": "edwardpackard.com",
-      "ts": "2025-09-23T03:03:06Z",
-      "score": 328.85
-    },
-    {
-      "id": "hn-45333021",
-      "title": "Why haven't local-first apps become popular?",
-      "url": "https://marcobambini.substack.com/p/why-local-first-apps-havent-become",
-      "summary": "",
-      "source": "marcobambini.substack.com",
-      "ts": "2025-09-22T13:17:59Z",
-      "score": 316.91
-    },
-    {
-      "id": "hn-45332859",
-      "title": "I'm spoiled by Apple Silicon but still love Framework",
-      "url": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
-      "summary": "",
-      "source": "simonhartcher.com",
-      "ts": "2025-09-22T13:03:10Z",
-      "score": 264.39
-    },
-    {
-      "id": "hn-45323027",
-      "title": "The Beginner's Textbook for Fully Homomorphic Encryption",
-      "url": "https://arxiv.org/abs/2503.05136",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-21T14:26:10Z",
-      "score": 220.22
-    },
-    {
-      "id": "hn-45332196",
-      "title": "Is a movie prop the ultimate laptop bag?",
-      "url": "https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html",
-      "summary": "",
-      "source": "blog.jgc.org",
-      "ts": "2025-09-22T11:59:01Z",
-      "score": 193.41
-    },
-    {
-      "id": "hn-45340133",
-      "title": "Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents",
-      "url": "https://arxiv.org/abs/2509.06917",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-22T22:02:01Z",
-      "score": 188.9
-    },
-    {
-      "id": "hn-45341324",
-      "title": "Fall Foliage Map 2025",
-      "url": "https://www.explorefall.com/fall-foliage-map",
-      "summary": "",
-      "source": "explorefall.com",
-      "ts": "2025-09-23T00:14:37Z",
-      "score": 184.28
-    },
-    {
-      "id": "hn-45332130",
-      "title": "Easy Forth (2015)",
-      "url": "https://skilldrick.github.io/easyforth/",
-      "summary": "",
-      "source": "skilldrick.github.io",
-      "ts": "2025-09-22T11:52:41Z",
-      "score": 180.07
-    },
-    {
-      "id": "hn-45342943",
-      "title": "Zoxide: A Better CD Command",
-      "url": "https://github.com/ajeetdsouza/zoxide",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-23T04:48:28Z",
-      "score": 177.78
-    },
-    {
       "id": "hn-45344708",
       "title": "Go has added Valgrind support",
       "url": "https://go-review.googlesource.com/c/go/+/674077",
       "summary": "",
       "source": "go-review.googlesource.com",
       "ts": "2025-09-23T09:26:57Z",
-      "score": 163.07
+      "score": 448.21
     },
     {
-      "id": "hn-45335635",
-      "title": "Testing is better than data structures and algorithms",
-      "url": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
+      "id": "hn-45348495",
+      "title": "Always Invite Anna",
+      "url": "https://sharif.io/anna-alexei",
       "summary": "",
-      "source": "nedbatchelder.com",
-      "ts": "2025-09-22T16:21:35Z",
-      "score": 160.27
+      "source": "sharif.io",
+      "ts": "2025-09-23T15:33:23Z",
+      "score": 414.32
     },
     {
-      "id": "hn-45343449",
-      "title": "Altoids by the Fistful",
-      "url": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
+      "id": "hn-45350690",
+      "title": "Find SF parking cops",
+      "url": "https://walzr.com/sf-parking/",
       "summary": "",
-      "source": "scottsmitelli.com",
-      "ts": "2025-09-23T06:24:50Z",
-      "score": 145.35
+      "source": "walzr.com",
+      "ts": "2025-09-23T18:06:07Z",
+      "score": 369.75
     },
     {
-      "id": "hn-45340192",
-      "title": "Kevo app shutdown",
-      "url": "https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock",
+      "id": "hn-45347117",
+      "title": "Libghostty is coming",
+      "url": "https://mitchellh.com/writing/libghostty-is-coming",
       "summary": "",
-      "source": "kwikset.com",
-      "ts": "2025-09-22T22:07:07Z",
-      "score": 133.44
+      "source": "mitchellh.com",
+      "ts": "2025-09-23T13:56:28Z",
+      "score": 368.91
     },
     {
-      "id": "hn-45307119",
-      "title": "After 50 years, The Magic Circle finally inducts Penn and Teller",
-      "url": "https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html",
+      "id": "hn-45348390",
+      "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
+      "url": "https://joel.drapper.me/p/rubygems-takeover/",
       "summary": "",
-      "source": "nytimes.com",
-      "ts": "2025-09-19T21:51:32Z",
-      "score": 133.23
+      "source": "joel.drapper.me",
+      "ts": "2025-09-23T15:25:29Z",
+      "score": 319.29
     },
     {
-      "id": "hn-45345148",
-      "title": "Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors",
-      "url": "https://arxiv.org/abs/2403.07492",
+      "id": "hn-45347043",
+      "title": "Restrictions on house sharing by unrelated roommates",
+      "url": "https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-23T10:30:42Z",
-      "score": 129.66
+      "source": "marginalrevolution.com",
+      "ts": "2025-09-23T13:51:56Z",
+      "score": 250.58
     },
     {
-      "id": "hn-45339923",
-      "title": "Germicidal UV could make airborne diseases as rare as those carried by water",
-      "url": "https://www.worksinprogress.news/p/how-to-clean-the-air",
+      "id": "hn-45349848",
+      "title": "Android users can now use conversational editing in Google Photos",
+      "url": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
       "summary": "",
-      "source": "worksinprogress.news",
-      "ts": "2025-09-22T21:44:54Z",
-      "score": 121.46
+      "source": "blog.google",
+      "ts": "2025-09-23T17:04:56Z",
+      "score": 202.1
     },
     {
-      "id": "hn-45337400",
-      "title": "Show HN: Python Audio Transcription: Convert Speech to Text Locally",
-      "url": "https://www.pavlinbg.com/posts/python-speech-to-text-guide",
+      "id": "hn-45347335",
+      "title": "x402 — An open protocol for internet-native payments",
+      "url": "https://www.x402.org/",
       "summary": "",
-      "source": "pavlinbg.com",
-      "ts": "2025-09-22T18:18:56Z",
-      "score": 121.07
+      "source": "x402.org",
+      "ts": "2025-09-23T14:14:46Z",
+      "score": 201.44
     },
     {
-      "id": "hn-45338561",
-      "title": "Fine-grained HTTP filtering for Claude Code",
-      "url": "https://ammar.io/blog/httpjail",
+      "id": "hn-45351405",
+      "title": "Denmark wants to push through Chat Control",
+      "url": "https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/",
       "summary": "",
-      "source": "ammar.io",
-      "ts": "2025-09-22T19:49:02Z",
-      "score": 119.69
+      "source": "netzpolitik.org",
+      "ts": "2025-09-23T19:09:13Z",
+      "score": 198.93
     },
     {
-      "id": "hn-45322030",
-      "title": "What happens when coding agents stop feeling like dialup?",
-      "url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+      "id": "hn-45345207",
+      "title": "Structured Outputs in LLMs",
+      "url": "https://parthsareen.com/blog.html#sampling.md",
       "summary": "",
-      "source": "martinalderson.com",
-      "ts": "2025-09-21T12:11:18Z",
-      "score": 114.8
-    },
-    {
-      "id": "hn-45342759",
-      "title": "Gamebooks and graph theory (2019)",
-      "url": "https://notes.atomutek.org/gamebooks-and-graph-theory.html",
-      "summary": "",
-      "source": "notes.atomutek.org",
-      "ts": "2025-09-23T04:10:15Z",
-      "score": 111.23
-    },
-    {
-      "id": "hn-45344198",
-      "title": "Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium",
-      "url": "https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96",
-      "summary": "",
-      "source": "apnews.com",
-      "ts": "2025-09-23T08:11:01Z",
-      "score": 108.54
-    },
-    {
-      "id": "hn-45345233",
-      "title": "Crypto Miner in hotio/qbittorrent",
-      "url": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
-      "summary": "",
-      "source": "apogliaghi.com",
-      "ts": "2025-09-23T10:44:26Z",
-      "score": 104.54
+      "source": "parthsareen.com",
+      "ts": "2025-09-23T10:40:41Z",
+      "score": 191.92
     },
     {
       "id": "hn-45344554",
-      "title": "The YAML Document from Hell",
+      "title": "YAML document from hell (2023)",
       "url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
       "summary": "",
       "source": "ruudvanasseldonk.com",
       "ts": "2025-09-23T09:04:43Z",
-      "score": 103.7
+      "score": 191.8
     },
     {
-      "id": "hn-45345237",
-      "title": "Walking Michigan City (Indiana)",
-      "url": "https://walkingtheworld.substack.com/p/walking-michigan-city-indiana",
-      "summary": "",
-      "source": "walkingtheworld.substack.com",
-      "ts": "2025-09-23T10:44:57Z",
-      "score": 102.14
-    },
-    {
-      "id": "hn-45344756",
-      "title": "Indoor surfaces act as sponges for harmful chemicals",
-      "url": "https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/",
-      "summary": "",
-      "source": "news.uci.edu",
-      "ts": "2025-09-23T09:33:34Z",
-      "score": 101.66
-    },
-    {
-      "id": "hn-45345222",
-      "title": "Europe's EV sales surge 26% in 2025 while Tesla faces decline",
-      "url": "https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html",
-      "summary": "",
-      "source": "notebookcheck.net",
-      "ts": "2025-09-23T10:42:26Z",
-      "score": 101.54
-    },
-    {
-      "id": "42bd9649420f",
-      "title": "After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia",
-      "url": "https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/",
-      "summary": "OpenAI is launching ChatGPT Go in Indonesia to compete with Google AI Plus plan.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-23T05:47:26Z",
-      "score": 97.89
-    },
-    {
-      "id": "hn-45343998",
-      "title": "The Nature of Hallucinations",
-      "url": "https://blog.qaware.de/posts/nature-of-hallucinations/",
-      "summary": "",
-      "source": "blog.qaware.de",
-      "ts": "2025-09-23T07:47:09Z",
-      "score": 97.56
-    },
-    {
-      "id": "3733ac42fd8f",
-      "title": "Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures",
-      "url": "https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/",
-      "summary": "Rocket.new has surged to 400,000 users and $4.5M ARR in three months.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-23T05:30:00Z",
-      "score": 97.3
-    },
-    {
-      "id": "hn-45343689",
-      "title": "Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]",
-      "url": "https://hi.telli.com/join-us",
-      "summary": "",
-      "source": "hi.telli.com",
-      "ts": "2025-09-23T07:01:44Z",
-      "score": 91.91
-    },
-    {
-      "id": "5d8fe756e5c5",
-      "title": "CNA is transforming its newsroom with AI",
-      "url": "https://openai.com/index/cna-walter-fernandez",
-      "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
-      "source": "openai.com",
-      "ts": "2025-09-22T17:17:00Z",
-      "score": 89.15
-    },
-    {
-      "id": "ba75724883fa",
-      "title": "The AI-energy apocalypse might be a little overblown",
-      "url": "https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report",
-      "summary": "Even if AI turns out not to be as much of an energy hog as people are making it out to be, it could still spell out trouble for power grids across the US. Tech companies are already burning through increasing amounts of electricity to train and run new AI models. And they're asking for [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-22T23:12:56Z",
-      "score": 85.36
-    },
-    {
-      "id": "ee267b0e6cc9",
-      "title": "Facebook is getting an AI dating assistant",
-      "url": "https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/",
-      "summary": "Facebook Dating's AI assistant is supposed to help users build their profiles and find the matches they're looking for.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-22T20:27:06Z",
-      "score": 80.58
-    },
-    {
-      "id": "98abe74afed5",
-      "title": "American-made innovation",
-      "url": "https://openai.com/global-affairs/american-made-innovation",
-      "summary": "American-made innovation",
-      "source": "openai.com",
-      "ts": "2025-09-22T11:30:00Z",
-      "score": 79.03
-    },
-    {
-      "id": "78c23a78c411",
-      "title": "A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations",
-      "summary": "On Monday, more than 200 former heads of state, diplomats, Nobel laureates, AI leaders, scientists, and others all agreed on one thing: There should be an international agreement on “red lines” that AI should never cross —&#160;for instance, not allowing AI to impersonate a human being or self-replicate.&#160; They, along with more than 70 organizations [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-22T18:33:27Z",
-      "score": 77.46
-    },
-    {
-      "id": "9b042a61ba87",
-      "title": "Creating a safe, observable AI infrastructure for 1 million classrooms",
-      "url": "https://openai.com/index/schoolai",
-      "summary": "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.",
-      "source": "openai.com",
-      "ts": "2025-09-22T10:00:00Z",
-      "score": 76.6
-    },
-    {
-      "id": "10798241aed0",
-      "title": "Nvidia is partnering up with OpenAI to offer compute and cash",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash",
-      "summary": "OpenAI is teaming up with Nvidia via a “strategic partnership” that will get the ChatGPT-maker more compute and more cash to develop new models on the road to superintelligence. The partnership, announced Monday, will allow OpenAI to “build and deploy at least 10 gigawatts of AI datacenters with NVIDIA systems,” which translates to millions of [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-22T16:33:35Z",
-      "score": 74.3
-    },
-    {
-      "id": "f1873dc7e9c0",
-      "title": "Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet",
-      "url": "https://aws.amazon.com/blogs/machine-learning/rapid-ml-experimentation-for-enterprises-with-amazon-sagemaker-ai-and-comet/",
-      "summary": "In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-22T17:12:33Z",
-      "score": 68.47
-    },
-    {
-      "id": "hn-45307570",
-      "title": "Based C++",
-      "url": "https://github.com/SheafificationOfG/based-cpp",
+      "id": "hn-45347532",
+      "title": "Getting AI to work in complex codebases",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-19T22:36:05Z",
-      "score": 60.29
+      "ts": "2025-09-23T14:27:36Z",
+      "score": 191.6
     },
     {
-      "id": "hn-45306323",
-      "title": "Themis (European Reusable Rocket) is assembled on launch pad",
-      "url": "https://phys.org/news/2025-09-themis-pad-fully.html",
+      "id": "hn-45352213",
+      "title": "YouTube says it'll bring back creators banned for Covid and election content",
+      "url": "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9",
       "summary": "",
-      "source": "phys.org",
-      "ts": "2025-09-19T20:44:02Z",
-      "score": 59.64
+      "source": "businessinsider.com",
+      "ts": "2025-09-23T20:16:47Z",
+      "score": 189.1
     },
     {
-      "id": "hn-45300668",
-      "title": "I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)",
-      "url": "https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig",
+      "id": "hn-45345950",
+      "title": "Mesh: I tried Htmx, then ditched it",
+      "url": "https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it",
       "summary": "",
-      "source": "llamabuilds.ai",
-      "ts": "2025-09-19T12:06:23Z",
-      "score": 53.94
+      "source": "ajmoon.com",
+      "ts": "2025-09-23T12:18:01Z",
+      "score": 173.55
     },
     {
-      "id": "hn-45303045",
-      "title": "Rungis: The Market and the City – A day at Europe's largest fresh food market",
-      "url": "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city",
+      "id": "hn-45351446",
+      "title": "consumed.today",
+      "url": "https://consumed.today/",
       "summary": "",
-      "source": "vittlesmagazine.com",
-      "ts": "2025-09-19T15:53:09Z",
-      "score": 32.86
+      "source": "consumed.today",
+      "ts": "2025-09-23T19:12:54Z",
+      "score": 172.05
     },
     {
-      "id": "hn-45313790",
-      "title": "Compiling a Functional Language to LLVM (2023)",
-      "url": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
+      "id": "hn-45346219",
+      "title": "Getting More Strategic",
+      "url": "https://cate.blog/2025/09/23/getting-more-strategic/",
       "summary": "",
-      "source": "danieljharvey.github.io",
-      "ts": "2025-09-20T14:37:30Z",
-      "score": 30.47
+      "source": "cate.blog",
+      "ts": "2025-09-23T12:41:36Z",
+      "score": 167.61
+    },
+    {
+      "id": "hn-45348183",
+      "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
+      "url": "https://verialabs.com/blog/from-mcp-to-shell/",
+      "summary": "",
+      "source": "verialabs.com",
+      "ts": "2025-09-23T15:09:50Z",
+      "score": 150.23
+    },
+    {
+      "id": "hn-45352672",
+      "title": "Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action",
+      "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
+      "summary": "",
+      "source": "qwen.ai",
+      "ts": "2025-09-23T20:59:17Z",
+      "score": 149.7
+    },
+    {
+      "id": "hn-45304980",
+      "title": "Markov chains are the original language models",
+      "url": "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models",
+      "summary": "",
+      "source": "elijahpotter.dev",
+      "ts": "2025-09-19T18:42:21Z",
+      "score": 143.07
+    },
+    {
+      "id": "hn-45347147",
+      "title": "OpenDataLoader-PDF: An open source tool for structured PDF parsing",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-23T13:58:48Z",
+      "score": 133.78
+    },
+    {
+      "id": "hn-45351410",
+      "title": "How to draw construction equipment for kids",
+      "url": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
+      "summary": "",
+      "source": "alyssarosenberg.substack.com",
+      "ts": "2025-09-23T19:09:50Z",
+      "score": 132.35
+    },
+    {
+      "id": "hn-45347880",
+      "title": "Zip Code Map of the United States",
+      "url": "https://engaging-data.com/us-zip-code-map/",
+      "summary": "",
+      "source": "engaging-data.com",
+      "ts": "2025-09-23T14:50:06Z",
+      "score": 131.66
+    },
+    {
+      "id": "hn-45351737",
+      "title": "Privacy Commissioners find TikTok collected sensitive data from children",
+      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
+      "summary": "",
+      "source": "priv.gc.ca",
+      "ts": "2025-09-23T19:37:45Z",
+      "score": 129.04
+    },
+    {
+      "id": "hn-45352944",
+      "title": "From Rust to reality: The hidden journey of fetch_max",
+      "url": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
+      "summary": "",
+      "source": "questdb.com",
+      "ts": "2025-09-23T21:24:45Z",
+      "score": 127.74
+    },
+    {
+      "id": "hn-45351437",
+      "title": "Apple A19 SoC die shot",
+      "url": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
+      "summary": "",
+      "source": "chipwise.tech",
+      "ts": "2025-09-23T19:12:08Z",
+      "score": 127.02
+    },
+    {
+      "id": "hn-45352533",
+      "title": "Is life a form of computation?",
+      "url": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
+      "summary": "",
+      "source": "thereader.mitpress.mit.edu",
+      "ts": "2025-09-23T20:46:24Z",
+      "score": 122.27
     },
     {
       "id": "hn-45304807",
@@ -421,25 +241,241 @@
       "summary": "",
       "source": "ashvardanian.com",
       "ts": "2025-09-19T18:24:46Z",
-      "score": 26.47
+      "score": 116.0
     },
     {
-      "id": "c4ea293b98e6",
-      "title": "Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/",
-      "summary": "This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-19T16:09:26Z",
-      "score": 14.95
+      "id": "hn-45351624",
+      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
+      "url": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
+      "summary": "",
+      "source": "loiseaujc.github.io",
+      "ts": "2025-09-23T19:29:26Z",
+      "score": 111.38
     },
     {
-      "id": "c14711426536",
-      "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/",
-      "summary": "This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]",
+      "id": "hn-45352901",
+      "title": "Context Engineering for AI Agents: Lessons",
+      "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "summary": "",
+      "source": "manus.im",
+      "ts": "2025-09-23T21:20:15Z",
+      "score": 108.99
+    },
+    {
+      "id": "688e0cc2e247",
+      "title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
+      "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
+      "summary": "OpenAI is continuing to build out massive AI data centers to train and serve increasingly powerful AI models.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-23T22:24:17Z",
+      "score": 107.73
+    },
+    {
+      "id": "cfd16316f767",
+      "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+      "url": "https://openai.com/index/five-new-stargate-sites",
+      "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
+      "source": "openai.com",
+      "ts": "2025-09-23T14:00:00Z",
+      "score": 106.88
+    },
+    {
+      "id": "hn-45352460",
+      "title": "Podman Desktop celebrates 3M downloads",
+      "url": "https://podman-desktop.io/blog/3-million",
+      "summary": "",
+      "source": "podman-desktop.io",
+      "ts": "2025-09-23T20:40:21Z",
+      "score": 106.47
+    },
+    {
+      "id": "hn-45353124",
+      "title": "AI models are using material from retracted scientific papers",
+      "url": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
+      "summary": "",
+      "source": "technologyreview.com",
+      "ts": "2025-09-23T21:41:17Z",
+      "score": 105.49
+    },
+    {
+      "id": "a1f25c52da47",
+      "title": "Google’s AI Mode arrives in Spanish globally",
+      "url": "https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/",
+      "summary": "Google's AI Mode is now available to Spanish-speaking users worldwide.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-23T21:18:32Z",
+      "score": 105.31
+    },
+    {
+      "id": "7b0329db21a3",
+      "title": "Google Cloud’s COO isn’t stressed about landing the AI giants",
+      "url": "https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/",
+      "summary": "This week on StrictlyVC Download, TechCrunch Editor-in-Chief Connie Loizos is joined by Francis deSouza, the renowned entrepreneur, operator, and, since January, COO of Google Cloud. They discuss his goals for Google Cloud and how the company maintains its competitive position by focusing on startups while giants like AWS and Oracle snap up major deals with [&#8230;]",
+      "source": "techcrunch.com",
+      "ts": "2025-09-23T20:53:16Z",
+      "score": 104.39
+    },
+    {
+      "id": "6451724a07e4",
+      "title": "Google&#8217;s Mixboard is an AI moodboard builder",
+      "url": "https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas",
+      "summary": "Google is launching a new AI concepting tool that lets you create moodboards to explore design ideas. The Mixboard Google Labs experiment gives users an open canvas to create projects from pre-populated board templates or text prompts using Google’s Gemini 2.5 Flash model. The experimental tool is available through public beta in the US. The [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-23T20:30:59Z",
+      "score": 103.58
+    },
+    {
+      "id": "hn-45353052",
+      "title": "Preventing IoT Edge Device Cloning",
+      "url": "https://www.embedded.com/preventing-iot-device-cloning/",
+      "summary": "",
+      "source": "embedded.com",
+      "ts": "2025-09-23T21:34:58Z",
+      "score": 99.28
+    },
+    {
+      "id": "a580a1078c7d",
+      "title": "Running deep research AI agents on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/",
+      "summary": "AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]",
       "source": "aws.amazon.com",
-      "ts": "2025-09-18T21:25:49Z",
-      "score": 10.12
+      "ts": "2025-09-23T20:35:23Z",
+      "score": 94.31
+    },
+    {
+      "id": "5d1a1cb017de",
+      "title": "Former Spotify execs launch AI-powered &#8216;learning platform&#8217; for the &#8216;curiously minded&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/783624/oboe-ai-education-learning",
+      "summary": "The creators of Oboe know what everyone's thinking about AI. \"Is AI going to make us all stupid?\" the company asks in a recent ad. \"Are we going to forget how to think for ourselves?\" Oboe's founders think the answer to both of those questions is no, and their startup is meant to prove it. [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-23T15:24:07Z",
+      "score": 93.11
+    },
+    {
+      "id": "92044d5741f1",
+      "title": "Gemini AI will help you play games on Google Play",
+      "url": "https://www.theverge.com/news/783132/android-gaming-gemini-ai-sidekick",
+      "summary": "Google will soon let you ask its Gemini AI assistant for help progressing in mobile games. On Tuesday, Google announced that a Gemini Live integration will appear within a new overlay on games downloaded from the Play Store, allowing you to ask for some hints without opening a new window. The feature will roll out [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-23T13:00:00Z",
+      "score": 88.57
+    },
+    {
+      "id": "c880dfcb4a8c",
+      "title": "Integrate tokenization with Amazon Bedrock Guardrails for secure data handling",
+      "url": "https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/",
+      "summary": "In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-23T17:31:04Z",
+      "score": 88.46
+    },
+    {
+      "id": "hn-45341038",
+      "title": "Thundering herd problem: Preventing the stampede",
+      "url": "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/",
+      "summary": "",
+      "source": "distributed-computing-musings.com",
+      "ts": "2025-09-22T23:43:55Z",
+      "score": 80.27
+    },
+    {
+      "id": "hn-45345742",
+      "title": "Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)",
+      "url": "https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084",
+      "summary": "",
+      "source": "app.dover.com",
+      "ts": "2025-09-23T12:00:00Z",
+      "score": 79.46
+    },
+    {
+      "id": "b40fec1d6be9",
+      "title": "UniPixel: Unified Object Referring and Segmentation for Pixel-Level\n  Visual Reasoning",
+      "url": "http://arxiv.org/abs/2509.18094v1",
+      "summary": "Recent advances in Large Multi-modal Models (LMMs) have demonstrated their\nremarkable success as general-purpose multi-modal assistants, with particular\nfocuses on holistic image- and video-language understanding. Conversely, less\nattention has been given to scaling fine-grained pixel-level understanding\ncapabilities, where the models are expected to realize pixel-level alignment\nbetween visual signals and language semantics. Some previous studies have\napplied LMMs to related tasks such as region-level captioning and referring\nexpression segmentation. However, these models are limited to performing either\nreferring or segmentation tasks independently and fail to integrate these\nfine-grained perception capabilities into visual reasoning. To bridge this gap,\nwe propose UniPixel, a large multi-modal model capable of flexibly\ncomprehending visual prompt inputs and generating mask-grounded responses. Our\nmodel distinguishes itself by seamlessly integrating pixel-level perception\nwith general visual understanding capabilities. Specifically, UniPixel\nprocesses visual prompts and generates relevant masks on demand, and performs\nsubsequent reasoning conditioning on these intermediate pointers during\ninference, thereby enabling fine-grained pixel-level reasoning. The\neffectiveness of our approach has been verified on 10 benchmarks across a\ndiverse set of tasks, including pixel-level referring/segmentation and\nobject-centric understanding in images/videos. A novel PixelQA task that\njointly requires referring, segmentation, and question answering is also\ndesigned to verify the flexibility of our method.",
+      "source": "arxiv.org",
+      "ts": "2025-09-22T17:59:40Z",
+      "score": 70.45
+    },
+    {
+      "id": "fe0e2b9942f1",
+      "title": "SEQR: Secure and Efficient QR-based LoRA Routing",
+      "url": "http://arxiv.org/abs/2509.18093v1",
+      "summary": "Low-Rank Adaptation (LoRA) has become a standard technique for\nparameter-efficient fine-tuning of large language models, enabling large\nlibraries of LoRAs, each for a specific task or domain. Efficiently selecting\nthe correct LoRA adapter for a given input remains a challenge, particularly in\nsecure environments where supervised training of routers may raise privacy\nconcerns. Motivated by previous approaches, we formalize the goal of\nunsupervised LoRA routing in terms of activation norm maximization, providing a\ntheoretical framework for analysis. We demonstrate the discriminative power of\nactivation norms and introduce SEQR, an unsupervised LoRA routing algorithm\ndesigned to maximize efficiency while providing strict routing guarantees. SEQR\nprovably identifies the norm-maximizing adapter with significantly greater\nefficiency, making it a highly scalable and effective solution for dynamic LoRA\ncomposition. We validate our results through experiments that demonstrate\nimproved multi-task performance and efficiency.",
+      "source": "arxiv.org",
+      "ts": "2025-09-22T17:59:38Z",
+      "score": 70.45
+    },
+    {
+      "id": "a4669bfd2047",
+      "title": "OnePiece: Bringing Context Engineering and Reasoning to Industrial\n  Cascade Ranking System",
+      "url": "http://arxiv.org/abs/2509.18091v1",
+      "summary": "Despite the growing interest in replicating the scaled success of large\nlanguage models (LLMs) in industrial search and recommender systems, most\nexisting industrial efforts remain limited to transplanting Transformer\narchitectures, which bring only incremental improvements over strong Deep\nLearning Recommendation Models (DLRMs). From a first principle perspective, the\nbreakthroughs of LLMs stem not only from their architectures but also from two\ncomplementary mechanisms: context engineering, which enriches raw input queries\nwith contextual cues to better elicit model capabilities, and multi-step\nreasoning, which iteratively refines model outputs through intermediate\nreasoning paths. However, these two mechanisms and their potential to unlock\nsubstantial improvements remain largely underexplored in industrial ranking\nsystems.\n  In this paper, we propose OnePiece, a unified framework that seamlessly\nintegrates LLM-style context engineering and reasoning into both retrieval and\nranking models of industrial cascaded pipelines. OnePiece is built on a pure\nTransformer backbone and further introduces three key innovations: (1)\nstructured context engineering, which augments interaction history with\npreference and scenario signals and unifies them into a structured tokenized\ninput sequence for both retrieval and ranking; (2) block-wise latent reasoning,\nwhich equips the model with multi-step refinement of representations and scales\nreasoning bandwidth via block size; (3) progressive multi-task training, which\nleverages user feedback chains to effectively supervise reasoning steps during\ntraining. OnePiece has been deployed in the main personalized search scenario\nof Shopee and achieves consistent online gains across different key business\nmetrics, including over $+2\\%$ GMV/UU and a $+2.90\\%$ increase in advertising\nrevenue.",
+      "source": "arxiv.org",
+      "ts": "2025-09-22T17:59:07Z",
+      "score": 70.44
+    },
+    {
+      "id": "5d8fe756e5c5",
+      "title": "CNA is transforming its newsroom with AI",
+      "url": "https://openai.com/index/cna-walter-fernandez",
+      "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
+      "source": "openai.com",
+      "ts": "2025-09-22T17:17:00Z",
+      "score": 69.41
+    },
+    {
+      "id": "98abe74afed5",
+      "title": "American-made innovation",
+      "url": "https://openai.com/global-affairs/american-made-innovation",
+      "summary": "American-made innovation",
+      "source": "openai.com",
+      "ts": "2025-09-22T11:30:00Z",
+      "score": 61.53
+    },
+    {
+      "id": "f1873dc7e9c0",
+      "title": "Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rapid-ml-experimentation-for-enterprises-with-amazon-sagemaker-ai-and-comet/",
+      "summary": "In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-22T17:12:33Z",
+      "score": 53.31
+    },
+    {
+      "id": "hn-45305826",
+      "title": "Show HN: The Blots Programming Language",
+      "url": "https://blots-lang.org/",
+      "summary": "",
+      "source": "blots-lang.org",
+      "ts": "2025-09-19T19:57:36Z",
+      "score": 32.4
+    },
+    {
+      "id": "hn-45313180",
+      "title": "Triple Buffering in Rendering APIs",
+      "url": "https://www.4rknova.com//blog/2025/09/12/triple-buffering",
+      "summary": "",
+      "source": "4rknova.com",
+      "ts": "2025-09-20T13:26:26Z",
+      "score": 30.73
+    },
+    {
+      "id": "hn-45313417",
+      "title": "Kitty – GPU based terminal emulator",
+      "url": "https://sw.kovidgoyal.net/kitty/",
+      "summary": "",
+      "source": "sw.kovidgoyal.net",
+      "ts": "2025-09-20T13:51:05Z",
+      "score": 29.09
+    },
+    {
+      "id": "hn-45312285",
+      "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
+      "url": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-20T11:10:40Z",
+      "score": 24.5
     },
     {
       "id": "9878dd4f6392",
@@ -448,7 +484,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.59
+      "score": 0.46
     },
     {
       "id": "982ca303f669",
