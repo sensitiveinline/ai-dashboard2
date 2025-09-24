@@ -1,22 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45344708",
-      "title": "Go has added Valgrind support",
-      "url": "https://go-review.googlesource.com/c/go/+/674077",
-      "summary": "",
-      "source": "go-review.googlesource.com",
-      "ts": "2025-09-23T09:26:57Z",
-      "score": 448.21
-    },
-    {
       "id": "hn-45348495",
       "title": "Always Invite Anna",
       "url": "https://sharif.io/anna-alexei",
       "summary": "",
       "source": "sharif.io",
       "ts": "2025-09-23T15:33:23Z",
-      "score": 414.32
+      "score": 616.95
     },
     {
       "id": "hn-45350690",
@@ -25,7 +16,7 @@
       "summary": "",
       "source": "walzr.com",
       "ts": "2025-09-23T18:06:07Z",
-      "score": 369.75
+      "score": 510.16
     },
     {
       "id": "hn-45347117",
@@ -34,7 +25,16 @@
       "summary": "",
       "source": "mitchellh.com",
       "ts": "2025-09-23T13:56:28Z",
-      "score": 368.91
+      "score": 494.77
+    },
+    {
+      "id": "hn-45344708",
+      "title": "Go has added Valgrind support",
+      "url": "https://go-review.googlesource.com/c/go/+/674077",
+      "summary": "",
+      "source": "go-review.googlesource.com",
+      "ts": "2025-09-23T09:26:57Z",
+      "score": 468.85
     },
     {
       "id": "hn-45348390",
@@ -43,61 +43,16 @@
       "summary": "",
       "source": "joel.drapper.me",
       "ts": "2025-09-23T15:25:29Z",
-      "score": 319.29
+      "score": 381.57
     },
     {
-      "id": "hn-45347043",
-      "title": "Restrictions on house sharing by unrelated roommates",
-      "url": "https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html",
+      "id": "hn-45354644",
+      "title": "Baldur's Gate 3 Steam Deck – Native Version",
+      "url": "https://larian.com/support/faqs/steam-deck-native-version_121",
       "summary": "",
-      "source": "marginalrevolution.com",
-      "ts": "2025-09-23T13:51:56Z",
-      "score": 250.58
-    },
-    {
-      "id": "hn-45349848",
-      "title": "Android users can now use conversational editing in Google Photos",
-      "url": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-09-23T17:04:56Z",
-      "score": 202.1
-    },
-    {
-      "id": "hn-45347335",
-      "title": "x402 — An open protocol for internet-native payments",
-      "url": "https://www.x402.org/",
-      "summary": "",
-      "source": "x402.org",
-      "ts": "2025-09-23T14:14:46Z",
-      "score": 201.44
-    },
-    {
-      "id": "hn-45351405",
-      "title": "Denmark wants to push through Chat Control",
-      "url": "https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/",
-      "summary": "",
-      "source": "netzpolitik.org",
-      "ts": "2025-09-23T19:09:13Z",
-      "score": 198.93
-    },
-    {
-      "id": "hn-45345207",
-      "title": "Structured Outputs in LLMs",
-      "url": "https://parthsareen.com/blog.html#sampling.md",
-      "summary": "",
-      "source": "parthsareen.com",
-      "ts": "2025-09-23T10:40:41Z",
-      "score": 191.92
-    },
-    {
-      "id": "hn-45344554",
-      "title": "YAML document from hell (2023)",
-      "url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
-      "summary": "",
-      "source": "ruudvanasseldonk.com",
-      "ts": "2025-09-23T09:04:43Z",
-      "score": 191.8
+      "source": "larian.com",
+      "ts": "2025-09-24T00:26:59Z",
+      "score": 365.82
     },
     {
       "id": "hn-45347532",
@@ -106,61 +61,16 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-23T14:27:36Z",
-      "score": 191.6
-    },
-    {
-      "id": "hn-45352213",
-      "title": "YouTube says it'll bring back creators banned for Covid and election content",
-      "url": "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9",
-      "summary": "",
-      "source": "businessinsider.com",
-      "ts": "2025-09-23T20:16:47Z",
-      "score": 189.1
-    },
-    {
-      "id": "hn-45345950",
-      "title": "Mesh: I tried Htmx, then ditched it",
-      "url": "https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it",
-      "summary": "",
-      "source": "ajmoon.com",
-      "ts": "2025-09-23T12:18:01Z",
-      "score": 173.55
-    },
-    {
-      "id": "hn-45351446",
-      "title": "consumed.today",
-      "url": "https://consumed.today/",
-      "summary": "",
-      "source": "consumed.today",
-      "ts": "2025-09-23T19:12:54Z",
-      "score": 172.05
-    },
-    {
-      "id": "hn-45346219",
-      "title": "Getting More Strategic",
-      "url": "https://cate.blog/2025/09/23/getting-more-strategic/",
-      "summary": "",
-      "source": "cate.blog",
-      "ts": "2025-09-23T12:41:36Z",
-      "score": 167.61
-    },
-    {
-      "id": "hn-45348183",
-      "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
-      "url": "https://verialabs.com/blog/from-mcp-to-shell/",
-      "summary": "",
-      "source": "verialabs.com",
-      "ts": "2025-09-23T15:09:50Z",
-      "score": 150.23
+      "score": 297.46
     },
     {
       "id": "hn-45352672",
-      "title": "Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action",
+      "title": "Qwen3-VL",
       "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
       "summary": "",
       "source": "qwen.ai",
       "ts": "2025-09-23T20:59:17Z",
-      "score": 149.7
+      "score": 288.88
     },
     {
       "id": "hn-45304980",
@@ -169,43 +79,16 @@
       "summary": "",
       "source": "elijahpotter.dev",
       "ts": "2025-09-19T18:42:21Z",
-      "score": 143.07
+      "score": 244.16
     },
     {
-      "id": "hn-45347147",
-      "title": "OpenDataLoader-PDF: An open source tool for structured PDF parsing",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "id": "hn-45357693",
+      "title": "That Secret Service SIM farm story is bogus",
+      "url": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-23T13:58:48Z",
-      "score": 133.78
-    },
-    {
-      "id": "hn-45351410",
-      "title": "How to draw construction equipment for kids",
-      "url": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
-      "summary": "",
-      "source": "alyssarosenberg.substack.com",
-      "ts": "2025-09-23T19:09:50Z",
-      "score": 132.35
-    },
-    {
-      "id": "hn-45347880",
-      "title": "Zip Code Map of the United States",
-      "url": "https://engaging-data.com/us-zip-code-map/",
-      "summary": "",
-      "source": "engaging-data.com",
-      "ts": "2025-09-23T14:50:06Z",
-      "score": 131.66
-    },
-    {
-      "id": "hn-45351737",
-      "title": "Privacy Commissioners find TikTok collected sensitive data from children",
-      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
-      "summary": "",
-      "source": "priv.gc.ca",
-      "ts": "2025-09-23T19:37:45Z",
-      "score": 129.04
+      "source": "cybersect.substack.com",
+      "ts": "2025-09-24T08:24:20Z",
+      "score": 208.57
     },
     {
       "id": "hn-45352944",
@@ -214,70 +97,52 @@
       "summary": "",
       "source": "questdb.com",
       "ts": "2025-09-23T21:24:45Z",
-      "score": 127.74
+      "score": 200.74
     },
     {
-      "id": "hn-45351437",
-      "title": "Apple A19 SoC die shot",
-      "url": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
+      "id": "hn-45345950",
+      "title": "Mesh: I tried Htmx, then ditched it",
+      "url": "https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it",
       "summary": "",
-      "source": "chipwise.tech",
-      "ts": "2025-09-23T19:12:08Z",
-      "score": 127.02
+      "source": "ajmoon.com",
+      "ts": "2025-09-23T12:18:01Z",
+      "score": 197.42
     },
     {
-      "id": "hn-45352533",
-      "title": "Is life a form of computation?",
-      "url": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
+      "id": "hn-45354262",
+      "title": "NYC Telecom Raid: What's Up with Those Weird SIM Banks?",
+      "url": "https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/",
       "summary": "",
-      "source": "thereader.mitpress.mit.edu",
-      "ts": "2025-09-23T20:46:24Z",
-      "score": 122.27
+      "source": "tedium.co",
+      "ts": "2025-09-23T23:36:16Z",
+      "score": 189.83
     },
     {
-      "id": "hn-45304807",
-      "title": "Processing Strings 109x Faster Than Nvidia on H100",
-      "url": "https://ashvardanian.com/posts/stringwars-on-gpus/",
+      "id": "hn-45345207",
+      "title": "Sampling and structured outputs in LLMs",
+      "url": "https://parthsareen.com/blog.html#sampling.md",
       "summary": "",
-      "source": "ashvardanian.com",
-      "ts": "2025-09-19T18:24:46Z",
-      "score": 116.0
+      "source": "parthsareen.com",
+      "ts": "2025-09-23T10:40:41Z",
+      "score": 188.16
     },
     {
-      "id": "hn-45351624",
-      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
-      "url": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
+      "id": "hn-45354314",
+      "title": "Top Programming Languages 2025",
+      "url": "https://spectrum.ieee.org/top-programming-languages-2025",
       "summary": "",
-      "source": "loiseaujc.github.io",
-      "ts": "2025-09-23T19:29:26Z",
-      "score": 111.38
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-23T23:42:50Z",
+      "score": 187.61
     },
     {
-      "id": "hn-45352901",
-      "title": "Context Engineering for AI Agents: Lessons",
-      "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "id": "hn-45344554",
+      "title": "YAML document from hell (2023)",
+      "url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
       "summary": "",
-      "source": "manus.im",
-      "ts": "2025-09-23T21:20:15Z",
-      "score": 108.99
-    },
-    {
-      "id": "688e0cc2e247",
-      "title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
-      "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
-      "summary": "OpenAI is continuing to build out massive AI data centers to train and serve increasingly powerful AI models.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-23T22:24:17Z",
-      "score": 107.73
-    },
-    {
-      "id": "cfd16316f767",
-      "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
-      "url": "https://openai.com/index/five-new-stargate-sites",
-      "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
-      "source": "openai.com",
-      "ts": "2025-09-23T14:00:00Z",
-      "score": 106.88
+      "source": "ruudvanasseldonk.com",
+      "ts": "2025-09-23T09:04:43Z",
+      "score": 186.2
     },
     {
       "id": "hn-45352460",
@@ -286,16 +151,205 @@
       "summary": "",
       "source": "podman-desktop.io",
       "ts": "2025-09-23T20:40:21Z",
-      "score": 106.47
+      "score": 176.2
     },
     {
-      "id": "hn-45353124",
-      "title": "AI models are using material from retracted scientific papers",
-      "url": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
+      "id": "hn-45352533",
+      "title": "Is life a form of computation?",
+      "url": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
       "summary": "",
-      "source": "technologyreview.com",
-      "ts": "2025-09-23T21:41:17Z",
-      "score": 105.49
+      "source": "thereader.mitpress.mit.edu",
+      "ts": "2025-09-23T20:46:24Z",
+      "score": 172.75
+    },
+    {
+      "id": "hn-45346219",
+      "title": "Getting More Strategic",
+      "url": "https://cate.blog/2025/09/23/getting-more-strategic/",
+      "summary": "",
+      "source": "cate.blog",
+      "ts": "2025-09-23T12:41:36Z",
+      "score": 161.92
+    },
+    {
+      "id": "hn-45356226",
+      "title": "Greatest irony of the AI age: Humans hired to clean AI slop",
+      "url": "https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/",
+      "summary": "",
+      "source": "sify.com",
+      "ts": "2025-09-24T04:15:04Z",
+      "score": 151.58
+    },
+    {
+      "id": "hn-45348183",
+      "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
+      "url": "https://verialabs.com/blog/from-mcp-to-shell/",
+      "summary": "",
+      "source": "verialabs.com",
+      "ts": "2025-09-23T15:09:50Z",
+      "score": 147.22
+    },
+    {
+      "id": "hn-45351437",
+      "title": "Apple A19 SoC die shot",
+      "url": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
+      "summary": "",
+      "source": "chipwise.tech",
+      "ts": "2025-09-23T19:12:08Z",
+      "score": 143.98
+    },
+    {
+      "id": "hn-45351410",
+      "title": "How to draw construction equipment for kids",
+      "url": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
+      "summary": "",
+      "source": "alyssarosenberg.substack.com",
+      "ts": "2025-09-23T19:09:50Z",
+      "score": 140.92
+    },
+    {
+      "id": "hn-45355965",
+      "title": "New study shows plants and animals emit a visible light that expires at death",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546",
+      "summary": "",
+      "source": "pubs.acs.org",
+      "ts": "2025-09-24T03:27:41Z",
+      "score": 138.18
+    },
+    {
+      "id": "hn-45352901",
+      "title": "Context Engineering for AI Agents: Lessons",
+      "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "summary": "",
+      "source": "manus.im",
+      "ts": "2025-09-23T21:20:15Z",
+      "score": 128.02
+    },
+    {
+      "id": "hn-45351624",
+      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
+      "url": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
+      "summary": "",
+      "source": "loiseaujc.github.io",
+      "ts": "2025-09-23T19:29:26Z",
+      "score": 124.01
+    },
+    {
+      "id": "hn-45358433",
+      "title": "My game's server is blocked in Spain whenever there's a football match on",
+      "url": "https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/",
+      "summary": "",
+      "source": "old.reddit.com",
+      "ts": "2025-09-24T10:26:23Z",
+      "score": 120.14
+    },
+    {
+      "id": "hn-45356958",
+      "title": "You didn't see it coming",
+      "url": "https://aishwaryagoel.com/you-didnt-see-it-coming/",
+      "summary": "",
+      "source": "aishwaryagoel.com",
+      "ts": "2025-09-24T06:26:05Z",
+      "score": 118.99
+    },
+    {
+      "id": "hn-45355462",
+      "title": "Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems",
+      "url": "https://git.hq.sig7.se/zutty.git",
+      "summary": "",
+      "source": "git.hq.sig7.se",
+      "ts": "2025-09-24T02:07:23Z",
+      "score": 114.85
+    },
+    {
+      "id": "b9772dbe916e",
+      "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+      "url": "https://openai.com/global-affairs/openai-for-germany",
+      "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
+      "source": "openai.com",
+      "ts": "2025-09-24T04:00:00Z",
+      "score": 111.45
+    },
+    {
+      "id": "88d68a5171f1",
+      "title": "Google’s cheaper AI Plus plan is now available in over 40 countries",
+      "url": "https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/",
+      "summary": "Google's new, cheaper AI Plus plan is now available in more than 40 countries, including Angola, Bangladesh, Cameroon, Côte d'Ivoire, Egypt, Ghana, Indonesia, Kenya, Mexico, Nepal, Nigeria, Philippines, Senegal, Uganda, Vietnam and Zimbabwe.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-24T11:22:52Z",
+      "score": 107.73
+    },
+    {
+      "id": "hn-45354689",
+      "title": "Periodic Table of Cognition",
+      "url": "https://kk.org/thetechnium/the-periodic-table-of-cognition/",
+      "summary": "",
+      "source": "kk.org",
+      "ts": "2025-09-24T00:33:24Z",
+      "score": 106.2
+    },
+    {
+      "id": "8a63cf7f5b6e",
+      "title": "Video Streaming With the AV1 Video Codec in Mobile Devices",
+      "url": "https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/",
+      "summary": "<p>Today, Meta, Vodafone, and Google released a white paper, “Video Streaming with the AV1 Video Codec in Mobile Devices,&#8221; detailing the benefits of the AV1 codec, an advanced video compression technique, to enhance the streaming video experience on mobile devices.  The white paper recommends that: Vendors of core processors (SoCs) should evaluate the adoption of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\" rel=\"nofollow\">Video Streaming With the AV1 Video Codec in Mobile Devices</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-24T08:00:44Z",
+      "score": 93.21
+    },
+    {
+      "id": "hn-45356433",
+      "title": "The Hardware Knowledge That Every Programmer Should Know",
+      "url": "https://needoneapp.medium.com/the-hardware-knowledge-that-every-programmer-should-know-f62cf4ba8bdc",
+      "summary": "",
+      "source": "needoneapp.medium.com",
+      "ts": "2025-09-24T04:52:38Z",
+      "score": 92.11
+    },
+    {
+      "id": "08ea9d18f2fa",
+      "title": "Audio-Based Pedestrian Detection in the Presence of Vehicular Noise",
+      "url": "http://arxiv.org/abs/2509.19295v1",
+      "summary": "Audio-based pedestrian detection is a challenging task and has, thus far,\nonly been explored in noise-limited environments. We present a new dataset,\nresults, and a detailed analysis of the state-of-the-art in audio-based\npedestrian detection in the presence of vehicular noise. In our study, we\nconduct three analyses: (i) cross-dataset evaluation between noisy and\nnoise-limited environments, (ii) an assessment of the impact of noisy data on\nmodel performance, highlighting the influence of acoustic context, and (iii) an\nevaluation of the model's predictive robustness on out-of-domain sounds. The\nnew dataset is a comprehensive 1321-hour roadside dataset. It incorporates\ntraffic-rich soundscapes. Each recording includes 16kHz audio synchronized with\nframe-level pedestrian annotations and 1fps video thumbnails.",
+      "source": "arxiv.org",
+      "ts": "2025-09-23T17:57:44Z",
+      "score": 90.42
+    },
+    {
+      "id": "b9f1664f7f66",
+      "title": "SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold\n  Exploration",
+      "url": "http://arxiv.org/abs/2509.19292v1",
+      "summary": "Intelligent agents progress by continually refining their capabilities\nthrough actively exploring environments. Yet robot policies often lack\nsufficient exploration capability due to action mode collapse. Existing methods\nthat encourage exploration typically rely on random perturbations, which are\nunsafe and induce unstable, erratic behaviors, thereby limiting their\neffectiveness. We propose Self-Improvement via On-Manifold Exploration (SOE), a\nframework that enhances policy exploration and improvement in robotic\nmanipulation. SOE learns a compact latent representation of task-relevant\nfactors and constrains exploration to the manifold of valid actions, ensuring\nsafety, diversity, and effectiveness. It can be seamlessly integrated with\narbitrary policy models as a plug-in module, augmenting exploration without\ndegrading the base policy performance. Moreover, the structured latent space\nenables human-guided exploration, further improving efficiency and\ncontrollability. Extensive experiments in both simulation and real-world tasks\ndemonstrate that SOE consistently outperforms prior methods, achieving higher\ntask success rates, smoother and safer exploration, and superior sample\nefficiency. These results establish on-manifold exploration as a principled\napproach to sample-efficient policy self-improvement. Project website:\nhttps://ericjin2002.github.io/SOE",
+      "source": "arxiv.org",
+      "ts": "2025-09-23T17:54:47Z",
+      "score": 90.33
+    },
+    {
+      "id": "708f680171c9",
+      "title": "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion\n  interactive segmentation of neurobromas in whole-body MRI",
+      "url": "http://arxiv.org/abs/2509.19277v1",
+      "summary": "Background and Objectives: Neurofibromatosis type 1 is a genetic disorder\ncharacterized by the development of numerous neurofibromas (NFs) throughout the\nbody. Whole-body MRI (WB-MRI) is the clinical standard for detection and\nlongitudinal surveillance of NF tumor growth. Existing interactive segmentation\nmethods fail to combine high lesion-wise precision with scalability to hundreds\nof lesions. This study proposes a novel interactive segmentation model tailored\nto this challenge.\n  Methods: We introduce MOIS-SAM2, a multi-object interactive segmentation\nmodel that extends the state-of-the-art, transformer-based, promptable Segment\nAnything Model 2 (SAM2) with exemplar-based semantic propagation. MOIS-SAM2 was\ntrained and evaluated on 119 WB-MRI scans from 84 NF1 patients acquired using\nT2-weighted fat-suppressed sequences. The dataset was split at the patient\nlevel into a training set and four test sets (one in-domain and three\nreflecting different domain shift scenarios, e.g., MRI field strength\nvariation, low tumor burden, differences in clinical site and scanner vendor).\n  Results: On the in-domain test set, MOIS-SAM2 achieved a scan-wise DSC of\n0.60 against expert manual annotations, outperforming baseline 3D nnU-Net (DSC:\n0.54) and SAM2 (DSC: 0.35). Performance of the proposed model was maintained\nunder MRI field strength shift (DSC: 0.53) and scanner vendor variation (DSC:\n0.50), and improved in low tumor burden cases (DSC: 0.61). Lesion detection F1\nscores ranged from 0.62 to 0.78 across test sets. Preliminary inter-reader\nvariability analysis showed model-to-expert agreement (DSC: 0.62-0.68),\ncomparable to inter-expert agreement (DSC: 0.57-0.69).\n  Conclusions: The proposed MOIS-SAM2 enables efficient and scalable\ninteractive segmentation of NFs in WB-MRI with minimal user input and strong\ngeneralization, supporting integration into clinical workflows.",
+      "source": "arxiv.org",
+      "ts": "2025-09-23T17:42:24Z",
+      "score": 89.94
+    },
+    {
+      "id": "688e0cc2e247",
+      "title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
+      "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
+      "summary": "OpenAI is continuing to build out massive AI data centers to train and serve increasingly powerful AI models.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-23T22:24:17Z",
+      "score": 83.93
+    },
+    {
+      "id": "cfd16316f767",
+      "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+      "url": "https://openai.com/index/five-new-stargate-sites",
+      "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
+      "source": "openai.com",
+      "ts": "2025-09-23T14:00:00Z",
+      "score": 83.26
     },
     {
       "id": "a1f25c52da47",
@@ -304,16 +358,7 @@
       "summary": "Google's AI Mode is now available to Spanish-speaking users worldwide.",
       "source": "techcrunch.com",
       "ts": "2025-09-23T21:18:32Z",
-      "score": 105.31
-    },
-    {
-      "id": "7b0329db21a3",
-      "title": "Google Cloud’s COO isn’t stressed about landing the AI giants",
-      "url": "https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/",
-      "summary": "This week on StrictlyVC Download, TechCrunch Editor-in-Chief Connie Loizos is joined by Francis deSouza, the renowned entrepreneur, operator, and, since January, COO of Google Cloud. They discuss his goals for Google Cloud and how the company maintains its competitive position by focusing on startups while giants like AWS and Oracle snap up major deals with [&#8230;]",
-      "source": "techcrunch.com",
-      "ts": "2025-09-23T20:53:16Z",
-      "score": 104.39
+      "score": 82.04
     },
     {
       "id": "6451724a07e4",
@@ -322,16 +367,16 @@
       "summary": "Google is launching a new AI concepting tool that lets you create moodboards to explore design ideas. The Mixboard Google Labs experiment gives users an open canvas to create projects from pre-populated board templates or text prompts using Google’s Gemini 2.5 Flash model. The experimental tool is available through public beta in the US. The [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-23T20:30:59Z",
-      "score": 103.58
+      "score": 80.69
     },
     {
-      "id": "hn-45353052",
-      "title": "Preventing IoT Edge Device Cloning",
-      "url": "https://www.embedded.com/preventing-iot-device-cloning/",
+      "id": "hn-45312403",
+      "title": "A vibrator helped me debug a motorcycle brake light system",
+      "url": "https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system",
       "summary": "",
-      "source": "embedded.com",
-      "ts": "2025-09-23T21:34:58Z",
-      "score": 99.28
+      "source": "bikesafe.me",
+      "ts": "2025-09-20T11:33:47Z",
+      "score": 74.18
     },
     {
       "id": "a580a1078c7d",
@@ -340,7 +385,7 @@
       "summary": "AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-23T20:35:23Z",
-      "score": 94.31
+      "score": 73.47
     },
     {
       "id": "5d1a1cb017de",
@@ -349,7 +394,7 @@
       "summary": "The creators of Oboe know what everyone's thinking about AI. \"Is AI going to make us all stupid?\" the company asks in a recent ad. \"Are we going to forget how to think for ourselves?\" Oboe's founders think the answer to both of those questions is no, and their startup is meant to prove it. [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-23T15:24:07Z",
-      "score": 93.11
+      "score": 72.54
     },
     {
       "id": "92044d5741f1",
@@ -358,7 +403,7 @@
       "summary": "Google will soon let you ask its Gemini AI assistant for help progressing in mobile games. On Tuesday, Google announced that a Gemini Live integration will appear within a new overlay on games downloaded from the Play Store, allowing you to ask for some hints without opening a new window. The feature will roll out [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-23T13:00:00Z",
-      "score": 88.57
+      "score": 69.0
     },
     {
       "id": "c880dfcb4a8c",
@@ -367,52 +412,16 @@
       "summary": "In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems.",
       "source": "aws.amazon.com",
       "ts": "2025-09-23T17:31:04Z",
-      "score": 88.46
+      "score": 68.91
     },
     {
-      "id": "hn-45341038",
-      "title": "Thundering herd problem: Preventing the stampede",
-      "url": "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/",
+      "id": "hn-45320382",
+      "title": "A webshell and a normal file that have the same MD5",
+      "url": "https://github.com/phith0n/collision-webshell",
       "summary": "",
-      "source": "distributed-computing-musings.com",
-      "ts": "2025-09-22T23:43:55Z",
-      "score": 80.27
-    },
-    {
-      "id": "hn-45345742",
-      "title": "Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)",
-      "url": "https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084",
-      "summary": "",
-      "source": "app.dover.com",
-      "ts": "2025-09-23T12:00:00Z",
-      "score": 79.46
-    },
-    {
-      "id": "b40fec1d6be9",
-      "title": "UniPixel: Unified Object Referring and Segmentation for Pixel-Level\n  Visual Reasoning",
-      "url": "http://arxiv.org/abs/2509.18094v1",
-      "summary": "Recent advances in Large Multi-modal Models (LMMs) have demonstrated their\nremarkable success as general-purpose multi-modal assistants, with particular\nfocuses on holistic image- and video-language understanding. Conversely, less\nattention has been given to scaling fine-grained pixel-level understanding\ncapabilities, where the models are expected to realize pixel-level alignment\nbetween visual signals and language semantics. Some previous studies have\napplied LMMs to related tasks such as region-level captioning and referring\nexpression segmentation. However, these models are limited to performing either\nreferring or segmentation tasks independently and fail to integrate these\nfine-grained perception capabilities into visual reasoning. To bridge this gap,\nwe propose UniPixel, a large multi-modal model capable of flexibly\ncomprehending visual prompt inputs and generating mask-grounded responses. Our\nmodel distinguishes itself by seamlessly integrating pixel-level perception\nwith general visual understanding capabilities. Specifically, UniPixel\nprocesses visual prompts and generates relevant masks on demand, and performs\nsubsequent reasoning conditioning on these intermediate pointers during\ninference, thereby enabling fine-grained pixel-level reasoning. The\neffectiveness of our approach has been verified on 10 benchmarks across a\ndiverse set of tasks, including pixel-level referring/segmentation and\nobject-centric understanding in images/videos. A novel PixelQA task that\njointly requires referring, segmentation, and question answering is also\ndesigned to verify the flexibility of our method.",
-      "source": "arxiv.org",
-      "ts": "2025-09-22T17:59:40Z",
-      "score": 70.45
-    },
-    {
-      "id": "fe0e2b9942f1",
-      "title": "SEQR: Secure and Efficient QR-based LoRA Routing",
-      "url": "http://arxiv.org/abs/2509.18093v1",
-      "summary": "Low-Rank Adaptation (LoRA) has become a standard technique for\nparameter-efficient fine-tuning of large language models, enabling large\nlibraries of LoRAs, each for a specific task or domain. Efficiently selecting\nthe correct LoRA adapter for a given input remains a challenge, particularly in\nsecure environments where supervised training of routers may raise privacy\nconcerns. Motivated by previous approaches, we formalize the goal of\nunsupervised LoRA routing in terms of activation norm maximization, providing a\ntheoretical framework for analysis. We demonstrate the discriminative power of\nactivation norms and introduce SEQR, an unsupervised LoRA routing algorithm\ndesigned to maximize efficiency while providing strict routing guarantees. SEQR\nprovably identifies the norm-maximizing adapter with significantly greater\nefficiency, making it a highly scalable and effective solution for dynamic LoRA\ncomposition. We validate our results through experiments that demonstrate\nimproved multi-task performance and efficiency.",
-      "source": "arxiv.org",
-      "ts": "2025-09-22T17:59:38Z",
-      "score": 70.45
-    },
-    {
-      "id": "a4669bfd2047",
-      "title": "OnePiece: Bringing Context Engineering and Reasoning to Industrial\n  Cascade Ranking System",
-      "url": "http://arxiv.org/abs/2509.18091v1",
-      "summary": "Despite the growing interest in replicating the scaled success of large\nlanguage models (LLMs) in industrial search and recommender systems, most\nexisting industrial efforts remain limited to transplanting Transformer\narchitectures, which bring only incremental improvements over strong Deep\nLearning Recommendation Models (DLRMs). From a first principle perspective, the\nbreakthroughs of LLMs stem not only from their architectures but also from two\ncomplementary mechanisms: context engineering, which enriches raw input queries\nwith contextual cues to better elicit model capabilities, and multi-step\nreasoning, which iteratively refines model outputs through intermediate\nreasoning paths. However, these two mechanisms and their potential to unlock\nsubstantial improvements remain largely underexplored in industrial ranking\nsystems.\n  In this paper, we propose OnePiece, a unified framework that seamlessly\nintegrates LLM-style context engineering and reasoning into both retrieval and\nranking models of industrial cascaded pipelines. OnePiece is built on a pure\nTransformer backbone and further introduces three key innovations: (1)\nstructured context engineering, which augments interaction history with\npreference and scenario signals and unifies them into a structured tokenized\ninput sequence for both retrieval and ranking; (2) block-wise latent reasoning,\nwhich equips the model with multi-step refinement of representations and scales\nreasoning bandwidth via block size; (3) progressive multi-task training, which\nleverages user feedback chains to effectively supervise reasoning steps during\ntraining. OnePiece has been deployed in the main personalized search scenario\nof Shopee and achieves consistent online gains across different key business\nmetrics, including over $+2\\%$ GMV/UU and a $+2.90\\%$ increase in advertising\nrevenue.",
-      "source": "arxiv.org",
-      "ts": "2025-09-22T17:59:07Z",
-      "score": 70.44
+      "source": "github.com",
+      "ts": "2025-09-21T05:52:51Z",
+      "score": 59.49
     },
     {
       "id": "5d8fe756e5c5",
@@ -421,16 +430,25 @@
       "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
       "source": "openai.com",
       "ts": "2025-09-22T17:17:00Z",
-      "score": 69.41
+      "score": 54.07
     },
     {
-      "id": "98abe74afed5",
-      "title": "American-made innovation",
-      "url": "https://openai.com/global-affairs/american-made-innovation",
-      "summary": "American-made innovation",
-      "source": "openai.com",
-      "ts": "2025-09-22T11:30:00Z",
-      "score": 61.53
+      "id": "hn-45329080",
+      "title": "Building a better online editor for TypeScript",
+      "url": "https://blog.val.town/vtlsp",
+      "summary": "",
+      "source": "blog.val.town",
+      "ts": "2025-09-22T04:22:32Z",
+      "score": 47.39
+    },
+    {
+      "id": "hn-45314752",
+      "title": "Deep researcher with test-time diffusion",
+      "url": "https://research.google/blog/deep-researcher-with-test-time-diffusion/",
+      "summary": "",
+      "source": "research.google",
+      "ts": "2025-09-20T16:26:53Z",
+      "score": 43.73
     },
     {
       "id": "f1873dc7e9c0",
@@ -439,43 +457,43 @@
       "summary": "In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.",
       "source": "aws.amazon.com",
       "ts": "2025-09-22T17:12:33Z",
-      "score": 53.31
+      "score": 41.53
     },
     {
-      "id": "hn-45305826",
-      "title": "Show HN: The Blots Programming Language",
-      "url": "https://blots-lang.org/",
+      "id": "hn-45311498",
+      "title": "Introduction to Programming Languages",
+      "url": "https://hjaem.info/itpl",
       "summary": "",
-      "source": "blots-lang.org",
-      "ts": "2025-09-19T19:57:36Z",
-      "score": 32.4
+      "source": "hjaem.info",
+      "ts": "2025-09-20T08:22:41Z",
+      "score": 40.91
     },
     {
-      "id": "hn-45313180",
-      "title": "Triple Buffering in Rendering APIs",
-      "url": "https://www.4rknova.com//blog/2025/09/12/triple-buffering",
+      "id": "hn-45332076",
+      "title": "Show HN: We built our own technology radar",
+      "url": "https://technologieradar.tryresearchly.com",
       "summary": "",
-      "source": "4rknova.com",
-      "ts": "2025-09-20T13:26:26Z",
-      "score": 30.73
+      "source": "technologieradar.tryresearchly.com",
+      "ts": "2025-09-22T11:46:55Z",
+      "score": 39.49
     },
     {
-      "id": "hn-45313417",
-      "title": "Kitty – GPU based terminal emulator",
-      "url": "https://sw.kovidgoyal.net/kitty/",
+      "id": "hn-45319791",
+      "title": "Processing Strings 109x Faster Than Nvidia on H100",
+      "url": "https://ashvardanian.com/posts/stringwars-on-gpus/",
       "summary": "",
-      "source": "sw.kovidgoyal.net",
-      "ts": "2025-09-20T13:51:05Z",
-      "score": 29.09
+      "source": "ashvardanian.com",
+      "ts": "2025-09-21T03:30:07Z",
+      "score": 29.73
     },
     {
-      "id": "hn-45312285",
-      "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
-      "url": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
+      "id": "hn-45312153",
+      "title": "Simplifying Cross-Chain Transactions Using Intents",
+      "url": "https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-20T11:10:40Z",
-      "score": 24.5
+      "source": "blog.shodipoayomide.com",
+      "ts": "2025-09-20T10:42:06Z",
+      "score": 16.34
     },
     {
       "id": "9878dd4f6392",
@@ -484,7 +502,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.46
+      "score": 0.36
     },
     {
       "id": "982ca303f669",
@@ -502,15 +520,6 @@
       "summary": "<p>The Kotlin incremental compiler has been a true gem for developers chasing faster compilation since its introduction in build tools. Now, we’re excited to bring its benefits to Buck2 –  Meta’s build system – to unlock even more speed and efficiency for Kotlin developers. Unlike a traditional compiler that recompiles an entire module every time, [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/\" rel=\"nofollow\">Enabling Kotlin incremental compilation on Buck2</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-08-26T16:00:52Z",
-      "score": 0.0
-    },
-    {
-      "id": "99b464916a99",
-      "title": "Creating AI agent solutions for warehouse data access and security",
-      "url": "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/",
-      "summary": "<p>In this post, we explore the ways we’re evolving Meta’s data warehouse to facilitate productivity and security to serve both human users and AI agents.  We detail how we’re developing agents that help users making data access requests to get to the data they need, and that help data owners process requests and maintain security.  [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/\" rel=\"nofollow\">Creating AI agent solutions for warehouse data access and security</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-08-13T22:05:07Z",
       "score": 0.0
     }
   ]
