@@ -1,121 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45357693",
-      "title": "That Secret Service SIM farm story is bogus",
-      "url": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story",
-      "summary": "",
-      "source": "cybersect.substack.com",
-      "ts": "2025-09-24T08:24:20Z",
-      "score": 657.56
-    },
-    {
       "id": "hn-45358980",
       "title": "Yt-dlp: Upcoming new requirements for YouTube downloads",
       "url": "https://github.com/yt-dlp/yt-dlp/issues/14404",
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-24T11:41:54Z",
-      "score": 621.36
-    },
-    {
-      "id": "hn-45350690",
-      "title": "Find SF parking cops",
-      "url": "https://walzr.com/sf-parking/",
-      "summary": "",
-      "source": "walzr.com",
-      "ts": "2025-09-23T18:06:07Z",
-      "score": 542.71
-    },
-    {
-      "id": "hn-45360475",
-      "title": "Just let me select text",
-      "url": "https://aartaka.me/select-text.html",
-      "summary": "",
-      "source": "aartaka.me",
-      "ts": "2025-09-24T13:56:37Z",
-      "score": 497.31
-    },
-    {
-      "id": "hn-45362697",
-      "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
-      "url": "https://mathstodon.xyz/@tao/115259943398316677",
-      "summary": "",
-      "source": "mathstodon.xyz",
-      "ts": "2025-09-24T16:32:24Z",
-      "score": 462.88
-    },
-    {
-      "id": "hn-45359074",
-      "title": "EU age verification app not planning desktop support",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-24T11:52:50Z",
-      "score": 340.86
-    },
-    {
-      "id": "hn-45358940",
-      "title": "Huntington's disease treated for first time",
-      "url": "https://www.bbc.com/news/articles/cevz13xkxpro",
-      "summary": "",
-      "source": "bbc.com",
-      "ts": "2025-09-24T11:37:30Z",
-      "score": 320.64
-    },
-    {
-      "id": "hn-45362569",
-      "title": "Product Hunt is dead",
-      "url": "https://sedimental.org/product_hunt_is_dead.html",
-      "summary": "",
-      "source": "sedimental.org",
-      "ts": "2025-09-24T16:23:33Z",
-      "score": 232.21
-    },
-    {
-      "id": "hn-45359604",
-      "title": "How to Lead in a Room Full of Experts",
-      "url": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts",
-      "summary": "",
-      "source": "idiallo.com",
-      "ts": "2025-09-24T12:52:52Z",
-      "score": 215.91
-    },
-    {
-      "id": "hn-45358280",
-      "title": "How AWS S3 serves 1 petabyte per second on top of slow HDDs",
-      "url": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
-      "summary": "",
-      "source": "bigdata.2minutestreaming.com",
-      "ts": "2025-09-24T10:05:29Z",
-      "score": 210.78
-    },
-    {
-      "id": "hn-45362023",
-      "title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
-      "url": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
-      "summary": "",
-      "source": "wasmer.io",
-      "ts": "2025-09-24T15:48:36Z",
-      "score": 198.77
-    },
-    {
-      "id": "hn-45321849",
-      "title": "Quicksort explained IKEA-style",
-      "url": "https://idea-instructions.com/quick-sort/",
-      "summary": "",
-      "source": "idea-instructions.com",
-      "ts": "2025-09-21T11:35:21Z",
-      "score": 183.64
-    },
-    {
-      "id": "hn-45359524",
-      "title": "Learning Persian with Anki, ChatGPT and YouTube",
-      "url": "https://cjauvin.github.io/posts/learning-persian/",
-      "summary": "",
-      "source": "cjauvin.github.io",
-      "ts": "2025-09-24T12:45:07Z",
-      "score": 182.7
+      "score": 733.02
     },
     {
       "id": "hn-45366566",
@@ -124,97 +16,52 @@
       "summary": "",
       "source": "bitbytebit.substack.com",
       "ts": "2025-09-24T22:11:48Z",
-      "score": 180.92
+      "score": 646.54
     },
     {
-      "id": "hn-45362425",
-      "title": "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
-      "url": "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based",
+      "id": "hn-45362697",
+      "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
+      "url": "https://mathstodon.xyz/@tao/115259943398316677",
       "summary": "",
-      "source": "zed.dev",
-      "ts": "2025-09-24T16:13:49Z",
-      "score": 179.72
+      "source": "mathstodon.xyz",
+      "ts": "2025-09-24T16:32:24Z",
+      "score": 617.1
     },
     {
-      "id": "hn-45362206",
-      "title": "SedonaDB: A new geospatial DataFrame library written in Rust",
-      "url": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
-      "summary": "",
-      "source": "sedona.apache.org",
-      "ts": "2025-09-24T16:00:45Z",
-      "score": 151.73
-    },
-    {
-      "id": "hn-45362254",
-      "title": "New bacteria, and two potential antibiotics, discovered in soil",
-      "url": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/",
-      "summary": "",
-      "source": "rockefeller.edu",
-      "ts": "2025-09-24T16:03:42Z",
-      "score": 148.82
-    },
-    {
-      "id": "hn-45360824",
-      "title": "Smartphone Cameras Go Hyperspectral",
-      "url": "https://spectrum.ieee.org/hyperspectral-imaging",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-24T14:20:33Z",
-      "score": 135.6
-    },
-    {
-      "id": "hn-45361344",
-      "title": "The Lambda Calculus (2023)",
-      "url": "https://plato.stanford.edu/entries/lambda-calculus/",
-      "summary": "",
-      "source": "plato.stanford.edu",
-      "ts": "2025-09-24T15:00:15Z",
-      "score": 133.75
-    },
-    {
-      "id": "hn-45358216",
-      "title": "Exploring GrapheneOS secure allocator: Hardened Malloc",
-      "url": "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc",
-      "summary": "",
-      "source": "synacktiv.com",
-      "ts": "2025-09-24T09:56:04Z",
-      "score": 128.33
-    },
-    {
-      "id": "hn-45366474",
-      "title": "Snapdragon X2 Elite ARM Laptop CPU",
-      "url": "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite",
-      "summary": "",
-      "source": "qualcomm.com",
-      "ts": "2025-09-24T22:01:06Z",
-      "score": 127.16
-    },
-    {
-      "id": "hn-45362813",
-      "title": "Show HN: Vibe Linking",
-      "url": "https://vb.lk/",
-      "summary": "",
-      "source": "vb.lk",
-      "ts": "2025-09-24T16:40:11Z",
-      "score": 127.11
-    },
-    {
-      "id": "hn-45359388",
-      "title": "My Ed(1) Toolbox",
-      "url": "https://aartaka.me/my-ed.html",
+      "id": "hn-45360475",
+      "title": "Just let me select text",
+      "url": "https://aartaka.me/select-text.html",
       "summary": "",
       "source": "aartaka.me",
-      "ts": "2025-09-24T12:31:52Z",
-      "score": 122.93
+      "ts": "2025-09-24T13:56:37Z",
+      "score": 543.35
     },
     {
-      "id": "hn-45364450",
-      "title": "How fast is Go? simulating particles on a smart TV",
-      "url": "https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv",
+      "id": "hn-45350690",
+      "title": "Find SF parking cops",
+      "url": "https://walzr.com/sf-parking/",
       "summary": "",
-      "source": "dgerrells.com",
-      "ts": "2025-09-24T18:48:39Z",
-      "score": 117.28
+      "source": "walzr.com",
+      "ts": "2025-09-23T18:06:07Z",
+      "score": 538.5
+    },
+    {
+      "id": "hn-45358940",
+      "title": "Huntington's disease treated for first time",
+      "url": "https://www.bbc.com/news/articles/cevz13xkxpro",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-09-24T11:37:30Z",
+      "score": 419.73
+    },
+    {
+      "id": "hn-45321849",
+      "title": "Quicksort explained IKEA-style",
+      "url": "https://idea-instructions.com/quick-sort/",
+      "summary": "",
+      "source": "idea-instructions.com",
+      "ts": "2025-09-21T11:35:21Z",
+      "score": 338.79
     },
     {
       "id": "hn-45366867",
@@ -223,52 +70,79 @@
       "summary": "",
       "source": "helium.computer",
       "ts": "2025-09-24T22:51:16Z",
-      "score": 116.54
+      "score": 326.59
     },
     {
-      "id": "hn-45361154",
-      "title": "Who Funds Misfit Research?",
-      "url": "https://blog.spec.tech/p/who-funds-misfit-research",
+      "id": "hn-45359604",
+      "title": "How to Lead in a Room Full of Experts",
+      "url": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts",
       "summary": "",
-      "source": "blog.spec.tech",
-      "ts": "2025-09-24T14:44:20Z",
-      "score": 112.28
+      "source": "idiallo.com",
+      "ts": "2025-09-24T12:52:52Z",
+      "score": 279.75
     },
     {
-      "id": "hn-45365878",
-      "title": "SonyShell – an effort to \"SSH into my Sony DSLR\"",
-      "url": "https://github.com/goudvuur/sonyshell",
+      "id": "hn-45362023",
+      "title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
+      "url": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
+      "summary": "",
+      "source": "wasmer.io",
+      "ts": "2025-09-24T15:48:36Z",
+      "score": 261.48
+    },
+    {
+      "id": "hn-45358280",
+      "title": "How AWS S3 serves 1 petabyte per second on top of slow HDDs",
+      "url": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
+      "summary": "",
+      "source": "bigdata.2minutestreaming.com",
+      "ts": "2025-09-24T10:05:29Z",
+      "score": 248.62
+    },
+    {
+      "id": "hn-45361394",
+      "title": "How to be a leader when the vibes are off",
+      "url": "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/",
+      "summary": "",
+      "source": "chaoticgood.management",
+      "ts": "2025-09-24T15:03:59Z",
+      "score": 235.86
+    },
+    {
+      "id": "hn-45361268",
+      "title": "Show HN: Dayflow – A git log for your day",
+      "url": "https://github.com/JerryZLiu/Dayflow",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-24T21:00:00Z",
-      "score": 110.12
+      "ts": "2025-09-24T14:53:57Z",
+      "score": 228.43
     },
     {
-      "id": "hn-45361578",
-      "title": "Engineering a fixed-width bit-packed integer vector in Rust",
-      "url": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+      "id": "hn-45359524",
+      "title": "Learning Persian with Anki, ChatGPT and YouTube",
+      "url": "https://cjauvin.github.io/posts/learning-persian/",
       "summary": "",
-      "source": "lukefleed.xyz",
-      "ts": "2025-09-24T15:17:08Z",
-      "score": 106.04
+      "source": "cjauvin.github.io",
+      "ts": "2025-09-24T12:45:07Z",
+      "score": 204.58
     },
     {
-      "id": "2a685d70d71d",
-      "title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms",
-      "url": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
-      "summary": "A new call recording app is gaining traction for offering to pay users for voice data from calls, which is sold to AI companies.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-24T19:50:58Z",
-      "score": 102.15
-    },
-    {
-      "id": "hn-45367046",
-      "title": "Do YC after you graduate: Early decision for students",
-      "url": "https://www.ycombinator.com/early-decision",
+      "id": "hn-45369768",
+      "title": "Knotty: A domain-specific language for knitting patterns",
+      "url": "https://t0mpr1c3.github.io/knotty/index.html",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-09-24T23:12:38Z",
-      "score": 102.14
+      "source": "t0mpr1c3.github.io",
+      "ts": "2025-09-25T06:13:32Z",
+      "score": 187.57
+    },
+    {
+      "id": "hn-45367086",
+      "title": "How did sports betting become legal in the US?",
+      "url": "https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal",
+      "summary": "",
+      "source": "shreyashariharan.substack.com",
+      "ts": "2025-09-24T23:15:38Z",
+      "score": 186.25
     },
     {
       "id": "hn-45367085",
@@ -277,7 +151,205 @@
       "summary": "",
       "source": "dockerstatus.com",
       "ts": "2025-09-24T23:15:33Z",
+      "score": 186.24
+    },
+    {
+      "id": "hn-45362206",
+      "title": "SedonaDB: A new geospatial DataFrame library written in Rust",
+      "url": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
+      "summary": "",
+      "source": "sedona.apache.org",
+      "ts": "2025-09-24T16:00:45Z",
+      "score": 170.56
+    },
+    {
+      "id": "hn-45362254",
+      "title": "New bacteria, and two potential antibiotics, discovered in soil",
+      "url": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/",
+      "summary": "",
+      "source": "rockefeller.edu",
+      "ts": "2025-09-24T16:03:42Z",
+      "score": 162.23
+    },
+    {
+      "id": "hn-45367046",
+      "title": "Do YC after you graduate: Early decision for students",
+      "url": "https://www.ycombinator.com/early-decision",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-24T23:12:38Z",
+      "score": 162.16
+    },
+    {
+      "id": "hn-45365878",
+      "title": "SonyShell – An effort to “SSH into my Sony DSLR”",
+      "url": "https://github.com/goudvuur/sonyshell",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-24T21:00:00Z",
+      "score": 158.67
+    },
+    {
+      "id": "hn-45366474",
+      "title": "Snapdragon X2 Elite ARM Laptop CPU",
+      "url": "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite",
+      "summary": "",
+      "source": "qualcomm.com",
+      "ts": "2025-09-24T22:01:06Z",
+      "score": 144.66
+    },
+    {
+      "id": "hn-45360824",
+      "title": "Smartphone Cameras Go Hyperspectral",
+      "url": "https://spectrum.ieee.org/hyperspectral-imaging",
+      "summary": "",
+      "source": "spectrum.ieee.org",
+      "ts": "2025-09-24T14:20:33Z",
+      "score": 140.08
+    },
+    {
+      "id": "hn-45337302",
+      "title": "Low Earth Orbit Visualization",
+      "url": "https://platform.leolabs.space/visualization",
+      "summary": "",
+      "source": "platform.leolabs.space",
+      "ts": "2025-09-22T18:11:14Z",
+      "score": 133.7
+    },
+    {
+      "id": "hn-45368058",
+      "title": "The \"Wage Level\" Mirage: H-1B proposal could help outsourcers and hurt US talent",
+      "url": "https://ifp.org/the-wage-level-mirage/",
+      "summary": "",
+      "source": "ifp.org",
+      "ts": "2025-09-25T01:05:48Z",
+      "score": 126.87
+    },
+    {
+      "id": "hn-45364450",
+      "title": "How fast is Go? Simulating particles on a smart TV",
+      "url": "https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv",
+      "summary": "",
+      "source": "dgerrells.com",
+      "ts": "2025-09-24T18:48:39Z",
+      "score": 124.77
+    },
+    {
+      "id": "hn-45370882",
+      "title": "Some interesting stuff I found on IX LANs",
+      "url": "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting",
+      "summary": "",
+      "source": "blog.benjojo.co.uk",
+      "ts": "2025-09-25T09:36:40Z",
+      "score": 115.53
+    },
+    {
+      "id": "hn-45361578",
+      "title": "Engineering a fixed-width bit-packed integer vector in Rust",
+      "url": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+      "summary": "",
+      "source": "lukefleed.xyz",
+      "ts": "2025-09-24T15:17:08Z",
+      "score": 113.76
+    },
+    {
+      "id": "hn-45370997",
+      "title": "Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities",
+      "url": "https://www.reuters.com/business/apple-urges-eu-regulators-take-closer-look-tech-rules-2025-09-25/",
+      "summary": "",
+      "source": "reuters.com",
+      "ts": "2025-09-25T09:57:38Z",
+      "score": 104.84
+    },
+    {
+      "id": "hn-45370256",
+      "title": "Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)",
+      "url": "https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/",
+      "summary": "",
+      "source": "labs.watchtowr.com",
+      "ts": "2025-09-25T07:44:55Z",
+      "score": 104.06
+    },
+    {
+      "id": "hn-45371283",
+      "title": "The Theatre of Pull Requests and Code Review",
+      "url": "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review",
+      "summary": "",
+      "source": "meks.quest",
+      "ts": "2025-09-25T10:35:19Z",
       "score": 100.94
+    },
+    {
+      "id": "hn-45370790",
+      "title": "New advertising initiative aims to evade ad blockers: IAB's Trusted Server",
+      "url": "https://adguard.com/en/blog/trusted-server-advertising-proposal.html",
+      "summary": "",
+      "source": "adguard.com",
+      "ts": "2025-09-25T09:19:53Z",
+      "score": 99.97
+    },
+    {
+      "id": "hn-45342121",
+      "title": "800 Years of English Handwriting",
+      "url": "https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw",
+      "summary": "",
+      "source": "artsandculture.google.com",
+      "ts": "2025-09-23T02:21:18Z",
+      "score": 98.11
+    },
+    {
+      "id": "2058f45d959b",
+      "title": "It isn’t your imagination: Google Cloud is flooding the zone",
+      "url": "https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/",
+      "summary": "While the industry's biggest players cement ever-tighter partnerships, Google is hellbent on capturing the next generation of AI companies before they become too big to court.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-25T04:41:36Z",
+      "score": 95.65
+    },
+    {
+      "id": "7213a7626541",
+      "title": "EmbeddingGemma: Powerful and Lightweight Text Representations",
+      "url": "http://arxiv.org/abs/2509.20354v1",
+      "summary": "We introduce EmbeddingGemma, a new lightweight, open text embedding model\nbased on the Gemma 3 language model family. Our innovative training recipe\nstrategically captures knowledge from larger models via encoder-decoder\ninitialization and geometric embedding distillation. We improve model\nrobustness and expressiveness with a spread-out regularizer, and ensure\ngeneralizability by merging checkpoints from varied, optimized mixtures.\nEvaluated on the Massive Text Embedding Benchmark (MTEB) across multilingual,\nEnglish, and code domains, EmbeddingGemma (300M) achieves state-of-the-art\nresults. Notably, it outperforms prior top models, both proprietary and open,\nwith fewer than 500M parameters, and provides performance comparable to models\ndouble its size, offering an exceptional performance-to-cost ratio. Remarkably,\nthis lead persists when quantizing model weights or truncating embedding\noutputs. This makes EmbeddingGemma particularly well-suited for low-latency and\nhigh-throughput use cases such as on-device applications. We provide ablation\nstudies exploring our key design choices. We release EmbeddingGemma to the\ncommunity to promote further research.",
+      "source": "arxiv.org",
+      "ts": "2025-09-24T17:56:51Z",
+      "score": 90.36
+    },
+    {
+      "id": "4be4b29e2db2",
+      "title": "Morphological Synthesizer for Ge'ez Language: Addressing Morphological\n  Complexity and Resource Limitations",
+      "url": "http://arxiv.org/abs/2509.20341v1",
+      "summary": "Ge'ez is an ancient Semitic language renowned for its unique alphabet. It\nserves as the script for numerous languages, including Tigrinya and Amharic,\nand played a pivotal role in Ethiopia's cultural and religious development\nduring the Aksumite kingdom era. Ge'ez remains significant as a liturgical\nlanguage in Ethiopia and Eritrea, with much of the national identity\ndocumentation recorded in Ge'ez. These written materials are invaluable primary\nsources for studying Ethiopian and Eritrean philosophy, creativity, knowledge,\nand civilization. Ge'ez has a complex morphological structure with rich\ninflectional and derivational morphology, and no usable NLP has been developed\nand published until now due to the scarcity of annotated linguistic data,\ncorpora, labeled datasets, and lexicons. Therefore, we propose a rule-based\nGe'ez morphological synthesizer to generate surface words from root words\naccording to the morphological structures of the language. We used 1,102 sample\nverbs, representing all verb morphological structures, to test and evaluate the\nsystem. The system achieves a performance of 97.4%, outperforming the baseline\nmodel and suggesting that future work should build a comprehensive system\nconsidering morphological variations of the language.\n  Keywords: Ge'ez, NLP, morphology, morphological synthesizer, rule-based",
+      "source": "arxiv.org",
+      "ts": "2025-09-24T17:33:47Z",
+      "score": 89.64
+    },
+    {
+      "id": "4db80c9e6a2a",
+      "title": "Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement\n  Learning",
+      "url": "http://arxiv.org/abs/2509.20338v1",
+      "summary": "Conventional multi-agent reinforcement learning (MARL) methods rely on\ntime-triggered execution, where agents sample and communicate actions at fixed\nintervals. This approach is often computationally expensive and\ncommunication-intensive. To address this limitation, we propose ET-MAPG\n(Event-Triggered Multi-Agent Policy Gradient reinforcement learning), a\nframework that jointly learns an agent's control policy and its\nevent-triggering policy. Unlike prior work that decouples these mechanisms,\nET-MAPG integrates them into a unified learning process, enabling agents to\nlearn not only what action to take but also when to execute it. For scenarios\nwith inter-agent communication, we introduce AET-MAPG, an attention-based\nvariant that leverages a self-attention mechanism to learn selective\ncommunication patterns. AET-MAPG empowers agents to determine not only when to\ntrigger an action but also with whom to communicate and what information to\nexchange, thereby optimizing coordination. Both methods can be integrated with\nany policy gradient MARL algorithm. Extensive experiments across diverse MARL\nbenchmarks demonstrate that our approaches achieve performance comparable to\nstate-of-the-art, time-triggered baselines while significantly reducing both\ncomputational load and communication overhead.",
+      "source": "arxiv.org",
+      "ts": "2025-09-24T17:29:56Z",
+      "score": 89.52
+    },
+    {
+      "id": "25e1e85d3fb8",
+      "title": "Transforming the manufacturing industry with ChatGPT",
+      "url": "https://openai.com/index/eneos-materials",
+      "summary": "By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements, strengthening competitiveness in manufacturing.",
+      "source": "openai.com",
+      "ts": "2025-09-24T17:00:00Z",
+      "score": 88.6
+    },
+    {
+      "id": "2a685d70d71d",
+      "title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms",
+      "url": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
+      "summary": "A new call recording app is gaining traction for offering to pay users for voice data from calls, which is sold to AI companies.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-24T19:50:58Z",
+      "score": 79.55
     },
     {
       "id": "a1bd31129916",
@@ -286,25 +358,7 @@
       "summary": "A fresh $100 million and an interesting partnership with AMD has slightly bumped Cohere's valuation up.",
       "source": "techcrunch.com",
       "ts": "2025-09-24T18:06:22Z",
-      "score": 98.51
-    },
-    {
-      "id": "32b232749abf",
-      "title": "Microsoft adds Anthropic’s AI to Copilot",
-      "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
-      "summary": "Microsoft is integrating OpenAI rival Anthropic's AI into Copilot, marking another step toward the disentangling of Microsoft and OpenAI.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-24T17:46:29Z",
-      "score": 97.83
-    },
-    {
-      "id": "hn-45364462",
-      "title": "Our planet's vital signs are flashing red",
-      "url": "https://www.planetaryhealthcheck.org/",
-      "summary": "",
-      "source": "planetaryhealthcheck.org",
-      "ts": "2025-09-24T18:49:18Z",
-      "score": 95.7
+      "score": 76.71
     },
     {
       "id": "b28991d28b2f",
@@ -313,7 +367,7 @@
       "summary": "Google is bringing Search Live to everyone in the US, letting you search for information by having a conversation with an AI assistant. When you use the feature, Search Live will respond to your questions in real-time, as well as surface relevant links from the web. You can try the feature out by opening the [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-24T16:00:00Z",
-      "score": 94.28
+      "score": 73.42
     },
     {
       "id": "9f57e507ed4e",
@@ -322,7 +376,7 @@
       "summary": "Microsoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 AI models to its Microsoft 365 Copilot today. It’s a big move that expands model choice beyond just OpenAI’s range of models in Microsoft 365 Copilot, and it will allow Microsoft’s customers to access Anthropic models in Researcher and Microsoft Copilot Studio. “Copilot will [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-24T15:00:00Z",
-      "score": 92.33
+      "score": 71.91
     },
     {
       "id": "ea8dec2837a3",
@@ -331,7 +385,7 @@
       "summary": "With the US tech industry scrambling to contain the fallout of Donald Trump's latest assault against immigrants, Europe senses blood in the water. Trump blindsided American businesses late last week with a new $100,000-a-year fee on all H-1B visas, which are used to bring tens of thousands of skilled workers to the country's tech sector. [&#8230;]",
       "source": "theverge.com",
       "ts": "2025-09-24T12:30:00Z",
-      "score": 87.65
+      "score": 68.26
     },
     {
       "id": "b9772dbe916e",
@@ -340,25 +394,7 @@
       "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
       "source": "openai.com",
       "ts": "2025-09-24T04:00:00Z",
-      "score": 86.77
-    },
-    {
-      "id": "hn-45338680",
-      "title": "Björk on nature and technology (2016)",
-      "url": "https://thecreativeindependent.com/people/bjork-on-nature-and-technology/",
-      "summary": "",
-      "source": "thecreativeindependent.com",
-      "ts": "2025-09-22T19:58:33Z",
-      "score": 82.85
-    },
-    {
-      "id": "hn-45318604",
-      "title": "macOS becomes iOS: Safari video controls",
-      "url": "https://underpassapp.com/news/2025/9/8.html",
-      "summary": "",
-      "source": "underpassapp.com",
-      "ts": "2025-09-20T23:38:02Z",
-      "score": 82.0
+      "score": 67.58
     },
     {
       "id": "8a63cf7f5b6e",
@@ -367,34 +403,7 @@
       "summary": "<p>Today, Meta, Vodafone, and Google released a white paper, “Video Streaming with the AV1 Video Codec in Mobile Devices,&#8221; detailing the benefits of the AV1 codec, an advanced video compression technique, to enhance the streaming video experience on mobile devices.  The white paper recommends that: Vendors of core processors (SoCs) should evaluate the adoption of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\" rel=\"nofollow\">Video Streaming With the AV1 Video Codec in Mobile Devices</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-24T08:00:44Z",
-      "score": 72.57
-    },
-    {
-      "id": "08ea9d18f2fa",
-      "title": "Audio-Based Pedestrian Detection in the Presence of Vehicular Noise",
-      "url": "http://arxiv.org/abs/2509.19295v1",
-      "summary": "Audio-based pedestrian detection is a challenging task and has, thus far,\nonly been explored in noise-limited environments. We present a new dataset,\nresults, and a detailed analysis of the state-of-the-art in audio-based\npedestrian detection in the presence of vehicular noise. In our study, we\nconduct three analyses: (i) cross-dataset evaluation between noisy and\nnoise-limited environments, (ii) an assessment of the impact of noisy data on\nmodel performance, highlighting the influence of acoustic context, and (iii) an\nevaluation of the model's predictive robustness on out-of-domain sounds. The\nnew dataset is a comprehensive 1321-hour roadside dataset. It incorporates\ntraffic-rich soundscapes. Each recording includes 16kHz audio synchronized with\nframe-level pedestrian annotations and 1fps video thumbnails.",
-      "source": "arxiv.org",
-      "ts": "2025-09-23T17:57:44Z",
-      "score": 70.4
-    },
-    {
-      "id": "b9f1664f7f66",
-      "title": "SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold\n  Exploration",
-      "url": "http://arxiv.org/abs/2509.19292v1",
-      "summary": "Intelligent agents progress by continually refining their capabilities\nthrough actively exploring environments. Yet robot policies often lack\nsufficient exploration capability due to action mode collapse. Existing methods\nthat encourage exploration typically rely on random perturbations, which are\nunsafe and induce unstable, erratic behaviors, thereby limiting their\neffectiveness. We propose Self-Improvement via On-Manifold Exploration (SOE), a\nframework that enhances policy exploration and improvement in robotic\nmanipulation. SOE learns a compact latent representation of task-relevant\nfactors and constrains exploration to the manifold of valid actions, ensuring\nsafety, diversity, and effectiveness. It can be seamlessly integrated with\narbitrary policy models as a plug-in module, augmenting exploration without\ndegrading the base policy performance. Moreover, the structured latent space\nenables human-guided exploration, further improving efficiency and\ncontrollability. Extensive experiments in both simulation and real-world tasks\ndemonstrate that SOE consistently outperforms prior methods, achieving higher\ntask success rates, smoother and safer exploration, and superior sample\nefficiency. These results establish on-manifold exploration as a principled\napproach to sample-efficient policy self-improvement. Project website:\nhttps://ericjin2002.github.io/SOE",
-      "source": "arxiv.org",
-      "ts": "2025-09-23T17:54:47Z",
-      "score": 70.33
-    },
-    {
-      "id": "708f680171c9",
-      "title": "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion\n  interactive segmentation of neurobromas in whole-body MRI",
-      "url": "http://arxiv.org/abs/2509.19277v1",
-      "summary": "Background and Objectives: Neurofibromatosis type 1 is a genetic disorder\ncharacterized by the development of numerous neurofibromas (NFs) throughout the\nbody. Whole-body MRI (WB-MRI) is the clinical standard for detection and\nlongitudinal surveillance of NF tumor growth. Existing interactive segmentation\nmethods fail to combine high lesion-wise precision with scalability to hundreds\nof lesions. This study proposes a novel interactive segmentation model tailored\nto this challenge.\n  Methods: We introduce MOIS-SAM2, a multi-object interactive segmentation\nmodel that extends the state-of-the-art, transformer-based, promptable Segment\nAnything Model 2 (SAM2) with exemplar-based semantic propagation. MOIS-SAM2 was\ntrained and evaluated on 119 WB-MRI scans from 84 NF1 patients acquired using\nT2-weighted fat-suppressed sequences. The dataset was split at the patient\nlevel into a training set and four test sets (one in-domain and three\nreflecting different domain shift scenarios, e.g., MRI field strength\nvariation, low tumor burden, differences in clinical site and scanner vendor).\n  Results: On the in-domain test set, MOIS-SAM2 achieved a scan-wise DSC of\n0.60 against expert manual annotations, outperforming baseline 3D nnU-Net (DSC:\n0.54) and SAM2 (DSC: 0.35). Performance of the proposed model was maintained\nunder MRI field strength shift (DSC: 0.53) and scanner vendor variation (DSC:\n0.50), and improved in low tumor burden cases (DSC: 0.61). Lesion detection F1\nscores ranged from 0.62 to 0.78 across test sets. Preliminary inter-reader\nvariability analysis showed model-to-expert agreement (DSC: 0.62-0.68),\ncomparable to inter-expert agreement (DSC: 0.57-0.69).\n  Conclusions: The proposed MOIS-SAM2 enables efficient and scalable\ninteractive segmentation of NFs in WB-MRI with minimal user input and strong\ngeneralization, supporting integration into clinical workflows.",
-      "source": "arxiv.org",
-      "ts": "2025-09-23T17:42:24Z",
-      "score": 70.02
+      "score": 56.51
     },
     {
       "id": "cfd16316f767",
@@ -403,7 +412,16 @@
       "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
       "source": "openai.com",
       "ts": "2025-09-23T14:00:00Z",
-      "score": 64.82
+      "score": 50.48
+    },
+    {
+      "id": "hn-45350734",
+      "title": "Random Mosaic – Detecting unauthorized physical access with colored rice (2021)",
+      "url": "https://dys2p.com/en/2021-12-tamper-evident-protection.html",
+      "summary": "",
+      "source": "dys2p.com",
+      "ts": "2025-09-23T18:08:51Z",
+      "score": 45.34
     },
     {
       "id": "a580a1078c7d",
@@ -412,7 +430,16 @@
       "summary": "AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-23T20:35:23Z",
-      "score": 57.2
+      "score": 44.55
+    },
+    {
+      "id": "hn-45339631",
+      "title": "Porting a library to a different language with a sentence",
+      "url": "https://randomlabs.ai/blog/porting-a-library-with-slate",
+      "summary": "",
+      "source": "randomlabs.ai",
+      "ts": "2025-09-22T21:24:00Z",
+      "score": 42.48
     },
     {
       "id": "c880dfcb4a8c",
@@ -421,34 +448,16 @@
       "summary": "In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems.",
       "source": "aws.amazon.com",
       "ts": "2025-09-23T17:31:04Z",
-      "score": 53.65
+      "score": 41.78
     },
     {
-      "id": "5d8fe756e5c5",
-      "title": "CNA is transforming its newsroom with AI",
-      "url": "https://openai.com/index/cna-walter-fernandez",
-      "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
-      "source": "openai.com",
-      "ts": "2025-09-22T17:17:00Z",
-      "score": 42.1
-    },
-    {
-      "id": "hn-45338840",
-      "title": "Ray Marching a Blob in 3D",
-      "url": "https://www.4rknova.com//blog/2025/09/21/blob-3d",
+      "id": "hn-45320801",
+      "title": "History of Telecommunications T-Carrier",
+      "url": "https://computer.rip/2025-09-20-T-carrier.html",
       "summary": "",
-      "source": "4rknova.com",
-      "ts": "2025-09-22T20:12:13Z",
-      "score": 36.82
-    },
-    {
-      "id": "hn-45325035",
-      "title": "Driving Complex Decisions",
-      "url": "https://garrettdbates.com/driving-complex-decisions",
-      "summary": "",
-      "source": "garrettdbates.com",
-      "ts": "2025-09-21T17:51:34Z",
-      "score": 35.48
+      "source": "computer.rip",
+      "ts": "2025-09-21T07:30:36Z",
+      "score": 29.88
     },
     {
       "id": "f1873dc7e9c0",
@@ -457,16 +466,25 @@
       "summary": "In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.",
       "source": "aws.amazon.com",
       "ts": "2025-09-22T17:12:33Z",
-      "score": 32.33
+      "score": 25.18
     },
     {
-      "id": "hn-45321893",
-      "title": "Linkgraphs are fun",
-      "url": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+      "id": "hn-45330560",
+      "title": "Python-Style Kwargs in TypeScript",
+      "url": "https://xavd.id/blog/post/python-kwargs-in-typescript/",
       "summary": "",
-      "source": "andregarzia.com",
-      "ts": "2025-09-21T11:45:39Z",
-      "score": 26.51
+      "source": "xavd.id",
+      "ts": "2025-09-22T08:25:53Z",
+      "score": 25.17
+    },
+    {
+      "id": "hn-45323351",
+      "title": "Mollweide map projection and Newton's method",
+      "url": "https://www.johndcook.com/blog/2025/09/21/mollweide-newton/",
+      "summary": "",
+      "source": "johndcook.com",
+      "ts": "2025-09-21T15:00:59Z",
+      "score": 20.59
     },
     {
       "id": "9878dd4f6392",
@@ -475,7 +493,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.28
+      "score": 0.22
     },
     {
       "id": "982ca303f669",
