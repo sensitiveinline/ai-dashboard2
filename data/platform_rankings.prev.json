@@ -2,26 +2,26 @@
   {
     "id": "openai",
     "name": "OpenAI",
-    "score": 80
+    "score": 82
   },
   {
     "id": "deepseek",
     "name": "DeepSeek",
-    "score": 81
+    "score": 83
   },
   {
     "id": "anthropic",
     "name": "Anthropic",
-    "score": 84
+    "score": 82
   },
   {
     "id": "google",
     "name": "Google",
-    "score": 85
+    "score": 83
   },
   {
     "id": "meta",
     "name": "Meta",
-    "score": 84
+    "score": 86
   }
 ]
