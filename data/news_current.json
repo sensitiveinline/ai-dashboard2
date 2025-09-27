@@ -7,25 +7,7 @@
       "summary": "",
       "source": "overreacted.io",
       "ts": "2025-09-26T16:01:55Z",
-      "score": 307.17
-    },
-    {
-      "id": "hn-45382434",
-      "title": "Evanston orders Flock to remove reinstalled cameras",
-      "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
-      "summary": "",
-      "source": "evanstonroundtable.com",
-      "ts": "2025-09-26T03:51:16Z",
-      "score": 284.95
-    },
-    {
-      "id": "hn-45387462",
-      "title": "Fast UDP I/O for Firefox in Rust",
-      "url": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-      "summary": "",
-      "source": "max-inden.de",
-      "ts": "2025-09-26T15:14:44Z",
-      "score": 260.18
+      "score": 486.27
     },
     {
       "id": "hn-45381810",
@@ -34,16 +16,7 @@
       "summary": "",
       "source": "reuters.com",
       "ts": "2025-09-26T02:09:47Z",
-      "score": 259.25
-    },
-    {
-      "id": "hn-45334001",
-      "title": "How to make sense of any mess",
-      "url": "https://www.howtomakesenseofanymess.com",
-      "summary": "",
-      "source": "howtomakesenseofanymess.com",
-      "ts": "2025-09-22T14:31:40Z",
-      "score": 247.05
+      "score": 320.69
     },
     {
       "id": "hn-45389267",
@@ -52,16 +25,34 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-09-26T18:01:26Z",
-      "score": 223.21
+      "score": 311.5
     },
     {
-      "id": "hn-45383637",
-      "title": "Translating a Fortran F-16 Simulator to Unity3D",
-      "url": "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/",
+      "id": "hn-45384481",
+      "title": "Pop OS 24.04 LTS Beta",
+      "url": "https://system76.com/pop/pop-beta/",
       "summary": "",
-      "source": "vazgriz.com",
-      "ts": "2025-09-26T07:06:45Z",
-      "score": 212.83
+      "source": "system76.com",
+      "ts": "2025-09-26T09:20:07Z",
+      "score": 295.76
+    },
+    {
+      "id": "hn-45387462",
+      "title": "Fast UDP I/O for Firefox in Rust",
+      "url": "https://max-inden.de/post/fast-udp-io-in-firefox/",
+      "summary": "",
+      "source": "max-inden.de",
+      "ts": "2025-09-26T15:14:44Z",
+      "score": 270.98
+    },
+    {
+      "id": "hn-45393842",
+      "title": "Typst: A Possible LaTeX Replacement",
+      "url": "https://lwn.net/Articles/1037577/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-27T07:31:39Z",
+      "score": 230.95
     },
     {
       "id": "hn-45386578",
@@ -70,7 +61,7 @@
       "summary": "",
       "source": "bloomberg.com",
       "ts": "2025-09-26T13:57:17Z",
-      "score": 187.14
+      "score": 227.24
     },
     {
       "id": "hn-45390121",
@@ -79,232 +70,7 @@
       "summary": "",
       "source": "mailarchive.ietf.org",
       "ts": "2025-09-26T19:27:23Z",
-      "score": 168.32
-    },
-    {
-      "id": "hn-45388728",
-      "title": "Modular Manifolds",
-      "url": "https://thinkingmachines.ai/blog/modular-manifolds/",
-      "summary": "",
-      "source": "thinkingmachines.ai",
-      "ts": "2025-09-26T17:06:48Z",
-      "score": 158.53
-    },
-    {
-      "id": "hn-45389889",
-      "title": "When Bruce Lee trained with Kareem Abdul-Jabbar",
-      "url": "https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/",
-      "summary": "",
-      "source": "lithub.com",
-      "ts": "2025-09-26T19:04:27Z",
-      "score": 147.79
-    },
-    {
-      "id": "hn-45389965",
-      "title": "If you are harassed by lasers",
-      "url": "https://www.laserpointersafety.com/harassment.html",
-      "summary": "",
-      "source": "laserpointersafety.com",
-      "ts": "2025-09-26T19:12:26Z",
-      "score": 145.04
-    },
-    {
-      "id": "hn-45381590",
-      "title": "Exploit allows for takeover of fleets of Unitree robots",
-      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-26T01:38:19Z",
-      "score": 142.75
-    },
-    {
-      "id": "hn-45387155",
-      "title": "How to stop AI's \"lethal trifecta\"",
-      "url": "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta",
-      "summary": "",
-      "source": "economist.com",
-      "ts": "2025-09-26T14:49:07Z",
-      "score": 137.63
-    },
-    {
-      "id": "hn-45386872",
-      "title": "DeepFabric – Generate high-quality synthetic datasets at scale",
-      "url": "https://lukehinds.github.io/deepfabric/",
-      "summary": "",
-      "source": "lukehinds.github.io",
-      "ts": "2025-09-26T14:26:44Z",
-      "score": 133.99
-    },
-    {
-      "id": "hn-45391220",
-      "title": "Understanding RL for model training, and future directions with GRAPE",
-      "url": "https://arxiv.org/abs/2509.04501",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-26T21:30:23Z",
-      "score": 132.78
-    },
-    {
-      "id": "hn-45357732",
-      "title": "Traefik's 10-year anniversary",
-      "url": "https://traefik.io/blog/celebrating-10-years-of-traefik",
-      "summary": "",
-      "source": "traefik.io",
-      "ts": "2025-09-24T08:29:58Z",
-      "score": 132.57
-    },
-    {
-      "id": "hn-45346014",
-      "title": "Bach Cello Suites (2024)",
-      "url": "https://bachcellosuites.co.uk/",
-      "summary": "",
-      "source": "bachcellosuites.co.uk",
-      "ts": "2025-09-23T12:23:04Z",
-      "score": 129.94
-    },
-    {
-      "id": "hn-45388822",
-      "title": "Suno Studio, a Generative AI DAW",
-      "url": "https://suno.com/studio-welcome",
-      "summary": "",
-      "source": "suno.com",
-      "ts": "2025-09-26T17:17:54Z",
-      "score": 128.27
-    },
-    {
-      "id": "hn-45389293",
-      "title": "Auth.js is now part of Better Auth",
-      "url": "https://www.better-auth.com/blog/authjs-joins-better-auth",
-      "summary": "",
-      "source": "better-auth.com",
-      "ts": "2025-09-26T18:04:29Z",
-      "score": 126.7
-    },
-    {
-      "id": "hn-45391461",
-      "title": "Israel hacked every Gaza cellphone to stream PM Netanyahu's UN Speech live",
-      "url": "https://twitter.com/israelipm/status/1971570108322480350",
-      "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-09-26T22:01:45Z",
-      "score": 122.99
-    },
-    {
-      "id": "hn-45386690",
-      "title": "Titanic's sister, Britannic, sank in 1916. Divers have recovered artifacts",
-      "url": "https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/",
-      "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-09-26T14:08:33Z",
-      "score": 116.66
-    },
-    {
-      "id": "hn-45391566",
-      "title": "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
-      "url": "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander",
-      "summary": "",
-      "source": "masteringemacs.org",
-      "ts": "2025-09-26T22:17:03Z",
-      "score": 114.51
-    },
-    {
-      "id": "hn-45389464",
-      "title": "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
-      "url": "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer",
-      "summary": "",
-      "source": "nyulangone.org",
-      "ts": "2025-09-26T18:20:33Z",
-      "score": 112.2
-    },
-    {
-      "id": "hn-45391078",
-      "title": "The von Neumann bottleneck is impeding AI computing?",
-      "url": "https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing",
-      "summary": "",
-      "source": "research.ibm.com",
-      "ts": "2025-09-26T21:12:56Z",
-      "score": 111.16
-    },
-    {
-      "id": "hn-45390866",
-      "title": "RNA structure prediction is hard. How much does that matter?",
-      "url": "https://www.owlposting.com/p/rna-structure-prediction-is-hard",
-      "summary": "",
-      "source": "owlposting.com",
-      "ts": "2025-09-26T20:47:31Z",
-      "score": 109.72
-    },
-    {
-      "id": "hn-45390856",
-      "title": "How insurance risk is transformed into investable assets",
-      "url": "https://riskvest.io/riskvest-insights/transforming-insurance-risk",
-      "summary": "",
-      "source": "riskvest.io",
-      "ts": "2025-09-26T20:46:26Z",
-      "score": 109.68
-    },
-    {
-      "id": "hn-45391568",
-      "title": "Bell Labs Scientists Accidentally Proved the Big Bang Theory",
-      "url": "https://spectrum.ieee.org/big-bang-theory-discovery",
-      "summary": "",
-      "source": "spectrum.ieee.org",
-      "ts": "2025-09-26T22:17:18Z",
-      "score": 109.11
-    },
-    {
-      "id": "afa8733b0cf1",
-      "title": "Microsoft Photos will soon auto-categorize your pictures",
-      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
-      "summary": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T21:40:35Z",
-      "score": 106.12
-    },
-    {
-      "id": "hn-45391786",
-      "title": "Why do we remember some life moments - but not others?",
-      "url": "https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/",
-      "summary": "",
-      "source": "bu.edu",
-      "ts": "2025-09-26T22:44:01Z",
-      "score": 102.74
-    },
-    {
-      "id": "hn-45390999",
-      "title": "Kagi News (iOS)",
-      "url": "https://apps.apple.com/de/app/kagi-news/id6748314243",
-      "summary": "",
-      "source": "apps.apple.com",
-      "ts": "2025-09-26T21:03:35Z",
-      "score": 102.45
-    },
-    {
-      "id": "526f0948d9b5",
-      "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
-      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
-      "summary": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Building humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spend billions of dollars on the effort. During a recent conversation [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T19:45:00Z",
-      "score": 101.95
-    },
-    {
-      "id": "a431385073f0",
-      "title": "What’s behind the massive AI data center headlines?",
-      "url": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
-      "summary": "This week on Equity, Anthony Ha and Max Zeff go beyond the headlines to break down what's really going on in these AI infrastructure deals.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T19:40:24Z",
-      "score": 101.79
-    },
-    {
-      "id": "hn-45391871",
-      "title": "New math revives geometry's oldest problems",
-      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-26T22:57:57Z",
-      "score": 101.54
+      "score": 197.81
     },
     {
       "id": "hn-45391444",
@@ -313,43 +79,43 @@
       "summary": "",
       "source": "moondream.ai",
       "ts": "2025-09-26T21:59:57Z",
-      "score": 101.33
+      "score": 189.72
     },
     {
-      "id": "hn-45391299",
-      "title": "Gurted – A web ecosystem introducing the gurt:// protocol",
-      "url": "https://gurted.com/",
+      "id": "hn-45389965",
+      "title": "If you are harassed by lasers",
+      "url": "https://www.laserpointersafety.com/harassment.html",
       "summary": "",
-      "source": "gurted.com",
-      "ts": "2025-09-26T21:40:38Z",
-      "score": 101.28
+      "source": "laserpointersafety.com",
+      "ts": "2025-09-26T19:12:26Z",
+      "score": 184.24
     },
     {
-      "id": "d2322982052b",
-      "title": "YouTube Music tests AI hosts that share trivia and commentary",
-      "url": "https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/",
-      "summary": "YouTube Music's new AI hosts are currently being tested through YouTube Labs, the platform's new hub for AI experiments.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T19:02:02Z",
-      "score": 100.44
-    },
-    {
-      "id": "hn-45391328",
-      "title": "GriffonAD: A new tool to exploit bad configurations in Active Directory",
-      "url": "https://github.com/shellinvictus/GriffonAD",
+      "id": "hn-45388822",
+      "title": "Suno Studio, a Generative AI DAW",
+      "url": "https://suno.com/studio-welcome",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-26T21:44:03Z",
-      "score": 99.59
+      "source": "suno.com",
+      "ts": "2025-09-26T17:17:54Z",
+      "score": 164.06
     },
     {
-      "id": "30e8a3b9092a",
-      "title": "YouTube’s new AI experiment adds AI hosts to your music",
-      "url": "https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts",
-      "summary": "YouTube is adding AI hosts to radio and mixes in the YouTube Music app as part of a new test available through its new Labs program. The hosts are designed to “deepen your listening experience by sharing relevant stories, fan trivia, and fun commentary about your favorite music,” YouTube says in a blog post. If [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T18:26:36Z",
-      "score": 99.21
+      "id": "hn-45388728",
+      "title": "Modular Manifolds",
+      "url": "https://thinkingmachines.ai/blog/modular-manifolds/",
+      "summary": "",
+      "source": "thinkingmachines.ai",
+      "ts": "2025-09-26T17:06:48Z",
+      "score": 155.39
+    },
+    {
+      "id": "hn-45389293",
+      "title": "Auth.js is now part of Better Auth",
+      "url": "https://www.better-auth.com/blog/authjs-joins-better-auth",
+      "summary": "",
+      "source": "better-auth.com",
+      "ts": "2025-09-26T18:04:29Z",
+      "score": 151.98
     },
     {
       "id": "hn-45364932",
@@ -358,25 +124,151 @@
       "summary": "",
       "source": "lumafield.com",
       "ts": "2025-09-24T19:29:13Z",
-      "score": 98.11
+      "score": 151.24
     },
     {
-      "id": "9103db6487e4",
-      "title": "Everyone’s still throwing billions at AI data centers",
-      "url": "https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/",
-      "summary": "From $100 billion OpenAI commitments to $100,000 visa fees, this week showed just how much the tech landscape is shifting. On the latest episode of Equity, Anthony Ha and Max Zeff unpack the AI infrastructure gold rush and tech&#8217;s talent shuffle. Watch the full episode for more about:&#160;&#160; Equity is TechCrunch’s flagship podcast, produced by [&#8230;]",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T17:30:00Z",
-      "score": 97.28
+      "id": "hn-45357732",
+      "title": "Traefik's 10-year anniversary",
+      "url": "https://traefik.io/blog/celebrating-10-years-of-traefik",
+      "summary": "",
+      "source": "traefik.io",
+      "ts": "2025-09-24T08:29:58Z",
+      "score": 148.83
     },
     {
-      "id": "eb382ae71c88",
-      "title": "Partnering with AARP to help keep older adults safe online",
-      "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
-      "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
-      "source": "openai.com",
-      "ts": "2025-09-26T06:00:00Z",
-      "score": 90.48
+      "id": "hn-45391566",
+      "title": "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
+      "url": "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander",
+      "summary": "",
+      "source": "masteringemacs.org",
+      "ts": "2025-09-26T22:17:03Z",
+      "score": 147.57
+    },
+    {
+      "id": "hn-45387494",
+      "title": "Evolving the Multi-User Spaceport",
+      "url": "https://www.spacex.com/updates#multiuser-spaceport",
+      "summary": "",
+      "source": "spacex.com",
+      "ts": "2025-09-26T15:17:31Z",
+      "score": 145.65
+    },
+    {
+      "id": "hn-45391871",
+      "title": "New math revives geometry's oldest problems",
+      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-09-26T22:57:57Z",
+      "score": 143.86
+    },
+    {
+      "id": "hn-45389464",
+      "title": "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
+      "url": "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer",
+      "summary": "",
+      "source": "nyulangone.org",
+      "ts": "2025-09-26T18:20:33Z",
+      "score": 139.77
+    },
+    {
+      "id": "hn-45390856",
+      "title": "How insurance risk is transformed into investable assets",
+      "url": "https://riskvest.io/riskvest-insights/transforming-insurance-risk",
+      "summary": "",
+      "source": "riskvest.io",
+      "ts": "2025-09-26T20:46:26Z",
+      "score": 136.81
+    },
+    {
+      "id": "hn-45392164",
+      "title": "The Obsessively Complete Infocom Catalog",
+      "url": "https://eblong.com/infocom/",
+      "summary": "",
+      "source": "eblong.com",
+      "ts": "2025-09-26T23:43:33Z",
+      "score": 133.69
+    },
+    {
+      "id": "hn-45356429",
+      "title": "The Beauty of Programming (2001)",
+      "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming",
+      "summary": "",
+      "source": "brynmawr.edu",
+      "ts": "2025-09-24T04:51:54Z",
+      "score": 126.89
+    },
+    {
+      "id": "hn-45387155",
+      "title": "How to stop AI's \"lethal trifecta\"",
+      "url": "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta",
+      "summary": "",
+      "source": "economist.com",
+      "ts": "2025-09-26T14:49:07Z",
+      "score": 125.2
+    },
+    {
+      "id": "hn-45393649",
+      "title": "AI Investment Is Starting to Look Like a Slush Fund",
+      "url": "https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html",
+      "summary": "",
+      "source": "nymag.com",
+      "ts": "2025-09-27T06:44:12Z",
+      "score": 122.04
+    },
+    {
+      "id": "hn-45386872",
+      "title": "DeepFabric – Generate high-quality synthetic datasets at scale",
+      "url": "https://lukehinds.github.io/deepfabric/",
+      "summary": "",
+      "source": "lukehinds.github.io",
+      "ts": "2025-09-26T14:26:44Z",
+      "score": 121.69
+    },
+    {
+      "id": "hn-45392744",
+      "title": "GPT-OSS Reinforcement Learning",
+      "url": "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning",
+      "summary": "",
+      "source": "docs.unsloth.ai",
+      "ts": "2025-09-27T02:01:35Z",
+      "score": 120.15
+    },
+    {
+      "id": "hn-45390866",
+      "title": "RNA structure prediction is hard. How much does that matter?",
+      "url": "https://www.owlposting.com/p/rna-structure-prediction-is-hard",
+      "summary": "",
+      "source": "owlposting.com",
+      "ts": "2025-09-26T20:47:31Z",
+      "score": 109.84
+    },
+    {
+      "id": "hn-45393653",
+      "title": "Property-Based Testing of OCaml 5's Runtime System [pdf]",
+      "url": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
+      "summary": "",
+      "source": "janmidtgaard.dk",
+      "ts": "2025-09-27T06:45:03Z",
+      "score": 104.07
+    },
+    {
+      "id": "hn-45393501",
+      "title": "Lifetime of social ties adds up to healthy aging at molecular level",
+      "url": "https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging",
+      "summary": "",
+      "source": "news.cornell.edu",
+      "ts": "2025-09-27T06:00:41Z",
+      "score": 103.28
+    },
+    {
+      "id": "hn-45392053",
+      "title": "Show HN: Family Chess: Play across firewalls and Internet cultures",
+      "url": "https://github.com/kelvinq/family-chess",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-26T23:24:09Z",
+      "score": 102.57
     },
     {
       "id": "hn-45336775",
@@ -385,43 +277,16 @@
       "summary": "",
       "source": "blog.nseldeib.com",
       "ts": "2025-09-22T17:33:20Z",
-      "score": 88.18
+      "score": 102.34
     },
     {
-      "id": "hn-45388675",
-      "title": "Gauntlet AI (YC S17) is looking for engineers who want to master AI",
-      "url": "https://apply.gauntletai.com/",
+      "id": "hn-45386690",
+      "title": "Titanic's sister, Britannic, sank in 1916. Divers have recovered artifacts",
+      "url": "https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/",
       "summary": "",
-      "source": "apply.gauntletai.com",
-      "ts": "2025-09-26T17:00:46Z",
-      "score": 88.14
-    },
-    {
-      "id": "60f422e7614f",
-      "title": "Building health care agents using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/",
-      "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-26T16:03:41Z",
-      "score": 85.83
-    },
-    {
-      "id": "4920a5f4367d",
-      "title": "Networking at the Heart of AI — @Scale: Networking 2025 Recap",
-      "url": "https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/",
-      "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-26T16:00:52Z",
-      "score": 85.74
-    },
-    {
-      "id": "e2125b7da15c",
-      "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/",
-      "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-26T15:58:34Z",
-      "score": 85.67
+      "source": "smithsonianmag.com",
+      "ts": "2025-09-26T14:08:33Z",
+      "score": 101.49
     },
     {
       "id": "hn-45347619",
@@ -430,7 +295,115 @@
       "summary": "",
       "source": "marcobambini.substack.com",
       "ts": "2025-09-23T14:33:48Z",
-      "score": 76.76
+      "score": 96.07
+    },
+    {
+      "id": "afa8733b0cf1",
+      "title": "Microsoft Photos will soon auto-categorize your pictures",
+      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+      "summary": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-26T21:40:35Z",
+      "score": 82.73
+    },
+    {
+      "id": "526f0948d9b5",
+      "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
+      "summary": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Building humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spend billions of dollars on the effort. During a recent conversation [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-26T19:45:00Z",
+      "score": 79.48
+    },
+    {
+      "id": "a431385073f0",
+      "title": "What’s behind the massive AI data center headlines?",
+      "url": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
+      "summary": "This week on Equity, Anthony Ha and Max Zeff go beyond the headlines to break down what's really going on in these AI infrastructure deals.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-26T19:40:24Z",
+      "score": 79.35
+    },
+    {
+      "id": "hn-45369629",
+      "title": "Litex: The First Formal Language Learnable in 1-2 Hours",
+      "url": "https://github.com/litexlang/golitex",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-25T05:43:01Z",
+      "score": 78.32
+    },
+    {
+      "id": "d2322982052b",
+      "title": "YouTube Music tests AI hosts that share trivia and commentary",
+      "url": "https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/",
+      "summary": "YouTube Music's new AI hosts are currently being tested through YouTube Labs, the platform's new hub for AI experiments.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-26T19:02:02Z",
+      "score": 78.3
+    },
+    {
+      "id": "30e8a3b9092a",
+      "title": "YouTube’s new AI experiment adds AI hosts to your music",
+      "url": "https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts",
+      "summary": "YouTube is adding AI hosts to radio and mixes in the YouTube Music app as part of a new test available through its new Labs program. The hosts are designed to “deepen your listening experience by sharing relevant stories, fan trivia, and fun commentary about your favorite music,” YouTube says in a blog post. If [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-26T18:26:36Z",
+      "score": 77.35
+    },
+    {
+      "id": "9103db6487e4",
+      "title": "Everyone’s still throwing billions at AI data centers",
+      "url": "https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/",
+      "summary": "From $100 billion OpenAI commitments to $100,000 visa fees, this week showed just how much the tech landscape is shifting. On the latest episode of Equity, Anthony Ha and Max Zeff unpack the AI infrastructure gold rush and tech&#8217;s talent shuffle. Watch the full episode for more about:&#160;&#160; Equity is TechCrunch’s flagship podcast, produced by [&#8230;]",
+      "source": "techcrunch.com",
+      "ts": "2025-09-26T17:30:00Z",
+      "score": 75.84
+    },
+    {
+      "id": "eb382ae71c88",
+      "title": "Partnering with AARP to help keep older adults safe online",
+      "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
+      "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
+      "source": "openai.com",
+      "ts": "2025-09-26T06:00:00Z",
+      "score": 70.53
+    },
+    {
+      "id": "hn-45388675",
+      "title": "Gauntlet AI (YC S17) is looking for engineers who want to master AI",
+      "url": "https://apply.gauntletai.com/",
+      "summary": "",
+      "source": "apply.gauntletai.com",
+      "ts": "2025-09-26T17:00:46Z",
+      "score": 68.85
+    },
+    {
+      "id": "60f422e7614f",
+      "title": "Building health care agents using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/",
+      "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-26T16:03:41Z",
+      "score": 66.91
+    },
+    {
+      "id": "4920a5f4367d",
+      "title": "Networking at the Heart of AI — @Scale: Networking 2025 Recap",
+      "url": "https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/",
+      "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-26T16:00:52Z",
+      "score": 66.84
+    },
+    {
+      "id": "e2125b7da15c",
+      "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/",
+      "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-26T15:58:34Z",
+      "score": 66.79
     },
     {
       "id": "729ddf77f79c",
@@ -439,7 +412,7 @@
       "summary": "Reinforcement Learning with Human Feedback (RLHF) and Reinforcement Learning\nwith Verifiable Rewards (RLVR) are the main RL paradigms used in LLM\npost-training, each offering distinct advantages. However, RLHF struggles with\ninterpretability and reward hacking because it relies on human judgments that\nusually lack explicit criteria, whereas RLVR is limited in scope by its focus\non correctness-based verifiers. We propose Reinforcement Learning with Binary\nFlexible Feedback (RLBFF), which combines the versatility of human-driven\npreferences with the precision of rule-based verification, enabling reward\nmodels to capture nuanced aspects of response quality beyond mere correctness.\nRLBFF extracts principles that can be answered in a binary fashion (e.g.\naccuracy of information: yes, or code readability: no) from natural language\nfeedback. Such principles can then be used to ground Reward Model training as\nan entailment task (response satisfies or does not satisfy an arbitrary\nprinciple). We show that Reward Models trained in this manner can outperform\nBradley-Terry models when matched for data and achieve top performance on\nRM-Bench (86.2%) and JudgeBench (81.4%, #1 on leaderboard as of September 24,\n2025). Additionally, users can specify principles of interest at inference time\nto customize the focus of our reward models, in contrast to Bradley-Terry\nmodels. Finally, we present a fully open source recipe (including data) to\nalign Qwen3-32B using RLBFF and our Reward Model, to match or exceed the\nperformance of o3-mini and DeepSeek R1 on general alignment benchmarks of\nMT-Bench, WildBench, and Arena Hard v2 (at <5% of the inference cost).",
       "source": "arxiv.org",
       "ts": "2025-09-25T16:19:06Z",
-      "score": 68.04
+      "score": 53.04
     },
     {
       "id": "bd48f8ef13b9",
@@ -448,7 +421,16 @@
       "summary": "We present SD3.5-Flash, an efficient few-step distillation framework that\nbrings high-quality image generation to accessible consumer devices. Our\napproach distills computationally prohibitive rectified flow models through a\nreformulated distribution matching objective tailored specifically for few-step\ngeneration. We introduce two key innovations: \"timestep sharing\" to reduce\ngradient noise and \"split-timestep fine-tuning\" to improve prompt alignment.\nCombined with comprehensive pipeline optimizations like text encoder\nrestructuring and specialized quantization, our system enables both rapid\ngeneration and memory-efficient deployment across different hardware\nconfigurations. This democratizes access across the full spectrum of devices,\nfrom mobile phones to desktop computers. Through extensive evaluation including\nlarge-scale user studies, we demonstrate that SD3.5-Flash consistently\noutperforms existing few-step methods, making advanced generative AI truly\naccessible for practical deployment.",
       "source": "arxiv.org",
       "ts": "2025-09-25T16:07:38Z",
-      "score": 67.77
+      "score": 52.83
+    },
+    {
+      "id": "0aa857f92686",
+      "title": "SAGE: A Realistic Benchmark for Semantic Understanding",
+      "url": "http://arxiv.org/abs/2509.21310v1",
+      "summary": "As large language models (LLMs) achieve strong performance on traditional\nbenchmarks, there is an urgent need for more challenging evaluation frameworks\nthat probe deeper aspects of semantic understanding. We introduce SAGE\n(Semantic Alignment & Generalization Evaluation), a rigorous benchmark designed\nto assess both embedding models and similarity metrics across five categories:\nHuman Preference Alignment, Transformation Robustness, Information Sensitivity,\nClustering Performance, and Retrieval Robustness. Unlike existing benchmarks\nthat focus on isolated capabilities, SAGE evaluates semantic understanding\nthrough adversarial conditions, noisy transformations, and nuanced human\njudgment tasks across 30+ datasets. Our comprehensive evaluation of 9 embedding\nmodels and classical metrics reveals significant performance gaps, with no\nsingle approach excelling across all dimensions. For instance, while\nstate-of-the-art embedding models like OpenAI's text-embedding-3-large dominate\nin aligning with human preferences (0.682 vs. 0.591 for the best classical\nmetric), they are significantly outperformed by classical metrics on\ninformation sensitivity tasks, where Jaccard Similarity achieves a score of\n0.905 compared to the top embedding score of 0.794. SAGE further uncovers\ncritical trade-offs: OpenAI's text-embedding-3-small achieves the highest\nclustering performance (0.483) but demonstrates extreme brittleness with the\nlowest robustness score (0.011). SAGE exposes critical limitations in current\nsemantic understanding capabilities and provides a more realistic assessment of\nmodel robustness for real-world deployment.",
+      "source": "arxiv.org",
+      "ts": "2025-09-25T15:27:15Z",
+      "score": 52.09
     },
     {
       "id": "51e0b2cb3881",
@@ -457,7 +439,7 @@
       "summary": "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.",
       "source": "openai.com",
       "ts": "2025-09-25T11:00:00Z",
-      "score": 60.9
+      "score": 47.48
     },
     {
       "id": "8e2e6c05adfe",
@@ -466,7 +448,7 @@
       "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
       "source": "openai.com",
       "ts": "2025-09-25T09:00:00Z",
-      "score": 58.42
+      "score": 45.54
     },
     {
       "id": "87fc2d1afd93",
@@ -475,25 +457,34 @@
       "summary": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-25T20:25:08Z",
-      "score": 57.0
+      "score": 44.44
     },
     {
-      "id": "hn-45356429",
-      "title": "The Beauty of Programming",
-      "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming",
+      "id": "hn-45364503",
+      "title": "Elephantshark, a tool to monitor Postgres network traffic",
+      "url": "https://neon.com/blog/elephantshark-monitor-postgres-network-traffic",
       "summary": "",
-      "source": "brynmawr.edu",
-      "ts": "2025-09-24T04:51:54Z",
-      "score": 56.2
+      "source": "neon.com",
+      "ts": "2025-09-24T18:52:23Z",
+      "score": 42.9
     },
     {
-      "id": "hn-45359083",
-      "title": "Amiga SPICE is a program for simulating electronic circuits",
-      "url": "https://www.edsa.uk/blog/amiga-spice",
+      "id": "hn-45354404",
+      "title": "Meshtastic 64 – A meshtastic radio for the Commodore 64",
+      "url": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
       "summary": "",
-      "source": "edsa.uk",
-      "ts": "2025-09-24T11:53:38Z",
-      "score": 31.95
+      "source": "64jim64.blogspot.com",
+      "ts": "2025-09-23T23:54:01Z",
+      "score": 41.58
+    },
+    {
+      "id": "hn-45349218",
+      "title": "I built Foyer: a Rust hybrid cache that slashes S3 latency",
+      "url": "https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a",
+      "summary": "",
+      "source": "medium.com",
+      "ts": "2025-09-23T16:25:13Z",
+      "score": 25.84
     },
     {
       "id": "8a63cf7f5b6e",
@@ -502,7 +493,16 @@
       "summary": "<p>Today, Meta, Vodafone, and Google released a white paper, “Video Streaming with the AV1 Video Codec in Mobile Devices,&#8221; detailing the benefits of the AV1 codec, an advanced video compression technique, to enhance the streaming video experience on mobile devices.  The white paper recommends that: Vendors of core processors (SoCs) should evaluate the adoption of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\" rel=\"nofollow\">Video Streaming With the AV1 Video Codec in Mobile Devices</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-24T08:00:44Z",
-      "score": 26.7
+      "score": 20.81
+    },
+    {
+      "id": "hn-45348762",
+      "title": "Requiem for a Hash Function, or: How I learned to love package maphash",
+      "url": "https://matttproud.com/blog/posts/go-maphash.html",
+      "summary": "",
+      "source": "matttproud.com",
+      "ts": "2025-09-23T15:52:09Z",
+      "score": 20.27
     },
     {
       "id": "9878dd4f6392",
@@ -511,7 +511,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.1
+      "score": 0.08
     },
     {
       "id": "982ca303f669",
