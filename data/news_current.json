@@ -1,49 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45388021",
-      "title": "Open Social",
-      "url": "https://overreacted.io/open-social/",
+      "id": "hn-45396441",
+      "title": "A WebGL game where you deliver messages on a tiny planet",
+      "url": "https://messenger.abeto.co/",
       "summary": "",
-      "source": "overreacted.io",
-      "ts": "2025-09-26T16:01:55Z",
-      "score": 486.27
-    },
-    {
-      "id": "hn-45381810",
-      "title": "Britain to introduce compulsory digital ID for workers",
-      "url": "https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/",
-      "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-09-26T02:09:47Z",
-      "score": 320.69
-    },
-    {
-      "id": "hn-45389267",
-      "title": "SimpleFold: Folding proteins is simpler than you think",
-      "url": "https://github.com/apple/ml-simplefold",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-26T18:01:26Z",
-      "score": 311.5
-    },
-    {
-      "id": "hn-45384481",
-      "title": "Pop OS 24.04 LTS Beta",
-      "url": "https://system76.com/pop/pop-beta/",
-      "summary": "",
-      "source": "system76.com",
-      "ts": "2025-09-26T09:20:07Z",
-      "score": 295.76
-    },
-    {
-      "id": "hn-45387462",
-      "title": "Fast UDP I/O for Firefox in Rust",
-      "url": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-      "summary": "",
-      "source": "max-inden.de",
-      "ts": "2025-09-26T15:14:44Z",
-      "score": 270.98
+      "source": "messenger.abeto.co",
+      "ts": "2025-09-27T15:17:30Z",
+      "score": 487.06
     },
     {
       "id": "hn-45393842",
@@ -52,25 +16,25 @@
       "summary": "",
       "source": "lwn.net",
       "ts": "2025-09-27T07:31:39Z",
-      "score": 230.95
+      "score": 446.85
     },
     {
-      "id": "hn-45386578",
-      "title": "US cities pay too much for buses",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses",
+      "id": "hn-45396754",
+      "title": "Greenland is a beautiful nightmare",
+      "url": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
       "summary": "",
-      "source": "bloomberg.com",
-      "ts": "2025-09-26T13:57:17Z",
-      "score": 227.24
+      "source": "matduggan.com",
+      "ts": "2025-09-27T15:46:46Z",
+      "score": 324.12
     },
     {
-      "id": "hn-45390121",
-      "title": "Why use mailing lists?",
-      "url": "https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/",
+      "id": "hn-45395991",
+      "title": "SSH3: Faster and rich secure shell using HTTP/3",
+      "url": "https://github.com/francoismichel/ssh3",
       "summary": "",
-      "source": "mailarchive.ietf.org",
-      "ts": "2025-09-26T19:27:23Z",
-      "score": 197.81
+      "source": "github.com",
+      "ts": "2025-09-27T14:27:10Z",
+      "score": 258.2
     },
     {
       "id": "hn-45391444",
@@ -79,115 +43,61 @@
       "summary": "",
       "source": "moondream.ai",
       "ts": "2025-09-26T21:59:57Z",
-      "score": 189.72
+      "score": 221.51
     },
     {
-      "id": "hn-45389965",
-      "title": "If you are harassed by lasers",
-      "url": "https://www.laserpointersafety.com/harassment.html",
+      "id": "hn-45395957",
+      "title": "The Postmark backdoor that’s downloading emails",
+      "url": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
       "summary": "",
-      "source": "laserpointersafety.com",
-      "ts": "2025-09-26T19:12:26Z",
-      "score": 184.24
+      "source": "koi.security",
+      "ts": "2025-09-27T14:23:12Z",
+      "score": 209.48
     },
     {
-      "id": "hn-45388822",
-      "title": "Suno Studio, a Generative AI DAW",
-      "url": "https://suno.com/studio-welcome",
+      "id": "hn-45394642",
+      "title": "Ishkur's Guide to Electronic Music",
+      "url": "http://music.ishkur.com/",
       "summary": "",
-      "source": "suno.com",
-      "ts": "2025-09-26T17:17:54Z",
-      "score": 164.06
+      "source": "music.ishkur.com",
+      "ts": "2025-09-27T10:38:42Z",
+      "score": 199.67
     },
     {
-      "id": "hn-45388728",
-      "title": "Modular Manifolds",
-      "url": "https://thinkingmachines.ai/blog/modular-manifolds/",
+      "id": "hn-45396284",
+      "title": "Role of Amazon fires in the record atmospheric CO₂ growth in 2024",
+      "url": "https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1",
       "summary": "",
-      "source": "thinkingmachines.ai",
-      "ts": "2025-09-26T17:06:48Z",
-      "score": 155.39
+      "source": "essopenarchive.org",
+      "ts": "2025-09-27T15:02:02Z",
+      "score": 166.21
     },
     {
-      "id": "hn-45389293",
-      "title": "Auth.js is now part of Better Auth",
-      "url": "https://www.better-auth.com/blog/authjs-joins-better-auth",
+      "id": "hn-45393501",
+      "title": "A lifetime of social ties adds up to healthy aging",
+      "url": "https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging",
       "summary": "",
-      "source": "better-auth.com",
-      "ts": "2025-09-26T18:04:29Z",
-      "score": 151.98
+      "source": "news.cornell.edu",
+      "ts": "2025-09-27T06:00:41Z",
+      "score": 165.01
     },
     {
-      "id": "hn-45364932",
-      "title": "CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells",
-      "url": "https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain",
+      "id": "hn-45398005",
+      "title": "I made a public living room and the internet keeps putting weirder stuff in it",
+      "url": "https://www.theroom.lol",
       "summary": "",
-      "source": "lumafield.com",
-      "ts": "2025-09-24T19:29:13Z",
-      "score": 151.24
+      "source": "theroom.lol",
+      "ts": "2025-09-27T17:59:47Z",
+      "score": 159.56
     },
     {
-      "id": "hn-45357732",
-      "title": "Traefik's 10-year anniversary",
-      "url": "https://traefik.io/blog/celebrating-10-years-of-traefik",
+      "id": "hn-45398153",
+      "title": "The death of east London's most radical bookshop",
+      "url": "https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/",
       "summary": "",
-      "source": "traefik.io",
-      "ts": "2025-09-24T08:29:58Z",
-      "score": 148.83
-    },
-    {
-      "id": "hn-45391566",
-      "title": "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
-      "url": "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander",
-      "summary": "",
-      "source": "masteringemacs.org",
-      "ts": "2025-09-26T22:17:03Z",
-      "score": 147.57
-    },
-    {
-      "id": "hn-45387494",
-      "title": "Evolving the Multi-User Spaceport",
-      "url": "https://www.spacex.com/updates#multiuser-spaceport",
-      "summary": "",
-      "source": "spacex.com",
-      "ts": "2025-09-26T15:17:31Z",
-      "score": 145.65
-    },
-    {
-      "id": "hn-45391871",
-      "title": "New math revives geometry's oldest problems",
-      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-26T22:57:57Z",
-      "score": 143.86
-    },
-    {
-      "id": "hn-45389464",
-      "title": "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
-      "url": "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer",
-      "summary": "",
-      "source": "nyulangone.org",
-      "ts": "2025-09-26T18:20:33Z",
-      "score": 139.77
-    },
-    {
-      "id": "hn-45390856",
-      "title": "How insurance risk is transformed into investable assets",
-      "url": "https://riskvest.io/riskvest-insights/transforming-insurance-risk",
-      "summary": "",
-      "source": "riskvest.io",
-      "ts": "2025-09-26T20:46:26Z",
-      "score": 136.81
-    },
-    {
-      "id": "hn-45392164",
-      "title": "The Obsessively Complete Infocom Catalog",
-      "url": "https://eblong.com/infocom/",
-      "summary": "",
-      "source": "eblong.com",
-      "ts": "2025-09-26T23:43:33Z",
-      "score": 133.69
+      "source": "the-londoner.co.uk",
+      "ts": "2025-09-27T18:15:08Z",
+      "score": 153.43
     },
     {
       "id": "hn-45356429",
@@ -196,286 +106,124 @@
       "summary": "",
       "source": "brynmawr.edu",
       "ts": "2025-09-24T04:51:54Z",
-      "score": 126.89
+      "score": 153.17
     },
     {
-      "id": "hn-45387155",
-      "title": "How to stop AI's \"lethal trifecta\"",
-      "url": "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta",
+      "id": "hn-45396624",
+      "title": "AI model trapped in a Raspberry Pi",
+      "url": "https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/",
       "summary": "",
-      "source": "economist.com",
-      "ts": "2025-09-26T14:49:07Z",
-      "score": 125.2
+      "source": "blog.adafruit.com",
+      "ts": "2025-09-27T15:34:55Z",
+      "score": 146.17
     },
     {
-      "id": "hn-45393649",
-      "title": "AI Investment Is Starting to Look Like a Slush Fund",
-      "url": "https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html",
+      "id": "hn-45398468",
+      "title": "Docker Was Too Slow, So We Replaced It: Nix in Production [video]",
+      "url": "https://www.youtube.com/watch?v=iPoL03tFBtU",
       "summary": "",
-      "source": "nymag.com",
-      "ts": "2025-09-27T06:44:12Z",
-      "score": 122.04
+      "source": "youtube.com",
+      "ts": "2025-09-27T18:56:18Z",
+      "score": 133.73
     },
     {
-      "id": "hn-45386872",
-      "title": "DeepFabric – Generate high-quality synthetic datasets at scale",
-      "url": "https://lukehinds.github.io/deepfabric/",
+      "id": "hn-45398348",
+      "title": "Xeres: Uncensorable Peer-to-Peer Communications",
+      "url": "https://xeres.io/",
       "summary": "",
-      "source": "lukehinds.github.io",
-      "ts": "2025-09-26T14:26:44Z",
-      "score": 121.69
+      "source": "xeres.io",
+      "ts": "2025-09-27T18:39:59Z",
+      "score": 124.21
     },
     {
-      "id": "hn-45392744",
-      "title": "GPT-OSS Reinforcement Learning",
-      "url": "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning",
+      "id": "hn-45395133",
+      "title": "Why We Think",
+      "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
       "summary": "",
-      "source": "docs.unsloth.ai",
-      "ts": "2025-09-27T02:01:35Z",
-      "score": 120.15
+      "source": "lilianweng.github.io",
+      "ts": "2025-09-27T12:27:46Z",
+      "score": 124.03
     },
     {
-      "id": "hn-45390866",
-      "title": "RNA structure prediction is hard. How much does that matter?",
-      "url": "https://www.owlposting.com/p/rna-structure-prediction-is-hard",
+      "id": "hn-45396641",
+      "title": "Norway to Monitor Airborne Radioactivity in Svalbard",
+      "url": "https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard",
       "summary": "",
-      "source": "owlposting.com",
-      "ts": "2025-09-26T20:47:31Z",
-      "score": 109.84
+      "source": "highnorthnews.com",
+      "ts": "2025-09-27T15:35:59Z",
+      "score": 122.8
     },
     {
-      "id": "hn-45393653",
-      "title": "Property-Based Testing of OCaml 5's Runtime System [pdf]",
-      "url": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
+      "id": "hn-45398467",
+      "title": "LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard",
+      "url": "https://signoz.io/blog/llm-observability-opentelemetry/",
       "summary": "",
-      "source": "janmidtgaard.dk",
-      "ts": "2025-09-27T06:45:03Z",
-      "score": 104.07
+      "source": "signoz.io",
+      "ts": "2025-09-27T18:56:18Z",
+      "score": 121.13
     },
     {
-      "id": "hn-45393501",
-      "title": "Lifetime of social ties adds up to healthy aging at molecular level",
-      "url": "https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging",
+      "id": "hn-45398900",
+      "title": "New in Firefox: Visual search powered by Google Lens",
+      "url": "https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026",
       "summary": "",
-      "source": "news.cornell.edu",
-      "ts": "2025-09-27T06:00:41Z",
-      "score": 103.28
+      "source": "connect.mozilla.org",
+      "ts": "2025-09-27T20:01:15Z",
+      "score": 120.21
     },
     {
-      "id": "hn-45392053",
-      "title": "Show HN: Family Chess: Play across firewalls and Internet cultures",
-      "url": "https://github.com/kelvinq/family-chess",
+      "id": "hn-45399417",
+      "title": "US to retire its only icebreaker, stranding polar research",
+      "url": "https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-26T23:24:09Z",
-      "score": 102.57
+      "source": "colorado.edu",
+      "ts": "2025-09-27T21:22:28Z",
+      "score": 117.47
     },
     {
-      "id": "hn-45336775",
-      "title": "Pairing with Claude Code to rebuild my startup's website",
-      "url": "https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild",
+      "id": "hn-45398731",
+      "title": "2025 Nikon Small World in Motion Competition Winners",
+      "url": "https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition",
       "summary": "",
-      "source": "blog.nseldeib.com",
-      "ts": "2025-09-22T17:33:20Z",
-      "score": 102.34
+      "source": "nikonsmallworld.com",
+      "ts": "2025-09-27T19:38:51Z",
+      "score": 112.28
     },
     {
-      "id": "hn-45386690",
-      "title": "Titanic's sister, Britannic, sank in 1916. Divers have recovered artifacts",
-      "url": "https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/",
+      "id": "hn-45399063",
+      "title": "Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files",
+      "url": "https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups",
       "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-09-26T14:08:33Z",
-      "score": 101.49
+      "source": "phoronix.com",
+      "ts": "2025-09-27T20:26:39Z",
+      "score": 111.43
     },
     {
-      "id": "hn-45347619",
-      "title": "Ultra efficient vector extension for SQLite",
-      "url": "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite",
+      "id": "hn-45399893",
+      "title": "The (economic) AI apocalypse is nigh",
+      "url": "https://pluralistic.net/2025/09/27/econopocalypse/",
       "summary": "",
-      "source": "marcobambini.substack.com",
-      "ts": "2025-09-23T14:33:48Z",
-      "score": 96.07
+      "source": "pluralistic.net",
+      "ts": "2025-09-27T22:30:00Z",
+      "score": 108.14
     },
     {
-      "id": "afa8733b0cf1",
-      "title": "Microsoft Photos will soon auto-categorize your pictures",
-      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
-      "summary": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T21:40:35Z",
-      "score": 82.73
-    },
-    {
-      "id": "526f0948d9b5",
-      "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
-      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
-      "summary": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Building humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spend billions of dollars on the effort. During a recent conversation [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T19:45:00Z",
-      "score": 79.48
-    },
-    {
-      "id": "a431385073f0",
-      "title": "What’s behind the massive AI data center headlines?",
-      "url": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
-      "summary": "This week on Equity, Anthony Ha and Max Zeff go beyond the headlines to break down what's really going on in these AI infrastructure deals.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T19:40:24Z",
-      "score": 79.35
-    },
-    {
-      "id": "hn-45369629",
-      "title": "Litex: The First Formal Language Learnable in 1-2 Hours",
-      "url": "https://github.com/litexlang/golitex",
+      "id": "hn-45399106",
+      "title": "Handy – Free open-source speech-to-text app written in Rust",
+      "url": "https://handy.computer/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-25T05:43:01Z",
-      "score": 78.32
+      "source": "handy.computer",
+      "ts": "2025-09-27T20:33:31Z",
+      "score": 108.06
     },
     {
-      "id": "d2322982052b",
-      "title": "YouTube Music tests AI hosts that share trivia and commentary",
-      "url": "https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/",
-      "summary": "YouTube Music's new AI hosts are currently being tested through YouTube Labs, the platform's new hub for AI experiments.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T19:02:02Z",
-      "score": 78.3
-    },
-    {
-      "id": "30e8a3b9092a",
-      "title": "YouTube’s new AI experiment adds AI hosts to your music",
-      "url": "https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts",
-      "summary": "YouTube is adding AI hosts to radio and mixes in the YouTube Music app as part of a new test available through its new Labs program. The hosts are designed to “deepen your listening experience by sharing relevant stories, fan trivia, and fun commentary about your favorite music,” YouTube says in a blog post. If [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-26T18:26:36Z",
-      "score": 77.35
-    },
-    {
-      "id": "9103db6487e4",
-      "title": "Everyone’s still throwing billions at AI data centers",
-      "url": "https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/",
-      "summary": "From $100 billion OpenAI commitments to $100,000 visa fees, this week showed just how much the tech landscape is shifting. On the latest episode of Equity, Anthony Ha and Max Zeff unpack the AI infrastructure gold rush and tech&#8217;s talent shuffle. Watch the full episode for more about:&#160;&#160; Equity is TechCrunch’s flagship podcast, produced by [&#8230;]",
-      "source": "techcrunch.com",
-      "ts": "2025-09-26T17:30:00Z",
-      "score": 75.84
-    },
-    {
-      "id": "eb382ae71c88",
-      "title": "Partnering with AARP to help keep older adults safe online",
-      "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
-      "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
-      "source": "openai.com",
-      "ts": "2025-09-26T06:00:00Z",
-      "score": 70.53
-    },
-    {
-      "id": "hn-45388675",
-      "title": "Gauntlet AI (YC S17) is looking for engineers who want to master AI",
-      "url": "https://apply.gauntletai.com/",
+      "id": "hn-45398891",
+      "title": "NixOS moderation team resigns over NixOS Steering Committee's interference",
+      "url": "https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828",
       "summary": "",
-      "source": "apply.gauntletai.com",
-      "ts": "2025-09-26T17:00:46Z",
-      "score": 68.85
-    },
-    {
-      "id": "60f422e7614f",
-      "title": "Building health care agents using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/",
-      "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-26T16:03:41Z",
-      "score": 66.91
-    },
-    {
-      "id": "4920a5f4367d",
-      "title": "Networking at the Heart of AI — @Scale: Networking 2025 Recap",
-      "url": "https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/",
-      "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-26T16:00:52Z",
-      "score": 66.84
-    },
-    {
-      "id": "e2125b7da15c",
-      "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/",
-      "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-26T15:58:34Z",
-      "score": 66.79
-    },
-    {
-      "id": "729ddf77f79c",
-      "title": "RLBFF: Binary Flexible Feedback to bridge between Human Feedback &\n  Verifiable Rewards",
-      "url": "http://arxiv.org/abs/2509.21319v1",
-      "summary": "Reinforcement Learning with Human Feedback (RLHF) and Reinforcement Learning\nwith Verifiable Rewards (RLVR) are the main RL paradigms used in LLM\npost-training, each offering distinct advantages. However, RLHF struggles with\ninterpretability and reward hacking because it relies on human judgments that\nusually lack explicit criteria, whereas RLVR is limited in scope by its focus\non correctness-based verifiers. We propose Reinforcement Learning with Binary\nFlexible Feedback (RLBFF), which combines the versatility of human-driven\npreferences with the precision of rule-based verification, enabling reward\nmodels to capture nuanced aspects of response quality beyond mere correctness.\nRLBFF extracts principles that can be answered in a binary fashion (e.g.\naccuracy of information: yes, or code readability: no) from natural language\nfeedback. Such principles can then be used to ground Reward Model training as\nan entailment task (response satisfies or does not satisfy an arbitrary\nprinciple). We show that Reward Models trained in this manner can outperform\nBradley-Terry models when matched for data and achieve top performance on\nRM-Bench (86.2%) and JudgeBench (81.4%, #1 on leaderboard as of September 24,\n2025). Additionally, users can specify principles of interest at inference time\nto customize the focus of our reward models, in contrast to Bradley-Terry\nmodels. Finally, we present a fully open source recipe (including data) to\nalign Qwen3-32B using RLBFF and our Reward Model, to match or exceed the\nperformance of o3-mini and DeepSeek R1 on general alignment benchmarks of\nMT-Bench, WildBench, and Arena Hard v2 (at <5% of the inference cost).",
-      "source": "arxiv.org",
-      "ts": "2025-09-25T16:19:06Z",
-      "score": 53.04
-    },
-    {
-      "id": "bd48f8ef13b9",
-      "title": "SD3.5-Flash: Distribution-Guided Distillation of Generative Flows",
-      "url": "http://arxiv.org/abs/2509.21318v1",
-      "summary": "We present SD3.5-Flash, an efficient few-step distillation framework that\nbrings high-quality image generation to accessible consumer devices. Our\napproach distills computationally prohibitive rectified flow models through a\nreformulated distribution matching objective tailored specifically for few-step\ngeneration. We introduce two key innovations: \"timestep sharing\" to reduce\ngradient noise and \"split-timestep fine-tuning\" to improve prompt alignment.\nCombined with comprehensive pipeline optimizations like text encoder\nrestructuring and specialized quantization, our system enables both rapid\ngeneration and memory-efficient deployment across different hardware\nconfigurations. This democratizes access across the full spectrum of devices,\nfrom mobile phones to desktop computers. Through extensive evaluation including\nlarge-scale user studies, we demonstrate that SD3.5-Flash consistently\noutperforms existing few-step methods, making advanced generative AI truly\naccessible for practical deployment.",
-      "source": "arxiv.org",
-      "ts": "2025-09-25T16:07:38Z",
-      "score": 52.83
-    },
-    {
-      "id": "0aa857f92686",
-      "title": "SAGE: A Realistic Benchmark for Semantic Understanding",
-      "url": "http://arxiv.org/abs/2509.21310v1",
-      "summary": "As large language models (LLMs) achieve strong performance on traditional\nbenchmarks, there is an urgent need for more challenging evaluation frameworks\nthat probe deeper aspects of semantic understanding. We introduce SAGE\n(Semantic Alignment & Generalization Evaluation), a rigorous benchmark designed\nto assess both embedding models and similarity metrics across five categories:\nHuman Preference Alignment, Transformation Robustness, Information Sensitivity,\nClustering Performance, and Retrieval Robustness. Unlike existing benchmarks\nthat focus on isolated capabilities, SAGE evaluates semantic understanding\nthrough adversarial conditions, noisy transformations, and nuanced human\njudgment tasks across 30+ datasets. Our comprehensive evaluation of 9 embedding\nmodels and classical metrics reveals significant performance gaps, with no\nsingle approach excelling across all dimensions. For instance, while\nstate-of-the-art embedding models like OpenAI's text-embedding-3-large dominate\nin aligning with human preferences (0.682 vs. 0.591 for the best classical\nmetric), they are significantly outperformed by classical metrics on\ninformation sensitivity tasks, where Jaccard Similarity achieves a score of\n0.905 compared to the top embedding score of 0.794. SAGE further uncovers\ncritical trade-offs: OpenAI's text-embedding-3-small achieves the highest\nclustering performance (0.483) but demonstrates extreme brittleness with the\nlowest robustness score (0.011). SAGE exposes critical limitations in current\nsemantic understanding capabilities and provides a more realistic assessment of\nmodel robustness for real-world deployment.",
-      "source": "arxiv.org",
-      "ts": "2025-09-25T15:27:15Z",
-      "score": 52.09
-    },
-    {
-      "id": "51e0b2cb3881",
-      "title": "More ways to work with your team and tools in ChatGPT",
-      "url": "https://openai.com/index/more-ways-to-work-with-your-team",
-      "summary": "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.",
-      "source": "openai.com",
-      "ts": "2025-09-25T11:00:00Z",
-      "score": 47.48
-    },
-    {
-      "id": "8e2e6c05adfe",
-      "title": "Measuring the performance of our models on real-world tasks",
-      "url": "https://openai.com/index/gdpval",
-      "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
-      "source": "openai.com",
-      "ts": "2025-09-25T09:00:00Z",
-      "score": 45.54
-    },
-    {
-      "id": "87fc2d1afd93",
-      "title": "DoWhile loops now supported in Amazon Bedrock Flows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/",
-      "summary": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-25T20:25:08Z",
-      "score": 44.44
-    },
-    {
-      "id": "hn-45364503",
-      "title": "Elephantshark, a tool to monitor Postgres network traffic",
-      "url": "https://neon.com/blog/elephantshark-monitor-postgres-network-traffic",
-      "summary": "",
-      "source": "neon.com",
-      "ts": "2025-09-24T18:52:23Z",
-      "score": 42.9
-    },
-    {
-      "id": "hn-45354404",
-      "title": "Meshtastic 64 – A meshtastic radio for the Commodore 64",
-      "url": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
-      "summary": "",
-      "source": "64jim64.blogspot.com",
-      "ts": "2025-09-23T23:54:01Z",
-      "score": 41.58
+      "source": "discourse.nixos.org",
+      "ts": "2025-09-27T20:00:13Z",
+      "score": 106.97
     },
     {
       "id": "hn-45349218",
@@ -484,7 +232,277 @@
       "summary": "",
       "source": "medium.com",
       "ts": "2025-09-23T16:25:13Z",
-      "score": 25.84
+      "score": 104.7
+    },
+    {
+      "id": "hn-45399863",
+      "title": "Microwave weapon downs 49 drones with a single blast",
+      "url": "https://newatlas.com/military/microwave-beam-anti-drone-weapon/",
+      "summary": "",
+      "source": "newatlas.com",
+      "ts": "2025-09-27T22:25:24Z",
+      "score": 102.74
+    },
+    {
+      "id": "4ee3787abc34",
+      "title": "Beware coworkers who produce AI-generated ‘workslop’",
+      "url": "https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/",
+      "summary": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work",
+      "source": "techcrunch.com",
+      "ts": "2025-09-27T19:36:04Z",
+      "score": 101.63
+    },
+    {
+      "id": "hn-45399637",
+      "title": "We reverse-engineered Flash Attention 4",
+      "url": "https://modal.com/blog/reverse-engineer-flash-attention-4",
+      "summary": "",
+      "source": "modal.com",
+      "ts": "2025-09-27T21:50:30Z",
+      "score": 101.01
+    },
+    {
+      "id": "77d51d61a8b7",
+      "title": "AI startup Friend spent more than $1M on all those subway ads",
+      "url": "https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/",
+      "summary": "If you’ve been on the New York subway recently, you’ve probably seen stark white ads promoting a wearable AI device called Friend.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-27T17:22:24Z",
+      "score": 97.03
+    },
+    {
+      "id": "hn-45398872",
+      "title": "Idea – nonverbal algorithm assembly instructions",
+      "url": "https://idea-instructions.com/",
+      "summary": "",
+      "source": "idea-instructions.com",
+      "ts": "2025-09-27T19:57:21Z",
+      "score": 94.88
+    },
+    {
+      "id": "hn-45398760",
+      "title": "Explore Digital Edition of Printing Types from 1922",
+      "url": "https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html",
+      "summary": "",
+      "source": "openculture.com",
+      "ts": "2025-09-27T19:42:24Z",
+      "score": 94.4
+    },
+    {
+      "id": "1ccce14a3c81",
+      "title": "How South Korea plans to best OpenAI, Google, others with homegrown AI",
+      "url": "https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/",
+      "summary": "South Korea has launched its most ambitious sovereign AI initiative yet, as the nation's major tech players like LG and SK Telecom develop their own LLMs.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-27T14:00:00Z",
+      "score": 90.44
+    },
+    {
+      "id": "hn-45396234",
+      "title": "マリウス – Thoughts on Cloudflare",
+      "url": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
+      "summary": "",
+      "source": "xn--gckvb8fzb.com",
+      "ts": "2025-09-27T14:55:29Z",
+      "score": 90.42
+    },
+    {
+      "id": "hn-45397492",
+      "title": "Great Question (YC W21) Is Hiring Director of Product",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-27T17:00:42Z",
+      "score": 88.14
+    },
+    {
+      "id": "e4b93270f5a9",
+      "title": "What to expect from Amazon’s big fall hardware event on Tuesday",
+      "url": "https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle",
+      "summary": "Amazon is hosting its 2025 fall hardware event on Tuesday, September 30th, and it could be a packed show. The company’s invite has a few not-so-subtle hints about new Echos and a new Kindle. It will also be Amazon’s next big product event for Panos Panay, who joined Amazon in 2023 to head up its [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-27T12:00:00Z",
+      "score": 86.75
+    },
+    {
+      "id": "hn-45371986",
+      "title": "Testing the Raspberry Pi 500's new mechanical keyboard",
+      "url": "https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard",
+      "summary": "",
+      "source": "jeffgeerling.com",
+      "ts": "2025-09-25T12:27:46Z",
+      "score": 79.09
+    },
+    {
+      "id": "hn-45354404",
+      "title": "Meshtastic 64 – A meshtastic radio for the Commodore 64",
+      "url": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
+      "summary": "",
+      "source": "64jim64.blogspot.com",
+      "ts": "2025-09-23T23:54:01Z",
+      "score": 73.08
+    },
+    {
+      "id": "hn-45378323",
+      "title": "Windows ML is generally available",
+      "url": "https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/",
+      "summary": "",
+      "source": "blogs.windows.com",
+      "ts": "2025-09-25T20:11:11Z",
+      "score": 69.21
+    },
+    {
+      "id": "afa8733b0cf1",
+      "title": "Microsoft Photos will soon auto-categorize your pictures",
+      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+      "summary": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-26T21:40:35Z",
+      "score": 64.37
+    },
+    {
+      "id": "526f0948d9b5",
+      "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
+      "summary": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Building humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spend billions of dollars on the effort. During a recent conversation [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-26T19:45:00Z",
+      "score": 61.84
+    },
+    {
+      "id": "eb382ae71c88",
+      "title": "Partnering with AARP to help keep older adults safe online",
+      "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
+      "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
+      "source": "openai.com",
+      "ts": "2025-09-26T06:00:00Z",
+      "score": 54.88
+    },
+    {
+      "id": "hn-45376847",
+      "title": "Walking Around the Compiler",
+      "url": "https://bernsteinbear.com/blog/walking-around/",
+      "summary": "",
+      "source": "bernsteinbear.com",
+      "ts": "2025-09-25T18:26:35Z",
+      "score": 52.38
+    },
+    {
+      "id": "60f422e7614f",
+      "title": "Building health care agents using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/",
+      "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-26T16:03:41Z",
+      "score": 52.06
+    },
+    {
+      "id": "4920a5f4367d",
+      "title": "Networking at the Heart of AI — @Scale: Networking 2025 Recap",
+      "url": "https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/",
+      "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-26T16:00:52Z",
+      "score": 52.01
+    },
+    {
+      "id": "e2125b7da15c",
+      "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/",
+      "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-26T15:58:34Z",
+      "score": 51.96
+    },
+    {
+      "id": "729ddf77f79c",
+      "title": "RLBFF: Binary Flexible Feedback to bridge between Human Feedback &\n  Verifiable Rewards",
+      "url": "http://arxiv.org/abs/2509.21319v1",
+      "summary": "Reinforcement Learning with Human Feedback (RLHF) and Reinforcement Learning\nwith Verifiable Rewards (RLVR) are the main RL paradigms used in LLM\npost-training, each offering distinct advantages. However, RLHF struggles with\ninterpretability and reward hacking because it relies on human judgments that\nusually lack explicit criteria, whereas RLVR is limited in scope by its focus\non correctness-based verifiers. We propose Reinforcement Learning with Binary\nFlexible Feedback (RLBFF), which combines the versatility of human-driven\npreferences with the precision of rule-based verification, enabling reward\nmodels to capture nuanced aspects of response quality beyond mere correctness.\nRLBFF extracts principles that can be answered in a binary fashion (e.g.\naccuracy of information: yes, or code readability: no) from natural language\nfeedback. Such principles can then be used to ground Reward Model training as\nan entailment task (response satisfies or does not satisfy an arbitrary\nprinciple). We show that Reward Models trained in this manner can outperform\nBradley-Terry models when matched for data and achieve top performance on\nRM-Bench (86.2%) and JudgeBench (81.4%, #1 on leaderboard as of September 24,\n2025). Additionally, users can specify principles of interest at inference time\nto customize the focus of our reward models, in contrast to Bradley-Terry\nmodels. Finally, we present a fully open source recipe (including data) to\nalign Qwen3-32B using RLBFF and our Reward Model, to match or exceed the\nperformance of o3-mini and DeepSeek R1 on general alignment benchmarks of\nMT-Bench, WildBench, and Arena Hard v2 (at <5% of the inference cost).",
+      "source": "arxiv.org",
+      "ts": "2025-09-25T16:19:06Z",
+      "score": 41.27
+    },
+    {
+      "id": "bd48f8ef13b9",
+      "title": "SD3.5-Flash: Distribution-Guided Distillation of Generative Flows",
+      "url": "http://arxiv.org/abs/2509.21318v1",
+      "summary": "We present SD3.5-Flash, an efficient few-step distillation framework that\nbrings high-quality image generation to accessible consumer devices. Our\napproach distills computationally prohibitive rectified flow models through a\nreformulated distribution matching objective tailored specifically for few-step\ngeneration. We introduce two key innovations: \"timestep sharing\" to reduce\ngradient noise and \"split-timestep fine-tuning\" to improve prompt alignment.\nCombined with comprehensive pipeline optimizations like text encoder\nrestructuring and specialized quantization, our system enables both rapid\ngeneration and memory-efficient deployment across different hardware\nconfigurations. This democratizes access across the full spectrum of devices,\nfrom mobile phones to desktop computers. Through extensive evaluation including\nlarge-scale user studies, we demonstrate that SD3.5-Flash consistently\noutperforms existing few-step methods, making advanced generative AI truly\naccessible for practical deployment.",
+      "source": "arxiv.org",
+      "ts": "2025-09-25T16:07:38Z",
+      "score": 41.1
+    },
+    {
+      "id": "0aa857f92686",
+      "title": "SAGE: A Realistic Benchmark for Semantic Understanding",
+      "url": "http://arxiv.org/abs/2509.21310v1",
+      "summary": "As large language models (LLMs) achieve strong performance on traditional\nbenchmarks, there is an urgent need for more challenging evaluation frameworks\nthat probe deeper aspects of semantic understanding. We introduce SAGE\n(Semantic Alignment & Generalization Evaluation), a rigorous benchmark designed\nto assess both embedding models and similarity metrics across five categories:\nHuman Preference Alignment, Transformation Robustness, Information Sensitivity,\nClustering Performance, and Retrieval Robustness. Unlike existing benchmarks\nthat focus on isolated capabilities, SAGE evaluates semantic understanding\nthrough adversarial conditions, noisy transformations, and nuanced human\njudgment tasks across 30+ datasets. Our comprehensive evaluation of 9 embedding\nmodels and classical metrics reveals significant performance gaps, with no\nsingle approach excelling across all dimensions. For instance, while\nstate-of-the-art embedding models like OpenAI's text-embedding-3-large dominate\nin aligning with human preferences (0.682 vs. 0.591 for the best classical\nmetric), they are significantly outperformed by classical metrics on\ninformation sensitivity tasks, where Jaccard Similarity achieves a score of\n0.905 compared to the top embedding score of 0.794. SAGE further uncovers\ncritical trade-offs: OpenAI's text-embedding-3-small achieves the highest\nclustering performance (0.483) but demonstrates extreme brittleness with the\nlowest robustness score (0.011). SAGE exposes critical limitations in current\nsemantic understanding capabilities and provides a more realistic assessment of\nmodel robustness for real-world deployment.",
+      "source": "arxiv.org",
+      "ts": "2025-09-25T15:27:15Z",
+      "score": 40.53
+    },
+    {
+      "id": "hn-45363845",
+      "title": "Depictions of Celestial Objects Spanning Nearly a Millennium (2014)",
+      "url": "https://publicdomainreview.org/collection/flowers-of-the-sky/",
+      "summary": "",
+      "source": "publicdomainreview.org",
+      "ts": "2025-09-24T18:01:54Z",
+      "score": 37.95
+    },
+    {
+      "id": "51e0b2cb3881",
+      "title": "More ways to work with your team and tools in ChatGPT",
+      "url": "https://openai.com/index/more-ways-to-work-with-your-team",
+      "summary": "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.",
+      "source": "openai.com",
+      "ts": "2025-09-25T11:00:00Z",
+      "score": 36.94
+    },
+    {
+      "id": "8e2e6c05adfe",
+      "title": "Measuring the performance of our models on real-world tasks",
+      "url": "https://openai.com/index/gdpval",
+      "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
+      "source": "openai.com",
+      "ts": "2025-09-25T09:00:00Z",
+      "score": 35.43
+    },
+    {
+      "id": "87fc2d1afd93",
+      "title": "DoWhile loops now supported in Amazon Bedrock Flows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/",
+      "summary": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-25T20:25:08Z",
+      "score": 34.57
+    },
+    {
+      "id": "hn-45358841",
+      "title": "Why Today's Python Developers Are Embracing Type Hints",
+      "url": "https://pyrefly.org/blog/why-typed-python/",
+      "summary": "",
+      "source": "pyrefly.org",
+      "ts": "2025-09-24T11:23:54Z",
+      "score": 34.18
+    },
+    {
+      "id": "hn-45361865",
+      "title": "Compositor 0.3 for Windows",
+      "url": "https://compositorapp.com/blog/2025-09-24/Compositor-Windows-03/",
+      "summary": "",
+      "source": "compositorapp.com",
+      "ts": "2025-09-24T15:38:08Z",
+      "score": 33.38
+    },
+    {
+      "id": "hn-45368234",
+      "title": "In Praise of Binturongs",
+      "url": "https://satyrs.eu/garden/2025/binturongs",
+      "summary": "",
+      "source": "satyrs.eu",
+      "ts": "2025-09-25T01:27:39Z",
+      "score": 31.69
     },
     {
       "id": "8a63cf7f5b6e",
@@ -493,16 +511,7 @@
       "summary": "<p>Today, Meta, Vodafone, and Google released a white paper, “Video Streaming with the AV1 Video Codec in Mobile Devices,&#8221; detailing the benefits of the AV1 codec, an advanced video compression technique, to enhance the streaming video experience on mobile devices.  The white paper recommends that: Vendors of core processors (SoCs) should evaluate the adoption of [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/\" rel=\"nofollow\">Video Streaming With the AV1 Video Codec in Mobile Devices</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-24T08:00:44Z",
-      "score": 20.81
-    },
-    {
-      "id": "hn-45348762",
-      "title": "Requiem for a Hash Function, or: How I learned to love package maphash",
-      "url": "https://matttproud.com/blog/posts/go-maphash.html",
-      "summary": "",
-      "source": "matttproud.com",
-      "ts": "2025-09-23T15:52:09Z",
-      "score": 20.27
+      "score": 16.19
     },
     {
       "id": "9878dd4f6392",
@@ -511,7 +520,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.08
+      "score": 0.06
     },
     {
       "id": "982ca303f669",
