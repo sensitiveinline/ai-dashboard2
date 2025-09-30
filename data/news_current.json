@@ -1,292 +1,409 @@
 {
   "items": [
     {
-      "id": "hn-45415962",
-      "title": "Claude Sonnet 4.5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "id": "hn-45426490",
+      "title": "Kagi News",
+      "url": "https://blog.kagi.com/kagi-news",
       "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-09-29T16:52:59Z",
-      "score": 1156.98
+      "source": "blog.kagi.com",
+      "ts": "2025-09-30T15:09:00Z",
+      "score": 512.6
     },
     {
-      "id": "hn-45416228",
-      "title": "Claude Code 2.0",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
+      "id": "hn-45430498",
+      "title": "Inflammation now predicts heart disease more strongly than cholesterol",
+      "url": "https://www.empirical.health/blog/inflammation-and-heart-health/",
       "summary": "",
-      "source": "npmjs.com",
-      "ts": "2025-09-29T17:12:13Z",
-      "score": 504.04
+      "source": "empirical.health",
+      "ts": "2025-09-30T20:00:21Z",
+      "score": 270.17
     },
     {
-      "id": "hn-45415207",
-      "title": "Loadmo.re: design inspiration for unconventional web",
-      "url": "https://loadmo.re",
+      "id": "hn-45424888",
+      "title": "Imgur pulls out of UK as data watchdog threatens fine",
+      "url": "https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out",
       "summary": "",
-      "source": "loadmo.re",
-      "ts": "2025-09-29T15:42:46Z",
-      "score": 278.15
+      "source": "express.co.uk",
+      "ts": "2025-09-30T13:01:05Z",
+      "score": 246.14
     },
     {
-      "id": "hn-45418428",
-      "title": "California governor signs AI transparency bill into law",
-      "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/",
+      "id": "hn-45427197",
+      "title": "Leaked Apple M5 9 core Geekbench scores",
+      "url": "https://browser.geekbench.com/v6/cpu/14173685",
       "summary": "",
-      "source": "gov.ca.gov",
-      "ts": "2025-09-29T20:33:14Z",
-      "score": 252.19
+      "source": "browser.geekbench.com",
+      "ts": "2025-09-30T16:00:36Z",
+      "score": 187.13
     },
     {
-      "id": "hn-45423268",
-      "title": "Disqus Turned My Blog into an Ad Farm – So I Killed It",
-      "url": "https://ryansouthgate.com/goodbye-disqus/",
+      "id": "hn-45428482",
+      "title": "Boeing has started working on a 737 MAX replacement",
+      "url": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df",
       "summary": "",
-      "source": "ryansouthgate.com",
-      "ts": "2025-09-30T08:36:06Z",
-      "score": 204.13
+      "source": "wsj.com",
+      "ts": "2025-09-30T17:31:34Z",
+      "score": 186.28
     },
     {
-      "id": "hn-45420327",
-      "title": "FAA is granting Boeing “limited delegation” to certify airworthiness",
-      "url": "https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/",
+      "id": "hn-45424827",
+      "title": "Founder sentenced to seven years in prison for fraudulent sale to JPMorgan",
+      "url": "https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl",
       "summary": "",
-      "source": "theregister.com",
-      "ts": "2025-09-29T23:56:31Z",
-      "score": 184.36
+      "source": "cnn.com",
+      "ts": "2025-09-30T12:53:49Z",
+      "score": 173.94
     },
     {
-      "id": "hn-45422512",
-      "title": "European Union Public Licence (EUPL)",
-      "url": "https://eupl.eu/",
+      "id": "hn-45424704",
+      "title": "Pasta Cooking Time",
+      "url": "https://www.jefftk.com/p/pasta-cooking-time",
       "summary": "",
-      "source": "eupl.eu",
-      "ts": "2025-09-30T06:23:05Z",
-      "score": 180.07
+      "source": "jefftk.com",
+      "ts": "2025-09-30T12:40:17Z",
+      "score": 164.52
     },
     {
-      "id": "hn-45414215",
-      "title": "Vertical Solar Panels Are Out Standing",
-      "url": "https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/",
-      "summary": "",
-      "source": "hackaday.com",
-      "ts": "2025-09-29T14:22:39Z",
-      "score": 173.73
-    },
-    {
-      "id": "hn-45418261",
-      "title": "iRobot Founder: Don't Believe the AI and Robotics Hype",
-      "url": "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/",
-      "summary": "",
-      "source": "crazystupidtech.com",
-      "ts": "2025-09-29T20:19:08Z",
-      "score": 168.43
-    },
-    {
-      "id": "hn-45420173",
-      "title": "How to create an OS from scratch",
-      "url": "https://github.com/cfenollosa/os-tutorial",
+      "id": "hn-45427482",
+      "title": "Launch HN: Airweave (YC X25) – Let agents search any app",
+      "url": "https://github.com/airweave-ai/airweave",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-09-29T23:32:10Z",
-      "score": 168.09
+      "ts": "2025-09-30T16:21:09Z",
+      "score": 162.54
     },
     {
-      "id": "hn-45420001",
-      "title": "Safe zero-copy operations in C#",
-      "url": "https://ssg.dev/safe-zero-copy-operations-in-c/",
+      "id": "hn-45427697",
+      "title": "Show HN: Sculptor, the Missing UI for Claude Code",
+      "url": "https://imbue.com/sculptor/",
       "summary": "",
-      "source": "ssg.dev",
-      "ts": "2025-09-29T23:12:36Z",
-      "score": 162.76
+      "source": "imbue.com",
+      "ts": "2025-09-30T16:35:16Z",
+      "score": 155.76
     },
     {
-      "id": "hn-45413525",
-      "title": "A SQL Heuristic: ORs Are Expensive",
-      "url": "https://ethanseal.com/articles/ors-are-expensive",
+      "id": "hn-45425298",
+      "title": "dgsh – Directed Graph Shell",
+      "url": "https://www2.dmst.aueb.gr/dds/sw/dgsh/",
       "summary": "",
-      "source": "ethanseal.com",
-      "ts": "2025-09-29T13:29:55Z",
-      "score": 144.36
+      "source": "www2.dmst.aueb.gr",
+      "ts": "2025-09-30T13:39:22Z",
+      "score": 153.02
     },
     {
-      "id": "hn-45415332",
-      "title": "Subtleties of SQLite Indexes",
-      "url": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
+      "id": "hn-45431001",
+      "title": "Atuin Desktop: Runbooks That Run – Now Open Source",
+      "url": "https://blog.atuin.sh/atuin-desktop-open-source/",
       "summary": "",
-      "source": "emschwartz.me",
-      "ts": "2025-09-29T15:54:42Z",
-      "score": 136.82
+      "source": "blog.atuin.sh",
+      "ts": "2025-09-30T20:44:30Z",
+      "score": 151.01
     },
     {
-      "id": "hn-45415510",
-      "title": "ML on Apple ][+",
-      "url": "https://mdcramer.github.io/apple-2-blog/k-means/",
+      "id": "hn-45425061",
+      "title": "An opinionated critique of Duolingo",
+      "url": "https://isomorphism.xyz/blog/2025/duolingo/",
       "summary": "",
-      "source": "mdcramer.github.io",
-      "ts": "2025-09-29T16:12:30Z",
-      "score": 134.84
+      "source": "isomorphism.xyz",
+      "ts": "2025-09-30T13:19:53Z",
+      "score": 150.07
     },
     {
-      "id": "hn-45411831",
-      "title": "Bad Apple but it's played inside Super Mario Bros",
-      "url": "https://tasvideos.org/8991S",
+      "id": "hn-45427111",
+      "title": "Cerebras systems raises $1.1B Series G",
+      "url": "https://www.cerebras.ai/press-release/series-g",
       "summary": "",
-      "source": "tasvideos.org",
-      "ts": "2025-09-29T09:34:16Z",
-      "score": 131.58
+      "source": "cerebras.ai",
+      "ts": "2025-09-30T15:54:14Z",
+      "score": 149.14
     },
     {
-      "id": "hn-45422514",
-      "title": "Geolocation and Starlink",
-      "url": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
+      "id": "hn-45431271",
+      "title": "Introduction to Multi-Armed Bandits",
+      "url": "https://arxiv.org/abs/1904.07272",
       "summary": "",
-      "source": "potaroo.net",
-      "ts": "2025-09-30T06:23:31Z",
-      "score": 131.48
+      "source": "arxiv.org",
+      "ts": "2025-09-30T21:08:28Z",
+      "score": 148.98
     },
     {
-      "id": "hn-45417637",
-      "title": "Don't Become a Scientist (1999)",
-      "url": "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm",
+      "id": "hn-45424648",
+      "title": "How has mathematics gotten so abstract?",
+      "url": "https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract",
       "summary": "",
-      "source": "yangxiao.cs.ua.edu",
-      "ts": "2025-09-29T19:16:40Z",
-      "score": 131.46
+      "source": "lcamtuf.substack.com",
+      "ts": "2025-09-30T12:33:43Z",
+      "score": 146.98
     },
     {
-      "id": "hn-45414479",
-      "title": "Not all OCuLink eGPU docks are created equal",
-      "url": "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal",
+      "id": "hn-45426680",
+      "title": "Designing agentic loops",
+      "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
       "summary": "",
-      "source": "jeffgeerling.com",
-      "ts": "2025-09-29T14:46:11Z",
-      "score": 130.46
+      "source": "simonwillison.net",
+      "ts": "2025-09-30T15:21:23Z",
+      "score": 145.17
     },
     {
-      "id": "hn-45423088",
-      "title": "Companies Are Lying About AI Layoffs",
-      "url": "https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs",
+      "id": "hn-45427059",
+      "title": "Visualizations of Random Attractors Found Using Lyapunov Exponents",
+      "url": "https://paulbourke.net/fractals/lyapunov/",
       "summary": "",
-      "source": "huijzer.xyz",
-      "ts": "2025-09-30T08:07:16Z",
-      "score": 129.99
+      "source": "paulbourke.net",
+      "ts": "2025-09-30T15:50:14Z",
+      "score": 144.22
     },
     {
-      "id": "hn-45414933",
-      "title": "John Jumper: AI is revolutionizing scientific discovery [video]",
-      "url": "https://www.youtube.com/watch?v=2Yguz5U-Nic",
+      "id": "hn-45430604",
+      "title": "Diff Algorithms",
+      "url": "https://flo.znkr.io/diff/",
       "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-29T15:20:11Z",
-      "score": 128.83
+      "source": "flo.znkr.io",
+      "ts": "2025-09-30T20:09:44Z",
+      "score": 142.67
     },
     {
-      "id": "hn-45421302",
-      "title": "Show HN: Devbox – Containers for better dev environments",
-      "url": "https://devbox.ar0.eu/",
+      "id": "hn-45430048",
+      "title": "Making sure AI serves people and knowledge stays human",
+      "url": "https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/",
       "summary": "",
-      "source": "devbox.ar0.eu",
-      "ts": "2025-09-30T02:26:39Z",
-      "score": 127.37
+      "source": "diff.wikimedia.org",
+      "ts": "2025-09-30T19:23:34Z",
+      "score": 138.18
     },
     {
       "id": "hn-45423363",
-      "title": "Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?",
+      "title": "Can you use GDPR to circumvent BlueSky's adult content blocks?",
       "url": "https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/",
       "summary": "",
       "source": "shkspr.mobi",
       "ts": "2025-09-30T08:50:11Z",
-      "score": 125.39
-    },
-    {
-      "id": "hn-45382300",
-      "title": "Voronoi map generation in Civilization VII",
-      "url": "https://civilization.2k.com/civ-vii/from-the-devs/map-generation/",
-      "summary": "",
-      "source": "civilization.2k.com",
-      "ts": "2025-09-26T03:28:05Z",
-      "score": 123.67
-    },
-    {
-      "id": "hn-45421067",
-      "title": "Awakening Bell",
-      "url": "https://awakeningbell.org/",
-      "summary": "",
-      "source": "awakeningbell.org",
-      "ts": "2025-09-30T01:46:02Z",
-      "score": 117.21
-    },
-    {
-      "id": "hn-45423004",
-      "title": "Bcachefs Removed from the Mainline Kernel",
-      "url": "https://lwn.net/Articles/1040120/",
-      "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-30T07:52:16Z",
-      "score": 115.1
-    },
-    {
-      "id": "hn-45422353",
-      "title": "The ABS Programming Language",
-      "url": "https://www.abs-lang.org/",
-      "summary": "",
-      "source": "abs-lang.org",
-      "ts": "2025-09-30T05:53:25Z",
-      "score": 109.55
-    },
-    {
-      "id": "hn-45418875",
-      "title": "Jax: Fast Combinations Calculation",
-      "url": "https://github.com/phoenicyan/combinadics",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-29T21:17:16Z",
-      "score": 107.52
-    },
-    {
-      "id": "hn-45413588",
-      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-      "url": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
-      "summary": "",
-      "source": "blog.pkh.me",
-      "ts": "2025-09-29T13:34:58Z",
-      "score": 104.27
-    },
-    {
-      "id": "hn-45421221",
-      "title": "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
-      "url": "https://github.com/currentspace/capn-rs",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-30T02:13:00Z",
-      "score": 103.58
-    },
-    {
-      "id": "3ecf73a76bbe",
-      "title": "Opera launches its AI-centric Neon browser",
-      "url": "https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/",
-      "summary": "Neon will write code snippets, includes an agent that will do tasks for you, and handles repeatable prompts.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-30T08:00:00Z",
-      "score": 102.47
-    },
-    {
-      "id": "e536990ca399",
-      "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
-      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
-      "summary": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month.&#160; The Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes different AI agents that are tailored to specific tasks. One simply called Tasks [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-30T08:00:00Z",
-      "score": 102.47
+      "score": 137.42
     },
     {
       "id": "hn-45422653",
-      "title": "Exploiting huffman table bug in zlib",
+      "title": "Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table",
       "url": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English",
       "summary": "",
       "source": "velog.io",
       "ts": "2025-09-30T06:50:11Z",
-      "score": 102.32
+      "score": 129.01
+    },
+    {
+      "id": "hn-45431367",
+      "title": "Our stewardship: Where we are, what's changing and how we'll engage",
+      "url": "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/",
+      "summary": "",
+      "source": "rubycentral.org",
+      "ts": "2025-09-30T21:16:48Z",
+      "score": 124.47
+    },
+    {
+      "id": "hn-45425714",
+      "title": "Deml: Directed Acyclic Graph Elevation Markup Language",
+      "url": "https://github.com/Mcmartelle/deml",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-30T14:12:37Z",
+      "score": 122.77
+    },
+    {
+      "id": "hn-45431167",
+      "title": "Mind the encryptionroot: How to save your data when ZFS loses its mind",
+      "url": "https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/",
+      "summary": "",
+      "source": "sambowman.tech",
+      "ts": "2025-09-30T20:58:52Z",
+      "score": 117.88
+    },
+    {
+      "id": "hn-45430542",
+      "title": "Organize your Slack channels by \"How Often\", not \"What\"",
+      "url": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
+      "summary": "",
+      "source": "aggressivelyparaphrasing.me",
+      "ts": "2025-09-30T20:04:46Z",
+      "score": 114.91
+    },
+    {
+      "id": "hn-45428020",
+      "title": "Genomic analyses of hair from Ludwig van Beethoven (2023)",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1",
+      "summary": "",
+      "source": "cell.com",
+      "ts": "2025-09-30T16:57:07Z",
+      "score": 111.42
+    },
+    {
+      "id": "hn-45424223",
+      "title": "Orbiting the Hénon Attractor",
+      "url": "https://observablehq.com/@yurivish/orbiting-the-henon-attractor",
+      "summary": "",
+      "source": "observablehq.com",
+      "ts": "2025-09-30T11:31:04Z",
+      "score": 110.47
+    },
+    {
+      "id": "hn-45431489",
+      "title": "Pre-Emptive Multi-Tasking on Arm Cortex-M",
+      "url": "https://thejpster.org.uk/blog/blog-2025-09-28/",
+      "summary": "",
+      "source": "thejpster.org.uk",
+      "ts": "2025-09-30T21:29:29Z",
+      "score": 103.3
+    },
+    {
+      "id": "hn-45431047",
+      "title": "Observation and Trauma: How Professionals Handle Observing Trauma",
+      "url": "https://trainedobserver.substack.com/p/observation-and-trauma",
+      "summary": "",
+      "source": "trainedobserver.substack.com",
+      "ts": "2025-09-30T20:49:34Z",
+      "score": 100.77
+    },
+    {
+      "id": "ea1d5a6177b9",
+      "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
+      "url": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
+      "summary": "Periodic Labs has raised from a tech industry who's who, including Andreessen Horowitz, Nvidia, Elad Gil, Jeff Dean, Eric Schmidt, and Jeff Bezos.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-30T18:56:59Z",
+      "score": 100.25
+    },
+    {
+      "id": "769288555a56",
+      "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+      "url": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+      "summary": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-30T18:28:53Z",
+      "score": 99.28
+    },
+    {
+      "id": "4d9450ab9ccf",
+      "title": "The Sora feed philosophy",
+      "url": "https://openai.com/index/sora-feed-philosophy",
+      "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+      "source": "openai.com",
+      "ts": "2025-09-30T10:00:00Z",
+      "score": 98.33
+    },
+    {
+      "id": "94060052c867",
+      "title": "AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/",
+      "summary": "What happens when your first 10 hires aren’t people at all? At TechCrunch Disrupt 2025, we’re digging into the new wave of startups replacing or augmenting early employees with AI agents.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-30T18:00:00Z",
+      "score": 98.29
+    },
+    {
+      "id": "b6ca4ecc37a6",
+      "title": "Microsoft is giving Copilot AI faces you can chat with",
+      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+      "summary": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations. Announcing the new feature on [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-30T17:12:48Z",
+      "score": 96.69
+    },
+    {
+      "id": "155b9c9da462",
+      "title": "OpenAI’s new social video app will let you deepfake your friends",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
+      "summary": "OpenAI has a new version of the Sora AI video generator that it launched at the end of last year, and it’s arriving today alongside a new social video app, also called Sora, for iPhones. The currently invite-only app resembles TikTok with a feed of videos you can shuffle through. But instead of encouraging people [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-30T17:06:39Z",
+      "score": 96.49
+    },
+    {
+      "id": "hn-45427061",
+      "title": "Prompt analytics for MCP servers",
+      "url": "https://hyprmcp.com/blog/mcp-server-prompt-analytics/",
+      "summary": "",
+      "source": "hyprmcp.com",
+      "ts": "2025-09-30T15:50:22Z",
+      "score": 96.22
+    },
+    {
+      "id": "bcc70e36667a",
+      "title": "Modernize fraud prevention: GraphStorm v0.5 for real-time inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernize-fraud-prevention-graphstorm-v0-5-for-real-time-inference/",
+      "summary": "In this post, we demonstrate how to implement real-time fraud prevention using GraphStorm v0.5's new capabilities for deploying graph neural network (GNN) models through Amazon SageMaker. We show how to transition from model training to production-ready inference endpoints with minimal operational overhead, enabling sub-second fraud detection on transaction graphs with billions of nodes and edges.",
+      "source": "aws.amazon.com",
+      "ts": "2025-09-30T20:29:46Z",
+      "score": 94.12
+    },
+    {
+      "id": "455d744c21bb",
+      "title": "Alien: Earth’s showrunner wanted it to be a dark reflection of our world",
+      "url": "https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale",
+      "summary": "In Alien: Earth, a techbro wunderkind controls 20 percent of the world's continental land mass, and he likes to play God in a secret lab located on a remote island. That's where the trillionaire has engineered a new pathway to human immortality, and given a group of dying children a second chance at life. But [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-30T15:46:46Z",
+      "score": 93.85
+    },
+    {
+      "id": "hn-45428081",
+      "title": "Bild AI (YC W25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-09-30T17:01:27Z",
+      "score": 88.16
+    },
+    {
+      "id": "hn-45425568",
+      "title": "The Software Essays That Shaped Me",
+      "url": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
+      "summary": "",
+      "source": "refactoringenglish.com",
+      "ts": "2025-09-30T14:01:53Z",
+      "score": 87.66
+    },
+    {
+      "id": "e5bccbdbf40e",
+      "title": "LLMs Are the Key to Mutation Testing and Better Compliance",
+      "url": "https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/",
+      "summary": "<p>Following our keynote presentations at FSE 2025 and Eurostar 2025, we’re delving further into the development of Meta’s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of compliance adherence at Meta, while accelerating developer and product velocity. By leveraging LLMs we’ve been able to overcome the barriers that [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\" rel=\"nofollow\">LLMs Are the Key to Mutation Testing and Better Compliance</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-30T16:00:08Z",
+      "score": 85.71
+    },
+    {
+      "id": "hn-45425770",
+      "title": "Valuing Land: The Simplest Viable Method",
+      "url": "https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable",
+      "summary": "",
+      "source": "progressandpoverty.substack.com",
+      "ts": "2025-09-30T14:16:51Z",
+      "score": 85.09
+    },
+    {
+      "id": "f69a340d1942",
+      "title": "Launching Sora responsibly",
+      "url": "https://openai.com/index/launching-sora-responsibly",
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "source": "openai.com",
+      "ts": "2025-09-30T00:00:00Z",
+      "score": 79.84
+    },
+    {
+      "id": "2fac130322d8",
+      "title": "Sora 2 is here",
+      "url": "https://openai.com/index/sora-2",
+      "summary": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+      "source": "openai.com",
+      "ts": "2025-09-30T00:00:00Z",
+      "score": 79.84
+    },
+    {
+      "id": "hn-45417616",
+      "title": "Register allocation in the Go compiler (2024)",
+      "url": "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html",
+      "summary": "",
+      "source": "vnmakarov.github.io",
+      "ts": "2025-09-29T19:14:57Z",
+      "score": 76.62
     },
     {
       "id": "a1af6d351a83",
@@ -295,7 +412,7 @@
       "summary": "Shaping powerful LLMs to be beneficial and safe is central to AI alignment.\nWe argue that post-training alignment is fundamentally a unified Preference\nLearning problem, involving two modalities: demonstrated preferences (e.g.,\nSupervised Fine-Tuning, SFT) and comparative preferences (e.g., Reinforcement\nLearning, RL).The standard sequential pipeline-SFT followed by RL-is flawed due\nto a critical distributional mismatch: SFT uses static expert data, but as the\npolicy evolves, its generation distribution drifts, making SFT knowledge\nbrittle. Subsequent RL then explores without direct access to the rich,\nground-truth knowledge in expert demonstrations, leading to inefficient,\nungrounded updates. This separation prevents mutual regularization between data\nsources. To address this, we reframe alignment as a constrained optimization\nproblem and propose Unified Adversarial Preference Learning (UniAPL),a novel\nframework that dynamically aligns the policy's distribution with the expert's.\nUniAPL implements a single-stage unified training objective, jointly learning\nfrom mixed batches of SFT and preference data. In every gradient step, dense\nexpert demonstrations directly ground and regularize online exploration,\ninherently resolving distributional mismatch and maximizing data synergy.We\nevaluate UniAPL on instruction-following tasks using Qwen3-235B-Instruct-2507\nas the teacher. Our models match or exceed strong GRPO baselines: +5.77% on\nQwen3-0.6B (matching a 32B model) and +3.75% on Qwen3-4B,even outperforming the\nteacher. Analyses of response length and log-probability distributions confirm\nthat UniAPL outputs closely mimic expert demonstrations, achieving both\nstronger performance and better behavioral alignment.",
       "source": "arxiv.org",
       "ts": "2025-09-29T17:53:09Z",
-      "score": 90.25
+      "score": 70.29
     },
     {
       "id": "31fe8aad421f",
@@ -304,97 +421,43 @@
       "summary": "This paper develops a mathematical argument and algorithms for building\nrepresentations of data from event-based cameras, that we call Fast Feature\nField ($\\text{F}^3$). We learn this representation by predicting future events\nfrom past events and show that it preserves scene structure and motion\ninformation. $\\text{F}^3$ exploits the sparsity of event data and is robust to\nnoise and variations in event rates. It can be computed efficiently using ideas\nfrom multi-resolution hash encoding and deep sets - achieving 120 Hz at HD and\n440 Hz at VGA resolutions. $\\text{F}^3$ represents events within a contiguous\nspatiotemporal volume as a multi-channel image, enabling a range of downstream\ntasks. We obtain state-of-the-art performance on optical flow estimation,\nsemantic segmentation, and monocular metric depth estimation, on data from\nthree robotic platforms (a car, a quadruped robot and a flying platform),\nacross different lighting conditions (daytime, nighttime), environments\n(indoors, outdoors, urban, as well as off-road) and dynamic vision sensors\n(resolutions and event rates). Our implementations can predict these tasks at\n25-75 Hz at HD resolution.",
       "source": "arxiv.org",
       "ts": "2025-09-29T17:52:31Z",
-      "score": 90.23
+      "score": 70.27
     },
     {
-      "id": "ec9605d530eb",
-      "title": "Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs\n  for Low-Resource Text Generation",
-      "url": "http://arxiv.org/abs/2509.25144v1",
-      "summary": "We present Paired by the Teacher (PbT), a two-stage teacher-student pipeline\nthat synthesizes accurate input-output pairs without human labels or parallel\ndata. In many low-resource natural language generation (NLG) scenarios,\npractitioners may have only raw outputs, like highlights, recaps, or questions,\nor only raw inputs, such as articles, dialogues, or paragraphs, but seldom\nboth. This mismatch forces small models to learn from very few examples or rely\non costly, broad-scope synthetic examples produced by large LLMs. PbT addresses\nthis by asking a teacher LLM to compress each unpaired example into a concise\nintermediate representation (IR), and training a student to reconstruct inputs\nfrom IRs. This enables outputs to be paired with student-generated inputs,\nyielding high-quality synthetic data. We evaluate PbT on five\nbenchmarks-document summarization (XSum, CNNDM), dialogue summarization\n(SAMSum, DialogSum), and question generation (SQuAD)-as well as an unpaired\nsetting on SwitchBoard (paired with DialogSum summaries). An 8B student trained\nonly on PbT data outperforms models trained on 70 B teacher-generated corpora\nand other unsupervised baselines, coming within 1.2 ROUGE-L of human-annotated\npairs and closing 82% of the oracle gap at one-third the annotation cost of\ndirect synthesis. Human evaluation on SwitchBoard further confirms that only\nPbT produces concise, faithful summaries aligned with the target style,\nhighlighting its advantage of generating in-domain sources that avoid the\nmismatch, limiting direct synthesis.",
-      "source": "arxiv.org",
-      "ts": "2025-09-29T17:51:55Z",
-      "score": 90.21
-    },
-    {
-      "id": "d0cbc5144783",
-      "title": "SB 53, the landmark AI transparency bill, is now law in California",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-      "summary": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.&#160; On Monday, California Gov. Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Sen. Scott Wiener (D-CA). It’s the second draft of such a bill, as [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-29T23:01:43Z",
-      "score": 85.0
-    },
-    {
-      "id": "060dce709822",
-      "title": "California Governor Newsom signs landmark AI safety bill SB 53",
-      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
-      "summary": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-29T21:57:03Z",
-      "score": 83.11
-    },
-    {
-      "id": "bb50d1f5dcd9",
-      "title": "Improving support with every interaction at OpenAI",
-      "url": "https://openai.com/index/openai-support-model",
-      "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 82.37
-    },
-    {
-      "id": "8b0251310f43",
-      "title": "Driving sales productivity and customer success at OpenAI",
-      "url": "https://openai.com/index/openai-gtm-assistant",
-      "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 82.37
-    },
-    {
-      "id": "5dddb19ef1f3",
-      "title": "Converting inbound leads into customers at OpenAI",
-      "url": "https://openai.com/index/openai-inbound-sales-assistant",
-      "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 82.37
-    },
-    {
-      "id": "6d8870d3c243",
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "url": "https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "summary": "DeepSeek is backed by High-Flyer Capital Management, a Chinese quantitative hedge fund that uses AI to inform its trading decisions.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-29T20:56:38Z",
-      "score": 81.39
-    },
-    {
-      "id": "8f90e8f37227",
-      "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
-      "summary": "Anthropic's latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams. It spat out about 11,000 lines of code, according to Anthropic, and it only stopped running when it had completed the task. The model, Claude Sonnet 4.5, was announced today, and its ability to operate [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-29T17:04:09Z",
-      "score": 75.07
-    },
-    {
-      "id": "hn-45383381",
-      "title": "`std::flip`",
-      "url": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
+      "id": "hn-45389716",
+      "title": "How does lossless compression in Fuji RAF files work? (2020)",
+      "url": "https://capnfabs.net/posts/fuji-raf-compression-algorithm/",
       "summary": "",
-      "source": "morwenn.github.io",
-      "ts": "2025-09-26T06:29:53Z",
-      "score": 71.02
+      "source": "capnfabs.net",
+      "ts": "2025-09-26T18:43:58Z",
+      "score": 69.28
+    },
+    {
+      "id": "hn-45385354",
+      "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "url": "https://dl.acm.org/doi/10.1145/359024.359031",
+      "summary": "",
+      "source": "dl.acm.org",
+      "ts": "2025-09-26T11:42:04Z",
+      "score": 63.41
+    },
+    {
+      "id": "hn-45406645",
+      "title": "Coding a new BASIC interpreter in 2025 to replace a slow one",
+      "url": "https://nanochess.org/ecs_basic.html",
+      "summary": "",
+      "source": "nanochess.org",
+      "ts": "2025-09-28T18:28:14Z",
+      "score": 54.8
     },
     {
       "id": "d3e8a095ebe8",
-      "title": "AssetGen: Generating 3D Worlds With AI",
+      "title": "Meta 3D AssetGen: Generating 3D Worlds With AI",
       "url": "https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
-      "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">Meta 3D AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-29T14:00:42Z",
-      "score": 64.04
+      "score": 49.87
     },
     {
       "id": "7c86bd260fbd",
@@ -403,70 +466,25 @@
       "summary": "<p>&#160; Over the past 21 years, Meta has grown exponentially from a small social network connecting a few thousand people in a handful of universities in the U.S. into several apps and novel hardware products that serve over 3.4 billion people throughout the world. Our infrastructure has evolved significantly over the years, growing from a [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\" rel=\"nofollow\">Meta’s Infrastructure Evolution and the Advent of AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-29T13:00:15Z",
-      "score": 62.71
+      "score": 48.84
     },
     {
-      "id": "hn-45383284",
-      "title": "Managing Dotfiles with Make",
-      "url": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
+      "id": "hn-45394719",
+      "title": "Finding and Understanding Bugs in C Compilers (2011) [pdf]",
+      "url": "https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf",
       "summary": "",
-      "source": "matheusmoreira.com",
-      "ts": "2025-09-26T06:15:26Z",
-      "score": 49.36
+      "source": "users.cs.utah.edu",
+      "ts": "2025-09-27T10:59:30Z",
+      "score": 30.43
     },
     {
-      "id": "hn-45387791",
-      "title": "Spending time with the material",
-      "url": "https://www.robinsloan.com/lab/actually-readable/",
+      "id": "hn-45395038",
+      "title": "DITA – Darwin Information Typing Architecture",
+      "url": "https://dita-lang.org/",
       "summary": "",
-      "source": "robinsloan.com",
-      "ts": "2025-09-26T15:43:50Z",
-      "score": 45.41
-    },
-    {
-      "id": "hn-45391467",
-      "title": "Visualizing Automorphisms of S6",
-      "url": "https://travisdoesmath.github.io/s6/",
-      "summary": "",
-      "source": "travisdoesmath.github.io",
-      "ts": "2025-09-26T22:02:38Z",
-      "score": 39.09
-    },
-    {
-      "id": "hn-45389263",
-      "title": "A Look into Intel Xeon 6's Memory Subsystem",
-      "url": "https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory",
-      "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-09-26T18:01:14Z",
-      "score": 35.33
-    },
-    {
-      "id": "hn-45389589",
-      "title": "Implementing a Kalman Filter in Postgres",
-      "url": "https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data",
-      "summary": "",
-      "source": "neon.com",
-      "ts": "2025-09-26T18:33:37Z",
-      "score": 34.31
-    },
-    {
-      "id": "hn-45392214",
-      "title": "Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191",
-      "summary": "",
-      "source": "agupubs.onlinelibrary.wiley.com",
-      "ts": "2025-09-26T23:52:39Z",
-      "score": 25.95
-    },
-    {
-      "id": "hn-45385354",
-      "title": "Design of the SCHEME-78 Lisp-based microprocessor",
-      "url": "https://dl.acm.org/doi/10.1145/359024.359031",
-      "summary": "",
-      "source": "dl.acm.org",
-      "ts": "2025-09-26T11:42:04Z",
-      "score": 18.42
+      "source": "dita-lang.org",
+      "ts": "2025-09-27T12:06:18Z",
+      "score": 21.23
     },
     {
       "id": "60f422e7614f",
@@ -475,16 +493,7 @@
       "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
       "source": "aws.amazon.com",
       "ts": "2025-09-26T16:03:41Z",
-      "score": 14.91
-    },
-    {
-      "id": "4920a5f4367d",
-      "title": "Networking at the Heart of AI — @Scale: Networking 2025 Recap",
-      "url": "https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/",
-      "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-26T16:00:52Z",
-      "score": 14.9
+      "score": 11.61
     },
     {
       "id": "e2125b7da15c",
@@ -493,16 +502,7 @@
       "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
       "source": "aws.amazon.com",
       "ts": "2025-09-26T15:58:34Z",
-      "score": 14.89
-    },
-    {
-      "id": "87fc2d1afd93",
-      "title": "DoWhile loops now supported in Amazon Bedrock Flows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/",
-      "summary": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-09-25T20:25:08Z",
-      "score": 9.9
+      "score": 11.59
     },
     {
       "id": "9878dd4f6392",
@@ -511,7 +511,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.02
+      "score": 0.01
     }
   ]
 }
