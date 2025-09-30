@@ -7,16 +7,7 @@
       "summary": "",
       "source": "anthropic.com",
       "ts": "2025-09-29T16:52:59Z",
-      "score": 833.41
-    },
-    {
-      "id": "hn-45412419",
-      "title": "What if I don't want videos of my hobby time available to the world?",
-      "url": "https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/",
-      "summary": "",
-      "source": "neilzone.co.uk",
-      "ts": "2025-09-29T11:28:06Z",
-      "score": 443.97
+      "score": 1156.98
     },
     {
       "id": "hn-45416228",
@@ -25,34 +16,7 @@
       "summary": "",
       "source": "npmjs.com",
       "ts": "2025-09-29T17:12:13Z",
-      "score": 358.47
-    },
-    {
-      "id": "hn-45413481",
-      "title": "Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%",
-      "url": "https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b",
-      "summary": "",
-      "source": "lightcapai.medium.com",
-      "ts": "2025-09-29T13:25:40Z",
-      "score": 278.62
-    },
-    {
-      "id": "hn-45410940",
-      "title": "What is “good taste” in software engineering?",
-      "url": "https://www.seangoedecke.com/taste/",
-      "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-09-29T06:41:27Z",
-      "score": 251.78
-    },
-    {
-      "id": "hn-45395468",
-      "title": "Users only care about 20% of your application",
-      "url": "https://idiallo.com/blog/users-only-care-about-20-percent",
-      "summary": "",
-      "source": "idiallo.com",
-      "ts": "2025-09-27T13:15:37Z",
-      "score": 249.97
+      "score": 504.04
     },
     {
       "id": "hn-45415207",
@@ -61,25 +25,7 @@
       "summary": "",
       "source": "loadmo.re",
       "ts": "2025-09-29T15:42:46Z",
-      "score": 235.18
-    },
-    {
-      "id": "hn-45416231",
-      "title": "FCC Accidentally Leaked iPhone Schematics",
-      "url": "https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html",
-      "summary": "",
-      "source": "engadget.com",
-      "ts": "2025-09-29T17:12:58Z",
-      "score": 210.89
-    },
-    {
-      "id": "hn-45415232",
-      "title": "Write the damn code",
-      "url": "https://antonz.org/write-code/",
-      "summary": "",
-      "source": "antonz.org",
-      "ts": "2025-09-29T15:45:33Z",
-      "score": 190.86
+      "score": 278.15
     },
     {
       "id": "hn-45418428",
@@ -88,52 +34,34 @@
       "summary": "",
       "source": "gov.ca.gov",
       "ts": "2025-09-29T20:33:14Z",
-      "score": 180.02
+      "score": 252.19
     },
     {
-      "id": "hn-45412022",
-      "title": "Optimizing a 6502 image decoder, from 70 minutes to 1 minute",
-      "url": "https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/",
+      "id": "hn-45423268",
+      "title": "Disqus Turned My Blog into an Ad Farm – So I Killed It",
+      "url": "https://ryansouthgate.com/goodbye-disqus/",
       "summary": "",
-      "source": "colino.net",
-      "ts": "2025-09-29T10:11:20Z",
-      "score": 176.12
+      "source": "ryansouthgate.com",
+      "ts": "2025-09-30T08:36:06Z",
+      "score": 204.13
     },
     {
-      "id": "hn-45413654",
-      "title": "Why friction is necessary for growth",
-      "url": "https://jameelur.com/blog/overcoming-friction-leads-to-growth",
+      "id": "hn-45420327",
+      "title": "FAA is granting Boeing “limited delegation” to certify airworthiness",
+      "url": "https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/",
       "summary": "",
-      "source": "jameelur.com",
-      "ts": "2025-09-29T13:39:53Z",
-      "score": 172.82
+      "source": "theregister.com",
+      "ts": "2025-09-29T23:56:31Z",
+      "score": 184.36
     },
     {
-      "id": "hn-45417771",
-      "title": "What Is Artificial General Intelligence?",
-      "url": "https://arxiv.org/abs/2503.23923",
+      "id": "hn-45422512",
+      "title": "European Union Public Licence (EUPL)",
+      "url": "https://eupl.eu/",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-29T19:31:22Z",
-      "score": 154.98
-    },
-    {
-      "id": "hn-45418269",
-      "title": "Remember: Kurt Vonnegut Was 47",
-      "url": "https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47",
-      "summary": "",
-      "source": "joanwestenberg.com",
-      "ts": "2025-09-29T20:19:54Z",
-      "score": 153.78
-    },
-    {
-      "id": "hn-45415539",
-      "title": "Show HN: Every single torrent is on this website",
-      "url": "https://infohash.lol/",
-      "summary": "",
-      "source": "infohash.lol",
-      "ts": "2025-09-29T16:14:38Z",
-      "score": 147.93
+      "source": "eupl.eu",
+      "ts": "2025-09-30T06:23:05Z",
+      "score": 180.07
     },
     {
       "id": "hn-45414215",
@@ -142,115 +70,34 @@
       "summary": "",
       "source": "hackaday.com",
       "ts": "2025-09-29T14:22:39Z",
-      "score": 144.64
+      "score": 173.73
     },
     {
-      "id": "hn-45415510",
-      "title": "ML on Apple ][+",
-      "url": "https://mdcramer.github.io/apple-2-blog/k-means/",
+      "id": "hn-45418261",
+      "title": "iRobot Founder: Don't Believe the AI and Robotics Hype",
+      "url": "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/",
       "summary": "",
-      "source": "mdcramer.github.io",
-      "ts": "2025-09-29T16:12:30Z",
-      "score": 139.46
+      "source": "crazystupidtech.com",
+      "ts": "2025-09-29T20:19:08Z",
+      "score": 168.43
     },
     {
-      "id": "hn-45414479",
-      "title": "Not all OCuLink eGPU docks are created equal",
-      "url": "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal",
+      "id": "hn-45420173",
+      "title": "How to create an OS from scratch",
+      "url": "https://github.com/cfenollosa/os-tutorial",
       "summary": "",
-      "source": "jeffgeerling.com",
-      "ts": "2025-09-29T14:46:11Z",
-      "score": 139.32
+      "source": "github.com",
+      "ts": "2025-09-29T23:32:10Z",
+      "score": 168.09
     },
     {
-      "id": "hn-45415332",
-      "title": "Subtleties of SQLite Indexes",
-      "url": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
+      "id": "hn-45420001",
+      "title": "Safe zero-copy operations in C#",
+      "url": "https://ssg.dev/safe-zero-copy-operations-in-c/",
       "summary": "",
-      "source": "emschwartz.me",
-      "ts": "2025-09-29T15:54:42Z",
-      "score": 129.93
-    },
-    {
-      "id": "hn-45415814",
-      "title": "Sandboxing AI agents at the kernel level",
-      "url": "https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level",
-      "summary": "",
-      "source": "greptile.com",
-      "ts": "2025-09-29T16:40:05Z",
-      "score": 124.69
-    },
-    {
-      "id": "hn-45419566",
-      "title": "Any level of alcohol consumption increases risk of dementia",
-      "url": "https://www.ox.ac.uk/news/2025-09-24-any-level-alcohol-consumption-increases-risk-dementia",
-      "summary": "",
-      "source": "ox.ac.uk",
-      "ts": "2025-09-29T22:23:18Z",
-      "score": 123.69
-    },
-    {
-      "id": "hn-45411291",
-      "title": "Queueing to publish in AI and CS",
-      "url": "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/",
-      "summary": "",
-      "source": "damaru2.github.io",
-      "ts": "2025-09-29T07:50:24Z",
-      "score": 122.69
-    },
-    {
-      "id": "hn-45419341",
-      "title": "Technology without humanity means nothing",
-      "url": "https://moneo.com.tr/blog/technology-without-humanity-means-nothing",
-      "summary": "",
-      "source": "moneo.com.tr",
-      "ts": "2025-09-29T22:03:31Z",
-      "score": 118.82
-    },
-    {
-      "id": "hn-45415178",
-      "title": "How the Brain Balances Excitation and Inhibition",
-      "url": "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/",
-      "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-09-29T15:40:30Z",
-      "score": 118.71
-    },
-    {
-      "id": "hn-45419503",
-      "title": "Israel wants to train ChatGPT to be more pro-Israel",
-      "url": "https://responsiblestatecraft.org/israel-chatgpt/",
-      "summary": "",
-      "source": "responsiblestatecraft.org",
-      "ts": "2025-09-29T22:17:31Z",
-      "score": 118.02
-    },
-    {
-      "id": "hn-45418918",
-      "title": "Google to merge Android and ChromeOS in 2026",
-      "url": "https://www.theregister.com/2025/09/25/google_android_chromeos/",
-      "summary": "",
-      "source": "theregister.com",
-      "ts": "2025-09-29T21:21:21Z",
-      "score": 116.21
-    },
-    {
-      "id": "hn-45414933",
-      "title": "John Jumper: AI is revolutionizing scientific discovery [video]",
-      "url": "https://www.youtube.com/watch?v=2Yguz5U-Nic",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-29T15:20:11Z",
-      "score": 112.11
-    },
-    {
-      "id": "hn-45417637",
-      "title": "Don't Become a Scientist (1999)",
-      "url": "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm",
-      "summary": "",
-      "source": "yangxiao.cs.ua.edu",
-      "ts": "2025-09-29T19:16:40Z",
-      "score": 109.15
+      "source": "ssg.dev",
+      "ts": "2025-09-29T23:12:36Z",
+      "score": 162.76
     },
     {
       "id": "hn-45413525",
@@ -259,160 +106,97 @@
       "summary": "",
       "source": "ethanseal.com",
       "ts": "2025-09-29T13:29:55Z",
-      "score": 108.34
+      "score": 144.36
     },
     {
-      "id": "d0cbc5144783",
-      "title": "SB 53, the landmark AI transparency bill, is now law in California",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-      "summary": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.&#160; On Monday, California governor Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Senator Scott Wiener (D-San Francisco). It’s the second draft of such a bill, [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-29T23:01:43Z",
-      "score": 107.73
-    },
-    {
-      "id": "060dce709822",
-      "title": "California Governor Newsom signs landmark AI safety bill SB 53",
-      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
-      "summary": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-29T21:57:03Z",
-      "score": 106.7
-    },
-    {
-      "id": "bb50d1f5dcd9",
-      "title": "Improving support with every interaction at OpenAI",
-      "url": "https://openai.com/index/openai-support-model",
-      "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 105.74
-    },
-    {
-      "id": "8b0251310f43",
-      "title": "Driving sales productivity and customer success at OpenAI",
-      "url": "https://openai.com/index/openai-gtm-assistant",
-      "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 105.74
-    },
-    {
-      "id": "5dddb19ef1f3",
-      "title": "Converting inbound leads into customers at OpenAI",
-      "url": "https://openai.com/index/openai-inbound-sales-assistant",
-      "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
-      "source": "openai.com",
-      "ts": "2025-09-29T13:30:00Z",
-      "score": 105.74
-    },
-    {
-      "id": "hn-45418875",
-      "title": "Jax: Fast Combinations Calculation",
-      "url": "https://github.com/phoenicyan/combinadics",
+      "id": "hn-45415332",
+      "title": "Subtleties of SQLite Indexes",
+      "url": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-09-29T21:17:16Z",
-      "score": 104.67
+      "source": "emschwartz.me",
+      "ts": "2025-09-29T15:54:42Z",
+      "score": 136.82
     },
     {
-      "id": "hn-45417300",
-      "title": "Diagnosing a Linux Performance Regression",
-      "url": "https://automattic.com/2024/03/14/systems-report-linux-performance-regression/",
+      "id": "hn-45415510",
+      "title": "ML on Apple ][+",
+      "url": "https://mdcramer.github.io/apple-2-blog/k-means/",
       "summary": "",
-      "source": "automattic.com",
-      "ts": "2025-09-29T18:46:15Z",
-      "score": 104.58
+      "source": "mdcramer.github.io",
+      "ts": "2025-09-29T16:12:30Z",
+      "score": 134.84
     },
     {
-      "id": "6d8870d3c243",
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "url": "https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "summary": "DeepSeek is backed by High-Flyer Capital Management, a Chinese quantitative hedge fund that uses AI to inform its trading decisions.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-29T20:56:38Z",
-      "score": 104.49
-    },
-    {
-      "id": "hn-45419841",
-      "title": "All the Sad Young Terminally Online Men",
-      "url": "https://www.derekthompson.org/p/all-the-sad-young-terminally-online",
+      "id": "hn-45411831",
+      "title": "Bad Apple but it's played inside Super Mario Bros",
+      "url": "https://tasvideos.org/8991S",
       "summary": "",
-      "source": "derekthompson.org",
-      "ts": "2025-09-29T22:52:04Z",
-      "score": 103.94
+      "source": "tasvideos.org",
+      "ts": "2025-09-29T09:34:16Z",
+      "score": 131.58
     },
     {
-      "id": "293567dad17d",
-      "title": "AI recruiter Alex raises $17M to automate initial job interviews",
-      "url": "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/",
-      "summary": "The Y Combinator startup raised a Series A led by Peak XV Partners.",
-      "source": "techcrunch.com",
-      "ts": "2025-09-29T20:32:35Z",
-      "score": 103.62
-    },
-    {
-      "id": "8f90e8f37227",
-      "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
-      "summary": "Anthropic's latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams. It spat out about 11,000 lines of code, according to Anthropic, and it only stopped running when it had completed the task. The model, Claude Sonnet 4.5, was announced today, and its ability to operate [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-29T17:04:09Z",
-      "score": 96.38
-    },
-    {
-      "id": "5560a6e99e9c",
-      "title": "OpenAI’s ChatGPT parental controls are rolling out — here’s what you should know",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
-      "summary": "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.&#160; The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the ability to generate images — and reducing the level of personalization on ChatGPT conversations by [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-09-29T14:26:39Z",
-      "score": 91.25
-    },
-    {
-      "id": "hn-45413588",
-      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-      "url": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "id": "hn-45422514",
+      "title": "Geolocation and Starlink",
+      "url": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
       "summary": "",
-      "source": "blog.pkh.me",
-      "ts": "2025-09-29T13:34:58Z",
-      "score": 83.28
+      "source": "potaroo.net",
+      "ts": "2025-09-30T06:23:31Z",
+      "score": 131.48
     },
     {
-      "id": "d3e8a095ebe8",
-      "title": "AssetGen: Generating 3D Worlds With AI",
-      "url": "https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
-      "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-29T14:00:42Z",
-      "score": 82.21
-    },
-    {
-      "id": "7c86bd260fbd",
-      "title": "Meta’s Infrastructure Evolution and the Advent of AI",
-      "url": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
-      "summary": "<p>&#160; Over the past 21 years, Meta has grown exponentially from a small social network connecting a few thousand people in a handful of universities in the U.S. into several apps and novel hardware products that serve over 3.4 billion people throughout the world. Our infrastructure has evolved significantly over the years, growing from a [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\" rel=\"nofollow\">Meta’s Infrastructure Evolution and the Advent of AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-29T13:00:15Z",
-      "score": 80.51
-    },
-    {
-      "id": "hn-45379196",
-      "title": "The phaseout of the mmap() file operation in Linux",
-      "url": "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/",
+      "id": "hn-45417637",
+      "title": "Don't Become a Scientist (1999)",
+      "url": "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm",
       "summary": "",
-      "source": "lwn.net",
-      "ts": "2025-09-25T21:16:24Z",
-      "score": 66.34
+      "source": "yangxiao.cs.ua.edu",
+      "ts": "2025-09-29T19:16:40Z",
+      "score": 131.46
     },
     {
-      "id": "hn-45399572",
-      "title": "Using Cesium-137 testing to find counterfeit wine",
-      "url": "https://kitchensisters.org/hiddenkitchens/atomic-wine/",
+      "id": "hn-45414479",
+      "title": "Not all OCuLink eGPU docks are created equal",
+      "url": "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal",
       "summary": "",
-      "source": "kitchensisters.org",
-      "ts": "2025-09-27T21:42:14Z",
-      "score": 60.1
+      "source": "jeffgeerling.com",
+      "ts": "2025-09-29T14:46:11Z",
+      "score": 130.46
+    },
+    {
+      "id": "hn-45423088",
+      "title": "Companies Are Lying About AI Layoffs",
+      "url": "https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs",
+      "summary": "",
+      "source": "huijzer.xyz",
+      "ts": "2025-09-30T08:07:16Z",
+      "score": 129.99
+    },
+    {
+      "id": "hn-45414933",
+      "title": "John Jumper: AI is revolutionizing scientific discovery [video]",
+      "url": "https://www.youtube.com/watch?v=2Yguz5U-Nic",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-09-29T15:20:11Z",
+      "score": 128.83
+    },
+    {
+      "id": "hn-45421302",
+      "title": "Show HN: Devbox – Containers for better dev environments",
+      "url": "https://devbox.ar0.eu/",
+      "summary": "",
+      "source": "devbox.ar0.eu",
+      "ts": "2025-09-30T02:26:39Z",
+      "score": 127.37
+    },
+    {
+      "id": "hn-45423363",
+      "title": "Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?",
+      "url": "https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/",
+      "summary": "",
+      "source": "shkspr.mobi",
+      "ts": "2025-09-30T08:50:11Z",
+      "score": 125.39
     },
     {
       "id": "hn-45382300",
@@ -421,34 +205,268 @@
       "summary": "",
       "source": "civilization.2k.com",
       "ts": "2025-09-26T03:28:05Z",
-      "score": 39.33
+      "score": 123.67
     },
     {
-      "id": "hn-45384438",
-      "title": "If Odin Had Macros",
-      "url": "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/",
+      "id": "hn-45421067",
+      "title": "Awakening Bell",
+      "url": "https://awakeningbell.org/",
       "summary": "",
-      "source": "gingerbill.org",
-      "ts": "2025-09-26T09:13:23Z",
-      "score": 28.0
+      "source": "awakeningbell.org",
+      "ts": "2025-09-30T01:46:02Z",
+      "score": 117.21
     },
     {
-      "id": "348fd8689a7e",
-      "title": "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening,\n  Speaking, and Viewing",
-      "url": "http://arxiv.org/abs/2509.22651v1",
-      "summary": "The growing capabilities of large language models and multimodal systems have\nspurred interest in voice-first AI assistants, yet existing benchmarks are\ninadequate for evaluating the full range of these systems' capabilities. We\nintroduce VoiceAssistant-Eval, a comprehensive benchmark designed to assess AI\nassistants across listening, speaking, and viewing. VoiceAssistant-Eval\ncomprises 10,497 curated examples spanning 13 task categories. These tasks\ninclude natural sounds, music, and spoken dialogue for listening; multi-turn\ndialogue, role-play imitation, and various scenarios for speaking; and highly\nheterogeneous images for viewing. To demonstrate its utility, we evaluate 21\nopen-source models and GPT-4o-Audio, measuring the quality of the response\ncontent and speech, as well as their consistency. The results reveal three key\nfindings: (1) proprietary models do not universally outperform open-source\nmodels; (2) most models excel at speaking tasks but lag in audio understanding;\nand (3) well-designed smaller models can rival much larger ones. Notably, the\nmid-sized Step-Audio-2-mini (7B) achieves more than double the listening\naccuracy of LLaMA-Omni2-32B-Bilingual. However, challenges remain: multimodal\n(audio plus visual) input and role-play voice imitation tasks are difficult for\ncurrent models, and significant gaps persist in robustness and safety\nalignment. VoiceAssistant-Eval identifies these gaps and establishes a rigorous\nframework for evaluating and guiding the development of next-generation AI\nassistants. Code and data will be released at\nhttps://mathllm.github.io/VoiceAssistantEval/ .",
-      "source": "arxiv.org",
-      "ts": "2025-09-26T17:59:59Z",
-      "score": 25.91
+      "id": "hn-45423004",
+      "title": "Bcachefs Removed from the Mainline Kernel",
+      "url": "https://lwn.net/Articles/1040120/",
+      "summary": "",
+      "source": "lwn.net",
+      "ts": "2025-09-30T07:52:16Z",
+      "score": 115.1
     },
     {
-      "id": "c63946fa5395",
-      "title": "See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned\n  Aerial Navigation",
-      "url": "http://arxiv.org/abs/2509.22653v1",
-      "summary": "We present See, Point, Fly (SPF), a training-free aerial vision-and-language\nnavigation (AVLN) framework built atop vision-language models (VLMs). SPF is\ncapable of navigating to any goal based on any type of free-form instructions\nin any kind of environment. In contrast to existing VLM-based approaches that\ntreat action prediction as a text generation task, our key insight is to\nconsider action prediction for AVLN as a 2D spatial grounding task. SPF\nharnesses VLMs to decompose vague language instructions into iterative\nannotation of 2D waypoints on the input image. Along with the predicted\ntraveling distance, SPF transforms predicted 2D waypoints into 3D displacement\nvectors as action commands for UAVs. Moreover, SPF also adaptively adjusts the\ntraveling distance to facilitate more efficient navigation. Notably, SPF\nperforms navigation in a closed-loop control manner, enabling UAVs to follow\ndynamic targets in dynamic environments. SPF sets a new state of the art in DRL\nsimulation benchmark, outperforming the previous best method by an absolute\nmargin of 63%. In extensive real-world evaluations, SPF outperforms strong\nbaselines by a large margin. We also conduct comprehensive ablation studies to\nhighlight the effectiveness of our design choice. Lastly, SPF shows remarkable\ngeneralization to different VLMs. Project page: https://spf-web.pages.dev",
+      "id": "hn-45422353",
+      "title": "The ABS Programming Language",
+      "url": "https://www.abs-lang.org/",
+      "summary": "",
+      "source": "abs-lang.org",
+      "ts": "2025-09-30T05:53:25Z",
+      "score": 109.55
+    },
+    {
+      "id": "hn-45418875",
+      "title": "Jax: Fast Combinations Calculation",
+      "url": "https://github.com/phoenicyan/combinadics",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-29T21:17:16Z",
+      "score": 107.52
+    },
+    {
+      "id": "hn-45413588",
+      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
+      "url": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "summary": "",
+      "source": "blog.pkh.me",
+      "ts": "2025-09-29T13:34:58Z",
+      "score": 104.27
+    },
+    {
+      "id": "hn-45421221",
+      "title": "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
+      "url": "https://github.com/currentspace/capn-rs",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-30T02:13:00Z",
+      "score": 103.58
+    },
+    {
+      "id": "3ecf73a76bbe",
+      "title": "Opera launches its AI-centric Neon browser",
+      "url": "https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/",
+      "summary": "Neon will write code snippets, includes an agent that will do tasks for you, and handles repeatable prompts.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-30T08:00:00Z",
+      "score": 102.47
+    },
+    {
+      "id": "e536990ca399",
+      "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
+      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+      "summary": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month.&#160; The Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes different AI agents that are tailored to specific tasks. One simply called Tasks [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-30T08:00:00Z",
+      "score": 102.47
+    },
+    {
+      "id": "hn-45422653",
+      "title": "Exploiting huffman table bug in zlib",
+      "url": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English",
+      "summary": "",
+      "source": "velog.io",
+      "ts": "2025-09-30T06:50:11Z",
+      "score": 102.32
+    },
+    {
+      "id": "a1af6d351a83",
+      "title": "UniAPL: A Unified Adversarial Preference Learning Framework for\n  Instruct-Following",
+      "url": "http://arxiv.org/abs/2509.25148v1",
+      "summary": "Shaping powerful LLMs to be beneficial and safe is central to AI alignment.\nWe argue that post-training alignment is fundamentally a unified Preference\nLearning problem, involving two modalities: demonstrated preferences (e.g.,\nSupervised Fine-Tuning, SFT) and comparative preferences (e.g., Reinforcement\nLearning, RL).The standard sequential pipeline-SFT followed by RL-is flawed due\nto a critical distributional mismatch: SFT uses static expert data, but as the\npolicy evolves, its generation distribution drifts, making SFT knowledge\nbrittle. Subsequent RL then explores without direct access to the rich,\nground-truth knowledge in expert demonstrations, leading to inefficient,\nungrounded updates. This separation prevents mutual regularization between data\nsources. To address this, we reframe alignment as a constrained optimization\nproblem and propose Unified Adversarial Preference Learning (UniAPL),a novel\nframework that dynamically aligns the policy's distribution with the expert's.\nUniAPL implements a single-stage unified training objective, jointly learning\nfrom mixed batches of SFT and preference data. In every gradient step, dense\nexpert demonstrations directly ground and regularize online exploration,\ninherently resolving distributional mismatch and maximizing data synergy.We\nevaluate UniAPL on instruction-following tasks using Qwen3-235B-Instruct-2507\nas the teacher. Our models match or exceed strong GRPO baselines: +5.77% on\nQwen3-0.6B (matching a 32B model) and +3.75% on Qwen3-4B,even outperforming the\nteacher. Analyses of response length and log-probability distributions confirm\nthat UniAPL outputs closely mimic expert demonstrations, achieving both\nstronger performance and better behavioral alignment.",
       "source": "arxiv.org",
-      "ts": "2025-09-26T17:59:59Z",
-      "score": 25.91
+      "ts": "2025-09-29T17:53:09Z",
+      "score": 90.25
+    },
+    {
+      "id": "31fe8aad421f",
+      "title": "Fast Feature Field ($\\text{F}^3$): A Predictive Representation of Events",
+      "url": "http://arxiv.org/abs/2509.25146v1",
+      "summary": "This paper develops a mathematical argument and algorithms for building\nrepresentations of data from event-based cameras, that we call Fast Feature\nField ($\\text{F}^3$). We learn this representation by predicting future events\nfrom past events and show that it preserves scene structure and motion\ninformation. $\\text{F}^3$ exploits the sparsity of event data and is robust to\nnoise and variations in event rates. It can be computed efficiently using ideas\nfrom multi-resolution hash encoding and deep sets - achieving 120 Hz at HD and\n440 Hz at VGA resolutions. $\\text{F}^3$ represents events within a contiguous\nspatiotemporal volume as a multi-channel image, enabling a range of downstream\ntasks. We obtain state-of-the-art performance on optical flow estimation,\nsemantic segmentation, and monocular metric depth estimation, on data from\nthree robotic platforms (a car, a quadruped robot and a flying platform),\nacross different lighting conditions (daytime, nighttime), environments\n(indoors, outdoors, urban, as well as off-road) and dynamic vision sensors\n(resolutions and event rates). Our implementations can predict these tasks at\n25-75 Hz at HD resolution.",
+      "source": "arxiv.org",
+      "ts": "2025-09-29T17:52:31Z",
+      "score": 90.23
+    },
+    {
+      "id": "ec9605d530eb",
+      "title": "Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs\n  for Low-Resource Text Generation",
+      "url": "http://arxiv.org/abs/2509.25144v1",
+      "summary": "We present Paired by the Teacher (PbT), a two-stage teacher-student pipeline\nthat synthesizes accurate input-output pairs without human labels or parallel\ndata. In many low-resource natural language generation (NLG) scenarios,\npractitioners may have only raw outputs, like highlights, recaps, or questions,\nor only raw inputs, such as articles, dialogues, or paragraphs, but seldom\nboth. This mismatch forces small models to learn from very few examples or rely\non costly, broad-scope synthetic examples produced by large LLMs. PbT addresses\nthis by asking a teacher LLM to compress each unpaired example into a concise\nintermediate representation (IR), and training a student to reconstruct inputs\nfrom IRs. This enables outputs to be paired with student-generated inputs,\nyielding high-quality synthetic data. We evaluate PbT on five\nbenchmarks-document summarization (XSum, CNNDM), dialogue summarization\n(SAMSum, DialogSum), and question generation (SQuAD)-as well as an unpaired\nsetting on SwitchBoard (paired with DialogSum summaries). An 8B student trained\nonly on PbT data outperforms models trained on 70 B teacher-generated corpora\nand other unsupervised baselines, coming within 1.2 ROUGE-L of human-annotated\npairs and closing 82% of the oracle gap at one-third the annotation cost of\ndirect synthesis. Human evaluation on SwitchBoard further confirms that only\nPbT produces concise, faithful summaries aligned with the target style,\nhighlighting its advantage of generating in-domain sources that avoid the\nmismatch, limiting direct synthesis.",
+      "source": "arxiv.org",
+      "ts": "2025-09-29T17:51:55Z",
+      "score": 90.21
+    },
+    {
+      "id": "d0cbc5144783",
+      "title": "SB 53, the landmark AI transparency bill, is now law in California",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
+      "summary": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.&#160; On Monday, California Gov. Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Sen. Scott Wiener (D-CA). It’s the second draft of such a bill, as [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-29T23:01:43Z",
+      "score": 85.0
+    },
+    {
+      "id": "060dce709822",
+      "title": "California Governor Newsom signs landmark AI safety bill SB 53",
+      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "summary": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-29T21:57:03Z",
+      "score": 83.11
+    },
+    {
+      "id": "bb50d1f5dcd9",
+      "title": "Improving support with every interaction at OpenAI",
+      "url": "https://openai.com/index/openai-support-model",
+      "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
+      "source": "openai.com",
+      "ts": "2025-09-29T13:30:00Z",
+      "score": 82.37
+    },
+    {
+      "id": "8b0251310f43",
+      "title": "Driving sales productivity and customer success at OpenAI",
+      "url": "https://openai.com/index/openai-gtm-assistant",
+      "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
+      "source": "openai.com",
+      "ts": "2025-09-29T13:30:00Z",
+      "score": 82.37
+    },
+    {
+      "id": "5dddb19ef1f3",
+      "title": "Converting inbound leads into customers at OpenAI",
+      "url": "https://openai.com/index/openai-inbound-sales-assistant",
+      "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
+      "source": "openai.com",
+      "ts": "2025-09-29T13:30:00Z",
+      "score": 82.37
+    },
+    {
+      "id": "6d8870d3c243",
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "url": "https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "summary": "DeepSeek is backed by High-Flyer Capital Management, a Chinese quantitative hedge fund that uses AI to inform its trading decisions.",
+      "source": "techcrunch.com",
+      "ts": "2025-09-29T20:56:38Z",
+      "score": 81.39
+    },
+    {
+      "id": "8f90e8f37227",
+      "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
+      "summary": "Anthropic's latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams. It spat out about 11,000 lines of code, according to Anthropic, and it only stopped running when it had completed the task. The model, Claude Sonnet 4.5, was announced today, and its ability to operate [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-09-29T17:04:09Z",
+      "score": 75.07
+    },
+    {
+      "id": "hn-45383381",
+      "title": "`std::flip`",
+      "url": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
+      "summary": "",
+      "source": "morwenn.github.io",
+      "ts": "2025-09-26T06:29:53Z",
+      "score": 71.02
+    },
+    {
+      "id": "d3e8a095ebe8",
+      "title": "AssetGen: Generating 3D Worlds With AI",
+      "url": "https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
+      "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-29T14:00:42Z",
+      "score": 64.04
+    },
+    {
+      "id": "7c86bd260fbd",
+      "title": "Meta’s Infrastructure Evolution and the Advent of AI",
+      "url": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
+      "summary": "<p>&#160; Over the past 21 years, Meta has grown exponentially from a small social network connecting a few thousand people in a handful of universities in the U.S. into several apps and novel hardware products that serve over 3.4 billion people throughout the world. Our infrastructure has evolved significantly over the years, growing from a [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/\" rel=\"nofollow\">Meta’s Infrastructure Evolution and the Advent of AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-29T13:00:15Z",
+      "score": 62.71
+    },
+    {
+      "id": "hn-45383284",
+      "title": "Managing Dotfiles with Make",
+      "url": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
+      "summary": "",
+      "source": "matheusmoreira.com",
+      "ts": "2025-09-26T06:15:26Z",
+      "score": 49.36
+    },
+    {
+      "id": "hn-45387791",
+      "title": "Spending time with the material",
+      "url": "https://www.robinsloan.com/lab/actually-readable/",
+      "summary": "",
+      "source": "robinsloan.com",
+      "ts": "2025-09-26T15:43:50Z",
+      "score": 45.41
+    },
+    {
+      "id": "hn-45391467",
+      "title": "Visualizing Automorphisms of S6",
+      "url": "https://travisdoesmath.github.io/s6/",
+      "summary": "",
+      "source": "travisdoesmath.github.io",
+      "ts": "2025-09-26T22:02:38Z",
+      "score": 39.09
+    },
+    {
+      "id": "hn-45389263",
+      "title": "A Look into Intel Xeon 6's Memory Subsystem",
+      "url": "https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory",
+      "summary": "",
+      "source": "chipsandcheese.com",
+      "ts": "2025-09-26T18:01:14Z",
+      "score": 35.33
+    },
+    {
+      "id": "hn-45389589",
+      "title": "Implementing a Kalman Filter in Postgres",
+      "url": "https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data",
+      "summary": "",
+      "source": "neon.com",
+      "ts": "2025-09-26T18:33:37Z",
+      "score": 34.31
+    },
+    {
+      "id": "hn-45392214",
+      "title": "Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191",
+      "summary": "",
+      "source": "agupubs.onlinelibrary.wiley.com",
+      "ts": "2025-09-26T23:52:39Z",
+      "score": 25.95
+    },
+    {
+      "id": "hn-45385354",
+      "title": "Design of the SCHEME-78 Lisp-based microprocessor",
+      "url": "https://dl.acm.org/doi/10.1145/359024.359031",
+      "summary": "",
+      "source": "dl.acm.org",
+      "ts": "2025-09-26T11:42:04Z",
+      "score": 18.42
     },
     {
       "id": "60f422e7614f",
@@ -457,7 +475,7 @@
       "summary": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
       "source": "aws.amazon.com",
       "ts": "2025-09-26T16:03:41Z",
-      "score": 19.14
+      "score": 14.91
     },
     {
       "id": "4920a5f4367d",
@@ -466,7 +484,7 @@
       "summary": "<p>AI is everywhere and, as network engineers, we are right in the thick of it: building the network infrastructure for AI. This year, at  our largest @Scale:Networking ever, engineers from Meta, ByteDance, Google, Microsoft, Oracle, AMD, Broadcom, Cisco, and NVIDIA came together to share our latest experiences in architecting, designing, operating, and debugging our AI [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/\" rel=\"nofollow\">Networking at the Heart of AI — @Scale: Networking 2025 Recap</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-26T16:00:52Z",
-      "score": 19.13
+      "score": 14.9
     },
     {
       "id": "e2125b7da15c",
@@ -475,16 +493,7 @@
       "summary": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
       "source": "aws.amazon.com",
       "ts": "2025-09-26T15:58:34Z",
-      "score": 19.11
-    },
-    {
-      "id": "hn-45380510",
-      "title": "C2PA Investigations",
-      "url": "https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations",
-      "summary": "",
-      "source": "tbray.org",
-      "ts": "2025-09-25T23:12:58Z",
-      "score": 16.48
+      "score": 14.89
     },
     {
       "id": "87fc2d1afd93",
@@ -493,7 +502,7 @@
       "summary": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
       "source": "aws.amazon.com",
       "ts": "2025-09-25T20:25:08Z",
-      "score": 12.72
+      "score": 9.9
     },
     {
       "id": "9878dd4f6392",
