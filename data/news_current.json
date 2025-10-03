@@ -7,16 +7,7 @@
       "summary": "",
       "source": "cnn.com",
       "ts": "2025-10-02T09:23:50Z",
-      "score": 488.1
-    },
-    {
-      "id": "hn-45446834",
-      "title": "Immich v2.0.0 – First stable release",
-      "url": "https://github.com/immich-app/immich/discussions/22546",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-02T06:25:43Z",
-      "score": 358.82
+      "score": 645.6
     },
     {
       "id": "hn-45451527",
@@ -25,61 +16,7 @@
       "summary": "",
       "source": "signal.org",
       "ts": "2025-10-02T16:06:10Z",
-      "score": 318.7
-    },
-    {
-      "id": "hn-45449348",
-      "title": "Potential issues in curl found using AI assisted tools",
-      "url": "https://mastodon.social/@bagder/115241241075258997",
-      "summary": "",
-      "source": "mastodon.social",
-      "ts": "2025-10-02T13:29:55Z",
-      "score": 294.37
-    },
-    {
-      "id": "hn-45407953",
-      "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
-      "url": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
-      "summary": "",
-      "source": "hazyresearch.stanford.edu",
-      "ts": "2025-09-28T21:00:18Z",
-      "score": 274.48
-    },
-    {
-      "id": "hn-45437759",
-      "title": "F3: Open-source data file format for the future [pdf]",
-      "url": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
-      "summary": "",
-      "source": "db.cs.cmu.edu",
-      "ts": "2025-10-01T13:52:41Z",
-      "score": 267.54
-    },
-    {
-      "id": "hn-45410068",
-      "title": "I built ChatGPT with Minecraft redstone [video]",
-      "url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-09-29T03:22:27Z",
-      "score": 260.7
-    },
-    {
-      "id": "hn-45448326",
-      "title": "NL Judge: Meta must respect user's choice of recommendation system",
-      "url": "https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/",
-      "summary": "",
-      "source": "bitsoffreedom.nl",
-      "ts": "2025-10-02T11:32:19Z",
-      "score": 256.31
-    },
-    {
-      "id": "hn-45444694",
-      "title": "Cormac McCarthy's personal library",
-      "url": "https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/",
-      "summary": "",
-      "source": "smithsonianmag.com",
-      "ts": "2025-10-01T23:06:55Z",
-      "score": 219.3
+      "score": 406.52
     },
     {
       "id": "hn-45453586",
@@ -88,25 +25,16 @@
       "summary": "",
       "source": "techinasia.com",
       "ts": "2025-10-02T18:37:28Z",
-      "score": 215.34
+      "score": 350.73
     },
     {
-      "id": "hn-45448772",
-      "title": "Red Hat confirms security incident after hackers breach GitLab instance",
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
+      "id": "hn-45449348",
+      "title": "Potential issues in curl found using AI assisted tools",
+      "url": "https://mastodon.social/@bagder/115241241075258997",
       "summary": "",
-      "source": "bleepingcomputer.com",
-      "ts": "2025-10-02T12:28:27Z",
-      "score": 209.85
-    },
-    {
-      "id": "hn-45450449",
-      "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
-      "url": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson",
-      "summary": "",
-      "source": "abc15.com",
-      "ts": "2025-10-02T14:52:49Z",
-      "score": 209.74
+      "source": "mastodon.social",
+      "ts": "2025-10-02T13:29:55Z",
+      "score": 329.79
     },
     {
       "id": "hn-45451577",
@@ -115,34 +43,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-10-02T16:09:15Z",
-      "score": 194.59
-    },
-    {
-      "id": "hn-45454460",
-      "title": "Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys",
-      "url": "https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys",
-      "summary": "",
-      "source": "nad.com",
-      "ts": "2025-10-02T19:39:08Z",
-      "score": 186.69
-    },
-    {
-      "id": "hn-45453448",
-      "title": "Gemini 3.0 Pro – early tests",
-      "url": "https://twitter.com/chetaslua/status/1973694615518880236",
-      "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-10-02T18:26:57Z",
-      "score": 182.01
-    },
-    {
-      "id": "hn-45450525",
-      "title": "Work is not school: Surviving institutional stupidity",
-      "url": "https://www.leadingsapiens.com/surviving-institutional-stupidity/",
-      "summary": "",
-      "source": "leadingsapiens.com",
-      "ts": "2025-10-02T14:58:04Z",
-      "score": 181.69
+      "score": 243.99
     },
     {
       "id": "hn-45453222",
@@ -151,70 +52,16 @@
       "summary": "",
       "source": "entropicthoughts.com",
       "ts": "2025-10-02T18:06:41Z",
-      "score": 178.97
+      "score": 206.58
     },
     {
-      "id": "hn-45453135",
-      "title": "Email immutability matters more in a world with AI",
-      "url": "https://www.fastmail.com/blog/not-written-with-ai/",
+      "id": "hn-45458948",
+      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
+      "url": "https://github.com/triton-lang/triton/pull/7298",
       "summary": "",
-      "source": "fastmail.com",
-      "ts": "2025-10-02T18:00:27Z",
-      "score": 173.38
-    },
-    {
-      "id": "hn-45451961",
-      "title": "The Atlantic Quantum team is joining Google",
-      "url": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-10-02T16:36:53Z",
-      "score": 167.47
-    },
-    {
-      "id": "hn-45450044",
-      "title": "N8n added native persistent storage with DataTables",
-      "url": "https://community.n8n.io/t/data-tables-are-here/192256",
-      "summary": "",
-      "source": "community.n8n.io",
-      "ts": "2025-10-02T14:26:23Z",
-      "score": 156.18
-    },
-    {
-      "id": "hn-45452261",
-      "title": "Why I chose Lua for this blog",
-      "url": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
-      "summary": "",
-      "source": "andregarzia.com",
-      "ts": "2025-10-02T16:58:55Z",
-      "score": 145.69
-    },
-    {
-      "id": "hn-45454374",
-      "title": "Why most product planning is bad and what to do about it",
-      "url": "https://blog.railway.com/p/product-planning-improvement",
-      "summary": "",
-      "source": "blog.railway.com",
-      "ts": "2025-10-02T19:34:08Z",
-      "score": 138.53
-    },
-    {
-      "id": "hn-45414718",
-      "title": "The history of cataract surgery",
-      "url": "https://www.asimov.press/p/cataracts",
-      "summary": "",
-      "source": "asimov.press",
-      "ts": "2025-09-29T15:04:07Z",
-      "score": 129.16
-    },
-    {
-      "id": "hn-45455719",
-      "title": "Launching Solveit – an antidote to AI fatigue",
-      "url": "https://www.answer.ai/posts/2025-10-01-solveit-full.html",
-      "summary": "",
-      "source": "answer.ai",
-      "ts": "2025-10-02T21:21:49Z",
-      "score": 126.45
+      "source": "github.com",
+      "ts": "2025-10-03T04:21:23Z",
+      "score": 205.79
     },
     {
       "id": "hn-45455882",
@@ -223,151 +70,88 @@
       "summary": "",
       "source": "deadlanguagesociety.com",
       "ts": "2025-10-02T21:34:42Z",
-      "score": 121.48
+      "score": 196.21
     },
     {
-      "id": "hn-45453299",
-      "title": "The Answer (1954)",
-      "url": "https://sfshortstories.com/?p=5983",
+      "id": "hn-45457670",
+      "title": "I spent the day teaching seniors how to use an iPhone",
+      "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
       "summary": "",
-      "source": "sfshortstories.com",
-      "ts": "2025-10-02T18:13:24Z",
-      "score": 102.98
+      "source": "forums.macrumors.com",
+      "ts": "2025-10-03T01:20:32Z",
+      "score": 195.13
     },
     {
-      "id": "67a5dcdcaacb",
-      "title": "Anthropic hires new CTO with focus on AI infrastructure",
-      "url": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
-      "summary": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-02T19:00:39Z",
-      "score": 100.39
-    },
-    {
-      "id": "hn-45451547",
-      "title": "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
-      "url": "https://www.simplex.sh/",
+      "id": "hn-45458122",
+      "title": "FyneDesk: A full desktop environment for Linux written in Go",
+      "url": "https://github.com/FyshOS/fynedesk",
       "summary": "",
-      "source": "simplex.sh",
-      "ts": "2025-10-02T16:07:23Z",
-      "score": 100.34
+      "source": "github.com",
+      "ts": "2025-10-03T02:13:17Z",
+      "score": 179.83
     },
     {
-      "id": "1076295e9d1a",
-      "title": "OpenAI’s Sora soars to No. 3 on the US App Store",
-      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
-      "summary": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-02T18:24:54Z",
-      "score": 99.16
-    },
-    {
-      "id": "hn-45456003",
-      "title": "PortalVR: XR Without a Headset",
-      "url": "https://portalvr.io/",
+      "id": "hn-45459233",
+      "title": "In Praise of RSS and Controlled Feeds of Information",
+      "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
       "summary": "",
-      "source": "portalvr.io",
-      "ts": "2025-10-02T21:47:31Z",
-      "score": 99.11
+      "source": "blog.burkert.me",
+      "ts": "2025-10-03T05:13:47Z",
+      "score": 175.57
     },
     {
-      "id": "dbc72c125358",
-      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
-      "url": "https://openai.com/index/wrtn",
-      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
-      "source": "openai.com",
-      "ts": "2025-10-02T10:00:00Z",
-      "score": 98.34
-    },
-    {
-      "id": "f795602e0a56",
-      "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up",
-      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
-      "summary": "Jules is already being used by developers to complete code after experimenting on vibe-coding platforms.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-02T18:00:00Z",
-      "score": 98.3
-    },
-    {
-      "id": "a3a0c93c7f06",
-      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
-      "summary": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-02T22:14:23Z",
-      "score": 97.62
-    },
-    {
-      "id": "7dd6aa57009e",
-      "title": "Perplexity’s Comet browser is now available to everyone for free",
-      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
-      "summary": "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free. “The internet is better on Comet,” the company says, promising to remain free forever as it styles the browser as a serious challenger to Google’s Chrome.&#160; Comet puts [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-02T17:00:00Z",
-      "score": 96.27
-    },
-    {
-      "id": "1d67a87d5421",
-      "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/",
-      "summary": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-02T21:12:34Z",
-      "score": 95.54
-    },
-    {
-      "id": "hn-45449670",
-      "title": "Forth in Zig and WebAssembly",
-      "url": "https://zig-wasm.github.io/zorth/",
+      "id": "hn-45458791",
+      "title": "Blender 4.5 brings big changes",
+      "url": "https://lwn.net/Articles/1036262/",
       "summary": "",
-      "source": "zig-wasm.github.io",
-      "ts": "2025-10-02T13:57:58Z",
-      "score": 93.56
+      "source": "lwn.net",
+      "ts": "2025-10-03T03:52:43Z",
+      "score": 174.33
     },
     {
-      "id": "ed6d1835bd28",
-      "title": "The good, the bad, and the future of AI agents",
-      "url": "https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding",
-      "summary": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’ll be subbing in for Nilay for a couple more episodes, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry.  Today, I’m talking with David [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-02T14:00:00Z",
-      "score": 90.44
-    },
-    {
-      "id": "hn-45452299",
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead",
+      "id": "hn-45452261",
+      "title": "Why I chose Lua for this blog",
+      "url": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-10-02T17:01:16Z",
-      "score": 88.16
+      "source": "andregarzia.com",
+      "ts": "2025-10-02T16:58:55Z",
+      "score": 168.36
     },
     {
-      "id": "cfc316996755",
-      "title": "Music’s biggest labels are weeks away from major AI licensing deals",
-      "url": "https://www.theverge.com/news/790405/warner-universal-music-ai-deals",
-      "summary": "Universal Music and Warner Music, record labels whose catalogs include Taylor Swift, Ariana Grande, and Charli XCX, are within weeks of striking licensing deals that could redefine how the music industry handles the AI era, according to the Financial Times.&#160;&#160; Talks are underway with tech heavyweights like Google and Spotify and a slew of AI [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-02T09:48:03Z",
-      "score": 82.87
-    },
-    {
-      "id": "20d626c31e24",
-      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
-      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
-      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
-      "source": "openai.com",
-      "ts": "2025-10-02T00:00:00Z",
-      "score": 79.85
-    },
-    {
-      "id": "hn-45406090",
-      "title": "A 3K-year-old copper smelting site could be key to understanding origins of iron",
-      "url": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html",
+      "id": "hn-45450044",
+      "title": "N8n added native persistent storage with DataTables",
+      "url": "https://community.n8n.io/t/data-tables-are-here/192256",
       "summary": "",
-      "source": "phys.org",
-      "ts": "2025-09-28T17:21:24Z",
-      "score": 79.13
+      "source": "community.n8n.io",
+      "ts": "2025-10-02T14:26:23Z",
+      "score": 157.64
+    },
+    {
+      "id": "hn-45458482",
+      "title": "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
+      "url": "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html",
+      "summary": "",
+      "source": "workspaceupdates.googleblog.com",
+      "ts": "2025-10-03T03:04:04Z",
+      "score": 152.23
+    },
+    {
+      "id": "hn-45455719",
+      "title": "Solveit – A course and platform for solving problems with code",
+      "url": "https://www.answer.ai/posts/2025-10-01-solveit-full.html",
+      "summary": "",
+      "source": "answer.ai",
+      "ts": "2025-10-02T21:21:49Z",
+      "score": 131.68
+    },
+    {
+      "id": "hn-45458987",
+      "title": "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
+      "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+      "summary": "",
+      "source": "venturebeat.com",
+      "ts": "2025-10-03T04:26:49Z",
+      "score": 131.5
     },
     {
       "id": "hn-45412870",
@@ -376,61 +160,205 @@
       "summary": "",
       "source": "alikhil.dev",
       "ts": "2025-09-29T12:29:29Z",
-      "score": 68.18
+      "score": 129.65
     },
     {
-      "id": "191b7fedb323",
-      "title": "How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/",
-      "summary": "In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-01T18:19:37Z",
-      "score": 54.57
-    },
-    {
-      "id": "90b0a8f354ca",
-      "title": "Accelerating our Android apps with Baseline Profiles",
-      "url": "https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/",
-      "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-10-01T16:00:17Z",
-      "score": 52.0
-    },
-    {
-      "id": "hn-45434755",
-      "title": "Mary Carleton, Counterfeit Princess",
-      "url": "https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/",
+      "id": "hn-45458249",
+      "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
+      "url": "https://debuggingleadership.com/stdlib",
       "summary": "",
-      "source": "publicdomainreview.org",
-      "ts": "2025-10-01T06:03:28Z",
-      "score": 51.86
+      "source": "debuggingleadership.com",
+      "ts": "2025-10-03T02:33:21Z",
+      "score": 124.01
     },
     {
-      "id": "e484c6c3bfd6",
-      "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
-      "url": "https://openai.com/index/samsung-and-sk-join-stargate",
-      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+      "id": "hn-45458550",
+      "title": "You Want Technology with Warts",
+      "url": "https://entropicthoughts.com/you-want-technology-with-warts",
+      "summary": "",
+      "source": "entropicthoughts.com",
+      "ts": "2025-10-03T03:13:13Z",
+      "score": 123.37
+    },
+    {
+      "id": "hn-45457411",
+      "title": "Researchers develop molecular qubits that communicate at telecom frequencies",
+      "url": "https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies",
+      "summary": "",
+      "source": "chicagoquantum.org",
+      "ts": "2025-10-03T00:44:42Z",
+      "score": 107.13
+    },
+    {
+      "id": "hn-45457460",
+      "title": "Microcomputers – The Second Wave: Toward a Mass Market",
+      "url": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/",
+      "summary": "",
+      "source": "technicshistory.com",
+      "ts": "2025-10-03T00:51:26Z",
+      "score": 106.11
+    },
+    {
+      "id": "hn-45457048",
+      "title": "Self-supervised learning, JEPA, world models, and the future of AI [video]",
+      "url": "https://www.youtube.com/watch?v=yUmDRxV0krg",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-10-02T23:57:23Z",
+      "score": 102.22
+    },
+    {
+      "id": "hn-45417826",
+      "title": "How I block all 26M of your curl requests",
+      "url": "https://foxmoss.com/blog/packet-filtering/",
+      "summary": "",
+      "source": "foxmoss.com",
+      "ts": "2025-09-29T19:37:21Z",
+      "score": 96.47
+    },
+    {
+      "id": "79aaa726a994",
+      "title": "After nine years of grinding, Replit finally found its market. Can it keep it?",
+      "url": "https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/",
+      "summary": "While AI coding startups like Cursor raise brow-raising rounds on barely three years of existence, Replit's path to a $3 billion valuation has been anything but swift.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-03T04:58:16Z",
+      "score": 96.25
+    },
+    {
+      "id": "hn-45451547",
+      "title": "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
+      "url": "https://www.simplex.sh/",
+      "summary": "",
+      "source": "simplex.sh",
+      "ts": "2025-10-02T16:07:23Z",
+      "score": 92.75
+    },
+    {
+      "id": "2a1dd892a0eb",
+      "title": "NoiseShift: Resolution-Aware Noise Recalibration for Better\n  Low-Resolution Image Generation",
+      "url": "http://arxiv.org/abs/2510.02307v1",
+      "summary": "Text-to-image diffusion models trained on a fixed set of resolutions often\nfail to generalize, even when asked to generate images at lower resolutions\nthan those seen during training. High-resolution text-to-image generators are\ncurrently unable to easily offer an out-of-the-box budget-efficient alternative\nto their users who might not need high-resolution images. We identify a key\ntechnical insight in diffusion models that when addressed can help tackle this\nlimitation: Noise schedulers have unequal perceptual effects across\nresolutions. The same level of noise removes disproportionately more signal\nfrom lower-resolution images than from high-resolution images, leading to a\ntrain-test mismatch. We propose NoiseShift, a training-free method that\nrecalibrates the noise level of the denoiser conditioned on resolution size.\nNoiseShift requires no changes to model architecture or sampling schedule and\nis compatible with existing models. When applied to Stable Diffusion 3, Stable\nDiffusion 3.5, and Flux-Dev, quality at low resolutions is significantly\nimproved. On LAION-COCO, NoiseShift improves SD3.5 by 15.89%, SD3 by 8.56%, and\nFlux-Dev by 2.44% in FID on average. On CelebA, NoiseShift improves SD3.5 by\n10.36%, SD3 by 5.19%, and Flux-Dev by 3.02% in FID on average. These results\ndemonstrate the effectiveness of NoiseShift in mitigating resolution-dependent\nartifacts and enhancing the quality of low-resolution image generation.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:43Z",
+      "score": 90.5
+    },
+    {
+      "id": "ab2073ab7871",
+      "title": "Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is\n  Geometry Adaptive",
+      "url": "http://arxiv.org/abs/2510.02305v1",
+      "summary": "Diffusion models have achieved state-of-the-art performance, demonstrating\nremarkable generalisation capabilities across diverse domains. However, the\nmechanisms underpinning these strong capabilities remain only partially\nunderstood. A leading conjecture, based on the manifold hypothesis, attributes\nthis success to their ability to adapt to low-dimensional geometric structure\nwithin the data. This work provides evidence for this conjecture, focusing on\nhow such phenomena could result from the formulation of the learning problem\nthrough score matching. We inspect the role of implicit regularisation by\ninvestigating the effect of smoothing minimisers of the empirical score\nmatching objective. Our theoretical and empirical results confirm that\nsmoothing the score function -- or equivalently, smoothing in the log-density\ndomain -- produces smoothing tangential to the data manifold. In addition, we\nshow that the manifold along which the diffusion model generalises can be\ncontrolled by choosing an appropriate smoothing.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:39Z",
+      "score": 90.5
+    },
+    {
+      "id": "b13f1a93d756",
+      "title": "Equilibrium Matching: Generative Modeling with Implicit Energy-Based\n  Models",
+      "url": "http://arxiv.org/abs/2510.02300v1",
+      "summary": "We introduce Equilibrium Matching (EqM), a generative modeling framework\nbuilt from an equilibrium dynamics perspective. EqM discards the\nnon-equilibrium, time-conditional dynamics in traditional diffusion and\nflow-based generative models and instead learns the equilibrium gradient of an\nimplicit energy landscape. Through this approach, we can adopt an\noptimization-based sampling process at inference time, where samples are\nobtained by gradient descent on the learned landscape with adjustable step\nsizes, adaptive optimizers, and adaptive compute. EqM surpasses the generation\nperformance of diffusion/flow models empirically, achieving an FID of 1.90 on\nImageNet 256$\\times$256. EqM is also theoretically justified to learn and\nsample from the data manifold. Beyond generation, EqM is a flexible framework\nthat naturally handles tasks including partially noised image denoising, OOD\ndetection, and image composition. By replacing time-conditional velocities with\na unified equilibrium landscape, EqM offers a tighter bridge between flow and\nenergy-based models and a simple route to optimization-driven inference.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:06Z",
+      "score": 90.48
+    },
+    {
+      "id": "hn-45435375",
+      "title": "The Beer Can",
+      "url": "https://brr.fyi/posts/beer-can",
+      "summary": "",
+      "source": "brr.fyi",
+      "ts": "2025-10-01T07:51:24Z",
+      "score": 79.18
+    },
+    {
+      "id": "67a5dcdcaacb",
+      "title": "Anthropic hires new CTO with focus on AI infrastructure",
+      "url": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
+      "summary": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-02T19:00:39Z",
+      "score": 78.21
+    },
+    {
+      "id": "1076295e9d1a",
+      "title": "OpenAI’s Sora soars to No. 3 on the US App Store",
+      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+      "summary": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-02T18:24:54Z",
+      "score": 77.25
+    },
+    {
+      "id": "dbc72c125358",
+      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+      "url": "https://openai.com/index/wrtn",
+      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
       "source": "openai.com",
-      "ts": "2025-10-01T03:00:00Z",
-      "score": 51.55
+      "ts": "2025-10-02T10:00:00Z",
+      "score": 76.61
     },
     {
-      "id": "hn-45435720",
-      "title": "Pre-Record Your Demos",
-      "url": "https://www.steveharrison.dev/pre-record-your-demos/",
-      "summary": "",
-      "source": "steveharrison.dev",
-      "ts": "2025-10-01T09:04:10Z",
-      "score": 48.0
+      "id": "a3a0c93c7f06",
+      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
+      "summary": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-02T22:14:23Z",
+      "score": 76.05
     },
     {
-      "id": "hn-45411799",
-      "title": "Stealing from Google",
-      "url": "https://taqib.dev/blog/stealing-from-google/",
+      "id": "7dd6aa57009e",
+      "title": "Perplexity’s Comet browser is now available to everyone for free",
+      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
+      "summary": "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free. “The internet is better on Comet,” the company says, promising to remain free forever as it styles the browser as a serious challenger to Google’s Chrome.&#160; Comet puts [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-02T17:00:00Z",
+      "score": 75.0
+    },
+    {
+      "id": "1d67a87d5421",
+      "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/",
+      "summary": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-02T21:12:34Z",
+      "score": 74.44
+    },
+    {
+      "id": "ed6d1835bd28",
+      "title": "The good, the bad, and the future of AI agents",
+      "url": "https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding",
+      "summary": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’ll be subbing in for Nilay for a couple more episodes, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry.  Today, I’m talking with David [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-02T14:00:00Z",
+      "score": 70.46
+    },
+    {
+      "id": "cfc316996755",
+      "title": "Music’s biggest labels are weeks away from major AI licensing deals",
+      "url": "https://www.theverge.com/news/790405/warner-universal-music-ai-deals",
+      "summary": "Universal Music and Warner Music, record labels whose catalogs include Taylor Swift, Ariana Grande, and Charli XCX, are within weeks of striking licensing deals that could redefine how the music industry handles the AI era, according to the Financial Times.&#160;&#160; Talks are underway with tech heavyweights like Google and Spotify and a slew of AI [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-02T09:48:03Z",
+      "score": 64.56
+    },
+    {
+      "id": "hn-45420685",
+      "title": "Some dogs can classify their toys by function",
+      "url": "https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/",
       "summary": "",
-      "source": "taqib.dev",
-      "ts": "2025-09-29T09:27:00Z",
-      "score": 45.49
+      "source": "arstechnica.com",
+      "ts": "2025-09-30T00:43:35Z",
+      "score": 63.47
+    },
+    {
+      "id": "20d626c31e24",
+      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+      "source": "openai.com",
+      "ts": "2025-10-02T00:00:00Z",
+      "score": 62.21
     },
     {
       "id": "hn-45411514",
@@ -439,7 +367,16 @@
       "summary": "",
       "source": "kriztalz.sh",
       "ts": "2025-09-29T08:31:36Z",
-      "score": 43.37
+      "score": 61.95
+    },
+    {
+      "id": "hn-45435720",
+      "title": "Pre-record your demos",
+      "url": "https://www.steveharrison.dev/pre-record-your-demos/",
+      "summary": "",
+      "source": "steveharrison.dev",
+      "ts": "2025-10-01T09:04:10Z",
+      "score": 61.46
     },
     {
       "id": "hn-45413059",
@@ -448,52 +385,7 @@
       "summary": "",
       "source": "corsix.org",
       "ts": "2025-09-29T12:47:45Z",
-      "score": 43.09
-    },
-    {
-      "id": "cf0eb2065b24",
-      "title": "Stitch: Training-Free Position Control in Multimodal Diffusion\n  Transformers",
-      "url": "http://arxiv.org/abs/2509.26644v1",
-      "summary": "Text-to-Image (T2I) generation models have advanced rapidly in recent years,\nbut accurately capturing spatial relationships like \"above\" or \"to the right\nof\" poses a persistent challenge. Earlier methods improved spatial relationship\nfollowing with external position control. However, as architectures evolved to\nenhance image quality, these techniques became incompatible with modern models.\nWe propose Stitch, a training-free method for incorporating external position\ncontrol into Multi-Modal Diffusion Transformers (MMDiT) via\nautomatically-generated bounding boxes. Stitch produces images that are both\nspatially accurate and visually appealing by generating individual objects\nwithin designated bounding boxes and seamlessly stitching them together. We\nfind that targeted attention heads capture the information necessary to isolate\nand cut out individual objects mid-generation, without needing to fully\ncomplete the image. We evaluate Stitch on PosEval, our benchmark for\nposition-based T2I generation. Featuring five new tasks that extend the concept\nof Position beyond the basic GenEval task, PosEval demonstrates that even top\nmodels still have significant room for improvement in position-based\ngeneration. Tested on Qwen-Image, FLUX, and SD3.5, Stitch consistently enhances\nbase models, even improving FLUX by 218% on GenEval's Position task and by 206%\non PosEval. Stitch achieves state-of-the-art results with Qwen-Image on\nPosEval, improving over previous models by 54%, all accomplished while\nintegrating position control into leading models training-free. Code is\navailable at https://github.com/ExplainableML/Stitch.",
-      "source": "arxiv.org",
-      "ts": "2025-09-30T17:59:51Z",
-      "score": 42.74
-    },
-    {
-      "id": "7703f602ef34",
-      "title": "OmniRetarget: Interaction-Preserving Data Generation for Humanoid\n  Whole-Body Loco-Manipulation and Scene Interaction",
-      "url": "http://arxiv.org/abs/2509.26633v1",
-      "summary": "A dominant paradigm for teaching humanoid robots complex skills is to\nretarget human motions as kinematic references to train reinforcement learning\n(RL) policies. However, existing retargeting pipelines often struggle with the\nsignificant embodiment gap between humans and robots, producing physically\nimplausible artifacts like foot-skating and penetration. More importantly,\ncommon retargeting methods neglect the rich human-object and human-environment\ninteractions essential for expressive locomotion and loco-manipulation. To\naddress this, we introduce OmniRetarget, an interaction-preserving data\ngeneration engine based on an interaction mesh that explicitly models and\npreserves the crucial spatial and contact relationships between an agent, the\nterrain, and manipulated objects. By minimizing the Laplacian deformation\nbetween the human and robot meshes while enforcing kinematic constraints,\nOmniRetarget generates kinematically feasible trajectories. Moreover,\npreserving task-relevant interactions enables efficient data augmentation, from\na single demonstration to different robot embodiments, terrains, and object\nconfigurations. We comprehensively evaluate OmniRetarget by retargeting motions\nfrom OMOMO, LAFAN1, and our in-house MoCap datasets, generating over 8-hour\ntrajectories that achieve better kinematic constraint satisfaction and contact\npreservation than widely used baselines. Such high-quality data enables\nproprioceptive RL policies to successfully execute long-horizon (up to 30\nseconds) parkour and loco-manipulation skills on a Unitree G1 humanoid, trained\nwith only 5 reward terms and simple domain randomization shared by all tasks,\nwithout any learning curriculum.",
-      "source": "arxiv.org",
-      "ts": "2025-09-30T17:59:02Z",
-      "score": 42.72
-    },
-    {
-      "id": "76aef8ea6a81",
-      "title": "Branching Out: Broadening AI Measurement and Evaluation with Measurement\n  Trees",
-      "url": "http://arxiv.org/abs/2509.26632v1",
-      "summary": "This paper introduces \\textit{measurement trees}, a novel class of metrics\ndesigned to combine various constructs into an interpretable multi-level\nrepresentation of a measurand. Unlike conventional metrics that yield single\nvalues, vectors, surfaces, or categories, measurement trees produce a\nhierarchical directed graph in which each node summarizes its children through\nuser-defined aggregation methods. In response to recent calls to expand the\nscope of AI system evaluation, measurement trees enhance metric transparency\nand facilitate the integration of heterogeneous evidence, including, e.g.,\nagentic, business, energy-efficiency, sociotechnical, or security signals. We\npresent definitions and examples, demonstrate practical utility through a\nlarge-scale measurement exercise, and provide accompanying open-source Python\ncode. By operationalizing a transparent approach to measurement of complex\nconstructs, this work offers a principled foundation for broader and more\ninterpretable AI evaluation.",
-      "source": "arxiv.org",
-      "ts": "2025-09-30T17:58:59Z",
-      "score": 42.72
-    },
-    {
-      "id": "hn-45406804",
-      "title": "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
-      "url": "https://americanart.si.edu/blog/throne-james-hampton",
-      "summary": "",
-      "source": "americanart.si.edu",
-      "ts": "2025-09-28T18:46:22Z",
-      "score": 39.29
-    },
-    {
-      "id": "e5bccbdbf40e",
-      "title": "LLMs Are the Key to Mutation Testing and Better Compliance",
-      "url": "https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/",
-      "summary": "<p>Following our keynote presentations at FSE 2025 and Eurostar 2025, we’re delving further into the development of Meta’s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of compliance adherence at Meta, while accelerating developer and product velocity. By leveraging LLMs we’ve been able to overcome the barriers that [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\" rel=\"nofollow\">LLMs Are the Key to Mutation Testing and Better Compliance</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-09-30T16:00:08Z",
-      "score": 31.54
+      "score": 55.34
     },
     {
       "id": "hn-45415519",
@@ -502,16 +394,97 @@
       "summary": "",
       "source": "independent.co.uk",
       "ts": "2025-09-29T16:12:59Z",
-      "score": 31.21
+      "score": 53.97
     },
     {
-      "id": "hn-45415196",
-      "title": "Class Dismissed: Profile of Joe Liemandt and Alpha School",
-      "url": "https://joincolossus.com/article/joe-liemandt-class-dismissed/",
+      "id": "191b7fedb323",
+      "title": "How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/",
+      "summary": "In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-01T18:19:37Z",
+      "score": 42.52
+    },
+    {
+      "id": "hn-45425770",
+      "title": "Valuing Land: The Simplest Viable Method",
+      "url": "https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable",
       "summary": "",
-      "source": "joincolossus.com",
-      "ts": "2025-09-29T15:41:50Z",
-      "score": 31.01
+      "source": "progressandpoverty.substack.com",
+      "ts": "2025-09-30T14:16:51Z",
+      "score": 42.3
+    },
+    {
+      "id": "90b0a8f354ca",
+      "title": "Accelerating our Android apps with Baseline Profiles",
+      "url": "https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/",
+      "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-10-01T16:00:17Z",
+      "score": 40.51
+    },
+    {
+      "id": "e484c6c3bfd6",
+      "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+      "url": "https://openai.com/index/samsung-and-sk-join-stargate",
+      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+      "source": "openai.com",
+      "ts": "2025-10-01T03:00:00Z",
+      "score": 40.16
+    },
+    {
+      "id": "hn-45411435",
+      "title": "Constitent Hashing",
+      "url": "https://eli.thegreenplace.net/2025/consistent-hashing/",
+      "summary": "",
+      "source": "eli.thegreenplace.net",
+      "ts": "2025-09-29T08:16:27Z",
+      "score": 39.09
+    },
+    {
+      "id": "hn-45420722",
+      "title": "Modern Font Stacks",
+      "url": "https://modernfontstacks.com/",
+      "summary": "",
+      "source": "modernfontstacks.com",
+      "ts": "2025-09-30T00:49:54Z",
+      "score": 38.91
+    },
+    {
+      "id": "hn-45435016",
+      "title": "Amazon Vega OS and Vega Developer Tools",
+      "url": "https://developer.amazon.com/apps-and-games/vega",
+      "summary": "",
+      "source": "developer.amazon.com",
+      "ts": "2025-10-01T06:45:19Z",
+      "score": 35.81
+    },
+    {
+      "id": "hn-45411866",
+      "title": "A primer for using weather surveillance radar to study bird migration",
+      "url": "https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/",
+      "summary": "",
+      "source": "birdcast.info",
+      "ts": "2025-09-29T09:43:39Z",
+      "score": 30.48
+    },
+    {
+      "id": "hn-45411939",
+      "title": "How England misplaced its first king",
+      "url": "https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king",
+      "summary": "",
+      "source": "bbc.com",
+      "ts": "2025-09-29T09:55:58Z",
+      "score": 26.93
+    },
+    {
+      "id": "e5bccbdbf40e",
+      "title": "LLMs Are the Key to Mutation Testing and Better Compliance",
+      "url": "https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/",
+      "summary": "<p>Following our keynote presentations at FSE 2025 and Eurostar 2025, we’re delving further into the development of Meta’s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of compliance adherence at Meta, while accelerating developer and product velocity. By leveraging LLMs we’ve been able to overcome the barriers that [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\" rel=\"nofollow\">LLMs Are the Key to Mutation Testing and Better Compliance</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-09-30T16:00:08Z",
+      "score": 24.57
     },
     {
       "id": "d3e8a095ebe8",
@@ -520,7 +493,7 @@
       "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">Meta 3D AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-29T14:00:42Z",
-      "score": 18.35
+      "score": 14.3
     },
     {
       "id": "9878dd4f6392",
@@ -529,7 +502,7 @@
       "summary": "<p> [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://sustainability.atmeta.com/2025-sustainability-report/\">Read More...</a></p>\n<p>The post <a href=\"https://sustainability.atmeta.com/2025-sustainability-report/\" rel=\"nofollow\">Read Meta&#8217;s 2025 Sustainability Report</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "sustainability.atmeta.com",
       "ts": "2025-09-12T16:36:33Z",
-      "score": 0.01
+      "score": 0.0
     }
   ]
 }
