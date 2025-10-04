@@ -1,337 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45461500",
-      "title": "Niri – A scrollable-tiling Wayland compositor",
-      "url": "https://github.com/YaLTeR/niri",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-03T11:08:42Z",
-      "score": 325.29
-    },
-    {
-      "id": "hn-45453936",
-      "title": "Litestream v0.5.0",
-      "url": "https://fly.io/blog/litestream-v050-is-here/",
-      "summary": "",
-      "source": "fly.io",
-      "ts": "2025-10-02T19:02:57Z",
-      "score": 265.41
-    },
-    {
-      "id": "hn-45466086",
-      "title": "PEP 810 – Explicit lazy imports",
-      "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
-      "summary": "",
-      "source": "pep-previews--4622.org.readthedocs.build",
-      "ts": "2025-10-03T18:24:58Z",
-      "score": 228.17
-    },
-    {
-      "id": "hn-45463319",
-      "title": "I turned the Lego Game Boy into a working Game Boy",
-      "url": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
-      "summary": "",
-      "source": "blog.nataliethenerd.com",
-      "ts": "2025-10-03T14:18:56Z",
-      "score": 197.38
-    },
-    {
-      "id": "hn-45420722",
-      "title": "Modern Font Stacks",
-      "url": "https://modernfontstacks.com/",
-      "summary": "",
-      "source": "modernfontstacks.com",
-      "ts": "2025-09-30T00:49:54Z",
-      "score": 195.75
-    },
-    {
       "id": "hn-45467500",
       "title": "Offline card payments should be possible no later than 1 July 2026",
       "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
       "summary": "",
       "source": "riksbank.se",
       "ts": "2025-10-03T20:36:03Z",
-      "score": 192.76
-    },
-    {
-      "id": "hn-45464632",
-      "title": "Cancelling async Rust",
-      "url": "https://sunshowers.io/posts/cancelling-async-rust/",
-      "summary": "",
-      "source": "sunshowers.io",
-      "ts": "2025-10-03T16:18:29Z",
-      "score": 175.09
-    },
-    {
-      "id": "hn-45462297",
-      "title": "The Faroes",
-      "url": "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr",
-      "summary": "",
-      "source": "photoblog.nk412.com",
-      "ts": "2025-10-03T12:41:03Z",
-      "score": 167.62
-    },
-    {
-      "id": "hn-45466588",
-      "title": "Jules, remote coding agent from Google Labs, announces API",
-      "url": "https://jules.google/docs/changelog/",
-      "summary": "",
-      "source": "jules.google",
-      "ts": "2025-10-03T19:08:11Z",
-      "score": 161.11
-    },
-    {
-      "id": "hn-45463251",
-      "title": "Webbol: A minimal static web server written in COBOL",
-      "url": "https://github.com/jmsdnns/webbol",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-03T14:13:03Z",
-      "score": 146.21
-    },
-    {
-      "id": "hn-45447536",
-      "title": "Asked to do something illegal at work? Here's what these software engineers did",
-      "url": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
-      "summary": "",
-      "source": "blog.pragmaticengineer.com",
-      "ts": "2025-10-02T08:51:49Z",
-      "score": 138.42
-    },
-    {
-      "id": "hn-45467543",
-      "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
-      "url": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
-      "summary": "",
-      "source": "earthsky.org",
-      "ts": "2025-10-03T20:40:52Z",
-      "score": 131.72
-    },
-    {
-      "id": "hn-45467166",
-      "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
-      "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
-      "summary": "",
-      "source": "chipsandcheese.com",
-      "ts": "2025-10-03T20:01:36Z",
-      "score": 126.24
-    },
-    {
-      "id": "hn-45462713",
-      "title": "Arbitrary code execution in Unity Runtime",
-      "url": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
-      "summary": "",
-      "source": "flatt.tech",
-      "ts": "2025-10-03T13:21:44Z",
-      "score": 125.55
-    },
-    {
-      "id": "hn-45465392",
-      "title": "Email was the user interface for the first AI recommendation engines",
-      "url": "https://buttondown.com/blog/ringo-email-as-an-ai-interface",
-      "summary": "",
-      "source": "buttondown.com",
-      "ts": "2025-10-03T17:27:02Z",
-      "score": 123.77
-    },
-    {
-      "id": "hn-45464429",
-      "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
-      "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
-      "summary": "",
-      "source": "cnbc.com",
-      "ts": "2025-10-03T16:00:00Z",
-      "score": 117.54
-    },
-    {
-      "id": "hn-45466865",
-      "title": "Show HN: FLE v0.3 – Claude Code Plays Factorio",
-      "url": "https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html",
-      "summary": "",
-      "source": "jackhopkins.github.io",
-      "ts": "2025-10-03T19:32:37Z",
-      "score": 116.31
-    },
-    {
-      "id": "hn-45467032",
-      "title": "Arenas in Rust",
-      "url": "https://russellw.github.io/arenas",
-      "summary": "",
-      "source": "russellw.github.io",
-      "ts": "2025-10-03T19:47:53Z",
-      "score": 112.6
-    },
-    {
-      "id": "hn-45463626",
-      "title": "How we are building Audacity 4",
-      "url": "https://www.youtube.com/watch?v=QYM3TWf_G38",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-10-03T14:47:37Z",
-      "score": 110.61
-    },
-    {
-      "id": "hn-45468418",
-      "title": "Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That",
-      "url": "https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/",
-      "summary": "",
-      "source": "roadandtrack.com",
-      "ts": "2025-10-03T22:10:54Z",
-      "score": 110.12
-    },
-    {
-      "id": "0e35a30dfce9",
-      "title": "With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI",
-      "url": "https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/",
-      "summary": "OpenAI is acquiring the CEO of Roi, an AI financial companion. Roi will sunset its service as its talent heads to OpenAI, ostensibly to help boost revenue in consumer apps.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-03T22:52:14Z",
-      "score": 107.73
-    },
-    {
-      "id": "20f753b4a312",
-      "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z",
-      "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
-      "summary": "Former Databricks AI chief is raising $1 billion to build an Nvidia rival through a novel approach.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-03T21:56:58Z",
-      "score": 106.76
-    },
-    {
-      "id": "hn-45466655",
-      "title": "Procedural generation with Wave Function Collapse (2019)",
-      "url": "https://www.gridbugs.org/wave-function-collapse/",
-      "summary": "",
-      "source": "gridbugs.org",
-      "ts": "2025-10-03T19:13:34Z",
-      "score": 106.7
-    },
-    {
-      "id": "hn-45468599",
-      "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
-      "url": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
-      "summary": "",
-      "source": "arstechnica.com",
-      "ts": "2025-10-03T22:30:57Z",
-      "score": 103.94
-    },
-    {
-      "id": "6bcf05ca01aa",
-      "title": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
-      "url": "https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/",
-      "summary": "OpenAI's third developer conference is around the corner, and it's shaping up to be the company's biggest yet.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-03T19:36:47Z",
-      "score": 101.69
-    },
-    {
-      "id": "f99d342eb71e",
-      "title": "Tales from the AI hiring frenzy",
-      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
-      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white background with \"https://\" and a single line of grouped numbers [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-03T19:30:00Z",
-      "score": 101.45
-    },
-    {
-      "id": "hn-45467503",
-      "title": "Fast SSIMULACRA2 Implementation in Zig",
-      "url": "https://github.com/gianni-rosato/fssimu2",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-03T20:36:44Z",
-      "score": 100.99
-    },
-    {
-      "id": "hn-45468145",
-      "title": "Show HN: Powerful Visual Programming Language (Book)",
-      "url": "https://www.pipelang.com",
-      "summary": "",
-      "source": "pipelang.com",
-      "ts": "2025-10-03T21:42:42Z",
-      "score": 100.77
-    },
-    {
-      "id": "hn-45468781",
-      "title": "When private practices merge with hospital systems, costs go up",
-      "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
-      "summary": "",
-      "source": "insights.som.yale.edu",
-      "ts": "2025-10-03T22:58:20Z",
-      "score": 100.34
-    },
-    {
-      "id": "hn-45466980",
-      "title": "WireGuard topologies for self-hosting at home",
-      "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-      "summary": "",
-      "source": "garrido.io",
-      "ts": "2025-10-03T19:43:34Z",
-      "score": 99.26
-    },
-    {
-      "id": "18fc43c28ea6",
-      "title": "I’ve fallen into Sora’s slippery slop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
-      "summary": "An anime version of Jesus Christ flipping tables. OpenAI employees performing in Hamilton costumes. News anchors discussing a story on television. A man doing a thirst-trap TikTok dance. Sam Altman - stealing GPUs on CCTV, listening to a business pitch, crying. Such were the contents of my feed on Sora, OpenAI's new social media app [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-03T17:08:32Z",
-      "score": 96.58
-    },
-    {
-      "id": "5b15f225194d",
-      "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/",
-      "summary": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-03T21:37:26Z",
-      "score": 96.4
-    },
-    {
-      "id": "hn-45467717",
-      "title": "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
-      "url": "https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-10-03T21:00:32Z",
-      "score": 95.77
-    },
-    {
-      "id": "d69f76dbe975",
-      "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
-      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
-      "summary": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-03T20:08:46Z",
-      "score": 93.47
-    },
-    {
-      "id": "af847ae5e6d6",
-      "title": "With a Friend like this, who needs enemies?",
-      "url": "https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here. The New York City subway is [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-03T14:00:00Z",
-      "score": 90.46
-    },
-    {
-      "id": "hn-45464145",
-      "title": "Lessons learned from building an infrastructure devtool",
-      "url": "https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool",
-      "summary": "",
-      "source": "nango.dev",
-      "ts": "2025-10-03T15:33:43Z",
-      "score": 88.56
-    },
-    {
-      "id": "hn-45423404",
-      "title": "Open Printer is an open source inkjet printer with DRM-free ink",
-      "url": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
-      "summary": "",
-      "source": "notebookcheck.net",
-      "ts": "2025-09-30T08:57:11Z",
-      "score": 84.92
+      "score": 309.36
     },
     {
       "id": "hn-45422147",
@@ -340,25 +16,70 @@
       "summary": "",
       "source": "chiuhans111.github.io",
       "ts": "2025-09-30T05:15:40Z",
-      "score": 81.3
+      "score": 283.12
     },
     {
-      "id": "2a1dd892a0eb",
-      "title": "NoiseShift: Resolution-Aware Noise Recalibration for Better\n  Low-Resolution Image Generation",
-      "url": "http://arxiv.org/abs/2510.02307v1",
-      "summary": "Text-to-image diffusion models trained on a fixed set of resolutions often\nfail to generalize, even when asked to generate images at lower resolutions\nthan those seen during training. High-resolution text-to-image generators are\ncurrently unable to easily offer an out-of-the-box budget-efficient alternative\nto their users who might not need high-resolution images. We identify a key\ntechnical insight in diffusion models that when addressed can help tackle this\nlimitation: Noise schedulers have unequal perceptual effects across\nresolutions. The same level of noise removes disproportionately more signal\nfrom lower-resolution images than from high-resolution images, leading to a\ntrain-test mismatch. We propose NoiseShift, a training-free method that\nrecalibrates the noise level of the denoiser conditioned on resolution size.\nNoiseShift requires no changes to model architecture or sampling schedule and\nis compatible with existing models. When applied to Stable Diffusion 3, Stable\nDiffusion 3.5, and Flux-Dev, quality at low resolutions is significantly\nimproved. On LAION-COCO, NoiseShift improves SD3.5 by 15.89%, SD3 by 8.56%, and\nFlux-Dev by 2.44% in FID on average. On CelebA, NoiseShift improves SD3.5 by\n10.36%, SD3 by 5.19%, and Flux-Dev by 3.02% in FID on average. These results\ndemonstrate the effectiveness of NoiseShift in mitigating resolution-dependent\nartifacts and enhancing the quality of low-resolution image generation.",
-      "source": "arxiv.org",
-      "ts": "2025-10-02T17:59:43Z",
-      "score": 70.47
+      "id": "hn-45453936",
+      "title": "Litestream v0.5.0",
+      "url": "https://fly.io/blog/litestream-v050-is-here/",
+      "summary": "",
+      "source": "fly.io",
+      "ts": "2025-10-02T19:02:57Z",
+      "score": 281.99
     },
     {
-      "id": "ab2073ab7871",
-      "title": "Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is\n  Geometry Adaptive",
-      "url": "http://arxiv.org/abs/2510.02305v1",
-      "summary": "Diffusion models have achieved state-of-the-art performance, demonstrating\nremarkable generalisation capabilities across diverse domains. However, the\nmechanisms underpinning these strong capabilities remain only partially\nunderstood. A leading conjecture, based on the manifold hypothesis, attributes\nthis success to their ability to adapt to low-dimensional geometric structure\nwithin the data. This work provides evidence for this conjecture, focusing on\nhow such phenomena could result from the formulation of the learning problem\nthrough score matching. We inspect the role of implicit regularisation by\ninvestigating the effect of smoothing minimisers of the empirical score\nmatching objective. Our theoretical and empirical results confirm that\nsmoothing the score function -- or equivalently, smoothing in the log-density\ndomain -- produces smoothing tangential to the data manifold. In addition, we\nshow that the manifold along which the diffusion model generalises can be\ncontrolled by choosing an appropriate smoothing.",
-      "source": "arxiv.org",
-      "ts": "2025-10-02T17:59:39Z",
-      "score": 70.47
+      "id": "hn-45466086",
+      "title": "PEP 810 – Explicit lazy imports",
+      "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+      "summary": "",
+      "source": "pep-previews--4622.org.readthedocs.build",
+      "ts": "2025-10-03T18:24:58Z",
+      "score": 262.28
+    },
+    {
+      "id": "hn-45447536",
+      "title": "Asked to do something illegal at work? Here's what these software engineers did",
+      "url": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+      "summary": "",
+      "source": "blog.pragmaticengineer.com",
+      "ts": "2025-10-02T08:51:49Z",
+      "score": 259.34
+    },
+    {
+      "id": "hn-45423404",
+      "title": "Open Printer is an open source inkjet printer with DRM-free ink",
+      "url": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
+      "summary": "",
+      "source": "notebookcheck.net",
+      "ts": "2025-09-30T08:57:11Z",
+      "score": 252.28
+    },
+    {
+      "id": "hn-45468698",
+      "title": "Zig builds are getting faster",
+      "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
+      "summary": "",
+      "source": "mitchellh.com",
+      "ts": "2025-10-03T22:45:28Z",
+      "score": 249.74
+    },
+    {
+      "id": "hn-45466588",
+      "title": "Jules, remote coding agent from Google Labs, announces API",
+      "url": "https://jules.google/docs/changelog/",
+      "summary": "",
+      "source": "jules.google",
+      "ts": "2025-10-03T19:08:11Z",
+      "score": 218.33
+    },
+    {
+      "id": "hn-45463319",
+      "title": "I turned the Lego Game Boy into a working Game Boy",
+      "url": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "summary": "",
+      "source": "blog.nataliethenerd.com",
+      "ts": "2025-10-03T14:18:56Z",
+      "score": 211.53
     },
     {
       "id": "hn-45455164",
@@ -367,115 +88,178 @@
       "summary": "",
       "source": "overreacted.io",
       "ts": "2025-10-02T20:31:43Z",
-      "score": 64.95
+      "score": 204.75
     },
     {
-      "id": "dbc72c125358",
-      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
-      "url": "https://openai.com/index/wrtn",
-      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
-      "source": "openai.com",
-      "ts": "2025-10-02T10:00:00Z",
-      "score": 59.66
-    },
-    {
-      "id": "a3a0c93c7f06",
-      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
-      "summary": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-02T22:14:23Z",
-      "score": 59.22
-    },
-    {
-      "id": "hn-45437903",
-      "title": "The Temporal Dead Zone, or why the TypeScript codebase is full of var statements",
-      "url": "https://vincentrolfs.dev/blog/ts-var",
+      "id": "hn-45420722",
+      "title": "Modern Font Stacks",
+      "url": "https://modernfontstacks.com/",
       "summary": "",
-      "source": "vincentrolfs.dev",
-      "ts": "2025-10-01T14:06:45Z",
-      "score": 56.13
+      "source": "modernfontstacks.com",
+      "ts": "2025-09-30T00:49:54Z",
+      "score": 202.27
     },
     {
-      "id": "20d626c31e24",
-      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
-      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
-      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
-      "source": "openai.com",
-      "ts": "2025-10-02T00:00:00Z",
-      "score": 48.44
-    },
-    {
-      "id": "hn-45417070",
-      "title": "Small Near-Earth Objects in the Taurid Resonant Swarm",
-      "url": "https://arxiv.org/abs/2509.22602",
+      "id": "hn-45435375",
+      "title": "The Beer Can (2023)",
+      "url": "https://brr.fyi/posts/beer-can",
       "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-09-29T18:25:10Z",
-      "score": 39.26
+      "source": "brr.fyi",
+      "ts": "2025-10-01T07:51:24Z",
+      "score": 195.95
     },
     {
-      "id": "hn-45431489",
-      "title": "Pre-Emptive Multi-Tasking on Arm Cortex-M",
-      "url": "https://thejpster.org.uk/blog/blog-2025-09-28/",
+      "id": "hn-45464632",
+      "title": "Cancellations in async Rust",
+      "url": "https://sunshowers.io/posts/cancelling-async-rust/",
       "summary": "",
-      "source": "thejpster.org.uk",
-      "ts": "2025-09-30T21:29:29Z",
-      "score": 38.85
+      "source": "sunshowers.io",
+      "ts": "2025-10-03T16:18:29Z",
+      "score": 192.66
     },
     {
-      "id": "hn-45435272",
-      "title": "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
-      "url": "https://salykova.github.io/gemm-cpu",
+      "id": "hn-45464429",
+      "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
+      "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
       "summary": "",
-      "source": "salykova.github.io",
-      "ts": "2025-10-01T07:31:27Z",
-      "score": 36.64
+      "source": "cnbc.com",
+      "ts": "2025-10-03T16:00:00Z",
+      "score": 170.03
     },
     {
-      "id": "hn-45423954",
-      "title": "Io_uring is not an event system (2021)",
-      "url": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/",
+      "id": "hn-45462297",
+      "title": "The Faroes",
+      "url": "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr",
       "summary": "",
-      "source": "despairlabs.com",
-      "ts": "2025-09-30T10:43:01Z",
-      "score": 35.74
+      "source": "photoblog.nk412.com",
+      "ts": "2025-10-03T12:41:03Z",
+      "score": 163.17
     },
     {
-      "id": "90b0a8f354ca",
-      "title": "Accelerating our Android apps with Baseline Profiles",
-      "url": "https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/",
-      "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-10-01T16:00:17Z",
-      "score": 31.54
-    },
-    {
-      "id": "e484c6c3bfd6",
-      "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
-      "url": "https://openai.com/index/samsung-and-sk-join-stargate",
-      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
-      "source": "openai.com",
-      "ts": "2025-10-01T03:00:00Z",
-      "score": 31.28
-    },
-    {
-      "id": "hn-45416706",
-      "title": "LoRA Without Regret",
-      "url": "https://thinkingmachines.ai/blog/lora/",
+      "id": "hn-45467543",
+      "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
+      "url": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
       "summary": "",
-      "source": "thinkingmachines.ai",
-      "ts": "2025-09-29T17:52:17Z",
-      "score": 28.86
+      "source": "earthsky.org",
+      "ts": "2025-10-03T20:40:52Z",
+      "score": 161.28
     },
     {
-      "id": "hn-45427774",
-      "title": "A B+Tree Node Underflows: Merge or Borrow?",
-      "url": "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/",
+      "id": "hn-45471136",
+      "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+      "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
       "summary": "",
-      "source": "jacobsherin.com",
-      "ts": "2025-09-30T16:41:25Z",
-      "score": 27.81
+      "source": "essenceia.github.io",
+      "ts": "2025-10-04T06:49:58Z",
+      "score": 160.63
+    },
+    {
+      "id": "hn-45469468",
+      "title": "Track which Electron apps slow down macOS 26 Tahoe",
+      "url": "https://avarayr.github.io/shamelectron/",
+      "summary": "",
+      "source": "avarayr.github.io",
+      "ts": "2025-10-04T00:45:40Z",
+      "score": 155.22
+    },
+    {
+      "id": "hn-45469579",
+      "title": "New antibiotic targets IBD and AI predicted how it would work",
+      "url": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
+      "summary": "",
+      "source": "healthsci.mcmaster.ca",
+      "ts": "2025-10-04T01:09:37Z",
+      "score": 154.68
+    },
+    {
+      "id": "hn-45468781",
+      "title": "When private practices merge with hospital systems, costs go up",
+      "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
+      "summary": "",
+      "source": "insights.som.yale.edu",
+      "ts": "2025-10-03T22:58:20Z",
+      "score": 154.08
+    },
+    {
+      "id": "hn-45467166",
+      "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+      "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
+      "summary": "",
+      "source": "chipsandcheese.com",
+      "ts": "2025-10-03T20:01:36Z",
+      "score": 151.28
+    },
+    {
+      "id": "hn-45463251",
+      "title": "Webbol: A minimal static web server written in COBOL",
+      "url": "https://github.com/jmsdnns/webbol",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-03T14:13:03Z",
+      "score": 140.0
+    },
+    {
+      "id": "hn-45466980",
+      "title": "WireGuard topologies for self-hosting at home",
+      "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "summary": "",
+      "source": "garrido.io",
+      "ts": "2025-10-03T19:43:34Z",
+      "score": 136.43
+    },
+    {
+      "id": "hn-45467032",
+      "title": "Arenas in Rust",
+      "url": "https://russellw.github.io/arenas",
+      "summary": "",
+      "source": "russellw.github.io",
+      "ts": "2025-10-03T19:47:53Z",
+      "score": 133.54
+    },
+    {
+      "id": "hn-45469437",
+      "title": "Sora Update #1",
+      "url": "https://blog.samaltman.com/sora-update-number-1",
+      "summary": "",
+      "source": "blog.samaltman.com",
+      "ts": "2025-10-04T00:39:14Z",
+      "score": 131.04
+    },
+    {
+      "id": "hn-45470206",
+      "title": "Toyota runs a car-hacking event to boost security (2024)",
+      "url": "https://toyotatimes.jp/en/spotlights/1061.html",
+      "summary": "",
+      "source": "toyotatimes.jp",
+      "ts": "2025-10-04T03:11:28Z",
+      "score": 129.38
+    },
+    {
+      "id": "hn-45469285",
+      "title": "Binary Formats Gallery",
+      "url": "https://formats.kaitai.io/",
+      "summary": "",
+      "source": "formats.kaitai.io",
+      "ts": "2025-10-04T00:19:02Z",
+      "score": 118.48
+    },
+    {
+      "id": "hn-45465392",
+      "title": "Email was the user interface for the first AI recommendation engines",
+      "url": "https://buttondown.com/blog/ringo-email-as-an-ai-interface",
+      "summary": "",
+      "source": "buttondown.com",
+      "ts": "2025-10-03T17:27:02Z",
+      "score": 112.08
+    },
+    {
+      "id": "hn-45472319",
+      "title": "Paged Out Issue #7 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_007.pdf",
+      "summary": "",
+      "source": "pagedout.institute",
+      "ts": "2025-10-04T10:38:06Z",
+      "score": 101.54
     },
     {
       "id": "hn-45418251",
@@ -484,7 +268,241 @@
       "summary": "",
       "source": "anthropic.com",
       "ts": "2025-09-29T20:18:34Z",
-      "score": 23.52
+      "score": 95.54
+    },
+    {
+      "id": "hn-45416706",
+      "title": "LoRA Without Regret",
+      "url": "https://thinkingmachines.ai/blog/lora/",
+      "summary": "",
+      "source": "thinkingmachines.ai",
+      "ts": "2025-09-29T17:52:17Z",
+      "score": 91.0
+    },
+    {
+      "id": "hn-45437903",
+      "title": "The Temporal Dead Zone, or why the TypeScript codebase is full of var statements",
+      "url": "https://vincentrolfs.dev/blog/ts-var",
+      "summary": "",
+      "source": "vincentrolfs.dev",
+      "ts": "2025-10-01T14:06:45Z",
+      "score": 86.04
+    },
+    {
+      "id": "0e35a30dfce9",
+      "title": "With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI",
+      "url": "https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/",
+      "summary": "OpenAI is acquiring the CEO of Roi, an AI financial companion. Roi will sunset its service as its talent heads to OpenAI, ostensibly to help boost revenue in consumer apps.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-03T22:52:14Z",
+      "score": 84.83
+    },
+    {
+      "id": "20f753b4a312",
+      "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z",
+      "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
+      "summary": "Former Databricks AI chief is raising $1 billion to build an Nvidia rival through a novel approach.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-03T21:56:58Z",
+      "score": 83.22
+    },
+    {
+      "id": "hn-45447057",
+      "title": "Old Stockholm Telephone Tower",
+      "url": "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower",
+      "summary": "",
+      "source": "en.wikipedia.org",
+      "ts": "2025-10-02T07:12:18Z",
+      "score": 82.95
+    },
+    {
+      "id": "6bcf05ca01aa",
+      "title": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
+      "url": "https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/",
+      "summary": "OpenAI's third developer conference is around the corner, and it's shaping up to be the company's biggest yet.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-03T19:36:47Z",
+      "score": 79.26
+    },
+    {
+      "id": "f99d342eb71e",
+      "title": "Tales from the AI hiring frenzy",
+      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white background with \"https://\" and a single line of grouped numbers [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-03T19:30:00Z",
+      "score": 79.08
+    },
+    {
+      "id": "18fc43c28ea6",
+      "title": "I’ve fallen into Sora’s slippery slop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
+      "summary": "An anime version of Jesus Christ flipping tables. OpenAI employees performing in Hamilton costumes. News anchors discussing a story on television. A man doing a thirst-trap TikTok dance. Sam Altman - stealing GPUs on CCTV, listening to a business pitch, crying. Such were the contents of my feed on Sora, OpenAI's new social media app [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-03T17:08:32Z",
+      "score": 75.29
+    },
+    {
+      "id": "5b15f225194d",
+      "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/",
+      "summary": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-03T21:37:26Z",
+      "score": 75.14
+    },
+    {
+      "id": "hn-45467717",
+      "title": "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
+      "url": "https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-10-03T21:00:32Z",
+      "score": 74.78
+    },
+    {
+      "id": "d69f76dbe975",
+      "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
+      "summary": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-03T20:08:46Z",
+      "score": 72.86
+    },
+    {
+      "id": "af847ae5e6d6",
+      "title": "With a Friend like this, who needs enemies?",
+      "url": "https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here. The New York City subway is [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-03T14:00:00Z",
+      "score": 70.52
+    },
+    {
+      "id": "hn-45435272",
+      "title": "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
+      "url": "https://salykova.github.io/gemm-cpu",
+      "summary": "",
+      "source": "salykova.github.io",
+      "ts": "2025-10-01T07:31:27Z",
+      "score": 59.61
+    },
+    {
+      "id": "2a1dd892a0eb",
+      "title": "NoiseShift: Resolution-Aware Noise Recalibration for Better\n  Low-Resolution Image Generation",
+      "url": "http://arxiv.org/abs/2510.02307v1",
+      "summary": "Text-to-image diffusion models trained on a fixed set of resolutions often\nfail to generalize, even when asked to generate images at lower resolutions\nthan those seen during training. High-resolution text-to-image generators are\ncurrently unable to easily offer an out-of-the-box budget-efficient alternative\nto their users who might not need high-resolution images. We identify a key\ntechnical insight in diffusion models that when addressed can help tackle this\nlimitation: Noise schedulers have unequal perceptual effects across\nresolutions. The same level of noise removes disproportionately more signal\nfrom lower-resolution images than from high-resolution images, leading to a\ntrain-test mismatch. We propose NoiseShift, a training-free method that\nrecalibrates the noise level of the denoiser conditioned on resolution size.\nNoiseShift requires no changes to model architecture or sampling schedule and\nis compatible with existing models. When applied to Stable Diffusion 3, Stable\nDiffusion 3.5, and Flux-Dev, quality at low resolutions is significantly\nimproved. On LAION-COCO, NoiseShift improves SD3.5 by 15.89%, SD3 by 8.56%, and\nFlux-Dev by 2.44% in FID on average. On CelebA, NoiseShift improves SD3.5 by\n10.36%, SD3 by 5.19%, and Flux-Dev by 3.02% in FID on average. These results\ndemonstrate the effectiveness of NoiseShift in mitigating resolution-dependent\nartifacts and enhancing the quality of low-resolution image generation.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:43Z",
+      "score": 54.93
+    },
+    {
+      "id": "ab2073ab7871",
+      "title": "Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is\n  Geometry Adaptive",
+      "url": "http://arxiv.org/abs/2510.02305v1",
+      "summary": "Diffusion models have achieved state-of-the-art performance, demonstrating\nremarkable generalisation capabilities across diverse domains. However, the\nmechanisms underpinning these strong capabilities remain only partially\nunderstood. A leading conjecture, based on the manifold hypothesis, attributes\nthis success to their ability to adapt to low-dimensional geometric structure\nwithin the data. This work provides evidence for this conjecture, focusing on\nhow such phenomena could result from the formulation of the learning problem\nthrough score matching. We inspect the role of implicit regularisation by\ninvestigating the effect of smoothing minimisers of the empirical score\nmatching objective. Our theoretical and empirical results confirm that\nsmoothing the score function -- or equivalently, smoothing in the log-density\ndomain -- produces smoothing tangential to the data manifold. In addition, we\nshow that the manifold along which the diffusion model generalises can be\ncontrolled by choosing an appropriate smoothing.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:39Z",
+      "score": 54.93
+    },
+    {
+      "id": "b13f1a93d756",
+      "title": "Equilibrium Matching: Generative Modeling with Implicit Energy-Based\n  Models",
+      "url": "http://arxiv.org/abs/2510.02300v1",
+      "summary": "We introduce Equilibrium Matching (EqM), a generative modeling framework\nbuilt from an equilibrium dynamics perspective. EqM discards the\nnon-equilibrium, time-conditional dynamics in traditional diffusion and\nflow-based generative models and instead learns the equilibrium gradient of an\nimplicit energy landscape. Through this approach, we can adopt an\noptimization-based sampling process at inference time, where samples are\nobtained by gradient descent on the learned landscape with adjustable step\nsizes, adaptive optimizers, and adaptive compute. EqM surpasses the generation\nperformance of diffusion/flow models empirically, achieving an FID of 1.90 on\nImageNet 256$\\times$256. EqM is also theoretically justified to learn and\nsample from the data manifold. Beyond generation, EqM is a flexible framework\nthat naturally handles tasks including partially noised image denoising, OOD\ndetection, and image composition. By replacing time-conditional velocities with\na unified equilibrium landscape, EqM offers a tighter bridge between flow and\nenergy-based models and a simple route to optimization-driven inference.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:06Z",
+      "score": 54.92
+    },
+    {
+      "id": "hn-45422315",
+      "title": "Discrete Fourier Transform",
+      "url": "https://nima101.github.io/dft",
+      "summary": "",
+      "source": "nima101.github.io",
+      "ts": "2025-09-30T05:46:34Z",
+      "score": 49.85
+    },
+    {
+      "id": "dbc72c125358",
+      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+      "url": "https://openai.com/index/wrtn",
+      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
+      "source": "openai.com",
+      "ts": "2025-10-02T10:00:00Z",
+      "score": 46.5
+    },
+    {
+      "id": "a3a0c93c7f06",
+      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
+      "summary": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-02T22:14:23Z",
+      "score": 46.16
+    },
+    {
+      "id": "hn-45436289",
+      "title": "Systems Programming with Zig (Book)",
+      "url": "https://www.manning.com/books/systems-programming-with-zig",
+      "summary": "",
+      "source": "manning.com",
+      "ts": "2025-10-01T10:51:37Z",
+      "score": 45.49
+    },
+    {
+      "id": "20d626c31e24",
+      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+      "source": "openai.com",
+      "ts": "2025-10-02T00:00:00Z",
+      "score": 37.76
+    },
+    {
+      "id": "hn-45437135",
+      "title": "The Crete Fleet – Concrete Tugs and Barges from WWI",
+      "url": "https://thecretefleet.com",
+      "summary": "",
+      "source": "thecretefleet.com",
+      "ts": "2025-10-01T12:56:37Z",
+      "score": 36.87
+    },
+    {
+      "id": "hn-45431526",
+      "title": "Show HN: JPDB, GDB for Your Waveforms",
+      "url": "https://github.com/1024bees/dang",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-09-30T21:33:04Z",
+      "score": 26.34
+    },
+    {
+      "id": "hn-45427972",
+      "title": "Earth was born dry until a cosmic collision made it a blue planet",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
+      "summary": "",
+      "source": "sciencedaily.com",
+      "ts": "2025-09-30T16:54:43Z",
+      "score": 26.0
+    },
+    {
+      "id": "90b0a8f354ca",
+      "title": "Accelerating our Android apps with Baseline Profiles",
+      "url": "https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/",
+      "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-10-01T16:00:17Z",
+      "score": 24.59
+    },
+    {
+      "id": "e484c6c3bfd6",
+      "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+      "url": "https://openai.com/index/samsung-and-sk-join-stargate",
+      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+      "source": "openai.com",
+      "ts": "2025-10-01T03:00:00Z",
+      "score": 24.38
     },
     {
       "id": "e5bccbdbf40e",
@@ -493,7 +511,7 @@
       "summary": "<p>Following our keynote presentations at FSE 2025 and Eurostar 2025, we’re delving further into the development of Meta’s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of compliance adherence at Meta, while accelerating developer and product velocity. By leveraging LLMs we’ve been able to overcome the barriers that [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\" rel=\"nofollow\">LLMs Are the Key to Mutation Testing and Better Compliance</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-30T16:00:08Z",
-      "score": 19.13
+      "score": 14.91
     },
     {
       "id": "d3e8a095ebe8",
@@ -502,7 +520,7 @@
       "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">Meta 3D AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-29T14:00:42Z",
-      "score": 11.13
+      "score": 8.68
     },
     {
       "id": "9878dd4f6392",
