@@ -1,85 +1,13 @@
 {
   "items": [
     {
-      "id": "hn-45473852",
-      "title": "How I influence tech company politics as a staff software engineer",
-      "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+      "id": "hn-45483386",
+      "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
       "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-10-04T15:09:41Z",
-      "score": 257.08
-    },
-    {
-      "id": "hn-45475529",
-      "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
-      "url": "https://github.com/DebarghaG/proofofthought",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-04T18:34:23Z",
-      "score": 231.92
-    },
-    {
-      "id": "hn-45479103",
-      "title": "Way past its prime: how did Amazon get so rubbish?",
-      "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-10-05T05:47:55Z",
-      "score": 231.29
-    },
-    {
-      "id": "hn-45479165",
-      "title": "Social Cooling (2017)",
-      "url": "https://www.socialcooling.com/",
-      "summary": "",
-      "source": "socialcooling.com",
-      "ts": "2025-10-05T06:01:24Z",
-      "score": 230.51
-    },
-    {
-      "id": "hn-45472319",
-      "title": "Paged Out Issue #7 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-      "summary": "",
-      "source": "pagedout.institute",
-      "ts": "2025-10-04T10:38:06Z",
-      "score": 219.37
-    },
-    {
-      "id": "hn-45473861",
-      "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
-      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-04T15:10:49Z",
-      "score": 215.1
-    },
-    {
-      "id": "hn-45473730",
-      "title": "Self-hosting email like it's 1984",
-      "url": "https://maxadamski.com/blog/2025/10/email.html",
-      "summary": "",
-      "source": "maxadamski.com",
-      "ts": "2025-10-04T14:53:32Z",
-      "score": 209.91
-    },
-    {
-      "id": "hn-45475808",
-      "title": "Blog Feeds",
-      "url": "https://blogfeeds.net",
-      "summary": "",
-      "source": "blogfeeds.net",
-      "ts": "2025-10-04T19:08:46Z",
-      "score": 178.76
-    },
-    {
-      "id": "hn-45476820",
-      "title": "$912 energy independence without red tape",
-      "url": "https://sunboxlabs.com/",
-      "summary": "",
-      "source": "sunboxlabs.com",
-      "ts": "2025-10-04T21:22:05Z",
-      "score": 177.94
+      "source": "koreajoongangdaily.joins.com",
+      "ts": "2025-10-05T17:20:39Z",
+      "score": 539.4
     },
     {
       "id": "hn-45478749",
@@ -88,106 +16,16 @@
       "summary": "",
       "source": "pewresearch.org",
       "ts": "2025-10-05T04:01:57Z",
-      "score": 175.88
+      "score": 314.04
     },
     {
-      "id": "hn-45479006",
-      "title": "Anthropic Release Memory API",
-      "url": "https://www.anthropic.com/news/context-management",
+      "id": "hn-45479165",
+      "title": "Social Cooling (2017)",
+      "url": "https://www.socialcooling.com/",
       "summary": "",
-      "source": "anthropic.com",
-      "ts": "2025-10-05T05:20:08Z",
-      "score": 170.87
-    },
-    {
-      "id": "hn-45472678",
-      "title": "The Buchstabenmuseum Berlin is closing",
-      "url": "https://www.buchstabenmuseum.de/en/",
-      "summary": "",
-      "source": "buchstabenmuseum.de",
-      "ts": "2025-10-04T11:58:58Z",
-      "score": 170.07
-    },
-    {
-      "id": "hn-45477206",
-      "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
-      "url": "https://blog.cr.yp.to/20251004-weakened.html",
-      "summary": "",
-      "source": "blog.cr.yp.to",
-      "ts": "2025-10-04T22:16:33Z",
-      "score": 160.17
-    },
-    {
-      "id": "hn-45474900",
-      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-      "url": "https://arxiv.org/abs/2509.19371",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-10-04T17:18:07Z",
-      "score": 157.91
-    },
-    {
-      "id": "hn-45472765",
-      "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
-      "url": "https://www.folklore.org/Thunderscan.html",
-      "summary": "",
-      "source": "folklore.org",
-      "ts": "2025-10-04T12:16:37Z",
-      "score": 154.25
-    },
-    {
-      "id": "hn-45427972",
-      "title": "Earth was born dry until a cosmic collision made it a blue planet",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
-      "summary": "",
-      "source": "sciencedaily.com",
-      "ts": "2025-09-30T16:54:43Z",
-      "score": 152.02
-    },
-    {
-      "id": "hn-45477742",
-      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
-      "url": "https://arxiv.org/abs/2509.12351",
-      "summary": "",
-      "source": "arxiv.org",
-      "ts": "2025-10-04T23:42:55Z",
-      "score": 150.4
-    },
-    {
-      "id": "hn-45478780",
-      "title": "Ambigr.am",
-      "url": "https://ambigr.am/hall-of-fame",
-      "summary": "",
-      "source": "ambigr.am",
-      "ts": "2025-10-05T04:11:55Z",
-      "score": 134.77
-    },
-    {
-      "id": "hn-45479820",
-      "title": "Why I Choose Email over Messaging",
-      "url": "https://www.spinellis.gr/blog/20250926/?li",
-      "summary": "",
-      "source": "spinellis.gr",
-      "ts": "2025-10-05T08:12:24Z",
-      "score": 129.08
-    },
-    {
-      "id": "hn-45476821",
-      "title": "Matrix Core Programming on AMD GPUs",
-      "url": "https://salykova.github.io/matrix-cores-cdna",
-      "summary": "",
-      "source": "salykova.github.io",
-      "ts": "2025-10-04T21:22:11Z",
-      "score": 125.15
-    },
-    {
-      "id": "hn-45478553",
-      "title": "1Password CLI Vulnerability",
-      "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
-      "summary": "",
-      "source": "codeberg.org",
-      "ts": "2025-10-05T03:01:50Z",
-      "score": 121.9
+      "source": "socialcooling.com",
+      "ts": "2025-10-05T06:01:24Z",
+      "score": 287.47
     },
     {
       "id": "hn-45480106",
@@ -196,34 +34,16 @@
       "summary": "",
       "source": "blog.muni.town",
       "ts": "2025-10-05T09:07:38Z",
-      "score": 116.49
+      "score": 281.92
     },
     {
-      "id": "hn-45477971",
-      "title": "Mod. 5140 - IBM's First Laptop Computer",
-      "url": "https://richardsapperdesign.com/products/mod-5140/",
+      "id": "hn-45479006",
+      "title": "Managing context on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/news/context-management",
       "summary": "",
-      "source": "richardsapperdesign.com",
-      "ts": "2025-10-05T00:35:10Z",
-      "score": 114.13
-    },
-    {
-      "id": "hn-45447057",
-      "title": "Old Stockholm Telephone Tower",
-      "url": "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower",
-      "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-10-02T07:12:18Z",
-      "score": 114.07
-    },
-    {
-      "id": "hn-45477118",
-      "title": "XiangShan Vector Floating-Point Unit Design",
-      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-      "summary": "",
-      "source": "docs.xiangshan.cc",
-      "ts": "2025-10-04T22:02:28Z",
-      "score": 110.6
+      "source": "anthropic.com",
+      "ts": "2025-10-05T05:20:08Z",
+      "score": 225.78
     },
     {
       "id": "hn-45480506",
@@ -232,133 +52,241 @@
       "summary": "",
       "source": "bhargav.dev",
       "ts": "2025-10-05T10:39:12Z",
-      "score": 106.34
+      "score": 225.52
     },
     {
-      "id": "hn-45431115",
-      "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
-      "url": "https://benbridle.com/projects/cobalt.html",
+      "id": "hn-45482106",
+      "title": "NIST's DeepSeek \"evaluation\" is a hit piece",
+      "url": "https://erichartford.com/the-demonization-of-deepseek",
       "summary": "",
-      "source": "benbridle.com",
-      "ts": "2025-09-30T20:54:45Z",
-      "score": 103.02
+      "source": "erichartford.com",
+      "ts": "2025-10-05T15:12:45Z",
+      "score": 214.57
     },
     {
-      "id": "hn-45477516",
-      "title": "Borehole Oscillators",
-      "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
+      "id": "hn-45478780",
+      "title": "Ambigr.am",
+      "url": "https://ambigr.am/hall-of-fame",
       "summary": "",
-      "source": "gregegan.net",
-      "ts": "2025-10-04T23:02:32Z",
-      "score": 101.4
+      "source": "ambigr.am",
+      "ts": "2025-10-05T04:11:55Z",
+      "score": 197.27
+    },
+    {
+      "id": "hn-45475808",
+      "title": "Blog Feeds",
+      "url": "https://blogfeeds.net",
+      "summary": "",
+      "source": "blogfeeds.net",
+      "ts": "2025-10-04T19:08:46Z",
+      "score": 186.94
+    },
+    {
+      "id": "hn-45480317",
+      "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+      "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+      "summary": "",
+      "source": "jamesoclaire.com",
+      "ts": "2025-10-05T09:51:26Z",
+      "score": 178.66
+    },
+    {
+      "id": "hn-45481892",
+      "title": "The QNX Operating System",
+      "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
+      "summary": "",
+      "source": "abortretry.fail",
+      "ts": "2025-10-05T14:47:13Z",
+      "score": 170.02
+    },
+    {
+      "id": "hn-45483924",
+      "title": "What GPT-OSS leaks about OpenAI's training data",
+      "url": "https://fi-le.net/oss/",
+      "summary": "",
+      "source": "fi-le.net",
+      "ts": "2025-10-05T18:28:16Z",
+      "score": 165.9
     },
     {
       "id": "hn-45435606",
-      "title": "What .NET 10 GC Changes Mean for Developers",
+      "title": "What .NET 10 GC changes mean for developers",
       "url": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
       "summary": "",
       "source": "roxeem.com",
       "ts": "2025-10-01T08:40:35Z",
-      "score": 95.6
+      "score": 163.56
     },
     {
-      "id": "0bf5456269c4",
-      "title": "If you’re not an AI startup, good luck raising money from VCs",
-      "url": "https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/",
-      "summary": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for more than half of all VC money invested.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-04T20:05:28Z",
-      "score": 80.06
-    },
-    {
-      "id": "hn-45440071",
-      "title": "Newton: physics simulation engine built upon NVIDIA Warp",
-      "url": "https://github.com/newton-physics/newton",
+      "id": "hn-45483531",
+      "title": "Show HN: ut – Rust based CLI utilities for devs and IT",
+      "url": "https://github.com/ksdme/ut",
       "summary": "",
       "source": "github.com",
-      "ts": "2025-10-01T16:57:11Z",
-      "score": 75.21
+      "ts": "2025-10-05T17:36:20Z",
+      "score": 146.28
     },
     {
-      "id": "e1f1f903e73e",
-      "title": "Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/",
-      "summary": "Agriculture consumes a vast amount of water, and some countries are under more stress than others. Instacrops pivoted to AI to help farmers cut water use by 30%.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-04T16:30:00Z",
-      "score": 74.29
-    },
-    {
-      "id": "52f5a75e881d",
-      "title": "Sam Altman says Sora will add ‘granular,’ opt-in copyright controls",
-      "url": "https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/",
-      "summary": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-04T16:26:50Z",
-      "score": 74.21
-    },
-    {
-      "id": "51fae0c36ed9",
-      "title": "Tilly Norwood is a gen AI psyop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden",
-      "summary": "Last week at the Zurich Film Festival, Eline Van der Velden - founder and CEO of AI production house Particle6 and its subsidiary talent studio Xicoia - said that a number of talent agents had expressed interest in working with Tilly Norwood, an AI-generated \"actress\" created by the companies. Van der Velden has not gone [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-04T14:00:00Z",
-      "score": 70.52
-    },
-    {
-      "id": "f99d342eb71e",
-      "title": "Tales from the AI hiring frenzy",
-      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
-      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white background with \"https://\" and a single line of grouped numbers [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-03T19:30:00Z",
-      "score": 47.96
-    },
-    {
-      "id": "hn-45438713",
-      "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
-      "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
-      "summary": "",
-      "source": "backend.orbit.dtu.dk",
-      "ts": "2025-10-01T15:16:44Z",
-      "score": 47.09
-    },
-    {
-      "id": "18fc43c28ea6",
-      "title": "I’ve fallen into Sora’s slippery slop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
-      "summary": "An anime version of Jesus Christ flipping tables. OpenAI employees performing in Hamilton costumes. News anchors discussing a story on television. A man doing a thirst-trap TikTok dance. Sam Altman - stealing GPUs on CCTV, listening to a business pitch, crying. Such were the contents of my feed on Sora, OpenAI's new social media app [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-03T17:08:32Z",
-      "score": 45.67
-    },
-    {
-      "id": "5b15f225194d",
-      "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/",
-      "summary": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-03T21:37:26Z",
-      "score": 45.58
-    },
-    {
-      "id": "hn-45444062",
-      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
-      "url": "https://arxiv.org/abs/2509.18103",
+      "id": "hn-45483205",
+      "title": "Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR",
+      "url": "https://arxiv.org/abs/2509.02522",
       "summary": "",
       "source": "arxiv.org",
-      "ts": "2025-10-01T22:01:20Z",
-      "score": 45.38
+      "ts": "2025-10-05T17:01:19Z",
+      "score": 138.85
     },
     {
-      "id": "d69f76dbe975",
-      "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
-      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
-      "summary": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-03T20:08:46Z",
-      "score": 44.19
+      "id": "hn-45481008",
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-05T12:27:11Z",
+      "score": 135.46
+    },
+    {
+      "id": "hn-45482516",
+      "title": "BYD builds fastest car",
+      "url": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
+      "summary": "",
+      "source": "autotrader.co.uk",
+      "ts": "2025-10-05T15:54:01Z",
+      "score": 134.79
+    },
+    {
+      "id": "hn-45483275",
+      "title": "Focus Is Saying No",
+      "url": "https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1",
+      "summary": "",
+      "source": "medium.com",
+      "ts": "2025-10-05T17:08:19Z",
+      "score": 129.82
+    },
+    {
+      "id": "hn-45485175",
+      "title": "The death of industrial design and the era of dull electronics",
+      "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
+      "summary": "",
+      "source": "hackaday.com",
+      "ts": "2025-10-05T20:55:26Z",
+      "score": 123.23
+    },
+    {
+      "id": "hn-45482467",
+      "title": "NFS at 40 – Remembering the Sun Microsystems Network File System",
+      "url": "https://nfs40.online/",
+      "summary": "",
+      "source": "nfs40.online",
+      "ts": "2025-10-05T15:49:58Z",
+      "score": 119.67
+    },
+    {
+      "id": "hn-45482333",
+      "title": "Show HN: ASCII Drawing Board",
+      "url": "https://www.delopsu.com/draw.html",
+      "summary": "",
+      "source": "delopsu.com",
+      "ts": "2025-10-05T15:36:21Z",
+      "score": 117.46
+    },
+    {
+      "id": "hn-45485546",
+      "title": "The dangerous intimacy of social location sharing",
+      "url": "https://joinreboot.org/p/lighthouses-in-the-sky",
+      "summary": "",
+      "source": "joinreboot.org",
+      "ts": "2025-10-05T21:44:01Z",
+      "score": 117.05
+    },
+    {
+      "id": "hn-45485736",
+      "title": "Ken Parker, famed luthier, has died",
+      "url": "https://kenparkerarchtops.com",
+      "summary": "",
+      "source": "kenparkerarchtops.com",
+      "ts": "2025-10-05T22:10:15Z",
+      "score": 108.93
+    },
+    {
+      "id": "hn-45483651",
+      "title": "Callbacks in C++ using template functors (1994)",
+      "url": "http://www.tutok.sk/fastgl/callback.html",
+      "summary": "",
+      "source": "tutok.sk",
+      "ts": "2025-10-05T17:50:17Z",
+      "score": 108.91
+    },
+    {
+      "id": "hn-45458455",
+      "title": "Which table format do LLMs understand best?",
+      "url": "https://www.improvingagents.com/blog/best-input-data-format-for-llms",
+      "summary": "",
+      "source": "improvingagents.com",
+      "ts": "2025-10-03T02:59:18Z",
+      "score": 108.06
+    },
+    {
+      "id": "hn-45485806",
+      "title": "Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica",
+      "url": "https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/",
+      "summary": "",
+      "source": "cleantechnica.com",
+      "ts": "2025-10-05T22:18:31Z",
+      "score": 106.81
+    },
+    {
+      "id": "hn-45484284",
+      "title": "Toybox: All-in-one Linux command line",
+      "url": "https://github.com/landley/toybox",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-05T19:09:35Z",
+      "score": 105.4
+    },
+    {
+      "id": "hn-45485440",
+      "title": "Wine 10.16 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS",
+      "url": "https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16",
+      "summary": "",
+      "source": "gitlab.winehq.org",
+      "ts": "2025-10-05T21:26:25Z",
+      "score": 104.46
+    },
+    {
+      "id": "099b108b3445",
+      "title": "California’s new AI safety law shows regulation and innovation don’t have to clash",
+      "url": "https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/",
+      "summary": "“Are bills like SB 53 the thing that will stop us from beating China? No,” said Adam Billen, vice president of public policy at youth-led advocacy group Encode AI. “I think it is just genuinely intellectually dishonest to say that that is the thing that will stop us in the race.”",
+      "source": "techcrunch.com",
+      "ts": "2025-10-05T17:51:48Z",
+      "score": 98.08
+    },
+    {
+      "id": "a8ff87a9b150",
+      "title": "OpenAI and Jony Ive may be struggling to figure out their AI device",
+      "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
+      "summary": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a screen-less, AI-powered device.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-05T16:34:26Z",
+      "score": 95.48
+    },
+    {
+      "id": "hn-45483834",
+      "title": "Period-Correct Graphics in PC Emulators: Part 1 – The Amiga",
+      "url": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/",
+      "summary": "",
+      "source": "blog.johnnovak.net",
+      "ts": "2025-10-05T18:16:35Z",
+      "score": 95.33
+    },
+    {
+      "id": "e9bdffa3ab11",
+      "title": "The Reinforcement Gap — or why some AI skills improve faster than others",
+      "url": "https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/",
+      "summary": "AI tasks that work well with reinforcement learning are getting better fast — and threatening to leave the rest of the industry behind.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-05T15:00:00Z",
+      "score": 92.4
     },
     {
       "id": "hn-45439684",
@@ -367,34 +295,133 @@
       "summary": "",
       "source": "jeffersonheard.ghost.io",
       "ts": "2025-10-01T16:27:32Z",
-      "score": 39.06
+      "score": 75.32
+    },
+    {
+      "id": "hn-45454940",
+      "title": "Why are hyperlinks blue? (2021)",
+      "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
+      "summary": "",
+      "source": "blog.mozilla.org",
+      "ts": "2025-10-02T20:13:53Z",
+      "score": 61.7
     },
     {
       "id": "hn-45452480",
-      "title": "Comparing a RISC and a CISC with Similar Hardware Organization (1991)",
+      "title": "Comparing a RISC and a CISC with similar hardware organization (1991)",
       "url": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
       "summary": "",
       "source": "dl.acm.org",
       "ts": "2025-10-02T17:12:57Z",
-      "score": 39.02
+      "score": 55.63
     },
     {
-      "id": "hn-45442221",
-      "title": "Leveling Up My Homelab",
-      "url": "https://cweagans.net/2025/09/leveling-up-my-homelab/",
-      "summary": "",
-      "source": "cweagans.net",
-      "ts": "2025-10-01T19:32:49Z",
-      "score": 37.66
+      "id": "51fae0c36ed9",
+      "title": "Tilly Norwood is a gen AI psyop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden",
+      "summary": "Last week at the Zurich Film Festival, Eline Van der Velden - founder and CEO of AI production house Particle6 and its subsidiary talent studio Xicoia - said that a number of talent agents had expressed interest in working with Tilly Norwood, an AI-generated \"actress\" created by the companies. Van der Velden has not gone [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-04T14:00:00Z",
+      "score": 54.89
     },
     {
-      "id": "hn-45442752",
-      "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
-      "url": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
+      "id": "hn-45450392",
+      "title": "Intro to BirdNET-Pi: Eavesdropping on my feathered friends",
+      "url": "https://hannahilea.com/blog/birdnet-intro/",
       "summary": "",
-      "source": "dancharblog.wordpress.com",
-      "ts": "2025-10-01T20:08:27Z",
-      "score": 31.26
+      "source": "hannahilea.com",
+      "ts": "2025-10-02T14:49:12Z",
+      "score": 52.27
+    },
+    {
+      "id": "hn-45473516",
+      "title": "Explainer: Inodes and Inode Numbers",
+      "url": "https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/",
+      "summary": "",
+      "source": "eclecticlight.co",
+      "ts": "2025-10-04T14:22:04Z",
+      "score": 52.08
+    },
+    {
+      "id": "f99d342eb71e",
+      "title": "Tales from the AI hiring frenzy",
+      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white background with \"https://\" and a single line of grouped numbers [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-03T19:30:00Z",
+      "score": 37.33
+    },
+    {
+      "id": "18fc43c28ea6",
+      "title": "I’ve fallen into Sora’s slippery slop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
+      "summary": "An anime version of Jesus Christ flipping tables. OpenAI employees performing in Hamilton costumes. News anchors discussing a story on television. A man doing a thirst-trap TikTok dance. Sam Altman - stealing GPUs on CCTV, listening to a business pitch, crying. Such were the contents of my feed on Sora, OpenAI's new social media app [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-03T17:08:32Z",
+      "score": 35.54
+    },
+    {
+      "id": "5b15f225194d",
+      "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/",
+      "summary": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-03T21:37:26Z",
+      "score": 35.47
+    },
+    {
+      "id": "d69f76dbe975",
+      "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
+      "summary": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-03T20:08:46Z",
+      "score": 34.4
+    },
+    {
+      "id": "hn-45457143",
+      "title": "Connecticut Trail Census Dashboard (2025)",
+      "url": "https://experience.arcgis.com/experience/04f19d6c0a634a188cad8bbf7e8475ba/page/Page-1?draft=true&views=-2025",
+      "summary": "",
+      "source": "experience.arcgis.com",
+      "ts": "2025-10-03T00:08:51Z",
+      "score": 27.48
+    },
+    {
+      "id": "2a1dd892a0eb",
+      "title": "NoiseShift: Resolution-Aware Noise Recalibration for Better\n  Low-Resolution Image Generation",
+      "url": "http://arxiv.org/abs/2510.02307v1",
+      "summary": "Text-to-image diffusion models trained on a fixed set of resolutions often\nfail to generalize, even when asked to generate images at lower resolutions\nthan those seen during training. High-resolution text-to-image generators are\ncurrently unable to easily offer an out-of-the-box budget-efficient alternative\nto their users who might not need high-resolution images. We identify a key\ntechnical insight in diffusion models that when addressed can help tackle this\nlimitation: Noise schedulers have unequal perceptual effects across\nresolutions. The same level of noise removes disproportionately more signal\nfrom lower-resolution images than from high-resolution images, leading to a\ntrain-test mismatch. We propose NoiseShift, a training-free method that\nrecalibrates the noise level of the denoiser conditioned on resolution size.\nNoiseShift requires no changes to model architecture or sampling schedule and\nis compatible with existing models. When applied to Stable Diffusion 3, Stable\nDiffusion 3.5, and Flux-Dev, quality at low resolutions is significantly\nimproved. On LAION-COCO, NoiseShift improves SD3.5 by 15.89%, SD3 by 8.56%, and\nFlux-Dev by 2.44% in FID on average. On CelebA, NoiseShift improves SD3.5 by\n10.36%, SD3 by 5.19%, and Flux-Dev by 3.02% in FID on average. These results\ndemonstrate the effectiveness of NoiseShift in mitigating resolution-dependent\nartifacts and enhancing the quality of low-resolution image generation.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:43Z",
+      "score": 25.93
+    },
+    {
+      "id": "ab2073ab7871",
+      "title": "Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is\n  Geometry Adaptive",
+      "url": "http://arxiv.org/abs/2510.02305v1",
+      "summary": "Diffusion models have achieved state-of-the-art performance, demonstrating\nremarkable generalisation capabilities across diverse domains. However, the\nmechanisms underpinning these strong capabilities remain only partially\nunderstood. A leading conjecture, based on the manifold hypothesis, attributes\nthis success to their ability to adapt to low-dimensional geometric structure\nwithin the data. This work provides evidence for this conjecture, focusing on\nhow such phenomena could result from the formulation of the learning problem\nthrough score matching. We inspect the role of implicit regularisation by\ninvestigating the effect of smoothing minimisers of the empirical score\nmatching objective. Our theoretical and empirical results confirm that\nsmoothing the score function -- or equivalently, smoothing in the log-density\ndomain -- produces smoothing tangential to the data manifold. In addition, we\nshow that the manifold along which the diffusion model generalises can be\ncontrolled by choosing an appropriate smoothing.",
+      "source": "arxiv.org",
+      "ts": "2025-10-02T17:59:39Z",
+      "score": 25.93
+    },
+    {
+      "id": "hn-45448416",
+      "title": "The G in GPU is for Graphics damnit",
+      "url": "https://ut21.github.io/blog/triton.html",
+      "summary": "",
+      "source": "ut21.github.io",
+      "ts": "2025-10-02T11:46:27Z",
+      "score": 25.92
+    },
+    {
+      "id": "hn-45446654",
+      "title": "Matrix Core Programming on AMD CDNA3 and CDNA4 Architecture",
+      "url": "https://salykova.github.io/matrix-cores-cdna",
+      "summary": "",
+      "source": "salykova.github.io",
+      "ts": "2025-10-02T05:43:37Z",
+      "score": 23.25
     },
     {
       "id": "dbc72c125358",
@@ -403,7 +430,7 @@
       "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
       "source": "openai.com",
       "ts": "2025-10-02T10:00:00Z",
-      "score": 28.21
+      "score": 21.95
     },
     {
       "id": "a3a0c93c7f06",
@@ -412,7 +439,7 @@
       "summary": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
       "source": "aws.amazon.com",
       "ts": "2025-10-02T22:14:23Z",
-      "score": 28.0
+      "score": 21.79
     },
     {
       "id": "20d626c31e24",
@@ -421,25 +448,7 @@
       "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
       "source": "openai.com",
       "ts": "2025-10-02T00:00:00Z",
-      "score": 22.9
-    },
-    {
-      "id": "hn-45445551",
-      "title": "A 2025 manual to the DEC PDP-1",
-      "url": "https://obsolescence.dev/pdp1-manual.html",
-      "summary": "",
-      "source": "obsolescence.dev",
-      "ts": "2025-10-02T01:33:26Z",
-      "score": 21.8
-    },
-    {
-      "id": "hn-45438288",
-      "title": "Show HN: 2D Spine Animation AI for Game",
-      "url": "https://www.godmodeai.co/ai-spine-animation",
-      "summary": "",
-      "source": "godmodeai.co",
-      "ts": "2025-10-01T14:42:03Z",
-      "score": 16.31
+      "score": 17.83
     },
     {
       "id": "90b0a8f354ca",
@@ -448,7 +457,7 @@
       "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-01T16:00:17Z",
-      "score": 14.91
+      "score": 11.61
     },
     {
       "id": "e484c6c3bfd6",
@@ -457,7 +466,7 @@
       "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
       "source": "openai.com",
       "ts": "2025-10-01T03:00:00Z",
-      "score": 14.79
+      "score": 11.51
     },
     {
       "id": "e5bccbdbf40e",
@@ -466,7 +475,7 @@
       "summary": "<p>Following our keynote presentations at FSE 2025 and Eurostar 2025, we’re delving further into the development of Meta’s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of compliance adherence at Meta, while accelerating developer and product velocity. By leveraging LLMs we’ve been able to overcome the barriers that [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/\" rel=\"nofollow\">LLMs Are the Key to Mutation Testing and Better Compliance</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-30T16:00:08Z",
-      "score": 9.05
+      "score": 7.04
     },
     {
       "id": "d3e8a095ebe8",
@@ -475,7 +484,7 @@
       "summary": "<p>Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his vision of a future where anyone can create virtual worlds using [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/\" rel=\"nofollow\">Meta 3D AssetGen: Generating 3D Worlds With AI</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-09-29T14:00:42Z",
-      "score": 5.26
+      "score": 4.1
     },
     {
       "id": "9878dd4f6392",
