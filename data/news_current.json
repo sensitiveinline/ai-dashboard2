@@ -7,7 +7,7 @@
       "summary": "",
       "source": "koreajoongangdaily.joins.com",
       "ts": "2025-10-05T17:20:39Z",
-      "score": 1240.25
+      "score": 1250.65
     },
     {
       "id": "hn-45493358",
@@ -16,34 +16,7 @@
       "summary": "",
       "source": "twitter.com",
       "ts": "2025-10-06T16:52:58Z",
-      "score": 471.88
-    },
-    {
-      "id": "hn-45488261",
-      "title": "Structured Procrastination (1995)",
-      "url": "https://structuredprocrastination.com",
-      "summary": "",
-      "source": "structuredprocrastination.com",
-      "ts": "2025-10-06T06:35:36Z",
-      "score": 328.44
-    },
-    {
-      "id": "hn-45487771",
-      "title": "Gem.coop",
-      "url": "https://gem.coop/",
-      "summary": "",
-      "source": "gem.coop",
-      "ts": "2025-10-06T04:59:39Z",
-      "score": 323.13
-    },
-    {
-      "id": "hn-45490549",
-      "title": "AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake",
-      "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-      "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-10-06T12:17:59Z",
-      "score": 294.13
+      "score": 582.21
     },
     {
       "id": "hn-45494558",
@@ -52,124 +25,16 @@
       "summary": "",
       "source": "developers.openai.com",
       "ts": "2025-10-06T18:27:33Z",
-      "score": 284.17
+      "score": 401.8
     },
     {
-      "id": "hn-45489533",
-      "title": "Nobel Prize in Physiology or Medicine 2025",
-      "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+      "id": "hn-45497624",
+      "title": "The least amount of CSS for a decent looking site (2023)",
+      "url": "https://thecascade.dev/article/least-amount-of-css/",
       "summary": "",
-      "source": "nobelprize.org",
-      "ts": "2025-10-06T09:41:16Z",
-      "score": 267.13
-    },
-    {
-      "id": "hn-45491621",
-      "title": "Mise: Monorepo Tasks",
-      "url": "https://github.com/jdx/mise/discussions/6564",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-06T14:07:46Z",
-      "score": 251.01
-    },
-    {
-      "id": "hn-45491609",
-      "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
-      "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-      "summary": "",
-      "source": "gist.github.com",
-      "ts": "2025-10-06T14:06:29Z",
-      "score": 188.58
-    },
-    {
-      "id": "hn-45496146",
-      "title": "Valorant's 128-Tick Servers (2020)",
-      "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-      "summary": "",
-      "source": "technology.riotgames.com",
-      "ts": "2025-10-06T20:47:25Z",
-      "score": 186.48
-    },
-    {
-      "id": "hn-45493143",
-      "title": "One to two Starlink satellites are falling back to Earth each day",
-      "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-      "summary": "",
-      "source": "earthsky.org",
-      "ts": "2025-10-06T16:32:30Z",
-      "score": 181.46
-    },
-    {
-      "id": "hn-45496533",
-      "title": "DeepMind: CodeMender: an AI agent for code security",
-      "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-      "summary": "",
-      "source": "deepmind.google",
-      "ts": "2025-10-06T21:28:56Z",
-      "score": 176.35
-    },
-    {
-      "id": "hn-45488441",
-      "title": "Flightcontrol: A PaaS that deploys to your AWS account",
-      "url": "https://www.flightcontrol.dev/",
-      "summary": "",
-      "source": "flightcontrol.dev",
-      "ts": "2025-10-06T07:07:11Z",
-      "score": 164.21
-    },
-    {
-      "id": "hn-45452472",
-      "title": "Indefinite Backpack Travel",
-      "url": "https://jeremymaluf.com/onebag/",
-      "summary": "",
-      "source": "jeremymaluf.com",
-      "ts": "2025-10-02T17:12:23Z",
-      "score": 155.29
-    },
-    {
-      "id": "hn-45488713",
-      "title": "Battering RAM – Low-cost interposer attacks on confidential computing",
-      "url": "https://batteringram.eu/",
-      "summary": "",
-      "source": "batteringram.eu",
-      "ts": "2025-10-06T07:47:17Z",
-      "score": 146.61
-    },
-    {
-      "id": "hn-45456965",
-      "title": "Basic Math Textbook: The Napkin Project",
-      "url": "https://web.evanchen.cc/napkin.html",
-      "summary": "",
-      "source": "web.evanchen.cc",
-      "ts": "2025-10-02T23:46:40Z",
-      "score": 136.04
-    },
-    {
-      "id": "hn-45493718",
-      "title": "OpenAI ChatKit",
-      "url": "https://github.com/openai/chatkit-js",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-06T17:23:20Z",
-      "score": 132.6
-    },
-    {
-      "id": "hn-45487519",
-      "title": "It's just a virus, the E.R. told him – days later, he was dead",
-      "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-      "summary": "",
-      "source": "nytimes.com",
-      "ts": "2025-10-06T03:57:26Z",
-      "score": 124.87
-    },
-    {
-      "id": "hn-45492564",
-      "title": "Launch HN: Grapevine (YC S19) – A company GPT that actually works",
-      "url": "https://getgrapevine.ai/",
-      "summary": "",
-      "source": "getgrapevine.ai",
-      "ts": "2025-10-06T15:39:59Z",
-      "score": 122.89
+      "source": "thecascade.dev",
+      "ts": "2025-10-06T23:47:24Z",
+      "score": 352.74
     },
     {
       "id": "hn-45469376",
@@ -178,205 +43,88 @@
       "summary": "",
       "source": "windscribe.com",
       "ts": "2025-10-04T00:30:44Z",
-      "score": 120.63
+      "score": 302.79
     },
     {
-      "id": "hn-45493432",
-      "title": "OpenAI DevDay 2025: Opening keynote [video]",
-      "url": "https://www.youtube.com/watch?v=hS1YqcewH0c",
+      "id": "hn-45491621",
+      "title": "Mise: Monorepo Tasks",
+      "url": "https://github.com/jdx/mise/discussions/6564",
       "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-10-06T17:00:05Z",
-      "score": 113.89
+      "source": "github.com",
+      "ts": "2025-10-06T14:07:46Z",
+      "score": 265.82
     },
     {
-      "id": "hn-45495738",
-      "title": "Translating Cython to Mojo, a first attempt",
-      "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+      "id": "hn-45452472",
+      "title": "Indefinite Backpack Travel",
+      "url": "https://jeremymaluf.com/onebag/",
       "summary": "",
-      "source": "fnands.com",
-      "ts": "2025-10-06T20:09:44Z",
-      "score": 108.45
+      "source": "jeremymaluf.com",
+      "ts": "2025-10-02T17:12:23Z",
+      "score": 233.07
     },
     {
-      "id": "6b6d93032d62",
-      "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI",
-      "url": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
-      "summary": "Deloitte is rolling out Claude to its nearly 500,000 employees after issuing a refund for a report that contained AI hallucinations.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-06T22:29:47Z",
-      "score": 107.73
-    },
-    {
-      "id": "hn-45496406",
-      "title": "WebGPU and the Price of Compiling WGSL",
-      "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+      "id": "hn-45496533",
+      "title": "CodeMender: an AI agent for code security",
+      "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
       "summary": "",
-      "source": "hugodaniel.com",
-      "ts": "2025-10-06T21:14:51Z",
-      "score": 107.59
+      "source": "deepmind.google",
+      "ts": "2025-10-06T21:28:56Z",
+      "score": 229.12
     },
     {
-      "id": "0e8658b8ed8d",
-      "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
-      "url": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
-      "summary": "In a Q&#38;A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future. Pulse is OpenAI’s latest personalization play for ChatGPT. It&#160;allows the chatbot to learn about [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-06T22:10:14Z",
-      "score": 107.19
-    },
-    {
-      "id": "hn-45480354",
-      "title": "Sharpie found a way to make pens more cheaply by manufacturing them in the U.S.",
-      "url": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
+      "id": "hn-45491609",
+      "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
+      "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
       "summary": "",
-      "source": "wsj.com",
-      "ts": "2025-10-05T10:01:00Z",
-      "score": 107.08
+      "source": "gist.github.com",
+      "ts": "2025-10-06T14:06:29Z",
+      "score": 186.59
     },
     {
-      "id": "hn-45495711",
-      "title": "My Life in Ambigrammia",
-      "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+      "id": "hn-45458973",
+      "title": "Why did Crunchyroll's subtitles just get worse?",
+      "url": "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles",
       "summary": "",
-      "source": "theatlantic.com",
-      "ts": "2025-10-06T20:07:25Z",
-      "score": 106.57
+      "source": "animebythenumbers.substack.com",
+      "ts": "2025-10-03T04:24:58Z",
+      "score": 180.9
     },
     {
-      "id": "dd79a309ccb8",
-      "title": "ChatGPT apps are live: Here are the first ones you can try",
-      "url": "https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai",
-      "summary": "OpenAI has launched new integrations that plug controls for other apps directly inside ChatGPT, letting you call them up to make a playlist in Spotify or search for local real estate listings on Zillow without leaving the chatbot.&#160;&#160; It’s a bit like the “mini” apps that messaging platforms like Telegram and Discord have embedded inside [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-06T21:51:37Z",
-      "score": 106.5
-    },
-    {
-      "id": "hn-45469541",
-      "title": "Orcas are bringing humans gifts",
-      "url": "https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/",
+      "id": "hn-45499281",
+      "title": "California law forces Netflix, Hulu to turn down ad volumes",
+      "url": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
       "summary": "",
-      "source": "newscientist.com",
-      "ts": "2025-10-04T01:00:00Z",
-      "score": 106.46
+      "source": "politico.com",
+      "ts": "2025-10-07T04:03:49Z",
+      "score": 175.25
     },
     {
-      "id": "9834d5ed9af4",
-      "title": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
-      "url": "https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/",
-      "summary": "Swifties love a puzzle, but some were rubbed the wrong way by a promotional scavenger hunt which appeared to use AI-generated videos.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-06T20:50:16Z",
-      "score": 104.25
-    },
-    {
-      "id": "cb103be6dbdf",
-      "title": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
-      "url": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
-      "summary": "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products. Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google Home to unlock a door, or a data exfiltration prompt injection that summarizes all [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-06T20:24:53Z",
-      "score": 103.34
-    },
-    {
-      "id": "3130e3bc7a8d",
-      "title": "OpenAI ramps up developer push with more powerful models in its API",
-      "url": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
-      "summary": "The updates were part of a series of announcements geared toward wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-06T19:10:27Z",
-      "score": 100.7
-    },
-    {
-      "id": "cfa376d35cdc",
-      "title": "Codex is now generally available",
-      "url": "https://openai.com/index/codex-now-generally-available",
-      "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
-      "source": "openai.com",
-      "ts": "2025-10-06T10:50:00Z",
-      "score": 100.03
-    },
-    {
-      "id": "hn-45493713",
-      "title": "Beginnings: The Dempster Dumpster",
-      "url": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
+      "id": "hn-45487519",
+      "title": "It's just a virus, the E.R. told him – days later, he was dead",
+      "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
       "summary": "",
-      "source": "classicrefusetrucks.com",
-      "ts": "2025-10-06T17:22:48Z",
-      "score": 98.99
+      "source": "nytimes.com",
+      "ts": "2025-10-06T03:57:26Z",
+      "score": 173.15
     },
     {
-      "id": "827fa6105627",
-      "title": "Introducing apps in ChatGPT and the new Apps SDK",
-      "url": "https://openai.com/index/introducing-apps-in-chatgpt",
-      "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-      "source": "openai.com",
-      "ts": "2025-10-06T10:00:00Z",
-      "score": 98.3
-    },
-    {
-      "id": "hn-45489999",
-      "title": "Show HN: I've build a platform for writing technical/scientific documents",
-      "url": "https://www.monsterwriter.com",
+      "id": "hn-45500485",
+      "title": "Deloitte to refund the Australian government after using AI in $440k report",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
       "summary": "",
-      "source": "monsterwriter.com",
-      "ts": "2025-10-06T10:58:14Z",
-      "score": 95.16
+      "source": "theguardian.com",
+      "ts": "2025-10-07T07:51:57Z",
+      "score": 168.53
     },
     {
-      "id": "hn-45492055",
-      "title": "Novel Stable and Low-Energy Earth-Moon Cycle Orbits [pdf]",
-      "url": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
+      "id": "hn-45501189",
+      "title": "Nobel Prize in Physics 2025",
+      "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
       "summary": "",
-      "source": "ross.aoe.vt.edu",
-      "ts": "2025-10-06T14:51:11Z",
-      "score": 95.06
-    },
-    {
-      "id": "7e2d41f85c17",
-      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
-      "summary": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-06T19:14:40Z",
-      "score": 91.68
-    },
-    {
-      "id": "5a187a71faa5",
-      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-      "url": "https://openai.com/index/openai-amd-strategic-partnership",
-      "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
-      "source": "openai.com",
-      "ts": "2025-10-06T06:00:00Z",
-      "score": 90.44
-    },
-    {
-      "id": "hn-45493453",
-      "title": "UpCodes (YC S17) is hiring remote engineers across the Americas",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "summary": "",
-      "source": "up.codes",
-      "ts": "2025-10-06T17:01:31Z",
-      "score": 88.14
-    },
-    {
-      "id": "393918f8efb4",
-      "title": "Introducing OpenZL: An Open Source Format-Aware Compression Framework",
-      "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-      "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-10-06T16:00:53Z",
-      "score": 85.71
-    },
-    {
-      "id": "hn-45458050",
-      "title": "Mister Macintosh (2004)",
-      "url": "https://folklore.org/Mister_Macintosh.html",
-      "summary": "",
-      "source": "folklore.org",
-      "ts": "2025-10-03T02:03:16Z",
-      "score": 73.1
+      "source": "nobelprize.org",
+      "ts": "2025-10-07T09:50:49Z",
+      "score": 159.24
     },
     {
       "id": "hn-45449015",
@@ -385,61 +133,286 @@
       "summary": "",
       "source": "physicsworld.com",
       "ts": "2025-10-02T12:54:13Z",
-      "score": 69.67
+      "score": 156.67
     },
     {
-      "id": "hn-45465824",
-      "title": "Ink deformation",
-      "url": "https://www.inkandswitch.com/ink/notes/ink-deformation-review/",
+      "id": "hn-45497027",
+      "title": "RediShell: Critical remote code execution vulnerability in Redis",
+      "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
       "summary": "",
-      "source": "inkandswitch.com",
-      "ts": "2025-10-03T18:01:59Z",
-      "score": 66.75
+      "source": "wiz.io",
+      "ts": "2025-10-06T22:30:12Z",
+      "score": 132.26
     },
     {
-      "id": "31d83e438443",
-      "title": "Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects",
-      "url": "https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/",
-      "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "id": "hn-45499170",
+      "title": "Pdoc – Generate API documentation for Python projects",
+      "url": "https://pdoc.dev/",
+      "summary": "",
+      "source": "pdoc.dev",
+      "ts": "2025-10-07T03:40:41Z",
+      "score": 131.96
+    },
+    {
+      "id": "hn-45499730",
+      "title": "Learning a foreign language–before you're born",
+      "url": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
+      "summary": "",
+      "source": "nouvelles.umontreal.ca",
+      "ts": "2025-10-07T05:43:56Z",
+      "score": 128.49
+    },
+    {
+      "id": "hn-45501279",
+      "title": "Like Vercel, but open source and for all language",
+      "url": "https://github.com/hunvreus/devpush",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-07T10:07:50Z",
+      "score": 119.62
+    },
+    {
+      "id": "hn-45495738",
+      "title": "Translating Cython to Mojo, a first attempt",
+      "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+      "summary": "",
+      "source": "fnands.com",
+      "ts": "2025-10-06T20:09:44Z",
+      "score": 117.22
+    },
+    {
+      "id": "hn-45498469",
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-10-07T01:34:32Z",
+      "score": 115.71
+    },
+    {
+      "id": "hn-45501459",
+      "title": "MacBook Lid Angle Sensor",
+      "url": "https://github.com/samhenrigold/LidAngleSensor",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-07T10:38:46Z",
+      "score": 111.74
+    },
+    {
+      "id": "hn-45492564",
+      "title": "Launch HN: Grapevine (YC S19) – A company GPT that actually works",
+      "url": "https://getgrapevine.ai/",
+      "summary": "",
+      "source": "getgrapevine.ai",
+      "ts": "2025-10-06T15:39:59Z",
+      "score": 109.51
+    },
+    {
+      "id": "04d6a1d695c6",
+      "title": "Disrupting malicious uses of AI: October 2025",
+      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+      "source": "openai.com",
+      "ts": "2025-10-07T03:00:00Z",
+      "score": 109.16
+    },
+    {
+      "id": "hn-45501073",
+      "title": "Buckle Up, the Smart Glasses Backlash Is Coming",
+      "url": "https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213",
+      "summary": "",
+      "source": "gizmodo.com",
+      "ts": "2025-10-07T09:29:28Z",
+      "score": 108.73
+    },
+    {
+      "id": "hn-45469541",
+      "title": "Orcas are bringing humans gifts",
+      "url": "https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/",
+      "summary": "",
+      "source": "newscientist.com",
+      "ts": "2025-10-04T01:00:00Z",
+      "score": 106.77
+    },
+    {
+      "id": "hn-45501114",
+      "title": "The Mondrian introduction to functional optics",
+      "url": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
+      "summary": "",
+      "source": "marcosh.github.io",
+      "ts": "2025-10-07T09:35:53Z",
+      "score": 104.14
+    },
+    {
+      "id": "hn-45500834",
+      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
+      "url": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "summary": "",
+      "source": "hachyderm.io",
+      "ts": "2025-10-07T08:49:55Z",
+      "score": 103.22
+    },
+    {
+      "id": "hn-45501488",
+      "title": "The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain",
+      "url": "https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/",
+      "summary": "",
+      "source": "ukerc.ac.uk",
+      "ts": "2025-10-07T10:42:47Z",
+      "score": 101.54
+    },
+    {
+      "id": "hn-45468599",
+      "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
+      "url": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
+      "summary": "",
+      "source": "arstechnica.com",
+      "ts": "2025-10-03T22:30:57Z",
+      "score": 101.06
+    },
+    {
+      "id": "hn-45501677",
+      "title": "Vercel's CEO pose with a criminal on INTERPOL's red notice",
+      "url": "https://beincrypto.com/vercel-israel-netanyahu-selfie-backlash-web3-competition/",
+      "summary": "",
+      "source": "beincrypto.com",
+      "ts": "2025-10-07T11:08:30Z",
+      "score": 100.34
+    },
+    {
+      "id": "b7122b50341c",
+      "title": "TopInG: Topologically Interpretable Graph Learning via Persistent\n  Rationale Filtration",
+      "url": "http://arxiv.org/abs/2510.05102v1",
+      "summary": "Graph Neural Networks (GNNs) have shown remarkable success across various\nscientific fields, yet their adoption in critical decision-making is often\nhindered by a lack of interpretability. Recently, intrinsically interpretable\nGNNs have been studied to provide insights into model predictions by\nidentifying rationale substructures in graphs. However, existing methods face\nchallenges when the underlying rationale subgraphs are complex and varied. In\nthis work, we propose TopInG: Topologically Interpretable Graph Learning, a\nnovel topological framework that leverages persistent homology to identify\npersistent rationale subgraphs. TopInG employs a rationale filtration learning\napproach to model an autoregressive generation process of rationale subgraphs,\nand introduces a self-adjusted topological constraint, termed topological\ndiscrepancy, to enforce a persistent topological distinction between rationale\nsubgraphs and irrelevant counterparts. We provide theoretical guarantees that\nour loss function is uniquely optimized by the ground truth under specific\nconditions. Extensive experiments demonstrate TopInG's effectiveness in\ntackling key challenges, such as handling variform rationale subgraphs,\nbalancing predictive performance with interpretability, and mitigating spurious\ncorrelations. Results show that our approach improves upon state-of-the-art\nmethods on both predictive accuracy and interpretation quality.",
+      "source": "arxiv.org",
+      "ts": "2025-10-06T17:59:44Z",
+      "score": 90.49
+    },
+    {
+      "id": "805bc212990e",
+      "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
+      "url": "http://arxiv.org/abs/2510.05096v1",
+      "summary": "Academic presentation videos have become an essential medium for research\ncommunication, yet producing them remains highly labor-intensive, often\nrequiring hours of slide design, recording, and editing for a short 2 to 10\nminutes video. Unlike natural video, presentation video generation involves\ndistinctive challenges: inputs from research papers, dense multi-modal\ninformation (text, figures, tables), and the need to coordinate multiple\naligned channels such as slides, subtitles, speech, and human talker. To\naddress these challenges, we introduce PaperTalker, the first benchmark of 101\nresearch papers paired with author-created presentation videos, slides, and\nspeaker metadata. We further design four tailored evaluation metrics--Meta\nSimilarity, PresentArena, PresentQuiz, and IP Memory--to measure how videos\nconvey the paper's information to the audience. Building on this foundation, we\npropose PaperTalker, the first multi-agent framework for academic presentation\nvideo generation. It integrates slide generation with effective layout\nrefinement by a novel effective tree search visual choice, cursor grounding,\nsubtitling, speech synthesis, and talking-head rendering, while parallelizing\nslide-wise generation for efficiency. Experiments on Paper2Video demonstrate\nthat the presentation videos produced by our approach are more faithful and\ninformative than existing baselines, establishing a practical step toward\nautomated and ready-to-use academic video generation. Our dataset, agent, and\ncode are available at https://github.com/showlab/Paper2Video.",
+      "source": "arxiv.org",
+      "ts": "2025-10-06T17:58:02Z",
+      "score": 90.43
+    },
+    {
+      "id": "0f16e0f9b6e8",
+      "title": "From Noisy Traces to Stable Gradients: Bias-Variance Optimized\n  Preference Optimization for Aligning Large Reasoning Models",
+      "url": "http://arxiv.org/abs/2510.05095v1",
+      "summary": "Large reasoning models (LRMs) generate intermediate reasoning traces before\nproducing final answers, yielding strong gains on multi-step and mathematical\ntasks. Yet aligning LRMs with human preferences, a crucial prerequisite for\nmodel deployment, remains underexplored. The statistically correct objective\nfor preference alignment requires marginalizing over reasoning traces, but this\ncomputation is intractable in practice. A common workaround optimizes a single\nsampled trajectory, which introduces substantial gradient variance from\nstochastic trace sampling. To address this challenge, we frame preference\noptimization for LRMs through the lens of the bias--variance trade-off and\npropose Bias--Variance Optimized Preference Optimization (BVPO), a simple,\ndrop-in method that mixes two gradient estimators: a high-variance trace-based\nestimator and a low-variance empty-trace estimator obtained by disabling\nreasoning trace generation. Our theory shows that BVPO strictly reduces\ntrace-induced variance for any nontrivial mixture, provides a closed-form\nchoice of the mixing weight that minimizes mean-squared error relative to the\ntrue marginal gradient, and under standard smoothness and step-size conditions,\ntightens classical convergence bounds for stochastic gradient descent.\nEmpirically, BVPO improves alignment over the best baseline by up to 7.8 points\non AlpacaEval~2 and 6.8 points on Arena-Hard. Despite being trained only on\ngeneral conversational data, BVPO also boosts reasoning performance for base\nmodels by up to 4.0 points on the average of six math reasoning benchmarks.\nThese results identify variance from trace sampling as a key bottleneck and\ndemonstrate that directly optimizing the bias--variance trade-off yields more\nstable training and stronger overall performance.",
+      "source": "arxiv.org",
+      "ts": "2025-10-06T17:58:01Z",
+      "score": 90.43
+    },
+    {
+      "id": "hn-45491470",
+      "title": "Compiling a Forth",
+      "url": "https://healeycodes.com/compiling-a-forth",
+      "summary": "",
+      "source": "healeycodes.com",
+      "ts": "2025-10-06T13:52:50Z",
+      "score": 89.09
+    },
+    {
+      "id": "6b6d93032d62",
+      "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI",
+      "url": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
+      "summary": "Deloitte is rolling out Claude to its nearly 500,000 employees after issuing a refund for a report that contained AI hallucinations.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-06T22:29:47Z",
+      "score": 84.09
+    },
+    {
+      "id": "0e8658b8ed8d",
+      "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+      "url": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
+      "summary": "In a Q&#38;A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future. Pulse is OpenAI’s latest personalization play for ChatGPT. It&#160;allows the chatbot to learn about [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-06T22:10:14Z",
+      "score": 83.52
+    },
+    {
+      "id": "dd79a309ccb8",
+      "title": "ChatGPT apps are live: Here are the first ones you can try",
+      "url": "https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai",
+      "summary": "OpenAI has launched new integrations that plug controls for other apps directly inside ChatGPT, letting you call them up to make a playlist in Spotify or search for local real estate listings on Zillow without leaving the chatbot.&#160;&#160; It’s a bit like the “mini” apps that messaging platforms like Telegram and Discord have embedded inside [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-06T21:51:37Z",
+      "score": 82.99
+    },
+    {
+      "id": "9834d5ed9af4",
+      "title": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
+      "url": "https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/",
+      "summary": "Swifties love a puzzle, but some were rubbed the wrong way by a promotional scavenger hunt which appeared to use AI-generated videos.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-06T20:50:16Z",
+      "score": 81.24
+    },
+    {
+      "id": "cb103be6dbdf",
+      "title": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
+      "url": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
+      "summary": "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products. Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google Home to unlock a door, or a data exfiltration prompt injection that summarizes all [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-06T20:24:53Z",
+      "score": 80.52
+    },
+    {
+      "id": "hn-45459706",
+      "title": "Using Deno as my game engine",
+      "url": "https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine",
+      "summary": "",
+      "source": "explodi.tubatuba.net",
+      "ts": "2025-10-03T06:33:43Z",
+      "score": 80.04
+    },
+    {
+      "id": "3130e3bc7a8d",
+      "title": "OpenAI ramps up developer push with more powerful models in its API",
+      "url": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
+      "summary": "The updates were part of a series of announcements geared toward wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-06T19:10:27Z",
+      "score": 78.47
+    },
+    {
+      "id": "cfa376d35cdc",
+      "title": "Codex is now generally available",
+      "url": "https://openai.com/index/codex-now-generally-available",
+      "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
+      "source": "openai.com",
+      "ts": "2025-10-06T10:50:00Z",
+      "score": 77.94
+    },
+    {
+      "id": "827fa6105627",
+      "title": "Introducing apps in ChatGPT and the new Apps SDK",
+      "url": "https://openai.com/index/introducing-apps-in-chatgpt",
+      "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
+      "source": "openai.com",
+      "ts": "2025-10-06T10:00:00Z",
+      "score": 76.6
+    },
+    {
+      "id": "7e2d41f85c17",
+      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
+      "summary": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-06T19:14:40Z",
+      "score": 71.44
+    },
+    {
+      "id": "393918f8efb4",
+      "title": "Introducing OpenZL: An Open Source Format-Aware Compression Framework",
+      "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+      "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
-      "ts": "2025-10-06T02:30:07Z",
-      "score": 64.68
-    },
-    {
-      "id": "hn-45475623",
-      "title": "Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)",
-      "url": "https://reiner.org/cuckoo-hashing",
-      "summary": "",
-      "source": "reiner.org",
-      "ts": "2025-10-04T18:45:55Z",
-      "score": 59.79
-    },
-    {
-      "id": "hn-45475416",
-      "title": "An MVCC-like columnar table on S3 with constant-time deletes",
-      "url": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
-      "summary": "",
-      "source": "shayon.dev",
-      "ts": "2025-10-04T18:18:55Z",
-      "score": 39.68
-    },
-    {
-      "id": "hn-45451217",
-      "title": "Writing high-performance matrix multiplication kernels for Blackwell",
-      "url": "https://docs.jax.dev/en/latest/pallas/gpu/blackwell_matmul.html",
-      "summary": "",
-      "source": "docs.jax.dev",
-      "ts": "2025-10-02T15:43:01Z",
-      "score": 36.13
-    },
-    {
-      "id": "hn-45463932",
-      "title": "La Quête du Temps, Vacheron Constantin timepiece at the Louvre",
-      "url": "https://www.bloomberg.com/news/features/2025-10-03/at-the-louvre-vacheron-constantin-showcases-the-art-of-luxury-watches",
-      "summary": "",
-      "source": "bloomberg.com",
-      "ts": "2025-10-03T15:16:26Z",
-      "score": 32.63
+      "ts": "2025-10-06T16:00:53Z",
+      "score": 66.79
     },
     {
       "id": "hn-45457825",
@@ -448,43 +421,52 @@
       "summary": "",
       "source": "alvinwan.com",
       "ts": "2025-10-03T01:37:23Z",
-      "score": 29.17
+      "score": 53.64
     },
     {
-      "id": "130d1df51a25",
-      "title": "Reward Models are Metrics in a Trench Coat",
-      "url": "http://arxiv.org/abs/2510.03231v1",
-      "summary": "The emergence of reinforcement learning in post-training of large language\nmodels has sparked significant interest in reward models. Reward models assess\nthe quality of sampled model outputs to generate training signals. This task is\nalso performed by evaluation metrics that monitor the performance of an AI\nmodel. We find that the two research areas are mostly separate, leading to\nredundant terminology and repeated pitfalls. Common challenges include\nsusceptibility to spurious correlations, impact on downstream reward hacking,\nmethods to improve data quality, and approaches to meta-evaluation. Our\nposition paper argues that a closer collaboration between the fields can help\novercome these issues. To that end, we show how metrics outperform reward\nmodels on specific tasks and provide an extensive survey of the two areas.\nGrounded in this survey, we point to multiple research topics in which closer\nalignment can improve reward models and metrics in areas such as preference\nelicitation methods, avoidance of spurious correlations and reward hacking, and\ncalibration-aware meta-evaluation.",
-      "source": "arxiv.org",
-      "ts": "2025-10-03T17:59:44Z",
-      "score": 25.91
+      "id": "31d83e438443",
+      "title": "Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects",
+      "url": "https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/",
+      "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-10-06T02:30:07Z",
+      "score": 50.4
     },
     {
-      "id": "99177e7ff5ab",
-      "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
-      "url": "http://arxiv.org/abs/2510.03230v1",
-      "summary": "GUI grounding, the task of mapping natural-language instructions to pixel\ncoordinates, is crucial for autonomous agents, yet remains difficult for\ncurrent VLMs. The core bottleneck is reliable patch-to-pixel mapping, which\nbreaks when extrapolating to high-resolution displays unseen during training.\nCurrent approaches generate coordinates as text tokens directly from visual\nfeatures, forcing the model to infer complex position-to-pixel mappings\nimplicitly; as a result, accuracy degrades and failures proliferate on new\nresolutions. We address this with two complementary innovations. First, RULER\ntokens serve as explicit coordinate markers, letting the model reference\npositions similar to gridlines on a map and adjust rather than generate\ncoordinates from scratch. Second, Interleaved MRoPE (I-MRoPE) improves spatial\nencoding by ensuring that width and height dimensions are represented equally,\naddressing the asymmetry of standard positional schemes. Experiments on\nScreenSpot, ScreenSpot-V2, and ScreenSpot-Pro show consistent gains in\ngrounding accuracy, with the largest improvements on high-resolution\ninterfaces. By providing explicit spatial guidance rather than relying on\nimplicit learning, our approach enables more reliable GUI automation across\ndiverse resolutions and platforms.",
-      "source": "arxiv.org",
-      "ts": "2025-10-03T17:59:34Z",
-      "score": 25.91
-    },
-    {
-      "id": "0023c25854ac",
-      "title": "Test-Time Defense Against Adversarial Attacks via Stochastic Resonance\n  of Latent Ensembles",
-      "url": "http://arxiv.org/abs/2510.03224v1",
-      "summary": "We propose a test-time defense mechanism against adversarial attacks:\nimperceptible image perturbations that significantly alter the predictions of a\nmodel. Unlike existing methods that rely on feature filtering or smoothing,\nwhich can lead to information loss, we propose to \"combat noise with noise\" by\nleveraging stochastic resonance to enhance robustness while minimizing\ninformation loss. Our approach introduces small translational perturbations to\nthe input image, aligns the transformed feature embeddings, and aggregates them\nbefore mapping back to the original reference image. This can be expressed in a\nclosed-form formula, which can be deployed on diverse existing network\narchitectures without introducing additional network modules or fine-tuning for\nspecific attack types. The resulting method is entirely training-free,\narchitecture-agnostic, and attack-agnostic. Empirical results show\nstate-of-the-art robustness on image classification and, for the first time,\nestablish a generic test-time defense for dense prediction tasks, including\nstereo matching and optical flow, highlighting the method's versatility and\npracticality. Specifically, relative to clean (unperturbed) performance, our\nmethod recovers up to 68.1% of the accuracy loss on image classification, 71.9%\non stereo matching, and 29.2% on optical flow under various types of\nadversarial attacks.",
-      "source": "arxiv.org",
-      "ts": "2025-10-03T17:57:25Z",
-      "score": 25.89
-    },
-    {
-      "id": "hn-45453372",
-      "title": "The Hunt for Huntington's",
-      "url": "https://nehalslearnings.substack.com/p/the-hunt-for-huntingtons",
+      "id": "hn-45473357",
+      "title": "Microformats – building blocks for data-rich web pages",
+      "url": "https://microformats.org",
       "summary": "",
-      "source": "nehalslearnings.substack.com",
-      "ts": "2025-10-02T18:19:28Z",
-      "score": 25.37
+      "source": "microformats.org",
+      "ts": "2025-10-04T13:58:00Z",
+      "score": 32.54
+    },
+    {
+      "id": "hn-45460656",
+      "title": "No_color: Disabling ANSI color output by default",
+      "url": "https://no-color.org/",
+      "summary": "",
+      "source": "no-color.org",
+      "ts": "2025-10-03T08:56:01Z",
+      "score": 26.66
+    },
+    {
+      "id": "hn-45462338",
+      "title": "Radioactive Pottery and Glassware (2010)",
+      "url": "https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/",
+      "summary": "",
+      "source": "carlwillis.wordpress.com",
+      "ts": "2025-10-03T12:47:15Z",
+      "score": 22.33
+    },
+    {
+      "id": "hn-45467751",
+      "title": "Build files are the best tool to represent software architecture",
+      "url": "https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong",
+      "summary": "",
+      "source": "blogsystem5.substack.com",
+      "ts": "2025-10-03T21:04:00Z",
+      "score": 21.36
     },
     {
       "id": "5b15f225194d",
@@ -493,7 +475,7 @@
       "summary": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
       "source": "aws.amazon.com",
       "ts": "2025-10-03T21:37:26Z",
-      "score": 21.5
+      "score": 16.75
     },
     {
       "id": "d69f76dbe975",
@@ -502,7 +484,7 @@
       "summary": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
       "source": "aws.amazon.com",
       "ts": "2025-10-03T20:08:46Z",
-      "score": 20.84
+      "score": 16.24
     },
     {
       "id": "90b0a8f354ca",
@@ -511,7 +493,7 @@
       "summary": "<p>Key Takeways: With billions of Android app users, we’re always looking to improve the Meta app experience, and in this post, we explore the ways we’ve leveraged Android’s Baseline Profiles to significantly improve their performance. We discuss the performance challenges we’ve faced as Meta’s apps, how the needs of users have become more complex over [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/\" rel=\"nofollow\">Accelerating our Android apps with Baseline Profiles</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-01T16:00:17Z",
-      "score": 7.03
+      "score": 5.48
     },
     {
       "id": "9878dd4f6392",
