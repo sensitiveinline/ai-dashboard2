@@ -1,175 +1,49 @@
 {
   "items": [
     {
-      "id": "hn-45502541",
-      "title": "Qualcomm to acquire Arduino",
-      "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
-      "summary": "",
-      "source": "qualcomm.com",
-      "ts": "2025-10-07T13:00:08Z",
-      "score": 781.52
-    },
-    {
-      "id": "hn-45506143",
-      "title": "German government comes out against Chat Control",
-      "url": "https://xcancel.com/paddi_hansen/status/1975595307800142205",
-      "summary": "",
-      "source": "xcancel.com",
-      "ts": "2025-10-07T17:31:49Z",
-      "score": 643.72
-    },
-    {
-      "id": "hn-45507936",
-      "title": "Gemini 2.5 Computer Use model",
-      "url": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-10-07T19:49:11Z",
-      "score": 502.7
-    },
-    {
-      "id": "hn-45504973",
-      "title": "Show HN: Timelinize – Privately organize your own data from everywhere, locally",
-      "url": "https://timelinize.com",
-      "summary": "",
-      "source": "timelinize.com",
-      "ts": "2025-10-07T16:10:22Z",
-      "score": 351.4
-    },
-    {
-      "id": "hn-45502216",
-      "title": "Canadian bill would strip internet access from 'specified persons', no warrant",
-      "url": "https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons",
-      "summary": "",
-      "source": "nationalpost.com",
-      "ts": "2025-10-07T12:20:14Z",
-      "score": 339.66
-    },
-    {
-      "id": "hn-45501189",
-      "title": "Nobel Prize in Physics 2025",
-      "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-      "summary": "",
-      "source": "nobelprize.org",
-      "ts": "2025-10-07T09:50:49Z",
-      "score": 310.73
-    },
-    {
-      "id": "hn-45504470",
-      "title": "IKEA Catalogs 1951-2021",
-      "url": "https://ikeamuseum.com/en/explore/ikea-catalogue/",
-      "summary": "",
-      "source": "ikeamuseum.com",
-      "ts": "2025-10-07T15:35:48Z",
-      "score": 306.8
-    },
-    {
       "id": "hn-45513485",
-      "title": "Synology reverses policy banning third-party HDDs after sales allegedly plummet",
+      "title": "Synology reverses policy banning third-party HDDs",
       "url": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
       "summary": "",
       "source": "guru3d.com",
       "ts": "2025-10-08T08:19:36Z",
-      "score": 270.81
+      "score": 659.23
     },
     {
-      "id": "hn-45503867",
-      "title": "Vibe engineering",
-      "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
+      "id": "hn-45516000",
+      "title": "We found a bug in Go's ARM64 compiler",
+      "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
       "summary": "",
-      "source": "simonwillison.net",
-      "ts": "2025-10-07T14:55:14Z",
-      "score": 269.28
+      "source": "blog.cloudflare.com",
+      "ts": "2025-10-08T13:33:15Z",
+      "score": 359.23
     },
     {
-      "id": "hn-45490713",
-      "title": "An illustrated introduction to linear algebra",
-      "url": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
+      "id": "hn-45474301",
+      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
+      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
       "summary": "",
-      "source": "ducktyped.org",
-      "ts": "2025-10-06T12:38:40Z",
-      "score": 251.96
+      "source": "cbsnews.com",
+      "ts": "2025-10-04T16:04:24Z",
+      "score": 303.81
     },
     {
-      "id": "hn-45506268",
-      "title": "Less is more: Recursive reasoning with tiny networks",
-      "url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html",
+      "id": "hn-45514433",
+      "title": "One-man campaign ravages EU 'Chat Control' bill",
+      "url": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
       "summary": "",
-      "source": "alexiajm.github.io",
-      "ts": "2025-10-07T17:42:06Z",
-      "score": 211.37
+      "source": "politico.eu",
+      "ts": "2025-10-08T10:26:05Z",
+      "score": 293.51
     },
     {
-      "id": "hn-45505539",
-      "title": "Seeing like a software company",
-      "url": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+      "id": "hn-45515657",
+      "title": "The email they shouldn't have read",
+      "url": "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/",
       "summary": "",
-      "source": "seangoedecke.com",
-      "ts": "2025-10-07T16:49:09Z",
-      "score": 207.71
-    },
-    {
-      "id": "hn-45492489",
-      "title": "Show HN: I'm building a browser for reverse engineers",
-      "url": "https://nullpt.rs/reverse-engineering-browser",
-      "summary": "",
-      "source": "nullpt.rs",
-      "ts": "2025-10-06T15:32:32Z",
-      "score": 200.31
-    },
-    {
-      "id": "hn-45502502",
-      "title": "The evolution of Lua, continued [pdf]",
-      "url": "https://www.lua.org/doc/cola.pdf",
-      "summary": "",
-      "source": "lua.org",
-      "ts": "2025-10-07T12:54:14Z",
-      "score": 180.79
-    },
-    {
-      "id": "hn-45467708",
-      "title": "How does gradient descent work?",
-      "url": "https://centralflows.github.io/part1/",
-      "summary": "",
-      "source": "centralflows.github.io",
-      "ts": "2025-10-03T20:59:23Z",
-      "score": 170.23
-    },
-    {
-      "id": "hn-45507195",
-      "title": "The murky economics of the data-centre investment boom",
-      "url": "https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom",
-      "summary": "",
-      "source": "economist.com",
-      "ts": "2025-10-07T18:52:46Z",
-      "score": 151.89
-    },
-    {
-      "id": "hn-45489317",
-      "title": "A macOS terminal command that tells you if your USB-C cable is bad",
-      "url": "https://kau.sh/blog/usbi/",
-      "summary": "",
-      "source": "kau.sh",
-      "ts": "2025-10-06T09:06:28Z",
-      "score": 149.68
-    },
-    {
-      "id": "hn-45507398",
-      "title": "Eliminating contrails from flying could be cheap",
-      "url": "https://www.sustainabilitybynumbers.com/p/eliminating-contrails",
-      "summary": "",
-      "source": "sustainabilitybynumbers.com",
-      "ts": "2025-10-07T19:07:07Z",
-      "score": 146.24
-    },
-    {
-      "id": "hn-45510582",
-      "title": "Study of 1M-year-old skull points to earlier origins of modern humans",
-      "url": "https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans",
-      "summary": "",
-      "source": "theguardian.com",
-      "ts": "2025-10-08T00:17:21Z",
-      "score": 136.95
+      "source": "it-notes.dragas.net",
+      "ts": "2025-10-08T12:56:54Z",
+      "score": 284.41
     },
     {
       "id": "hn-45514164",
@@ -178,205 +52,88 @@
       "summary": "",
       "source": "nobelprize.org",
       "ts": "2025-10-08T09:49:36Z",
-      "score": 130.99
+      "score": 249.95
     },
     {
-      "id": "hn-45511798",
-      "title": "TiVo exiting legacy DVR business",
-      "url": "https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/",
+      "id": "hn-45516968",
+      "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
+      "url": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
       "summary": "",
-      "source": "mediaplaynews.com",
-      "ts": "2025-10-08T03:36:20Z",
-      "score": 127.62
+      "source": "readonlymemo.com",
+      "ts": "2025-10-08T15:01:38Z",
+      "score": 242.37
     },
     {
-      "id": "hn-45489065",
-      "title": "Global Village Construction Set",
-      "url": "https://www.opensourceecology.org/gvcs/",
+      "id": "hn-45516426",
+      "title": "Now open for building: Introducing Gemini CLI extensions",
+      "url": "https://blog.google/technology/developers/gemini-cli-extensions/",
       "summary": "",
-      "source": "opensourceecology.org",
-      "ts": "2025-10-06T08:36:26Z",
-      "score": 121.11
+      "source": "blog.google",
+      "ts": "2025-10-08T14:13:30Z",
+      "score": 190.81
     },
     {
-      "id": "hn-45504388",
-      "title": "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
-      "url": "https://github.com/llama-farm/llamafarm",
+      "id": "hn-45519575",
+      "title": "A few things to know before stealing my 914 (2022)",
+      "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-07T15:30:20Z",
-      "score": 116.48
+      "source": "hagerty.com",
+      "ts": "2025-10-08T19:16:10Z",
+      "score": 184.73
     },
     {
-      "id": "hn-45513459",
-      "title": "Show HN: Oh Yah – Routine management app I built for my sons",
-      "url": "https://ohyahapp.com",
+      "id": "hn-45517674",
+      "title": "Ortega hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Ortega_hypothesis",
       "summary": "",
-      "source": "ohyahapp.com",
-      "ts": "2025-10-08T08:15:49Z",
-      "score": 111.69
+      "source": "en.wikipedia.org",
+      "ts": "2025-10-08T16:06:21Z",
+      "score": 184.28
     },
     {
-      "id": "hn-45514117",
-      "title": "Buy European: EU Commissions New Apply AI Strategy Launched",
-      "url": "https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/",
+      "id": "hn-45489317",
+      "title": "A macOS terminal command that tells you if your USB-C cable is bad",
+      "url": "https://kau.sh/blog/usbi/",
       "summary": "",
-      "source": "euractiv.com",
-      "ts": "2025-10-08T09:44:19Z",
-      "score": 111.61
+      "source": "kau.sh",
+      "ts": "2025-10-06T09:06:28Z",
+      "score": 180.31
     },
     {
-      "id": "hn-45514124",
-      "title": "SoftBank to buy ABB's robotics business in $5.4B deal",
-      "url": "https://www.reuters.com/world/asia-pacific/abb-sell-robots-business-softbank-538-billion-deal-2025-10-08/",
+      "id": "hn-45519915",
+      "title": "Svelte is that fast",
+      "url": "https://chuniversiteit.nl/papers/svelte-is-fast",
       "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-10-08T09:45:02Z",
-      "score": 103.83
+      "source": "chuniversiteit.nl",
+      "ts": "2025-10-08T19:54:02Z",
+      "score": 178.74
     },
     {
-      "id": "hn-45502173",
-      "title": "Stress test for parallel disk i/o using git and pnpm",
-      "url": "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm",
+      "id": "hn-45517134",
+      "title": "The RSS feed reader landscape",
+      "url": "https://lighthouseapp.io/blog/feed-reader-deep-dive",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-07T12:14:16Z",
-      "score": 103.73
+      "source": "lighthouseapp.io",
+      "ts": "2025-10-08T15:17:36Z",
+      "score": 178.04
     },
     {
-      "id": "hn-45514433",
-      "title": "One-man spam campaign ravages EU 'Chat Control' bill",
-      "url": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
+      "id": "hn-45519263",
+      "title": "Julia 1.12 highlights",
+      "url": "https://julialang.org/blog/2025/10/julia-1.12-highlights/",
       "summary": "",
-      "source": "politico.eu",
-      "ts": "2025-10-08T10:26:05Z",
-      "score": 102.74
+      "source": "julialang.org",
+      "ts": "2025-10-08T18:42:22Z",
+      "score": 173.46
     },
     {
-      "id": "hn-45512342",
-      "title": "Interactive Double Pendulum Playground",
-      "url": "https://theabbie.github.io/DoublePendulum/",
+      "id": "hn-45516584",
+      "title": "Show HN: Recall: Give Claude memory with Redis-backed persistent context",
+      "url": "https://www.npmjs.com/package/@joseairosa/recall",
       "summary": "",
-      "source": "theabbie.github.io",
-      "ts": "2025-10-08T05:18:44Z",
-      "score": 101.3
-    },
-    {
-      "id": "hn-45512538",
-      "title": "The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps",
-      "url": "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/",
-      "summary": "",
-      "source": "medicine.yale.edu",
-      "ts": "2025-10-08T05:51:37Z",
-      "score": 95.11
-    },
-    {
-      "id": "e6ae67bc6082",
-      "title": "EgoNight: Towards Egocentric Vision Understanding at Night with a\n  Challenging Benchmark",
-      "url": "http://arxiv.org/abs/2510.06218v1",
-      "summary": "Most existing benchmarks for egocentric vision understanding focus primarily\non daytime scenarios, overlooking the low-light conditions that are inevitable\nin real-world applications. To investigate this gap, we present EgoNight, the\nfirst comprehensive benchmark for nighttime egocentric vision, with visual\nquestion answering (VQA) as the core task. A key feature of EgoNight is the\nintroduction of day-night aligned videos, which enhance night annotation\nquality using the daytime data and reveal clear performance gaps between\nlighting conditions. To achieve this, we collect both synthetic videos rendered\nby Blender and real-world recordings, ensuring that scenes and actions are\nvisually and temporally aligned. Leveraging these paired videos, we construct\nEgoNight-VQA, supported by a novel day-augmented night auto-labeling engine and\nrefinement through extensive human verification. Each QA pair is double-checked\nby annotators for reliability. In total, EgoNight-VQA contains 3658 QA pairs\nacross 90 videos, spanning 12 diverse QA types, with more than 300 hours of\nhuman work. Evaluations of state-of-the-art multimodal large language models\n(MLLMs) reveal substantial performance drops when transferring from day to\nnight, underscoring the challenges of reasoning under low-light conditions.\nBeyond VQA, EgoNight also introduces two auxiliary tasks, day-night\ncorrespondence retrieval and egocentric depth estimation at night, that further\nexplore the boundaries of existing models. We believe EgoNight-VQA provides a\nstrong foundation for advancing application-driven egocentric vision research\nand for developing models that generalize across illumination domains. All the\ndata and code will be made available upon acceptance.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:47Z",
-      "score": 90.48
-    },
-    {
-      "id": "5d79cf2057e6",
-      "title": "TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular\n  Reasoning",
-      "url": "http://arxiv.org/abs/2510.06217v1",
-      "summary": "Process Reward Models (PRMs) have recently emerged as a powerful framework\nfor enhancing the reasoning capabilities of large reasoning models (LRMs),\nparticularly in the context of test-time scaling (TTS). However, their\npotential for supervising LRMs on tabular reasoning domains remains\nunderexplored. Through detailed empirical analyses, we identify that existing\nPRMs, though widely adopted for supervising text-only reasoning steps, struggle\nwith table-specific operations such as sub-table retrieval and schema\ninteraction, leading to critical performance bottlenecks. To address this\nlimitation, we propose TaTToo, a novel table-grounded PRM framework that (i)\nreasons explicitly over tabular reasoning steps and (ii) integrates tool-based\nverification to provide precise reward supervision. Concretely, we first design\na scalable data curation pipeline that constructs over 60k high-quality\nstep-level annotations by integrating table verification rationales with\ntool-based executions. Building on the collected data, we train TaTToo with a\ndual-stage paradigm: cold-start supervised fine-tuning to capture tool-use\nreasoning patterns, followed by reinforcement learning with tool-grounded\nreward shaping to align our model with table-based verification. We provide a\ncomprehensive evaluation of the policy improvement induced by our newly\ndesigned PRM. Across 5 challenging tabular reasoning benchmarks covering\nnumerical reasoning, fact-checking, and data analysis, TaTToo improves\ndownstream policy LRMs by 30.9% at inference, surpasses strong PRM baselines\nsuch as Qwen-2.5-Math-PRM-72B with only 8B parameters, and demonstrates strong\ngeneralizability across diverse TTS strategies.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:41Z",
-      "score": 90.47
-    },
-    {
-      "id": "40f496b493d6",
-      "title": "Stratified GRPO: Handling Structural Heterogeneity in Reinforcement\n  Learning of LLM Search Agents",
-      "url": "http://arxiv.org/abs/2510.06214v1",
-      "summary": "Large language model (LLM) agents increasingly rely on external tools such as\nsearch engines to solve complex, multi-step problems, and reinforcement\nlearning (RL) has become a key paradigm for training them. However, the\ntrajectories of search agents are structurally heterogeneous, where variations\nin the number, placement, and outcomes of search calls lead to fundamentally\ndifferent answer directions and reward distributions. Standard policy gradient\nmethods, which use a single global baseline, suffer from what we identify and\nformalize as cross-stratum bias-an \"apples-to-oranges\" comparison of\nheterogeneous trajectories. This cross-stratum bias distorts credit assignment\nand hinders exploration of complex, multi-step search strategies. To address\nthis, we propose Stratified GRPO, whose central component, Stratified Advantage\nNormalization (SAN), partitions trajectories into homogeneous strata based on\ntheir structural properties and computes advantages locally within each\nstratum. This ensures that trajectories are evaluated only against their true\npeers. Our analysis proves that SAN eliminates cross-stratum bias, yields\nconditionally unbiased unit-variance estimates inside each stratum, and retains\nthe global unbiasedness and unit-variance properties enjoyed by standard\nnormalization, resulting in a more pure and scale-stable learning signal. To\nimprove practical stability under finite-sample regimes, we further linearly\nblend SAN with the global estimator. Extensive experiments on diverse\nsingle-hop and multi-hop question-answering benchmarks demonstrate that\nStratified GRPO consistently and substantially outperforms GRPO by up to 11.3\npoints, achieving higher training rewards, greater training stability, and more\neffective search policies. These results establish stratification as a\nprincipled remedy for structural heterogeneity in RL for LLM search agents.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:13Z",
-      "score": 90.46
-    },
-    {
-      "id": "1c45a9d5d8cc",
-      "title": "You can’t libel the dead. But that doesn’t mean you should deepfake them.",
-      "url": "https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/",
-      "summary": "\"Please, just stop sending me AI videos of Dad,\" the late Robin Williams' daughter Zelda wrote on Instagram.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-07T22:49:46Z",
-      "score": 84.67
-    },
-    {
-      "id": "1d9397125a04",
-      "title": "Google&#8217;s latest AI model uses a web browser like you do",
-      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
-      "summary": "Google is previewing a new Gemini AI model designed to navigate and interact with the web via a browser, letting AI agents do things inside interfaces designed for use by people and not robots. The model, called Gemini 2.5 Computer Use, uses “visual understanding and reasoning capabilities” to analyze a user’s request and carry out [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-07T22:43:33Z",
-      "score": 84.48
-    },
-    {
-      "id": "hn-45490434",
-      "title": "Mathematicians discover prime number pattern in fractal chaos",
-      "url": "https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/",
-      "summary": "",
-      "source": "scientificamerican.com",
-      "ts": "2025-10-06T12:02:25Z",
-      "score": 84.09
-    },
-    {
-      "id": "hn-45485227",
-      "title": "Packing the world for longest lines of sight",
-      "url": "https://tombh.co.uk/packing-world-lines-of-sight",
-      "summary": "",
-      "source": "tombh.co.uk",
-      "ts": "2025-10-05T21:02:03Z",
-      "score": 81.88
-    },
-    {
-      "id": "c956f4399528",
-      "title": "Nobel Prize in Physics goes to early research that led to today&#8217;s quantum computers",
-      "url": "https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers",
-      "summary": "On Tuesday, three physicists received the 2025 Nobel Prize in Physics for their work on quantum mechanics in the 1980s. Researchers John Clarke, Michel H. Devoret, and John M. Martinis created a circuit with no electrical resistance to demonstrate a phenomenon known as quantum tunneling, or how atoms and subatomic particles can move through a [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-07T21:09:53Z",
-      "score": 81.78
-    },
-    {
-      "id": "50a220097b82",
-      "title": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases",
-      "url": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
-      "summary": "AMD's unusual deal to finance OpenAI's chip purchases could grant the AI model maker up to $100 billion, analyst estimates.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-07T21:00:19Z",
-      "score": 81.51
-    },
-    {
-      "id": "f17d2d5f696f",
-      "title": "Google launches its AI vibe-coding app Opal in 15 more countries",
-      "url": "https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/",
-      "summary": "The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panamá, Honduras, Argentina, and Pakistan.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-07T19:54:34Z",
-      "score": 79.67
-    },
-    {
-      "id": "9de1e03b0881",
-      "title": "Tron: Ares is a soft reboot that’s running low on RAM",
-      "url": "https://www.theverge.com/entertainment/794222/tron-ares-review",
-      "summary": "Though Tron: Legacy was not a sterling piece of cinema, its gorgeous visuals and a banging score from Daft Punk made it an enjoyable update to the original 1982 cult classic. The movie tried to strike a healthy balance between nostalgic fan service and novel riffs on the source material to make itself feel like [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-07T17:15:00Z",
-      "score": 75.38
-    },
-    {
-      "id": "hn-45508811",
-      "title": "Metriport (YC S22) is hiring a founding recruiter",
-      "url": "https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter",
-      "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-10-07T21:00:51Z",
-      "score": 74.71
+      "source": "npmjs.com",
+      "ts": "2025-10-08T14:28:06Z",
+      "score": 158.0
     },
     {
       "id": "hn-45472119",
@@ -385,7 +142,268 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-10-04T09:54:01Z",
-      "score": 73.72
+      "score": 155.41
+    },
+    {
+      "id": "hn-45519944",
+      "title": "Expanding access to Opal, our no-code AI mini-app builder",
+      "url": "https://blog.google/technology/google-labs/opal-expansion/",
+      "summary": "",
+      "source": "blog.google",
+      "ts": "2025-10-08T19:56:54Z",
+      "score": 145.13
+    },
+    {
+      "id": "hn-45518813",
+      "title": "WinBoat: Windows apps on Linux with seamless integration",
+      "url": "https://www.winboat.app/",
+      "summary": "",
+      "source": "winboat.app",
+      "ts": "2025-10-08T17:56:32Z",
+      "score": 143.83
+    },
+    {
+      "id": "hn-45521476",
+      "title": "Portland is not burning. Here's live context and sourced fact checks",
+      "url": "https://isportlandburning.com/",
+      "summary": "",
+      "source": "isportlandburning.com",
+      "ts": "2025-10-08T22:47:22Z",
+      "score": 129.74
+    },
+    {
+      "id": "hn-45520407",
+      "title": "Apple defined ICE as a \"protected class\" in blocking anti-ICE apps",
+      "url": "https://boingboing.net/2025/10/08/report-apple-defined-ice-as-a-protected-class-in-blocking-discriminatory-anti-ice-apps.html",
+      "summary": "",
+      "source": "boingboing.net",
+      "ts": "2025-10-08T20:42:16Z",
+      "score": 124.51
+    },
+    {
+      "id": "hn-45516690",
+      "title": "Vectrex Mini",
+      "url": "https://vectrex.com/vectrex-mini-details/",
+      "summary": "",
+      "source": "vectrex.com",
+      "ts": "2025-10-08T14:38:23Z",
+      "score": 124.09
+    },
+    {
+      "id": "hn-45515640",
+      "title": "Legal Contracts Built for AI Agents",
+      "url": "https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents",
+      "summary": "",
+      "source": "paid.ai",
+      "ts": "2025-10-08T12:55:01Z",
+      "score": 121.76
+    },
+    {
+      "id": "hn-45520154",
+      "title": "I played 1k hands of online poker and built a web app with Cursor AI",
+      "url": "https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/",
+      "summary": "",
+      "source": "blog.rchase.com",
+      "ts": "2025-10-08T20:20:21Z",
+      "score": 119.0
+    },
+    {
+      "id": "hn-45519479",
+      "title": "Dr. Jane Goodall's final message to the world",
+      "url": "https://www.youtube.com/watch?v=lfLKHY52ERc",
+      "summary": "",
+      "source": "youtube.com",
+      "ts": "2025-10-08T19:06:24Z",
+      "score": 118.42
+    },
+    {
+      "id": "hn-45515146",
+      "title": "A Clausewitzian lens on modern urban warfare",
+      "url": "https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/",
+      "summary": "",
+      "source": "mwi.westpoint.edu",
+      "ts": "2025-10-08T11:56:06Z",
+      "score": 117.73
+    },
+    {
+      "id": "hn-45518861",
+      "title": "Show HN: FleetCode – Open-source UI for running multiple coding agents",
+      "url": "https://github.com/built-by-as/FleetCode",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-08T18:00:34Z",
+      "score": 116.95
+    },
+    {
+      "id": "hn-45518127",
+      "title": "Show HN: I built a local-first podcast app",
+      "url": "https://wherever.audio",
+      "summary": "",
+      "source": "wherever.audio",
+      "ts": "2025-10-08T16:46:36Z",
+      "score": 115.29
+    },
+    {
+      "id": "hn-45521066",
+      "title": "Apple Made ICE Agents a Protected Class",
+      "url": "https://migrantinsider.com/p/scoop-apple-quietly-made-ice-agents",
+      "summary": "",
+      "source": "migrantinsider.com",
+      "ts": "2025-10-08T21:56:45Z",
+      "score": 114.99
+    },
+    {
+      "id": "hn-45511294",
+      "title": "The paradoxical efficient market hypothesis (2024)",
+      "url": "https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html",
+      "summary": "",
+      "source": "3quarksdaily.com",
+      "ts": "2025-10-08T02:11:39Z",
+      "score": 112.27
+    },
+    {
+      "id": "2a4af49c89e3",
+      "title": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says",
+      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+      "summary": "By some estimates, OpenAI has this year inked $1 trillion dollars worth of infrastructure deals. Altman says to expect even more.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-08T23:00:06Z",
+      "score": 107.73
+    },
+    {
+      "id": "92a6c99387e0",
+      "title": "California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims",
+      "url": "https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california",
+      "summary": "Federal law enforcement has arrested a suspect in connection with starting what became the Palisades blaze that killed 12 people and burned through thousands of acres. Among the&#160;evidence cited is an AI image of a burning city that the suspect allegedly generated with ChatGPT.&#160; Bill Essayli, the acting US Attorney for the Central District of [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-08T20:43:34Z",
+      "score": 104.01
+    },
+    {
+      "id": "05303246cb7f",
+      "title": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
+      "url": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+      "summary": "In an interview, OpenAI's Head of ChatGPT discusses the company's push into developing an AI operating system full of third-party apps.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-08T20:00:00Z",
+      "score": 102.45
+    },
+    {
+      "id": "d8bc933dfde6",
+      "title": "1Password says it can fix login security for AI browser agents",
+      "url": "https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents",
+      "summary": "1Password&#8217;s browser extension fills in your passwords automatically when you browse, and now the company has built a similar tool for AI bots browsing the web on your behalf, but for a very different reason. AI tools and browsers built on Claude, Gemini, and ChatGPT are increasingly using AI agents to browse the web, book [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-08T19:44:30Z",
+      "score": 101.9
+    },
+    {
+      "id": "hn-45521704",
+      "title": "Show HN: PWAscore",
+      "url": "https://pwascore.com/",
+      "summary": "",
+      "source": "pwascore.com",
+      "ts": "2025-10-08T23:14:32Z",
+      "score": 100.34
+    },
+    {
+      "id": "hn-45484999",
+      "title": "Memory access is O(N^[1/3])",
+      "url": "https://vitalik.eth.limo/general/2025/10/05/memory13.html",
+      "summary": "",
+      "source": "vitalik.eth.limo",
+      "ts": "2025-10-05T20:34:28Z",
+      "score": 99.03
+    },
+    {
+      "id": "6445c9bebef3",
+      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch",
+      "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
+      "summary": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-08T18:12:54Z",
+      "score": 98.71
+    },
+    {
+      "id": "hn-45520889",
+      "title": "Loops of DNA Equipped Ancient Life to Become Complex",
+      "url": "https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-10-08T21:33:05Z",
+      "score": 98.0
+    },
+    {
+      "id": "c4c17fc22989",
+      "title": "Growing impact and scale with ChatGPT",
+      "url": "https://openai.com/index/hibob",
+      "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+      "source": "openai.com",
+      "ts": "2025-10-08T08:00:00Z",
+      "score": 94.29
+    },
+    {
+      "id": "79b3ad0a473e",
+      "title": "Google&#8217;s AI try-on imagines your feet in new shoes",
+      "url": "https://www.theverge.com/news/796308/google-ai-shopping-try-on-shoes",
+      "summary": "Google will now use AI to help you “try on” shoes while sitting at home. Now, when you browse through shoes on Google Shopping, you can hit the “try it on” button on the new heels, sneakers, or sandals you’re looking at to see how they might look on you. In case you’re wondering, you [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-08T15:26:41Z",
+      "score": 93.17
+    },
+    {
+      "id": "4c4ccc30221b",
+      "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/",
+      "summary": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-08T16:26:47Z",
+      "score": 86.49
+    },
+    {
+      "id": "e5a30db68d11",
+      "title": "Implement a secure MLOps platform based on Terraform and GitHub",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implement-a-secure-mlops-platform-based-on-terraform-and-github/",
+      "summary": "Machine learning operations (MLOps) is the combination of people, processes, and technology to productionize ML use cases efficiently. To achieve this, enterprise customers must develop MLOps platforms to support reproducibility, robustness, and end-to-end observability of the ML use case’s lifecycle. Those platforms are based on a multi-account setup by adopting strict security constraints, development best […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-08T15:38:36Z",
+      "score": 85.05
+    },
+    {
+      "id": "e6ae67bc6082",
+      "title": "EgoNight: Towards Egocentric Vision Understanding at Night with a\n  Challenging Benchmark",
+      "url": "http://arxiv.org/abs/2510.06218v1",
+      "summary": "Most existing benchmarks for egocentric vision understanding focus primarily\non daytime scenarios, overlooking the low-light conditions that are inevitable\nin real-world applications. To investigate this gap, we present EgoNight, the\nfirst comprehensive benchmark for nighttime egocentric vision, with visual\nquestion answering (VQA) as the core task. A key feature of EgoNight is the\nintroduction of day-night aligned videos, which enhance night annotation\nquality using the daytime data and reveal clear performance gaps between\nlighting conditions. To achieve this, we collect both synthetic videos rendered\nby Blender and real-world recordings, ensuring that scenes and actions are\nvisually and temporally aligned. Leveraging these paired videos, we construct\nEgoNight-VQA, supported by a novel day-augmented night auto-labeling engine and\nrefinement through extensive human verification. Each QA pair is double-checked\nby annotators for reliability. In total, EgoNight-VQA contains 3658 QA pairs\nacross 90 videos, spanning 12 diverse QA types, with more than 300 hours of\nhuman work. Evaluations of state-of-the-art multimodal large language models\n(MLLMs) reveal substantial performance drops when transferring from day to\nnight, underscoring the challenges of reasoning under low-light conditions.\nBeyond VQA, EgoNight also introduces two auxiliary tasks, day-night\ncorrespondence retrieval and egocentric depth estimation at night, that further\nexplore the boundaries of existing models. We believe EgoNight-VQA provides a\nstrong foundation for advancing application-driven egocentric vision research\nand for developing models that generalize across illumination domains. All the\ndata and code will be made available upon acceptance.",
+      "source": "arxiv.org",
+      "ts": "2025-10-07T17:59:47Z",
+      "score": 70.43
+    },
+    {
+      "id": "5d79cf2057e6",
+      "title": "TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular\n  Reasoning",
+      "url": "http://arxiv.org/abs/2510.06217v1",
+      "summary": "Process Reward Models (PRMs) have recently emerged as a powerful framework\nfor enhancing the reasoning capabilities of large reasoning models (LRMs),\nparticularly in the context of test-time scaling (TTS). However, their\npotential for supervising LRMs on tabular reasoning domains remains\nunderexplored. Through detailed empirical analyses, we identify that existing\nPRMs, though widely adopted for supervising text-only reasoning steps, struggle\nwith table-specific operations such as sub-table retrieval and schema\ninteraction, leading to critical performance bottlenecks. To address this\nlimitation, we propose TaTToo, a novel table-grounded PRM framework that (i)\nreasons explicitly over tabular reasoning steps and (ii) integrates tool-based\nverification to provide precise reward supervision. Concretely, we first design\na scalable data curation pipeline that constructs over 60k high-quality\nstep-level annotations by integrating table verification rationales with\ntool-based executions. Building on the collected data, we train TaTToo with a\ndual-stage paradigm: cold-start supervised fine-tuning to capture tool-use\nreasoning patterns, followed by reinforcement learning with tool-grounded\nreward shaping to align our model with table-based verification. We provide a\ncomprehensive evaluation of the policy improvement induced by our newly\ndesigned PRM. Across 5 challenging tabular reasoning benchmarks covering\nnumerical reasoning, fact-checking, and data analysis, TaTToo improves\ndownstream policy LRMs by 30.9% at inference, surpasses strong PRM baselines\nsuch as Qwen-2.5-Math-PRM-72B with only 8B parameters, and demonstrates strong\ngeneralizability across diverse TTS strategies.",
+      "source": "arxiv.org",
+      "ts": "2025-10-07T17:59:41Z",
+      "score": 70.43
+    },
+    {
+      "id": "40f496b493d6",
+      "title": "Stratified GRPO: Handling Structural Heterogeneity in Reinforcement\n  Learning of LLM Search Agents",
+      "url": "http://arxiv.org/abs/2510.06214v1",
+      "summary": "Large language model (LLM) agents increasingly rely on external tools such as\nsearch engines to solve complex, multi-step problems, and reinforcement\nlearning (RL) has become a key paradigm for training them. However, the\ntrajectories of search agents are structurally heterogeneous, where variations\nin the number, placement, and outcomes of search calls lead to fundamentally\ndifferent answer directions and reward distributions. Standard policy gradient\nmethods, which use a single global baseline, suffer from what we identify and\nformalize as cross-stratum bias-an \"apples-to-oranges\" comparison of\nheterogeneous trajectories. This cross-stratum bias distorts credit assignment\nand hinders exploration of complex, multi-step search strategies. To address\nthis, we propose Stratified GRPO, whose central component, Stratified Advantage\nNormalization (SAN), partitions trajectories into homogeneous strata based on\ntheir structural properties and computes advantages locally within each\nstratum. This ensures that trajectories are evaluated only against their true\npeers. Our analysis proves that SAN eliminates cross-stratum bias, yields\nconditionally unbiased unit-variance estimates inside each stratum, and retains\nthe global unbiasedness and unit-variance properties enjoyed by standard\nnormalization, resulting in a more pure and scale-stable learning signal. To\nimprove practical stability under finite-sample regimes, we further linearly\nblend SAN with the global estimator. Extensive experiments on diverse\nsingle-hop and multi-hop question-answering benchmarks demonstrate that\nStratified GRPO consistently and substantially outperforms GRPO by up to 11.3\npoints, achieving higher training rewards, greater training stability, and more\neffective search policies. These results establish stratification as a\nprincipled remedy for structural heterogeneity in RL for LLM search agents.",
+      "source": "arxiv.org",
+      "ts": "2025-10-07T17:59:13Z",
+      "score": 70.42
+    },
+    {
+      "id": "hn-45487310",
+      "title": "Why we need SIMD",
+      "url": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
+      "summary": "",
+      "source": "parallelprogrammer.substack.com",
+      "ts": "2025-10-06T03:10:13Z",
+      "score": 66.73
     },
     {
       "id": "ef0be25f55f7",
@@ -394,7 +412,7 @@
       "summary": "<p>Meta open-sourced React over a decade ago to help developers build better user experiences. Since then, React has grown into one of the world’s most popular open source projects, powering over 50 million websites and products built by companies such as Microsoft, Shopify, Bloomberg, Discord, Coinbase, the NFL, and many others. With React Native, React [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\" rel=\"nofollow\">Introducing the React Foundation: The New Home for React &#038; React Native</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-07T18:00:01Z",
-      "score": 69.6
+      "score": 54.18
     },
     {
       "id": "c9ff012d82d4",
@@ -403,16 +421,7 @@
       "summary": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
       "source": "aws.amazon.com",
       "ts": "2025-10-07T17:43:26Z",
-      "score": 69.2
-    },
-    {
-      "id": "8a534127de22",
-      "title": "Implement automated monitoring for Amazon Bedrock batch inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/",
-      "summary": "In this post, we demonstrated how a financial services company can use an FM to process large volumes of customer records and get specific data-driven product recommendations. We also showed how to implement an automated monitoring solution for Amazon Bedrock batch inference jobs. By using EventBridge, Lambda, and DynamoDB, you can gain real-time visibility into batch processing operations, so you can efficiently generate personalized product recommendations based on customer credit data.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-07T17:39:32Z",
-      "score": 69.11
+      "score": 53.87
     },
     {
       "id": "04d6a1d695c6",
@@ -421,16 +430,52 @@
       "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
       "source": "openai.com",
       "ts": "2025-10-07T03:00:00Z",
-      "score": 66.2
+      "score": 51.53
     },
     {
-      "id": "hn-45443301",
-      "title": "Is pawn promotion to rook or bishop something that is seen in play? (2012)",
-      "url": "https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play",
+      "id": "hn-45477983",
+      "title": "When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery",
+      "url": "https://blog.tymscar.com/posts/intellijollamaconnectionmystery/",
       "summary": "",
-      "source": "boardgames.stackexchange.com",
-      "ts": "2025-10-01T20:48:06Z",
-      "score": 58.87
+      "source": "blog.tymscar.com",
+      "ts": "2025-10-05T00:39:26Z",
+      "score": 48.69
+    },
+    {
+      "id": "hn-45492977",
+      "title": "Sora, AI Bicycles, and Meta Disruption",
+      "url": "https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/",
+      "summary": "",
+      "source": "stratechery.com",
+      "ts": "2025-10-06T16:17:15Z",
+      "score": 48.51
+    },
+    {
+      "id": "hn-45490202",
+      "title": "Tire Pressure Sensor IDs: Why, Where and When (2015)",
+      "url": "https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/",
+      "summary": "",
+      "source": "tomorrowstechnician.com",
+      "ts": "2025-10-06T11:28:35Z",
+      "score": 44.89
+    },
+    {
+      "id": "hn-45484123",
+      "title": "Aerocart cargo gliders",
+      "url": "https://www.aerolane.com/",
+      "summary": "",
+      "source": "aerolane.com",
+      "ts": "2025-10-05T18:49:31Z",
+      "score": 38.88
+    },
+    {
+      "id": "hn-45490538",
+      "title": "The Fourth Quadrant of Knowledge",
+      "url": "https://lyonhe.art/the-fourth-quadrant-of-knowledge/",
+      "summary": "",
+      "source": "lyonhe.art",
+      "ts": "2025-10-06T12:16:13Z",
+      "score": 36.97
     },
     {
       "id": "cfa376d35cdc",
@@ -439,43 +484,7 @@
       "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
       "source": "openai.com",
       "ts": "2025-10-06T10:50:00Z",
-      "score": 47.27
-    },
-    {
-      "id": "hn-45491128",
-      "title": "The case for an iceberg-native database",
-      "url": "https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it",
-      "summary": "",
-      "source": "warpstream.com",
-      "ts": "2025-10-06T13:21:51Z",
-      "score": 46.73
-    },
-    {
-      "id": "827fa6105627",
-      "title": "Introducing apps in ChatGPT and the new Apps SDK",
-      "url": "https://openai.com/index/introducing-apps-in-chatgpt",
-      "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-      "source": "openai.com",
-      "ts": "2025-10-06T10:00:00Z",
-      "score": 46.46
-    },
-    {
-      "id": "hn-45486483",
-      "title": "A PhD in Snapshots",
-      "url": "https://rbharath.github.io/A-PhD-In-Snapshots/",
-      "summary": "",
-      "source": "rbharath.github.io",
-      "ts": "2025-10-06T00:25:17Z",
-      "score": 46.07
-    },
-    {
-      "id": "7e2d41f85c17",
-      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
-      "summary": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-06T19:14:40Z",
-      "score": 43.32
+      "score": 36.8
     },
     {
       "id": "393918f8efb4",
@@ -484,16 +493,7 @@
       "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T16:00:53Z",
-      "score": 40.51
-    },
-    {
-      "id": "hn-45478451",
-      "title": "Git, JSON and Markdown walk into bar",
-      "url": "https://www.grumpygamer.com/git_json_markdown/",
-      "summary": "",
-      "source": "grumpygamer.com",
-      "ts": "2025-10-05T02:34:16Z",
-      "score": 38.97
+      "score": 31.53
     },
     {
       "id": "31d83e438443",
@@ -502,16 +502,7 @@
       "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T02:30:07Z",
-      "score": 30.57
-    },
-    {
-      "id": "hn-45474988",
-      "title": "Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene",
-      "url": "https://www.nature.com/articles/s41467-025-63417-y",
-      "summary": "",
-      "source": "nature.com",
-      "ts": "2025-10-04T17:25:40Z",
-      "score": 18.95
+      "score": 23.8
     }
   ]
 }
