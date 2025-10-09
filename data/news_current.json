@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "id": "hn-45513485",
-      "title": "Synology reverses policy banning third-party HDDs",
-      "url": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
+      "id": "hn-45502541",
+      "title": "Qualcomm to acquire Arduino",
+      "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
       "summary": "",
-      "source": "guru3d.com",
-      "ts": "2025-10-08T08:19:36Z",
-      "score": 659.23
+      "source": "qualcomm.com",
+      "ts": "2025-10-07T13:00:08Z",
+      "score": 820.43
+    },
+    {
+      "id": "hn-45521920",
+      "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+      "url": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
+      "summary": "",
+      "source": "larslofgren.com",
+      "ts": "2025-10-08T23:48:28Z",
+      "score": 541.13
     },
     {
       "id": "hn-45516000",
@@ -16,16 +25,7 @@
       "summary": "",
       "source": "blog.cloudflare.com",
       "ts": "2025-10-08T13:33:15Z",
-      "score": 359.23
-    },
-    {
-      "id": "hn-45474301",
-      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
-      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
-      "summary": "",
-      "source": "cbsnews.com",
-      "ts": "2025-10-04T16:04:24Z",
-      "score": 303.81
+      "score": 511.63
     },
     {
       "id": "hn-45514433",
@@ -34,43 +34,25 @@
       "summary": "",
       "source": "politico.eu",
       "ts": "2025-10-08T10:26:05Z",
-      "score": 293.51
+      "score": 450.63
     },
     {
-      "id": "hn-45515657",
-      "title": "The email they shouldn't have read",
-      "url": "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/",
+      "id": "hn-45474301",
+      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
+      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
       "summary": "",
-      "source": "it-notes.dragas.net",
-      "ts": "2025-10-08T12:56:54Z",
-      "score": 284.41
+      "source": "cbsnews.com",
+      "ts": "2025-10-04T16:04:24Z",
+      "score": 358.25
     },
     {
-      "id": "hn-45514164",
-      "title": "Nobel Prize in Chemistry 2025",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/",
+      "id": "hn-45523033",
+      "title": "California enacts law enabling people to universally opt out of data sharing",
+      "url": "https://therecord.media/california-signs-law-opt-out-browsers",
       "summary": "",
-      "source": "nobelprize.org",
-      "ts": "2025-10-08T09:49:36Z",
-      "score": 249.95
-    },
-    {
-      "id": "hn-45516968",
-      "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
-      "url": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
-      "summary": "",
-      "source": "readonlymemo.com",
-      "ts": "2025-10-08T15:01:38Z",
-      "score": 242.37
-    },
-    {
-      "id": "hn-45516426",
-      "title": "Now open for building: Introducing Gemini CLI extensions",
-      "url": "https://blog.google/technology/developers/gemini-cli-extensions/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-10-08T14:13:30Z",
-      "score": 190.81
+      "source": "therecord.media",
+      "ts": "2025-10-09T02:59:34Z",
+      "score": 300.52
     },
     {
       "id": "hn-45519575",
@@ -79,34 +61,34 @@
       "summary": "",
       "source": "hagerty.com",
       "ts": "2025-10-08T19:16:10Z",
-      "score": 184.73
+      "score": 261.65
     },
     {
-      "id": "hn-45517674",
-      "title": "Ortega hypothesis",
-      "url": "https://en.wikipedia.org/wiki/Ortega_hypothesis",
+      "id": "hn-45516968",
+      "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
+      "url": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
       "summary": "",
-      "source": "en.wikipedia.org",
-      "ts": "2025-10-08T16:06:21Z",
-      "score": 184.28
+      "source": "readonlymemo.com",
+      "ts": "2025-10-08T15:01:38Z",
+      "score": 259.2
     },
     {
-      "id": "hn-45489317",
-      "title": "A macOS terminal command that tells you if your USB-C cable is bad",
-      "url": "https://kau.sh/blog/usbi/",
+      "id": "hn-45521629",
+      "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
       "summary": "",
-      "source": "kau.sh",
-      "ts": "2025-10-06T09:06:28Z",
-      "score": 180.31
+      "source": "bloomberg.com",
+      "ts": "2025-10-08T23:04:32Z",
+      "score": 253.74
     },
     {
-      "id": "hn-45519915",
-      "title": "Svelte is that fast",
-      "url": "https://chuniversiteit.nl/papers/svelte-is-fast",
+      "id": "hn-45520615",
+      "title": "Kurt Got Got",
+      "url": "https://fly.io/blog/kurt-got-got/",
       "summary": "",
-      "source": "chuniversiteit.nl",
-      "ts": "2025-10-08T19:54:02Z",
-      "score": 178.74
+      "source": "fly.io",
+      "ts": "2025-10-08T21:02:34Z",
+      "score": 241.53
     },
     {
       "id": "hn-45517134",
@@ -115,43 +97,7 @@
       "summary": "",
       "source": "lighthouseapp.io",
       "ts": "2025-10-08T15:17:36Z",
-      "score": 178.04
-    },
-    {
-      "id": "hn-45519263",
-      "title": "Julia 1.12 highlights",
-      "url": "https://julialang.org/blog/2025/10/julia-1.12-highlights/",
-      "summary": "",
-      "source": "julialang.org",
-      "ts": "2025-10-08T18:42:22Z",
-      "score": 173.46
-    },
-    {
-      "id": "hn-45516584",
-      "title": "Show HN: Recall: Give Claude memory with Redis-backed persistent context",
-      "url": "https://www.npmjs.com/package/@joseairosa/recall",
-      "summary": "",
-      "source": "npmjs.com",
-      "ts": "2025-10-08T14:28:06Z",
-      "score": 158.0
-    },
-    {
-      "id": "hn-45472119",
-      "title": "Working pipe operator today in pure JavaScript",
-      "url": "https://github.com/irony/aspipes",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-04T09:54:01Z",
-      "score": 155.41
-    },
-    {
-      "id": "hn-45519944",
-      "title": "Expanding access to Opal, our no-code AI mini-app builder",
-      "url": "https://blog.google/technology/google-labs/opal-expansion/",
-      "summary": "",
-      "source": "blog.google",
-      "ts": "2025-10-08T19:56:54Z",
-      "score": 145.13
+      "score": 228.37
     },
     {
       "id": "hn-45518813",
@@ -160,43 +106,52 @@
       "summary": "",
       "source": "winboat.app",
       "ts": "2025-10-08T17:56:32Z",
-      "score": 143.83
+      "score": 223.1
     },
     {
-      "id": "hn-45521476",
-      "title": "Portland is not burning. Here's live context and sourced fact checks",
-      "url": "https://isportlandburning.com/",
+      "id": "hn-45516426",
+      "title": "Now open for building: Introducing Gemini CLI extensions",
+      "url": "https://blog.google/technology/developers/gemini-cli-extensions/",
       "summary": "",
-      "source": "isportlandburning.com",
-      "ts": "2025-10-08T22:47:22Z",
-      "score": 129.74
+      "source": "blog.google",
+      "ts": "2025-10-08T14:13:30Z",
+      "score": 199.83
     },
     {
-      "id": "hn-45520407",
-      "title": "Apple defined ICE as a \"protected class\" in blocking anti-ICE apps",
-      "url": "https://boingboing.net/2025/10/08/report-apple-defined-ice-as-a-protected-class-in-blocking-discriminatory-anti-ice-apps.html",
+      "id": "hn-45516584",
+      "title": "Show HN: Recall: Give Claude memory with Redis-backed persistent context",
+      "url": "https://www.npmjs.com/package/@joseairosa/recall",
       "summary": "",
-      "source": "boingboing.net",
-      "ts": "2025-10-08T20:42:16Z",
-      "score": 124.51
+      "source": "npmjs.com",
+      "ts": "2025-10-08T14:28:06Z",
+      "score": 159.45
     },
     {
-      "id": "hn-45516690",
-      "title": "Vectrex Mini",
-      "url": "https://vectrex.com/vectrex-mini-details/",
+      "id": "hn-45523537",
+      "title": "Two things LLM coding agents are still bad at",
+      "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
       "summary": "",
-      "source": "vectrex.com",
-      "ts": "2025-10-08T14:38:23Z",
-      "score": 124.09
+      "source": "kix.dev",
+      "ts": "2025-10-09T04:33:48Z",
+      "score": 150.31
     },
     {
-      "id": "hn-45515640",
-      "title": "Legal Contracts Built for AI Agents",
-      "url": "https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents",
+      "id": "hn-45522406",
+      "title": "Designing a Low Latency 10G Ethernet Core (2023)",
+      "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
       "summary": "",
-      "source": "paid.ai",
-      "ts": "2025-10-08T12:55:01Z",
-      "score": 121.76
+      "source": "ttchisholm.github.io",
+      "ts": "2025-10-09T01:17:20Z",
+      "score": 145.79
+    },
+    {
+      "id": "hn-45524293",
+      "title": "The Unknotting Number Is Not Additive",
+      "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
+      "summary": "",
+      "source": "divisbyzero.com",
+      "ts": "2025-10-09T06:39:30Z",
+      "score": 139.78
     },
     {
       "id": "hn-45520154",
@@ -205,25 +160,7 @@
       "summary": "",
       "source": "blog.rchase.com",
       "ts": "2025-10-08T20:20:21Z",
-      "score": 119.0
-    },
-    {
-      "id": "hn-45519479",
-      "title": "Dr. Jane Goodall's final message to the world",
-      "url": "https://www.youtube.com/watch?v=lfLKHY52ERc",
-      "summary": "",
-      "source": "youtube.com",
-      "ts": "2025-10-08T19:06:24Z",
-      "score": 118.42
-    },
-    {
-      "id": "hn-45515146",
-      "title": "A Clausewitzian lens on modern urban warfare",
-      "url": "https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/",
-      "summary": "",
-      "source": "mwi.westpoint.edu",
-      "ts": "2025-10-08T11:56:06Z",
-      "score": 117.73
+      "score": 128.86
     },
     {
       "id": "hn-45518861",
@@ -232,79 +169,7 @@
       "summary": "",
       "source": "github.com",
       "ts": "2025-10-08T18:00:34Z",
-      "score": 116.95
-    },
-    {
-      "id": "hn-45518127",
-      "title": "Show HN: I built a local-first podcast app",
-      "url": "https://wherever.audio",
-      "summary": "",
-      "source": "wherever.audio",
-      "ts": "2025-10-08T16:46:36Z",
-      "score": 115.29
-    },
-    {
-      "id": "hn-45521066",
-      "title": "Apple Made ICE Agents a Protected Class",
-      "url": "https://migrantinsider.com/p/scoop-apple-quietly-made-ice-agents",
-      "summary": "",
-      "source": "migrantinsider.com",
-      "ts": "2025-10-08T21:56:45Z",
-      "score": 114.99
-    },
-    {
-      "id": "hn-45511294",
-      "title": "The paradoxical efficient market hypothesis (2024)",
-      "url": "https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html",
-      "summary": "",
-      "source": "3quarksdaily.com",
-      "ts": "2025-10-08T02:11:39Z",
-      "score": 112.27
-    },
-    {
-      "id": "2a4af49c89e3",
-      "title": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says",
-      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
-      "summary": "By some estimates, OpenAI has this year inked $1 trillion dollars worth of infrastructure deals. Altman says to expect even more.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-08T23:00:06Z",
-      "score": 107.73
-    },
-    {
-      "id": "92a6c99387e0",
-      "title": "California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims",
-      "url": "https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california",
-      "summary": "Federal law enforcement has arrested a suspect in connection with starting what became the Palisades blaze that killed 12 people and burned through thousands of acres. Among the&#160;evidence cited is an AI image of a burning city that the suspect allegedly generated with ChatGPT.&#160; Bill Essayli, the acting US Attorney for the Central District of [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-08T20:43:34Z",
-      "score": 104.01
-    },
-    {
-      "id": "05303246cb7f",
-      "title": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
-      "url": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
-      "summary": "In an interview, OpenAI's Head of ChatGPT discusses the company's push into developing an AI operating system full of third-party apps.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-08T20:00:00Z",
-      "score": 102.45
-    },
-    {
-      "id": "d8bc933dfde6",
-      "title": "1Password says it can fix login security for AI browser agents",
-      "url": "https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents",
-      "summary": "1Password&#8217;s browser extension fills in your passwords automatically when you browse, and now the company has built a similar tool for AI bots browsing the web on your behalf, but for a very different reason. AI tools and browsers built on Claude, Gemini, and ChatGPT are increasingly using AI agents to browse the web, book [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-08T19:44:30Z",
-      "score": 101.9
-    },
-    {
-      "id": "hn-45521704",
-      "title": "Show HN: PWAscore",
-      "url": "https://pwascore.com/",
-      "summary": "",
-      "source": "pwascore.com",
-      "ts": "2025-10-08T23:14:32Z",
-      "score": 100.34
+      "score": 122.39
     },
     {
       "id": "hn-45484999",
@@ -313,88 +178,34 @@
       "summary": "",
       "source": "vitalik.eth.limo",
       "ts": "2025-10-05T20:34:28Z",
-      "score": 99.03
+      "score": 120.78
     },
     {
-      "id": "6445c9bebef3",
-      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch",
-      "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
-      "summary": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-08T18:12:54Z",
-      "score": 98.71
-    },
-    {
-      "id": "hn-45520889",
-      "title": "Loops of DNA Equipped Ancient Life to Become Complex",
-      "url": "https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/",
+      "id": "hn-45524502",
+      "title": "Man gets drunk, wakes up with a medical mystery that nearly kills him",
+      "url": "https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/",
       "summary": "",
-      "source": "quantamagazine.org",
-      "ts": "2025-10-08T21:33:05Z",
-      "score": 98.0
+      "source": "arstechnica.com",
+      "ts": "2025-10-09T07:11:29Z",
+      "score": 119.79
     },
     {
-      "id": "c4c17fc22989",
-      "title": "Growing impact and scale with ChatGPT",
-      "url": "https://openai.com/index/hibob",
-      "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
-      "source": "openai.com",
-      "ts": "2025-10-08T08:00:00Z",
-      "score": 94.29
+      "id": "hn-45516690",
+      "title": "Vectrex Mini",
+      "url": "https://vectrex.com/vectrex-mini-details/",
+      "summary": "",
+      "source": "vectrex.com",
+      "ts": "2025-10-08T14:38:23Z",
+      "score": 118.28
     },
     {
-      "id": "79b3ad0a473e",
-      "title": "Google&#8217;s AI try-on imagines your feet in new shoes",
-      "url": "https://www.theverge.com/news/796308/google-ai-shopping-try-on-shoes",
-      "summary": "Google will now use AI to help you “try on” shoes while sitting at home. Now, when you browse through shoes on Google Shopping, you can hit the “try it on” button on the new heels, sneakers, or sandals you’re looking at to see how they might look on you. In case you’re wondering, you [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-08T15:26:41Z",
-      "score": 93.17
-    },
-    {
-      "id": "4c4ccc30221b",
-      "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/",
-      "summary": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-08T16:26:47Z",
-      "score": 86.49
-    },
-    {
-      "id": "e5a30db68d11",
-      "title": "Implement a secure MLOps platform based on Terraform and GitHub",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implement-a-secure-mlops-platform-based-on-terraform-and-github/",
-      "summary": "Machine learning operations (MLOps) is the combination of people, processes, and technology to productionize ML use cases efficiently. To achieve this, enterprise customers must develop MLOps platforms to support reproducibility, robustness, and end-to-end observability of the ML use case’s lifecycle. Those platforms are based on a multi-account setup by adopting strict security constraints, development best […]",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-08T15:38:36Z",
-      "score": 85.05
-    },
-    {
-      "id": "e6ae67bc6082",
-      "title": "EgoNight: Towards Egocentric Vision Understanding at Night with a\n  Challenging Benchmark",
-      "url": "http://arxiv.org/abs/2510.06218v1",
-      "summary": "Most existing benchmarks for egocentric vision understanding focus primarily\non daytime scenarios, overlooking the low-light conditions that are inevitable\nin real-world applications. To investigate this gap, we present EgoNight, the\nfirst comprehensive benchmark for nighttime egocentric vision, with visual\nquestion answering (VQA) as the core task. A key feature of EgoNight is the\nintroduction of day-night aligned videos, which enhance night annotation\nquality using the daytime data and reveal clear performance gaps between\nlighting conditions. To achieve this, we collect both synthetic videos rendered\nby Blender and real-world recordings, ensuring that scenes and actions are\nvisually and temporally aligned. Leveraging these paired videos, we construct\nEgoNight-VQA, supported by a novel day-augmented night auto-labeling engine and\nrefinement through extensive human verification. Each QA pair is double-checked\nby annotators for reliability. In total, EgoNight-VQA contains 3658 QA pairs\nacross 90 videos, spanning 12 diverse QA types, with more than 300 hours of\nhuman work. Evaluations of state-of-the-art multimodal large language models\n(MLLMs) reveal substantial performance drops when transferring from day to\nnight, underscoring the challenges of reasoning under low-light conditions.\nBeyond VQA, EgoNight also introduces two auxiliary tasks, day-night\ncorrespondence retrieval and egocentric depth estimation at night, that further\nexplore the boundaries of existing models. We believe EgoNight-VQA provides a\nstrong foundation for advancing application-driven egocentric vision research\nand for developing models that generalize across illumination domains. All the\ndata and code will be made available upon acceptance.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:47Z",
-      "score": 70.43
-    },
-    {
-      "id": "5d79cf2057e6",
-      "title": "TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular\n  Reasoning",
-      "url": "http://arxiv.org/abs/2510.06217v1",
-      "summary": "Process Reward Models (PRMs) have recently emerged as a powerful framework\nfor enhancing the reasoning capabilities of large reasoning models (LRMs),\nparticularly in the context of test-time scaling (TTS). However, their\npotential for supervising LRMs on tabular reasoning domains remains\nunderexplored. Through detailed empirical analyses, we identify that existing\nPRMs, though widely adopted for supervising text-only reasoning steps, struggle\nwith table-specific operations such as sub-table retrieval and schema\ninteraction, leading to critical performance bottlenecks. To address this\nlimitation, we propose TaTToo, a novel table-grounded PRM framework that (i)\nreasons explicitly over tabular reasoning steps and (ii) integrates tool-based\nverification to provide precise reward supervision. Concretely, we first design\na scalable data curation pipeline that constructs over 60k high-quality\nstep-level annotations by integrating table verification rationales with\ntool-based executions. Building on the collected data, we train TaTToo with a\ndual-stage paradigm: cold-start supervised fine-tuning to capture tool-use\nreasoning patterns, followed by reinforcement learning with tool-grounded\nreward shaping to align our model with table-based verification. We provide a\ncomprehensive evaluation of the policy improvement induced by our newly\ndesigned PRM. Across 5 challenging tabular reasoning benchmarks covering\nnumerical reasoning, fact-checking, and data analysis, TaTToo improves\ndownstream policy LRMs by 30.9% at inference, surpasses strong PRM baselines\nsuch as Qwen-2.5-Math-PRM-72B with only 8B parameters, and demonstrates strong\ngeneralizability across diverse TTS strategies.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:41Z",
-      "score": 70.43
-    },
-    {
-      "id": "40f496b493d6",
-      "title": "Stratified GRPO: Handling Structural Heterogeneity in Reinforcement\n  Learning of LLM Search Agents",
-      "url": "http://arxiv.org/abs/2510.06214v1",
-      "summary": "Large language model (LLM) agents increasingly rely on external tools such as\nsearch engines to solve complex, multi-step problems, and reinforcement\nlearning (RL) has become a key paradigm for training them. However, the\ntrajectories of search agents are structurally heterogeneous, where variations\nin the number, placement, and outcomes of search calls lead to fundamentally\ndifferent answer directions and reward distributions. Standard policy gradient\nmethods, which use a single global baseline, suffer from what we identify and\nformalize as cross-stratum bias-an \"apples-to-oranges\" comparison of\nheterogeneous trajectories. This cross-stratum bias distorts credit assignment\nand hinders exploration of complex, multi-step search strategies. To address\nthis, we propose Stratified GRPO, whose central component, Stratified Advantage\nNormalization (SAN), partitions trajectories into homogeneous strata based on\ntheir structural properties and computes advantages locally within each\nstratum. This ensures that trajectories are evaluated only against their true\npeers. Our analysis proves that SAN eliminates cross-stratum bias, yields\nconditionally unbiased unit-variance estimates inside each stratum, and retains\nthe global unbiasedness and unit-variance properties enjoyed by standard\nnormalization, resulting in a more pure and scale-stable learning signal. To\nimprove practical stability under finite-sample regimes, we further linearly\nblend SAN with the global estimator. Extensive experiments on diverse\nsingle-hop and multi-hop question-answering benchmarks demonstrate that\nStratified GRPO consistently and substantially outperforms GRPO by up to 11.3\npoints, achieving higher training rewards, greater training stability, and more\neffective search policies. These results establish stratification as a\nprincipled remedy for structural heterogeneity in RL for LLM search agents.",
-      "source": "arxiv.org",
-      "ts": "2025-10-07T17:59:13Z",
-      "score": 70.42
+      "id": "hn-45525336",
+      "title": "N8n raises $180M",
+      "url": "https://blog.n8n.io/series-c/",
+      "summary": "",
+      "source": "blog.n8n.io",
+      "ts": "2025-10-09T09:19:18Z",
+      "score": 116.75
     },
     {
       "id": "hn-45487310",
@@ -403,43 +214,142 @@
       "summary": "",
       "source": "parallelprogrammer.substack.com",
       "ts": "2025-10-06T03:10:13Z",
-      "score": 66.73
+      "score": 108.79
     },
     {
-      "id": "ef0be25f55f7",
-      "title": "Introducing the React Foundation: The New Home for React & React Native",
-      "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
-      "summary": "<p>Meta open-sourced React over a decade ago to help developers build better user experiences. Since then, React has grown into one of the world’s most popular open source projects, powering over 50 million websites and products built by companies such as Microsoft, Shopify, Bloomberg, Discord, Coinbase, the NFL, and many others. With React Native, React [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\" rel=\"nofollow\">Introducing the React Foundation: The New Home for React &#038; React Native</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
-      "source": "engineering.fb.com",
-      "ts": "2025-10-07T18:00:01Z",
-      "score": 54.18
+      "id": "26e81f00721b",
+      "title": "OneDrive is getting a new Windows app and an AI photo agent",
+      "url": "https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features",
+      "summary": "Microsoft is getting ready to release a new OneDrive app on Windows next year that will include a photo gallery, people view, AI-powered slideshows, and editing features. It’s part of a number of new features coming to OneDrive in the coming months, including a new Photos Agent and AI-powered mobile editing. The new OneDrive app [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-09T10:44:54Z",
+      "score": 107.73
     },
     {
-      "id": "c9ff012d82d4",
-      "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/",
-      "summary": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-07T17:43:26Z",
-      "score": 53.87
-    },
-    {
-      "id": "04d6a1d695c6",
-      "title": "Disrupting malicious uses of AI: October 2025",
-      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
-      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-      "source": "openai.com",
-      "ts": "2025-10-07T03:00:00Z",
-      "score": 51.53
-    },
-    {
-      "id": "hn-45477983",
-      "title": "When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery",
-      "url": "https://blog.tymscar.com/posts/intellijollamaconnectionmystery/",
+      "id": "hn-45521788",
+      "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+      "url": "https://github.com/hyprmcp/jetski",
       "summary": "",
-      "source": "blog.tymscar.com",
-      "ts": "2025-10-05T00:39:26Z",
-      "score": 48.69
+      "source": "github.com",
+      "ts": "2025-10-08T23:27:23Z",
+      "score": 106.16
+    },
+    {
+      "id": "35aaf3fb5444",
+      "title": "The Browser Company’s Dia is now available on Mac, no invite needed",
+      "url": "https://www.theverge.com/news/797436/dia-browser-available-mac",
+      "summary": "The wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is. The Browser Company, which was acquired by software giant Atlassian for $610 million last month, said “Dia is now open to everyone on MacOS.” It’s the first time Dia has been widely available since [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-09T09:22:57Z",
+      "score": 105.45
+    },
+    {
+      "id": "5ab69d5584a7",
+      "title": "OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia",
+      "url": "https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/",
+      "summary": "OpenAI is expanding its $5 per month ChatGPT Go plan to 16 more countries.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-09T07:01:57Z",
+      "score": 100.41
+    },
+    {
+      "id": "hn-45488892",
+      "title": "A History of Large Language Models",
+      "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
+      "summary": "",
+      "source": "gregorygundersen.com",
+      "ts": "2025-10-06T08:13:47Z",
+      "score": 92.88
+    },
+    {
+      "id": "hn-45524437",
+      "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
+      "url": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer",
+      "summary": "",
+      "source": "ycombinator.com",
+      "ts": "2025-10-09T07:01:07Z",
+      "score": 91.86
+    },
+    {
+      "id": "bf9b337ec969",
+      "title": "Artificial Hippocampus Networks for Efficient Long-Context Modeling",
+      "url": "http://arxiv.org/abs/2510.07318v1",
+      "summary": "Long-sequence modeling faces a fundamental trade-off between the efficiency\nof compressive fixed-size memory in RNN-like models and the fidelity of\nlossless growing memory in attention-based Transformers. Inspired by the\nMulti-Store Model in cognitive science, we introduce a memory framework of\nartificial neural networks. Our method maintains a sliding window of the\nTransformer's KV cache as lossless short-term memory, while a learnable module\ntermed Artificial Hippocampus Network (AHN) recurrently compresses\nout-of-window information into a fixed-size compact long-term memory. To\nvalidate this framework, we instantiate AHNs using modern RNN-like\narchitectures, including Mamba2, DeltaNet, and Gated DeltaNet. Extensive\nexperiments on long-context benchmarks LV-Eval and InfiniteBench demonstrate\nthat AHN-augmented models consistently outperform sliding window baselines and\nachieve performance comparable or even superior to full-attention models, while\nsubstantially reducing computational and memory requirements. For instance,\naugmenting the Qwen2.5-3B-Instruct with AHNs reduces inference FLOPs by 40.5%\nand memory cache by 74.0%, while improving its average score on LV-Eval (128k\nsequence length) from 4.41 to 5.88. Code is available at:\nhttps://github.com/ByteDance-Seed/AHN.",
+      "source": "arxiv.org",
+      "ts": "2025-10-08T17:59:55Z",
+      "score": 90.45
+    },
+    {
+      "id": "868110ac89b1",
+      "title": "Vibe Checker: Aligning Code Evaluation with Human Preference",
+      "url": "http://arxiv.org/abs/2510.07315v1",
+      "summary": "Large Language Models (LLMs) have catalyzed vibe coding, where users leverage\nLLMs to generate and iteratively refine code through natural language\ninteractions until it passes their vibe check. Vibe check is tied to real-world\nhuman preference and goes beyond functionality: the solution should feel right,\nread cleanly, preserve intent, and remain correct. However, current code\nevaluation remains anchored to pass@k and captures only functional correctness,\noverlooking the non-functional instructions that users routinely apply. In this\npaper, we hypothesize that instruction following is the missing piece\nunderlying vibe check that represents human preference in coding besides\nfunctional correctness. To quantify models' code instruction following\ncapabilities with measurable signals, we present VeriCode, a taxonomy of 30\nverifiable code instructions together with corresponding deterministic\nverifiers. We use the taxonomy to augment established evaluation suites,\nresulting in Vibe Checker, a testbed to assess both code instruction following\nand functional correctness. Upon evaluating 31 leading LLMs, we show that even\nthe strongest models struggle to comply with multiple instructions and exhibit\nclear functional regression. Most importantly, a composite score of functional\ncorrectness and instruction following correlates the best with human\npreference, with the latter emerging as the primary differentiator on\nreal-world programming tasks. Our work identifies core factors of the vibe\ncheck, providing a concrete path for benchmarking and developing models that\nbetter align with user preferences in coding.",
+      "source": "arxiv.org",
+      "ts": "2025-10-08T17:59:19Z",
+      "score": 90.43
+    },
+    {
+      "id": "72af4dbb33ba",
+      "title": "GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations",
+      "url": "http://arxiv.org/abs/2510.07314v1",
+      "summary": "Nuclear fusion plays a pivotal role in the quest for reliable and sustainable\nenergy production. A major roadblock to viable fusion power is understanding\nplasma turbulence, which significantly impairs plasma confinement, and is vital\nfor next-generation reactor design. Plasma turbulence is governed by the\nnonlinear gyrokinetic equation, which evolves a 5D distribution function over\ntime. Due to its high computational cost, reduced-order models are often\nemployed in practice to approximate turbulent transport of energy. However,\nthey omit nonlinear effects unique to the full 5D dynamics. To tackle this, we\nintroduce GyroSwin, the first scalable 5D neural surrogate that can model 5D\nnonlinear gyrokinetic simulations, thereby capturing the physical phenomena\nneglected by reduced models, while providing accurate estimates of turbulent\nheat transport.GyroSwin (i) extends hierarchical Vision Transformers to 5D,\n(ii) introduces cross-attention and integration modules for latent\n3D$\\leftrightarrow$5D interactions between electrostatic potential fields and\nthe distribution function, and (iii) performs channelwise mode separation\ninspired by nonlinear physics. We demonstrate that GyroSwin outperforms widely\nused reduced numerics on heat flux prediction, captures the turbulent energy\ncascade, and reduces the cost of fully resolved nonlinear gyrokinetics by three\norders of magnitude while remaining physically verifiable. GyroSwin shows\npromising scaling laws, tested up to one billion parameters, paving the way for\nscalable neural surrogates for gyrokinetic simulations of plasma turbulence.",
+      "source": "arxiv.org",
+      "ts": "2025-10-08T17:59:10Z",
+      "score": 90.43
+    },
+    {
+      "id": "2a4af49c89e3",
+      "title": "Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says",
+      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+      "summary": "By some estimates, OpenAI has this year inked $1 trillion worth of infrastructure deals. Altman says to expect even more.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-08T23:00:06Z",
+      "score": 84.94
+    },
+    {
+      "id": "92a6c99387e0",
+      "title": "California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims",
+      "url": "https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california",
+      "summary": "Federal law enforcement has arrested a suspect in connection with starting what became the Palisades blaze that killed 12 people and burned through thousands of acres. Among the&#160;evidence cited is an AI image of a burning city that the suspect allegedly generated with ChatGPT.&#160; Bill Essayli, the acting US Attorney for the Central District of [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-08T20:43:34Z",
+      "score": 81.01
+    },
+    {
+      "id": "05303246cb7f",
+      "title": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
+      "url": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+      "summary": "In an interview, OpenAI's Head of ChatGPT discusses the company's push into developing an AI operating system full of third-party apps.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-08T20:00:00Z",
+      "score": 79.8
+    },
+    {
+      "id": "c4c17fc22989",
+      "title": "Growing impact and scale with ChatGPT",
+      "url": "https://openai.com/index/hibob",
+      "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+      "source": "openai.com",
+      "ts": "2025-10-08T08:00:00Z",
+      "score": 73.44
+    },
+    {
+      "id": "4c4ccc30221b",
+      "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/",
+      "summary": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-08T16:26:47Z",
+      "score": 67.36
+    },
+    {
+      "id": "e5a30db68d11",
+      "title": "Implement a secure MLOps platform based on Terraform and GitHub",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implement-a-secure-mlops-platform-based-on-terraform-and-github/",
+      "summary": "Machine learning operations (MLOps) is the combination of people, processes, and technology to productionize ML use cases efficiently. To achieve this, enterprise customers must develop MLOps platforms to support reproducibility, robustness, and end-to-end observability of the ML use case’s lifecycle. Those platforms are based on a multi-account setup by adopting strict security constraints, development best […]",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-08T15:38:36Z",
+      "score": 66.25
     },
     {
       "id": "hn-45492977",
@@ -448,25 +358,16 @@
       "summary": "",
       "source": "stratechery.com",
       "ts": "2025-10-06T16:17:15Z",
-      "score": 48.51
+      "score": 64.9
     },
     {
-      "id": "hn-45490202",
-      "title": "Tire Pressure Sensor IDs: Why, Where and When (2015)",
-      "url": "https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/",
+      "id": "hn-45489625",
+      "title": "The Debugging Book",
+      "url": "https://www.debuggingbook.org/",
       "summary": "",
-      "source": "tomorrowstechnician.com",
-      "ts": "2025-10-06T11:28:35Z",
-      "score": 44.89
-    },
-    {
-      "id": "hn-45484123",
-      "title": "Aerocart cargo gliders",
-      "url": "https://www.aerolane.com/",
-      "summary": "",
-      "source": "aerolane.com",
-      "ts": "2025-10-05T18:49:31Z",
-      "score": 38.88
+      "source": "debuggingbook.org",
+      "ts": "2025-10-06T09:56:03Z",
+      "score": 51.64
     },
     {
       "id": "hn-45490538",
@@ -475,7 +376,70 @@
       "summary": "",
       "source": "lyonhe.art",
       "ts": "2025-10-06T12:16:13Z",
-      "score": 36.97
+      "score": 47.32
+    },
+    {
+      "id": "hn-45486622",
+      "title": "Rejected announces from libtorrent clients proxying through SOCKS",
+      "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
+      "summary": "",
+      "source": "catgirl.online",
+      "ts": "2025-10-06T00:52:26Z",
+      "score": 44.92
+    },
+    {
+      "id": "hn-45482198",
+      "title": "Birth of Prettier",
+      "url": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
+      "summary": "",
+      "source": "blog.vjeux.com",
+      "ts": "2025-10-05T15:23:21Z",
+      "score": 44.7
+    },
+    {
+      "id": "hn-45490627",
+      "title": "Thoughts on the Word Spec in Rust",
+      "url": "https://tritium.legal/blog/word",
+      "summary": "",
+      "source": "tritium.legal",
+      "ts": "2025-10-06T12:28:49Z",
+      "score": 43.22
+    },
+    {
+      "id": "ef0be25f55f7",
+      "title": "Introducing the React Foundation: The New Home for React & React Native",
+      "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
+      "summary": "<p>Meta open-sourced React over a decade ago to help developers build better user experiences. Since then, React has grown into one of the world’s most popular open source projects, powering over 50 million websites and products built by companies such as Microsoft, Shopify, Bloomberg, Discord, Coinbase, the NFL, and many others. With React Native, React [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\" rel=\"nofollow\">Introducing the React Foundation: The New Home for React &#038; React Native</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
+      "source": "engineering.fb.com",
+      "ts": "2025-10-07T18:00:01Z",
+      "score": 42.2
+    },
+    {
+      "id": "c9ff012d82d4",
+      "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/",
+      "summary": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-07T17:43:26Z",
+      "score": 41.96
+    },
+    {
+      "id": "04d6a1d695c6",
+      "title": "Disrupting malicious uses of AI: October 2025",
+      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+      "source": "openai.com",
+      "ts": "2025-10-07T03:00:00Z",
+      "score": 40.14
+    },
+    {
+      "id": "hn-45489925",
+      "title": "A Global Mining Dataset",
+      "url": "https://tech.marksblogg.com/icmm-mining-data.html",
+      "summary": "",
+      "source": "tech.marksblogg.com",
+      "ts": "2025-10-06T10:48:33Z",
+      "score": 39.44
     },
     {
       "id": "cfa376d35cdc",
@@ -484,7 +448,25 @@
       "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
       "source": "openai.com",
       "ts": "2025-10-06T10:50:00Z",
-      "score": 36.8
+      "score": 28.66
+    },
+    {
+      "id": "hn-45488647",
+      "title": "Vec<T>",
+      "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "summary": "",
+      "source": "marma.dev",
+      "ts": "2025-10-06T07:38:03Z",
+      "score": 26.63
+    },
+    {
+      "id": "hn-45489191",
+      "title": "A Tissue Therapeutics Revolution",
+      "url": "https://cutiss.swiss/",
+      "summary": "",
+      "source": "cutiss.swiss",
+      "ts": "2025-10-06T08:51:02Z",
+      "score": 26.55
     },
     {
       "id": "393918f8efb4",
@@ -493,7 +475,7 @@
       "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T16:00:53Z",
-      "score": 31.53
+      "score": 24.56
     },
     {
       "id": "31d83e438443",
@@ -502,7 +484,7 @@
       "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T02:30:07Z",
-      "score": 23.8
+      "score": 18.53
     }
   ]
 }
