@@ -7,43 +7,7 @@
       "summary": "",
       "source": "anthropic.com",
       "ts": "2025-10-09T16:04:04Z",
-      "score": 828.68
-    },
-    {
-      "id": "hn-45524702",
-      "title": "Python 3.14 is here. How fast is it?",
-      "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-      "summary": "",
-      "source": "blog.miguelgrinberg.com",
-      "ts": "2025-10-09T07:40:42Z",
-      "score": 404.13
-    },
-    {
-      "id": "hn-45490652",
-      "title": "My first contribution to Linux",
-      "url": "https://vkoskiv.com/first-linux-patch/",
-      "summary": "",
-      "source": "vkoskiv.com",
-      "ts": "2025-10-06T12:31:32Z",
-      "score": 357.65
-    },
-    {
-      "id": "hn-45527402",
-      "title": "Figure 03, our 3rd generation humanoid robot",
-      "url": "https://www.figure.ai/news/introducing-figure-03",
-      "summary": "",
-      "source": "figure.ai",
-      "ts": "2025-10-09T13:27:14Z",
-      "score": 273.9
-    },
-    {
-      "id": "hn-45529393",
-      "title": "Show HN: I've built a tiny hand-held keyboard",
-      "url": "https://github.com/mafik/keyer",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-09T15:51:20Z",
-      "score": 271.75
+      "score": 931.92
     },
     {
       "id": "hn-45536700",
@@ -52,142 +16,16 @@
       "summary": "",
       "source": "nobelprize.org",
       "ts": "2025-10-10T09:03:16Z",
-      "score": 231.43
+      "score": 396.96
     },
     {
-      "id": "hn-45530744",
-      "title": "Subway Builder: A realistic subway simulation game",
-      "url": "https://www.subwaybuilder.com/",
+      "id": "hn-45539943",
+      "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+      "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
       "summary": "",
-      "source": "subwaybuilder.com",
-      "ts": "2025-10-09T17:38:29Z",
-      "score": 220.87
-    },
-    {
-      "id": "hn-45530486",
-      "title": "LLMs are mortally terrified of exceptions",
-      "url": "https://twitter.com/karpathy/status/1976077806443569355",
-      "summary": "",
-      "source": "twitter.com",
-      "ts": "2025-10-09T17:16:28Z",
-      "score": 208.95
-    },
-    {
-      "id": "hn-45531367",
-      "title": "Hacker News Live Feed",
-      "url": "https://jerbear2008.github.io/hn-live/",
-      "summary": "",
-      "source": "jerbear2008.github.io",
-      "ts": "2025-10-09T18:33:17Z",
-      "score": 200.6
-    },
-    {
-      "id": "hn-45535202",
-      "title": "My approach to building large technical projects (2023)",
-      "url": "https://mitchellh.com/writing/building-large-technical-projects",
-      "summary": "",
-      "source": "mitchellh.com",
-      "ts": "2025-10-10T03:45:29Z",
-      "score": 190.28
-    },
-    {
-      "id": "hn-45526754",
-      "title": "The fight between doctors and insurance companies over 'downcoding'",
-      "url": "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714",
-      "summary": "",
-      "source": "nbcnews.com",
-      "ts": "2025-10-09T12:36:05Z",
-      "score": 187.59
-    },
-    {
-      "id": "hn-45532090",
-      "title": "Examples Are the Best Documentation",
-      "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
-      "summary": "",
-      "source": "rakhim.exotext.com",
-      "ts": "2025-10-09T19:34:36Z",
-      "score": 177.51
-    },
-    {
-      "id": "hn-45532685",
-      "title": "A built-in 'off switch' to stop persistent pain",
-      "url": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
-      "summary": "",
-      "source": "penntoday.upenn.edu",
-      "ts": "2025-10-09T20:27:39Z",
-      "score": 175.85
-    },
-    {
-      "id": "hn-45536000",
-      "title": "I Switched from Htmx to Datastar",
-      "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "summary": "",
-      "source": "everydaysuperpowers.dev",
-      "ts": "2025-10-10T06:49:40Z",
-      "score": 160.51
-    },
-    {
-      "id": "hn-45536531",
-      "title": "I tracked Amazon's Prime Day prices. We've been played",
-      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
-      "summary": "",
-      "source": "washingtonpost.com",
-      "ts": "2025-10-10T08:27:34Z",
-      "score": 153.45
-    },
-    {
-      "id": "hn-45532352",
-      "title": "The Burrows-Wheeler Transform",
-      "url": "https://sandbox.bio/concepts/bwt",
-      "summary": "",
-      "source": "sandbox.bio",
-      "ts": "2025-10-09T20:00:31Z",
-      "score": 152.36
-    },
-    {
-      "id": "hn-45527507",
-      "title": "Using a laptop as an HDMI monitor for an SBC",
-      "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
-      "summary": "",
-      "source": "danielmangum.com",
-      "ts": "2025-10-09T13:36:01Z",
-      "score": 148.7
-    },
-    {
-      "id": "hn-45533870",
-      "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
-      "url": "https://github.com/pgEdge/spock",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-09T22:53:39Z",
-      "score": 145.46
-    },
-    {
-      "id": "hn-45530261",
-      "title": "ESP32 and Termux",
-      "url": "https://blog.gavide.dev/blog/esp32-and-termux",
-      "summary": "",
-      "source": "blog.gavide.dev",
-      "ts": "2025-10-09T16:56:52Z",
-      "score": 140.08
-    },
-    {
-      "id": "hn-45536618",
-      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
-      "url": "https://data-star.dev/",
-      "summary": "",
-      "source": "data-star.dev",
-      "ts": "2025-10-10T08:46:40Z",
-      "score": 138.48
-    },
-    {
-      "id": "hn-45533902",
-      "title": "How to write in Cuneiform",
-      "url": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
-      "summary": "",
-      "source": "openculture.com",
-      "ts": "2025-10-09T22:58:31Z",
-      "score": 131.79
+      "source": "theguardian.com",
+      "ts": "2025-10-10T15:11:04Z",
+      "score": 364.47
     },
     {
       "id": "hn-45536694",
@@ -196,7 +34,160 @@
       "summary": "",
       "source": "discrete-distribution-networks.github.io",
       "ts": "2025-10-10T09:01:54Z",
-      "score": 117.38
+      "score": 362.13
+    },
+    {
+      "id": "hn-45538137",
+      "title": "Igalia, Servo, and the Sovereign Tech Fund",
+      "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+      "summary": "",
+      "source": "igalia.com",
+      "ts": "2025-10-10T12:21:02Z",
+      "score": 284.64
+    },
+    {
+      "id": "hn-45535202",
+      "title": "My approach to building large technical projects (2023)",
+      "url": "https://mitchellh.com/writing/building-large-technical-projects",
+      "summary": "",
+      "source": "mitchellh.com",
+      "ts": "2025-10-10T03:45:29Z",
+      "score": 256.02
+    },
+    {
+      "id": "hn-45544044",
+      "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
+      "url": "https://www.nngroup.com/articles/liquid-glass/",
+      "summary": "",
+      "source": "nngroup.com",
+      "ts": "2025-10-10T21:35:22Z",
+      "score": 254.1
+    },
+    {
+      "id": "hn-45539609",
+      "title": "Notes on switching to Helix from Vim",
+      "url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
+      "summary": "",
+      "source": "jvns.ca",
+      "ts": "2025-10-10T14:37:31Z",
+      "score": 232.69
+    },
+    {
+      "id": "hn-45542145",
+      "title": "Google, Meta and Microsoft to stop showing political ads in the EU",
+      "url": "https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/",
+      "summary": "",
+      "source": "politico.eu",
+      "ts": "2025-10-10T18:25:08Z",
+      "score": 195.74
+    },
+    {
+      "id": "hn-45536618",
+      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
+      "url": "https://data-star.dev/",
+      "summary": "",
+      "source": "data-star.dev",
+      "ts": "2025-10-10T08:46:40Z",
+      "score": 195.54
+    },
+    {
+      "id": "hn-45538760",
+      "title": "Google Safe Browsing incident",
+      "url": "https://www.statichost.eu/blog/google-safe-browsing/",
+      "summary": "",
+      "source": "statichost.eu",
+      "ts": "2025-10-10T13:27:43Z",
+      "score": 191.7
+    },
+    {
+      "id": "hn-45540989",
+      "title": "Regarding the Compact",
+      "url": "https://president.mit.edu/writing-speeches/regarding-compact",
+      "summary": "",
+      "source": "president.mit.edu",
+      "ts": "2025-10-10T16:49:09Z",
+      "score": 172.39
+    },
+    {
+      "id": "hn-45536325",
+      "title": "A story about bypassing air Canada's in-flight network restrictions",
+      "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+      "summary": "",
+      "source": "ramsayleung.github.io",
+      "ts": "2025-10-10T07:50:54Z",
+      "score": 171.32
+    },
+    {
+      "id": "hn-45540011",
+      "title": "You can't build tcc from Nixpkgs if you are in the UK",
+      "url": "https://github.com/NixOS/nixpkgs/issues/444342",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-10T15:18:42Z",
+      "score": 167.29
+    },
+    {
+      "id": "hn-45541600",
+      "title": "The illegible nature of software development talent",
+      "url": "https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/",
+      "summary": "",
+      "source": "surfingcomplexity.blog",
+      "ts": "2025-10-10T17:37:43Z",
+      "score": 153.47
+    },
+    {
+      "id": "hn-45543475",
+      "title": "I built physical album cards with NFC tags to teach my son music discovery",
+      "url": "https://fulghum.io/album-cards",
+      "summary": "",
+      "source": "fulghum.io",
+      "ts": "2025-10-10T20:34:19Z",
+      "score": 151.88
+    },
+    {
+      "id": "hn-45541125",
+      "title": "It's OpenAI's world, we're just living in it",
+      "url": "https://stratechery.com/2025/its-openais-world-were-just-living-in-it/",
+      "summary": "",
+      "source": "stratechery.com",
+      "ts": "2025-10-10T17:01:04Z",
+      "score": 149.95
+    },
+    {
+      "id": "hn-45537890",
+      "title": "OpenGL: Mesh shaders in the current year",
+      "url": "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/",
+      "summary": "",
+      "source": "supergoodcode.com",
+      "ts": "2025-10-10T11:56:05Z",
+      "score": 147.15
+    },
+    {
+      "id": "hn-45542423",
+      "title": "Toyota aims to launch the ' first' all-solid-state EV batteries",
+      "url": "https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/",
+      "summary": "",
+      "source": "electrek.co",
+      "ts": "2025-10-10T18:53:22Z",
+      "score": 142.63
+    },
+    {
+      "id": "hn-45542444",
+      "title": "Does our “need for speed” make our wi-fi suck?",
+      "url": "https://orb.net/blog/does-speed-make-wifi-suck",
+      "summary": "",
+      "source": "orb.net",
+      "ts": "2025-10-10T18:55:30Z",
+      "score": 133.7
+    },
+    {
+      "id": "hn-45539296",
+      "title": "All-natural geoengineering with Frank Herbert's Dune",
+      "url": "https://www.governance.fyi/p/all-natural-geoengineering-with-frank",
+      "summary": "",
+      "source": "governance.fyi",
+      "ts": "2025-10-10T14:11:15Z",
+      "score": 126.33
     },
     {
       "id": "hn-45536124",
@@ -205,34 +196,52 @@
       "summary": "",
       "source": "rfleury.com",
       "ts": "2025-10-10T07:11:06Z",
-      "score": 107.79
+      "score": 121.73
     },
     {
-      "id": "hn-45537035",
-      "title": "Vite+ – The Unified Toolchain for the Web",
-      "url": "https://viteplus.dev/",
+      "id": "hn-45543471",
+      "title": "Show HN: Semantic search over the National Gallery of Art",
+      "url": "https://nga.demo.mixedbread.com/",
       "summary": "",
-      "source": "viteplus.dev",
-      "ts": "2025-10-10T09:53:35Z",
-      "score": 107.71
+      "source": "nga.demo.mixedbread.com",
+      "ts": "2025-10-10T20:33:25Z",
+      "score": 118.25
     },
     {
-      "id": "hn-45536325",
-      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
-      "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+      "id": "hn-45543811",
+      "title": "How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)",
+      "url": "https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/",
       "summary": "",
-      "source": "ramsayleung.github.io",
-      "ts": "2025-10-10T07:50:54Z",
-      "score": 106.66
+      "source": "constantin.glez.de",
+      "ts": "2025-10-10T21:09:44Z",
+      "score": 116.44
     },
     {
-      "id": "471ca2faa110",
-      "title": "Copilot on Windows can now create Office documents and connect to Gmail",
-      "url": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
-      "summary": "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts. The updated Copilot app is rolling out initially to all Windows Insiders, ahead of a general release to all Windows 11 users. Copilot on Windows can now create Word documents, [&#8230;]",
+      "id": "hn-45535183",
+      "title": "Love C, hate C: Web framework memory problems",
+      "url": "https://alew.is/lava.html",
+      "summary": "",
+      "source": "alew.is",
+      "ts": "2025-10-10T03:39:57Z",
+      "score": 112.49
+    },
+    {
+      "id": "hn-45489757",
+      "title": "Ohno Type School: A (2020)",
+      "url": "https://ohnotype.co/blog/ohno-type-school-a",
+      "summary": "",
+      "source": "ohnotype.co",
+      "ts": "2025-10-06T10:18:20Z",
+      "score": 110.5
+    },
+    {
+      "id": "a90576eb2c08",
+      "title": "Hollywood has no idea what to do about AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI. First, at OpenAI DevDay, Sam Altman presented [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-10-10T09:47:59Z",
-      "score": 106.39
+      "ts": "2025-10-10T23:00:00Z",
+      "score": 107.73
     },
     {
       "id": "hn-45536816",
@@ -241,43 +250,79 @@
       "summary": "",
       "source": "vectrx.substack.com",
       "ts": "2025-10-10T09:20:22Z",
-      "score": 104.19
+      "score": 105.81
     },
     {
-      "id": "hn-45537255",
-      "title": "EU lawmakers push to ban term 'veggie-burger'",
-      "url": "https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/",
-      "summary": "",
-      "source": "reuters.com",
-      "ts": "2025-10-10T10:31:45Z",
-      "score": 103.94
+      "id": "e5f1e1e46bd7",
+      "title": "OpenAI allegedly sent police to an AI regulation advocate’s door",
+      "url": "https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police",
+      "summary": "Will OpenAI send police to your door if you advocate for AI regulation?&#160; Nathan Calvin, a lawyer who shapes policies surrounding the technology at Encode AI, claims OpenAI did just that. “One Tuesday night, as my wife and I sat down for dinner, a sheriff’s deputy knocked on the door to serve me a subpoena [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-10T21:31:05Z",
+      "score": 105.77
     },
     {
-      "id": "hn-45537291",
-      "title": "Indonesia's film industry embraces AI to make Hollywood-style movies for cheap",
-      "url": "https://restofworld.org/2025/indonesia-ai-movies/",
-      "summary": "",
-      "source": "restofworld.org",
-      "ts": "2025-10-10T10:37:51Z",
-      "score": 102.74
+      "id": "88a7eead152b",
+      "title": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
+      "url": "https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval",
+      "summary": "“ChatGPT shouldn’t have political bias in any direction,” OpenAI wrote in a post on Thursday. The latest GPT-5 models come the closest to achieving that objective goal, according to results from an internal company “stress-test” of ChatGPT’s responses to divisive issues. The test has been months in the making, the company says, and falls on [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-10T20:11:18Z",
+      "score": 102.88
     },
     {
-      "id": "hn-45489884",
-      "title": "Embracing the parallel coding agent lifestyle",
-      "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
-      "summary": "",
-      "source": "simonwillison.net",
-      "ts": "2025-10-06T10:40:28Z",
-      "score": 102.13
+      "id": "fed401964ac8",
+      "title": "Why Deloitte is betting big on AI despite a $10M refund",
+      "url": "https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/",
+      "summary": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it&#8217;s rolling out Anthropic&#8217;s Claude to all 500,000 employees. On the very same day, the Australian government forced Deloitte to refund a contract because their AI-generated report was riddled with fake citations. It&#8217;s a perfect snapshot [&#8230;]",
+      "source": "techcrunch.com",
+      "ts": "2025-10-10T19:54:46Z",
+      "score": 102.29
     },
     {
-      "id": "hn-45535014",
-      "title": "Vexing Exceptions",
-      "url": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
+      "id": "hn-45540171",
+      "title": "Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments",
+      "url": "https://github.com/diffplug/gitcasso",
       "summary": "",
-      "source": "ericlippert.com",
-      "ts": "2025-10-10T02:54:31Z",
-      "score": 93.98
+      "source": "github.com",
+      "ts": "2025-10-10T15:37:27Z",
+      "score": 99.44
+    },
+    {
+      "id": "a18c0f678717",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "url": "https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-10T17:55:12Z",
+      "score": 98.13
+    },
+    {
+      "id": "1d3bfae1b6f2",
+      "title": "Prezent raises $30 million to acquire AI services firms — starting with founder’s other company",
+      "url": "https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/",
+      "summary": "Months after raising $20 million, enterprise-focused AI presentation startup Prezent is raising $30 million for acquisitions.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-10T17:11:29Z",
+      "score": 96.65
+    },
+    {
+      "id": "hn-45535424",
+      "title": "Show HN: Lights Out: my 2D Rubik's Cube-like Game",
+      "url": "https://raymondtana.github.io/projects/pages/Lights_Out.html",
+      "summary": "",
+      "source": "raymondtana.github.io",
+      "ts": "2025-10-10T04:40:19Z",
+      "score": 89.29
+    },
+    {
+      "id": "cc033ceceb1f",
+      "title": "HYGH powers next-gen digital ads with ChatGPT Business",
+      "url": "https://openai.com/index/hygh",
+      "summary": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+      "source": "openai.com",
+      "ts": "2025-10-10T00:00:00Z",
+      "score": 79.84
     },
     {
       "id": "a58669564898",
@@ -286,7 +331,7 @@
       "summary": "Scaling data and models has played a pivotal role in the remarkable progress\nof computer vision and language. Inspired by these domains, recent efforts in\nrobotics have similarly focused on scaling both data and model size to develop\nmore generalizable and robust policies. However, unlike vision and language,\nrobotics lacks access to internet-scale demonstrations across diverse robotic\ntasks and environments. As a result, the scale of existing datasets typically\nsuffers from the need for manual data collection and curation. To address this\nproblem, here we propose BLAZER, a framework that learns manipulation policies\nfrom automatically generated training data. We build on the zero-shot\ncapabilities of LLM planners and automatically generate demonstrations for\ndiverse manipulation tasks in simulation. Successful examples are then used to\nfinetune an LLM and to improve its planning capabilities without human\nsupervision. Notably, while BLAZER training requires access to the simulator's\nstate, we demonstrate direct transfer of acquired skills to sensor-based\nmanipulation. Through extensive experiments, we show BLAZER to significantly\nimprove zero-shot manipulation in both simulated and real environments.\nMoreover, BLAZER improves on tasks outside of its training pool and enables\ndownscaling of LLM models. Our code and data will be made publicly available on\nthe project page.",
       "source": "arxiv.org",
       "ts": "2025-10-09T17:59:58Z",
-      "score": 90.47
+      "score": 70.46
     },
     {
       "id": "ac356afe2b3f",
@@ -295,7 +340,7 @@
       "summary": "Enabling robots to execute novel manipulation tasks zero-shot is a central\ngoal in robotics. Most existing methods assume in-distribution tasks or rely on\nfine-tuning with embodiment-matched data, limiting transfer across platforms.\nWe present NovaFlow, an autonomous manipulation framework that converts a task\ndescription into an actionable plan for a target robot without any\ndemonstrations. Given a task description, NovaFlow synthesizes a video using a\nvideo generation model and distills it into 3D actionable object flow using\noff-the-shelf perception modules. From the object flow, it computes relative\nposes for rigid objects and realizes them as robot actions via grasp proposals\nand trajectory optimization. For deformable objects, this flow serves as a\ntracking objective for model-based planning with a particle-based dynamics\nmodel. By decoupling task understanding from low-level control, NovaFlow\nnaturally transfers across embodiments. We validate on rigid, articulated, and\ndeformable object manipulation tasks using a table-top Franka arm and a Spot\nquadrupedal mobile robot, and achieve effective zero-shot execution without\ndemonstrations or embodiment-specific training. Project website:\nhttps://novaflow.lhy.xyz/.",
       "source": "arxiv.org",
       "ts": "2025-10-09T17:59:55Z",
-      "score": 90.47
+      "score": 70.46
     },
     {
       "id": "4b339f3fb382",
@@ -304,25 +349,7 @@
       "summary": "Benchmarks are central to measuring the capabilities of large language models\nand guiding model development, yet widespread data leakage from pretraining\ncorpora undermines their validity. Models can match memorized content rather\nthan demonstrate true generalization, which inflates scores, distorts\ncross-model comparisons, and misrepresents progress. We introduce ArenaBencher,\na model-agnostic framework for automatic benchmark evolution that updates test\ncases while preserving comparability. Given an existing benchmark and a diverse\npool of models to be evaluated, ArenaBencher infers the core ability of each\ntest case, generates candidate question-answer pairs that preserve the original\nobjective, verifies correctness and intent with an LLM as a judge, and\naggregates feedback from multiple models to select candidates that expose\nshared weaknesses. The process runs iteratively with in-context demonstrations\nthat steer generation toward more challenging and diagnostic cases. We apply\nArenaBencher to math problem solving, commonsense reasoning, and safety domains\nand show that it produces verified, diverse, and fair updates that uncover new\nfailure modes, increase difficulty while preserving test objective alignment,\nand improve model separability. The framework provides a scalable path to\ncontinuously evolve benchmarks in step with the rapid progress of foundation\nmodels.",
       "source": "arxiv.org",
       "ts": "2025-10-09T17:59:55Z",
-      "score": 90.47
-    },
-    {
-      "id": "dd2dd21b0fb7",
-      "title": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them",
-      "url": "https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/",
-      "summary": "Microsoft CEO Satya Nadella offered a glimpse of the \"first of many\" massive Nvidia AI systems it is rolling out, starting now.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T23:53:36Z",
-      "score": 86.55
-    },
-    {
-      "id": "b6a5b4ef34d1",
-      "title": "Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
-      "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
-      "summary": "Reflection, once focused on autonomous coding agents, has raised $2B at an $8B valuation to expand into both an opensource alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T22:35:15Z",
-      "score": 84.23
+      "score": 70.46
     },
     {
       "id": "e82e5aa82571",
@@ -331,16 +358,16 @@
       "summary": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
       "source": "openai.com",
       "ts": "2025-10-09T13:00:00Z",
-      "score": 81.52
+      "score": 63.49
     },
     {
-      "id": "d99941ffc574",
-      "title": "Intel unveils new processor powered by its 18A semiconductor tech",
-      "url": "https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/",
-      "summary": "Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T17:45:47Z",
-      "score": 76.17
+      "id": "hn-45512373",
+      "title": "NanoMi: Source-available transmission electron microscope",
+      "url": "https://nanomi.org/",
+      "summary": "",
+      "source": "nanomi.org",
+      "ts": "2025-10-08T05:24:51Z",
+      "score": 61.29
     },
     {
       "id": "085f53566f3b",
@@ -349,7 +376,7 @@
       "summary": "In this post, we demonstrate how to integrate Amazon SageMaker HyperPod with Anyscale platform to address critical infrastructure challenges in building and deploying large-scale AI models. The combined solution provides robust infrastructure for distributed AI workloads with high-performance hardware, continuous monitoring, and seamless integration with Ray, the leading AI compute engine, enabling organizations to reduce time-to-market and lower total cost of ownership.",
       "source": "aws.amazon.com",
       "ts": "2025-10-09T21:52:24Z",
-      "score": 75.44
+      "score": 58.75
     },
     {
       "id": "a8df3eb77f6d",
@@ -358,52 +385,7 @@
       "summary": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
       "source": "aws.amazon.com",
       "ts": "2025-10-09T21:47:08Z",
-      "score": 75.3
-    },
-    {
-      "id": "8518e0877acf",
-      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
-      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
-      "summary": "OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch. That’s according to Sora head Bill Peebles, who said on Wednesday that Sora racked up downloads faster than ChatGPT did at launch despite being an invite-only app. The company launched its new Sora app for [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-09T16:38:38Z",
-      "score": 74.42
-    },
-    {
-      "id": "11b0a3b17d6d",
-      "title": "The AI industry is at a major crossroads",
-      "url": "https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt",
-      "summary": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’m subbing in for Nilay while he’s still out on parental leave, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry. It’s been a very [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-09T16:00:00Z",
-      "score": 73.43
-    },
-    {
-      "id": "hn-45491057",
-      "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
-      "url": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
-      "summary": "",
-      "source": "gpuopen.com",
-      "ts": "2025-10-06T13:15:00Z",
-      "score": 63.86
-    },
-    {
-      "id": "hn-45489881",
-      "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
-      "url": "https://github.com/scribeocr/scribeocr",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-06T10:39:50Z",
-      "score": 57.73
-    },
-    {
-      "id": "hn-45512342",
-      "title": "Interactive Double Pendulum Playground",
-      "url": "https://theabbie.github.io/DoublePendulum/",
-      "summary": "",
-      "source": "theabbie.github.io",
-      "ts": "2025-10-08T05:18:44Z",
-      "score": 56.4
+      "score": 58.65
     },
     {
       "id": "hn-45492809",
@@ -412,7 +394,34 @@
       "summary": "",
       "source": "springbett.substack.com",
       "ts": "2025-10-06T16:02:44Z",
-      "score": 46.71
+      "score": 54.81
+    },
+    {
+      "id": "hn-45479694",
+      "title": "Lánczos Interpolation Explained (2022)",
+      "url": "https://mazzo.li/posts/lanczos.html",
+      "summary": "",
+      "source": "mazzo.li",
+      "ts": "2025-10-05T07:49:29Z",
+      "score": 43.73
+    },
+    {
+      "id": "hn-45493128",
+      "title": "Show HN: A Digital Twin of my coffee roaster that runs in the browser",
+      "url": "https://autoroaster.com/",
+      "summary": "",
+      "source": "autoroaster.com",
+      "ts": "2025-10-06T16:31:27Z",
+      "score": 39.93
+    },
+    {
+      "id": "hn-45492704",
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "summary": "",
+      "source": "quantamagazine.org",
+      "ts": "2025-10-06T15:53:29Z",
+      "score": 39.17
     },
     {
       "id": "c4c17fc22989",
@@ -421,7 +430,7 @@
       "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
       "source": "openai.com",
       "ts": "2025-10-08T08:00:00Z",
-      "score": 44.55
+      "score": 34.7
     },
     {
       "id": "4c4ccc30221b",
@@ -430,7 +439,25 @@
       "summary": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
       "source": "aws.amazon.com",
       "ts": "2025-10-08T16:26:47Z",
-      "score": 40.86
+      "score": 31.83
+    },
+    {
+      "id": "hn-45491043",
+      "title": "A Library for Parsing Dutch Smart Meter Requirements (DSMR)",
+      "url": "https://github.com/mijnverbruik/dsmr",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-06T13:13:18Z",
+      "score": 23.55
+    },
+    {
+      "id": "hn-45486550",
+      "title": "Dimensions of everyday objects",
+      "url": "https://www.dimensions.com/",
+      "summary": "",
+      "source": "dimensions.com",
+      "ts": "2025-10-06T00:37:50Z",
+      "score": 23.42
     },
     {
       "id": "ef0be25f55f7",
@@ -439,34 +466,16 @@
       "summary": "<p>Meta open-sourced React over a decade ago to help developers build better user experiences. Since then, React has grown into one of the world’s most popular open source projects, powering over 50 million websites and products built by companies such as Microsoft, Shopify, Bloomberg, Discord, Coinbase, the NFL, and many others. With React Native, React [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\" rel=\"nofollow\">Introducing the React Foundation: The New Home for React &#038; React Native</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-07T18:00:01Z",
-      "score": 25.6
+      "score": 19.94
     },
     {
-      "id": "04d6a1d695c6",
-      "title": "Disrupting malicious uses of AI: October 2025",
-      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
-      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-      "source": "openai.com",
-      "ts": "2025-10-07T03:00:00Z",
-      "score": 24.35
-    },
-    {
-      "id": "hn-45489757",
-      "title": "Ohno Type School",
-      "url": "https://ohnotype.co/blog/ohno-type-school-a",
+      "id": "hn-45488908",
+      "title": "Wi-Fi Signal Tracks Heartbeat Without Wearables",
+      "url": "https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection",
       "summary": "",
-      "source": "ohnotype.co",
-      "ts": "2025-10-06T10:18:20Z",
-      "score": 21.63
-    },
-    {
-      "id": "hn-45489761",
-      "title": "Automated Lean Proofs for Every Type",
-      "url": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-      "summary": "",
-      "source": "galois.com",
-      "ts": "2025-10-06T10:19:04Z",
-      "score": 18.03
+      "source": "spectrum.ieee.org",
+      "ts": "2025-10-06T08:16:30Z",
+      "score": 17.08
     },
     {
       "id": "393918f8efb4",
@@ -475,7 +484,7 @@
       "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T16:00:53Z",
-      "score": 14.9
+      "score": 11.6
     },
     {
       "id": "31d83e438443",
@@ -484,7 +493,7 @@
       "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T02:30:07Z",
-      "score": 11.24
+      "score": 8.76
     }
   ]
 }
