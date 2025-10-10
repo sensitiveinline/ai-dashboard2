@@ -7,7 +7,7 @@
       "summary": "",
       "source": "anthropic.com",
       "ts": "2025-10-09T16:04:04Z",
-      "score": 570.98
+      "score": 828.68
     },
     {
       "id": "hn-45524702",
@@ -16,34 +16,7 @@
       "summary": "",
       "source": "blog.miguelgrinberg.com",
       "ts": "2025-10-09T07:40:42Z",
-      "score": 258.66
-    },
-    {
-      "id": "hn-45527402",
-      "title": "Figure 03, our 3rd generation humanoid robot",
-      "url": "https://www.figure.ai/news/introducing-figure-03",
-      "summary": "",
-      "source": "figure.ai",
-      "ts": "2025-10-09T13:27:14Z",
-      "score": 231.27
-    },
-    {
-      "id": "hn-45529393",
-      "title": "Show HN: I've built a tiny hand-held keyboard",
-      "url": "https://github.com/mafik/keyer",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-09T15:51:20Z",
-      "score": 227.64
-    },
-    {
-      "id": "hn-45530832",
-      "title": "Rubygems.org AWS Root Access Event – September 2025",
-      "url": "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/",
-      "summary": "",
-      "source": "rubycentral.org",
-      "ts": "2025-10-09T17:48:23Z",
-      "score": 220.38
+      "score": 404.13
     },
     {
       "id": "hn-45490652",
@@ -52,25 +25,34 @@
       "summary": "",
       "source": "vkoskiv.com",
       "ts": "2025-10-06T12:31:32Z",
-      "score": 215.19
+      "score": 357.65
     },
     {
-      "id": "hn-45528308",
-      "title": "New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",
-      "url": "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/",
+      "id": "hn-45527402",
+      "title": "Figure 03, our 3rd generation humanoid robot",
+      "url": "https://www.figure.ai/news/introducing-figure-03",
       "summary": "",
-      "source": "drugtargetreview.com",
-      "ts": "2025-10-09T14:36:52Z",
-      "score": 202.06
+      "source": "figure.ai",
+      "ts": "2025-10-09T13:27:14Z",
+      "score": 273.9
     },
     {
-      "id": "hn-45527003",
-      "title": "Nobel Prize in Literature 2025: László Krasznahorkai",
-      "url": "https://www.nobelprize.org/prizes/literature/2025/press-release/",
+      "id": "hn-45529393",
+      "title": "Show HN: I've built a tiny hand-held keyboard",
+      "url": "https://github.com/mafik/keyer",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-09T15:51:20Z",
+      "score": 271.75
+    },
+    {
+      "id": "hn-45536700",
+      "title": "Nobel Peace Prize 2025: María Corina Machado",
+      "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
       "summary": "",
       "source": "nobelprize.org",
-      "ts": "2025-10-09T12:54:18Z",
-      "score": 199.75
+      "ts": "2025-10-10T09:03:16Z",
+      "score": 231.43
     },
     {
       "id": "hn-45530744",
@@ -79,34 +61,7 @@
       "summary": "",
       "source": "subwaybuilder.com",
       "ts": "2025-10-09T17:38:29Z",
-      "score": 173.88
-    },
-    {
-      "id": "hn-45524293",
-      "title": "The Unknotting Number Is Not Additive",
-      "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
-      "summary": "",
-      "source": "divisbyzero.com",
-      "ts": "2025-10-09T06:39:30Z",
-      "score": 165.94
-    },
-    {
-      "id": "hn-45531367",
-      "title": "Hacker News Live Feed",
-      "url": "https://jerbear2008.github.io/hn-live/",
-      "summary": "",
-      "source": "jerbear2008.github.io",
-      "ts": "2025-10-09T18:33:17Z",
-      "score": 161.18
-    },
-    {
-      "id": "hn-45526754",
-      "title": "The fight between doctors and insurance companies over 'downcoding'",
-      "url": "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714",
-      "summary": "",
-      "source": "nbcnews.com",
-      "ts": "2025-10-09T12:36:05Z",
-      "score": 157.84
+      "score": 220.87
     },
     {
       "id": "hn-45530486",
@@ -115,34 +70,43 @@
       "summary": "",
       "source": "twitter.com",
       "ts": "2025-10-09T17:16:28Z",
-      "score": 143.2
+      "score": 208.95
     },
     {
-      "id": "hn-45527507",
-      "title": "Using a laptop as an HDMI monitor for an SBC",
-      "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
+      "id": "hn-45531367",
+      "title": "Hacker News Live Feed",
+      "url": "https://jerbear2008.github.io/hn-live/",
       "summary": "",
-      "source": "danielmangum.com",
-      "ts": "2025-10-09T13:36:01Z",
-      "score": 138.52
+      "source": "jerbear2008.github.io",
+      "ts": "2025-10-09T18:33:17Z",
+      "score": 200.6
     },
     {
-      "id": "hn-45531721",
-      "title": "The government ate my name",
-      "url": "https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html",
+      "id": "hn-45535202",
+      "title": "My approach to building large technical projects (2023)",
+      "url": "https://mitchellh.com/writing/building-large-technical-projects",
       "summary": "",
-      "source": "slate.com",
-      "ts": "2025-10-09T19:03:43Z",
-      "score": 135.14
+      "source": "mitchellh.com",
+      "ts": "2025-10-10T03:45:29Z",
+      "score": 190.28
     },
     {
-      "id": "hn-45527758",
-      "title": "Python's splitlines does more than just newlines",
-      "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+      "id": "hn-45526754",
+      "title": "The fight between doctors and insurance companies over 'downcoding'",
+      "url": "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714",
       "summary": "",
-      "source": "yossarian.net",
-      "ts": "2025-10-09T13:55:04Z",
-      "score": 134.86
+      "source": "nbcnews.com",
+      "ts": "2025-10-09T12:36:05Z",
+      "score": 187.59
+    },
+    {
+      "id": "hn-45532090",
+      "title": "Examples Are the Best Documentation",
+      "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
+      "summary": "",
+      "source": "rakhim.exotext.com",
+      "ts": "2025-10-09T19:34:36Z",
+      "score": 177.51
     },
     {
       "id": "hn-45532685",
@@ -151,25 +115,25 @@
       "summary": "",
       "source": "penntoday.upenn.edu",
       "ts": "2025-10-09T20:27:39Z",
-      "score": 132.44
+      "score": 175.85
     },
     {
-      "id": "hn-45530261",
-      "title": "ESP32 and Termux",
-      "url": "https://blog.gavide.dev/blog/esp32-and-termux",
+      "id": "hn-45536000",
+      "title": "I Switched from Htmx to Datastar",
+      "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
       "summary": "",
-      "source": "blog.gavide.dev",
-      "ts": "2025-10-09T16:56:52Z",
-      "score": 132.41
+      "source": "everydaysuperpowers.dev",
+      "ts": "2025-10-10T06:49:40Z",
+      "score": 160.51
     },
     {
-      "id": "hn-45526582",
-      "title": "Dark patterns: Buying a Bahncard at Deutsche Bahn",
-      "url": "https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/",
+      "id": "hn-45536531",
+      "title": "I tracked Amazon's Prime Day prices. We've been played",
+      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
       "summary": "",
-      "source": "ketzu.net",
-      "ts": "2025-10-09T12:17:54Z",
-      "score": 129.74
+      "source": "washingtonpost.com",
+      "ts": "2025-10-10T08:27:34Z",
+      "score": 153.45
     },
     {
       "id": "hn-45532352",
@@ -178,205 +142,124 @@
       "summary": "",
       "source": "sandbox.bio",
       "ts": "2025-10-09T20:00:31Z",
-      "score": 118.96
+      "score": 152.36
     },
     {
-      "id": "hn-45531284",
-      "title": "2025 MacArthur Fellows",
-      "url": "https://www.macfound.org/programs/awards/fellows/",
+      "id": "hn-45527507",
+      "title": "Using a laptop as an HDMI monitor for an SBC",
+      "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
       "summary": "",
-      "source": "macfound.org",
-      "ts": "2025-10-09T18:25:49Z",
-      "score": 116.55
+      "source": "danielmangum.com",
+      "ts": "2025-10-09T13:36:01Z",
+      "score": 148.7
     },
     {
-      "id": "hn-45532680",
-      "title": "Finding a VS Code Memory Leak",
-      "url": "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/",
+      "id": "hn-45533870",
+      "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
+      "url": "https://github.com/pgEdge/spock",
       "summary": "",
-      "source": "randomascii.wordpress.com",
-      "ts": "2025-10-09T20:27:28Z",
-      "score": 112.64
+      "source": "github.com",
+      "ts": "2025-10-09T22:53:39Z",
+      "score": 145.46
     },
     {
-      "id": "hn-45529628",
-      "title": "Launch HN: Extend (YC W23) – Turn your messiest documents into data",
-      "url": "https://www.extend.ai/",
+      "id": "hn-45530261",
+      "title": "ESP32 and Termux",
+      "url": "https://blog.gavide.dev/blog/esp32-and-termux",
       "summary": "",
-      "source": "extend.ai",
-      "ts": "2025-10-09T16:06:49Z",
-      "score": 111.1
+      "source": "blog.gavide.dev",
+      "ts": "2025-10-09T16:56:52Z",
+      "score": 140.08
     },
     {
-      "id": "hn-45488647",
-      "title": "Under the hood: Vec<T>",
-      "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "id": "hn-45536618",
+      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
+      "url": "https://data-star.dev/",
       "summary": "",
-      "source": "marma.dev",
-      "ts": "2025-10-06T07:38:03Z",
-      "score": 110.86
+      "source": "data-star.dev",
+      "ts": "2025-10-10T08:46:40Z",
+      "score": 138.48
     },
     {
-      "id": "hn-45531262",
-      "title": "Sea Rise Simulator (2023)",
-      "url": "https://nagix.github.io/sea-level-rise-3d-map/",
+      "id": "hn-45533902",
+      "title": "How to write in Cuneiform",
+      "url": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
       "summary": "",
-      "source": "nagix.github.io",
-      "ts": "2025-10-09T18:23:43Z",
-      "score": 108.68
+      "source": "openculture.com",
+      "ts": "2025-10-09T22:58:31Z",
+      "score": 131.79
     },
     {
-      "id": "b6a5b4ef34d1",
-      "title": "Reflection raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
-      "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
-      "summary": "Reflection, once focused on autonomous coding agents, has raised $2B at an $8B valuation to expand into both an opensource alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T22:35:15Z",
-      "score": 107.73
-    },
-    {
-      "id": "hn-45488201",
-      "title": "CPU cache-friendly data structures in Go",
-      "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+      "id": "hn-45536694",
+      "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+      "url": "https://discrete-distribution-networks.github.io/",
       "summary": "",
-      "source": "skoredin.pro",
-      "ts": "2025-10-06T06:23:28Z",
-      "score": 105.65
+      "source": "discrete-distribution-networks.github.io",
+      "ts": "2025-10-10T09:01:54Z",
+      "score": 117.38
     },
     {
-      "id": "e82e5aa82571",
-      "title": "Defining and evaluating political bias in LLMs",
-      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
-      "summary": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-      "source": "openai.com",
-      "ts": "2025-10-09T13:00:00Z",
-      "score": 104.66
-    },
-    {
-      "id": "hn-45533208",
-      "title": "Show HN: GYST – Digital organizer that replicates the feeling of a physical desk",
-      "url": "https://gyst.fr/",
+      "id": "hn-45536124",
+      "title": "Multi-Core by Default",
+      "url": "https://www.rfleury.com/p/multi-core-by-default",
       "summary": "",
-      "source": "gyst.fr",
-      "ts": "2025-10-09T21:18:29Z",
-      "score": 101.72
+      "source": "rfleury.com",
+      "ts": "2025-10-10T07:11:06Z",
+      "score": 107.79
     },
     {
-      "id": "hn-45533152",
-      "title": "What if the singularity lies beyond a plateau we cannot cross?",
-      "url": "http://www.jasonwillems.com/ai/2025/10/09/The-Plateau/",
+      "id": "hn-45537035",
+      "title": "Vite+ – The Unified Toolchain for the Web",
+      "url": "https://viteplus.dev/",
       "summary": "",
-      "source": "jasonwillems.com",
-      "ts": "2025-10-09T21:13:16Z",
-      "score": 97.94
+      "source": "viteplus.dev",
+      "ts": "2025-10-10T09:53:35Z",
+      "score": 107.71
     },
     {
-      "id": "d99941ffc574",
-      "title": "Intel unveils new processor powered by its 18A semiconductor tech",
-      "url": "https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/",
-      "summary": "Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T17:45:47Z",
-      "score": 97.79
+      "id": "hn-45536325",
+      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
+      "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+      "summary": "",
+      "source": "ramsayleung.github.io",
+      "ts": "2025-10-10T07:50:54Z",
+      "score": 106.66
     },
     {
-      "id": "085f53566f3b",
-      "title": "Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-hyperpod-and-anyscale-for-next-generation-distributed-computing/",
-      "summary": "In this post, we demonstrate how to integrate Amazon SageMaker HyperPod with Anyscale platform to address critical infrastructure challenges in building and deploying large-scale AI models. The combined solution provides robust infrastructure for distributed AI workloads with high-performance hardware, continuous monitoring, and seamless integration with Ray, the leading AI compute engine, enabling organizations to reduce time-to-market and lower total cost of ownership.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-09T21:52:24Z",
-      "score": 96.85
-    },
-    {
-      "id": "a8df3eb77f6d",
-      "title": "Customizing text content moderation with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/",
-      "summary": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
-      "source": "aws.amazon.com",
-      "ts": "2025-10-09T21:47:08Z",
-      "score": 96.67
-    },
-    {
-      "id": "8518e0877acf",
-      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
-      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
-      "summary": "OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch. That’s according to Sora head Bill Peebles, who said on Wednesday that Sora racked up downloads faster than ChatGPT did at launch despite being an invite-only app. The company launched its new Sora app for [&#8230;]",
+      "id": "471ca2faa110",
+      "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+      "url": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+      "summary": "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts. The updated Copilot app is rolling out initially to all Windows Insiders, ahead of a general release to all Windows 11 users. Copilot on Windows can now create Word documents, [&#8230;]",
       "source": "theverge.com",
-      "ts": "2025-10-09T16:38:38Z",
-      "score": 95.54
+      "ts": "2025-10-10T09:47:59Z",
+      "score": 106.39
     },
     {
-      "id": "64b2ae9c43b1",
-      "title": "Figma partners with Google to add Gemini AI to its design platform",
-      "url": "https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/",
-      "summary": "Figma is adding Gemini to its AI toolset.",
-      "source": "techcrunch.com",
-      "ts": "2025-10-09T16:34:35Z",
-      "score": 95.41
-    },
-    {
-      "id": "11b0a3b17d6d",
-      "title": "The AI industry is at a major crossroads",
-      "url": "https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt",
-      "summary": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’m subbing in for Nilay while he’s still out on parental leave, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry. It’s been a very [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-09T16:00:00Z",
-      "score": 94.27
-    },
-    {
-      "id": "06bea04f6b31",
-      "title": "DC Comics won’t support generative AI: ‘not now, not ever’",
-      "url": "https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge",
-      "summary": "DC Comics president and publisher Jim Lee said that the company “will not support AI-generated storytelling or artwork,” assuring fans that its future will remain rooted in human creativity. “Not now, not ever, as long as [SVP, general manager] Anne DePies and I are in charge,” Lee said during his panel at New York Comic [&#8230;]",
-      "source": "theverge.com",
-      "ts": "2025-10-09T11:54:29Z",
-      "score": 86.56
-    },
-    {
-      "id": "hn-45524437",
-      "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
-      "url": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer",
+      "id": "hn-45536816",
+      "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
+      "url": "https://vectrx.substack.com/p/webgpu-cellular-automata",
       "summary": "",
-      "source": "ycombinator.com",
-      "ts": "2025-10-09T07:01:07Z",
-      "score": 71.67
+      "source": "vectrx.substack.com",
+      "ts": "2025-10-10T09:20:22Z",
+      "score": 104.19
     },
     {
-      "id": "bf9b337ec969",
-      "title": "Artificial Hippocampus Networks for Efficient Long-Context Modeling",
-      "url": "http://arxiv.org/abs/2510.07318v1",
-      "summary": "Long-sequence modeling faces a fundamental trade-off between the efficiency\nof compressive fixed-size memory in RNN-like models and the fidelity of\nlossless growing memory in attention-based Transformers. Inspired by the\nMulti-Store Model in cognitive science, we introduce a memory framework of\nartificial neural networks. Our method maintains a sliding window of the\nTransformer's KV cache as lossless short-term memory, while a learnable module\ntermed Artificial Hippocampus Network (AHN) recurrently compresses\nout-of-window information into a fixed-size compact long-term memory. To\nvalidate this framework, we instantiate AHNs using modern RNN-like\narchitectures, including Mamba2, DeltaNet, and Gated DeltaNet. Extensive\nexperiments on long-context benchmarks LV-Eval and InfiniteBench demonstrate\nthat AHN-augmented models consistently outperform sliding window baselines and\nachieve performance comparable or even superior to full-attention models, while\nsubstantially reducing computational and memory requirements. For instance,\naugmenting the Qwen2.5-3B-Instruct with AHNs reduces inference FLOPs by 40.5%\nand memory cache by 74.0%, while improving its average score on LV-Eval (128k\nsequence length) from 4.41 to 5.88. Code is available at:\nhttps://github.com/ByteDance-Seed/AHN.",
-      "source": "arxiv.org",
-      "ts": "2025-10-08T17:59:55Z",
-      "score": 70.44
-    },
-    {
-      "id": "868110ac89b1",
-      "title": "Vibe Checker: Aligning Code Evaluation with Human Preference",
-      "url": "http://arxiv.org/abs/2510.07315v1",
-      "summary": "Large Language Models (LLMs) have catalyzed vibe coding, where users leverage\nLLMs to generate and iteratively refine code through natural language\ninteractions until it passes their vibe check. Vibe check is tied to real-world\nhuman preference and goes beyond functionality: the solution should feel right,\nread cleanly, preserve intent, and remain correct. However, current code\nevaluation remains anchored to pass@k and captures only functional correctness,\noverlooking the non-functional instructions that users routinely apply. In this\npaper, we hypothesize that instruction following is the missing piece\nunderlying vibe check that represents human preference in coding besides\nfunctional correctness. To quantify models' code instruction following\ncapabilities with measurable signals, we present VeriCode, a taxonomy of 30\nverifiable code instructions together with corresponding deterministic\nverifiers. We use the taxonomy to augment established evaluation suites,\nresulting in Vibe Checker, a testbed to assess both code instruction following\nand functional correctness. Upon evaluating 31 leading LLMs, we show that even\nthe strongest models struggle to comply with multiple instructions and exhibit\nclear functional regression. Most importantly, a composite score of functional\ncorrectness and instruction following correlates the best with human\npreference, with the latter emerging as the primary differentiator on\nreal-world programming tasks. Our work identifies core factors of the vibe\ncheck, providing a concrete path for benchmarking and developing models that\nbetter align with user preferences in coding.",
-      "source": "arxiv.org",
-      "ts": "2025-10-08T17:59:19Z",
-      "score": 70.43
-    },
-    {
-      "id": "72af4dbb33ba",
-      "title": "GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations",
-      "url": "http://arxiv.org/abs/2510.07314v1",
-      "summary": "Nuclear fusion plays a pivotal role in the quest for reliable and sustainable\nenergy production. A major roadblock to viable fusion power is understanding\nplasma turbulence, which significantly impairs plasma confinement, and is vital\nfor next-generation reactor design. Plasma turbulence is governed by the\nnonlinear gyrokinetic equation, which evolves a 5D distribution function over\ntime. Due to its high computational cost, reduced-order models are often\nemployed in practice to approximate turbulent transport of energy. However,\nthey omit nonlinear effects unique to the full 5D dynamics. To tackle this, we\nintroduce GyroSwin, the first scalable 5D neural surrogate that can model 5D\nnonlinear gyrokinetic simulations, thereby capturing the physical phenomena\nneglected by reduced models, while providing accurate estimates of turbulent\nheat transport.GyroSwin (i) extends hierarchical Vision Transformers to 5D,\n(ii) introduces cross-attention and integration modules for latent\n3D$\\leftrightarrow$5D interactions between electrostatic potential fields and\nthe distribution function, and (iii) performs channelwise mode separation\ninspired by nonlinear physics. We demonstrate that GyroSwin outperforms widely\nused reduced numerics on heat flux prediction, captures the turbulent energy\ncascade, and reduces the cost of fully resolved nonlinear gyrokinetics by three\norders of magnitude while remaining physically verifiable. GyroSwin shows\npromising scaling laws, tested up to one billion parameters, paving the way for\nscalable neural surrogates for gyrokinetic simulations of plasma turbulence.",
-      "source": "arxiv.org",
-      "ts": "2025-10-08T17:59:10Z",
-      "score": 70.43
-    },
-    {
-      "id": "hn-45520996",
-      "title": "What’s so great about excellence? (1981)",
-      "url": "https://newrepublic.com/article/108017/whats-so-great-about-excellence",
+      "id": "hn-45537255",
+      "title": "EU lawmakers push to ban term 'veggie-burger'",
+      "url": "https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/",
       "summary": "",
-      "source": "newrepublic.com",
-      "ts": "2025-10-08T21:48:53Z",
-      "score": 70.07
+      "source": "reuters.com",
+      "ts": "2025-10-10T10:31:45Z",
+      "score": 103.94
+    },
+    {
+      "id": "hn-45537291",
+      "title": "Indonesia's film industry embraces AI to make Hollywood-style movies for cheap",
+      "url": "https://restofworld.org/2025/indonesia-ai-movies/",
+      "summary": "",
+      "source": "restofworld.org",
+      "ts": "2025-10-10T10:37:51Z",
+      "score": 102.74
     },
     {
       "id": "hn-45489884",
@@ -385,7 +268,151 @@
       "summary": "",
       "source": "simonwillison.net",
       "ts": "2025-10-06T10:40:28Z",
-      "score": 60.31
+      "score": 102.13
+    },
+    {
+      "id": "hn-45535014",
+      "title": "Vexing Exceptions",
+      "url": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
+      "summary": "",
+      "source": "ericlippert.com",
+      "ts": "2025-10-10T02:54:31Z",
+      "score": 93.98
+    },
+    {
+      "id": "a58669564898",
+      "title": "BLAZER: Bootstrapping LLM-based Manipulation Agents with Zero-Shot Data\n  Generation",
+      "url": "http://arxiv.org/abs/2510.08572v1",
+      "summary": "Scaling data and models has played a pivotal role in the remarkable progress\nof computer vision and language. Inspired by these domains, recent efforts in\nrobotics have similarly focused on scaling both data and model size to develop\nmore generalizable and robust policies. However, unlike vision and language,\nrobotics lacks access to internet-scale demonstrations across diverse robotic\ntasks and environments. As a result, the scale of existing datasets typically\nsuffers from the need for manual data collection and curation. To address this\nproblem, here we propose BLAZER, a framework that learns manipulation policies\nfrom automatically generated training data. We build on the zero-shot\ncapabilities of LLM planners and automatically generate demonstrations for\ndiverse manipulation tasks in simulation. Successful examples are then used to\nfinetune an LLM and to improve its planning capabilities without human\nsupervision. Notably, while BLAZER training requires access to the simulator's\nstate, we demonstrate direct transfer of acquired skills to sensor-based\nmanipulation. Through extensive experiments, we show BLAZER to significantly\nimprove zero-shot manipulation in both simulated and real environments.\nMoreover, BLAZER improves on tasks outside of its training pool and enables\ndownscaling of LLM models. Our code and data will be made publicly available on\nthe project page.",
+      "source": "arxiv.org",
+      "ts": "2025-10-09T17:59:58Z",
+      "score": 90.47
+    },
+    {
+      "id": "ac356afe2b3f",
+      "title": "NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated\n  Videos",
+      "url": "http://arxiv.org/abs/2510.08568v1",
+      "summary": "Enabling robots to execute novel manipulation tasks zero-shot is a central\ngoal in robotics. Most existing methods assume in-distribution tasks or rely on\nfine-tuning with embodiment-matched data, limiting transfer across platforms.\nWe present NovaFlow, an autonomous manipulation framework that converts a task\ndescription into an actionable plan for a target robot without any\ndemonstrations. Given a task description, NovaFlow synthesizes a video using a\nvideo generation model and distills it into 3D actionable object flow using\noff-the-shelf perception modules. From the object flow, it computes relative\nposes for rigid objects and realizes them as robot actions via grasp proposals\nand trajectory optimization. For deformable objects, this flow serves as a\ntracking objective for model-based planning with a particle-based dynamics\nmodel. By decoupling task understanding from low-level control, NovaFlow\nnaturally transfers across embodiments. We validate on rigid, articulated, and\ndeformable object manipulation tasks using a table-top Franka arm and a Spot\nquadrupedal mobile robot, and achieve effective zero-shot execution without\ndemonstrations or embodiment-specific training. Project website:\nhttps://novaflow.lhy.xyz/.",
+      "source": "arxiv.org",
+      "ts": "2025-10-09T17:59:55Z",
+      "score": 90.47
+    },
+    {
+      "id": "4b339f3fb382",
+      "title": "ArenaBencher: Automatic Benchmark Evolution via Multi-Model Competitive\n  Evaluation",
+      "url": "http://arxiv.org/abs/2510.08569v1",
+      "summary": "Benchmarks are central to measuring the capabilities of large language models\nand guiding model development, yet widespread data leakage from pretraining\ncorpora undermines their validity. Models can match memorized content rather\nthan demonstrate true generalization, which inflates scores, distorts\ncross-model comparisons, and misrepresents progress. We introduce ArenaBencher,\na model-agnostic framework for automatic benchmark evolution that updates test\ncases while preserving comparability. Given an existing benchmark and a diverse\npool of models to be evaluated, ArenaBencher infers the core ability of each\ntest case, generates candidate question-answer pairs that preserve the original\nobjective, verifies correctness and intent with an LLM as a judge, and\naggregates feedback from multiple models to select candidates that expose\nshared weaknesses. The process runs iteratively with in-context demonstrations\nthat steer generation toward more challenging and diagnostic cases. We apply\nArenaBencher to math problem solving, commonsense reasoning, and safety domains\nand show that it produces verified, diverse, and fair updates that uncover new\nfailure modes, increase difficulty while preserving test objective alignment,\nand improve model separability. The framework provides a scalable path to\ncontinuously evolve benchmarks in step with the rapid progress of foundation\nmodels.",
+      "source": "arxiv.org",
+      "ts": "2025-10-09T17:59:55Z",
+      "score": 90.47
+    },
+    {
+      "id": "dd2dd21b0fb7",
+      "title": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them",
+      "url": "https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/",
+      "summary": "Microsoft CEO Satya Nadella offered a glimpse of the \"first of many\" massive Nvidia AI systems it is rolling out, starting now.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-09T23:53:36Z",
+      "score": 86.55
+    },
+    {
+      "id": "b6a5b4ef34d1",
+      "title": "Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
+      "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
+      "summary": "Reflection, once focused on autonomous coding agents, has raised $2B at an $8B valuation to expand into both an opensource alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-09T22:35:15Z",
+      "score": 84.23
+    },
+    {
+      "id": "e82e5aa82571",
+      "title": "Defining and evaluating political bias in LLMs",
+      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+      "summary": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "source": "openai.com",
+      "ts": "2025-10-09T13:00:00Z",
+      "score": 81.52
+    },
+    {
+      "id": "d99941ffc574",
+      "title": "Intel unveils new processor powered by its 18A semiconductor tech",
+      "url": "https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/",
+      "summary": "Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing.",
+      "source": "techcrunch.com",
+      "ts": "2025-10-09T17:45:47Z",
+      "score": 76.17
+    },
+    {
+      "id": "085f53566f3b",
+      "title": "Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-hyperpod-and-anyscale-for-next-generation-distributed-computing/",
+      "summary": "In this post, we demonstrate how to integrate Amazon SageMaker HyperPod with Anyscale platform to address critical infrastructure challenges in building and deploying large-scale AI models. The combined solution provides robust infrastructure for distributed AI workloads with high-performance hardware, continuous monitoring, and seamless integration with Ray, the leading AI compute engine, enabling organizations to reduce time-to-market and lower total cost of ownership.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-09T21:52:24Z",
+      "score": 75.44
+    },
+    {
+      "id": "a8df3eb77f6d",
+      "title": "Customizing text content moderation with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/",
+      "summary": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
+      "source": "aws.amazon.com",
+      "ts": "2025-10-09T21:47:08Z",
+      "score": 75.3
+    },
+    {
+      "id": "8518e0877acf",
+      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
+      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
+      "summary": "OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch. That’s according to Sora head Bill Peebles, who said on Wednesday that Sora racked up downloads faster than ChatGPT did at launch despite being an invite-only app. The company launched its new Sora app for [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-09T16:38:38Z",
+      "score": 74.42
+    },
+    {
+      "id": "11b0a3b17d6d",
+      "title": "The AI industry is at a major crossroads",
+      "url": "https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt",
+      "summary": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’m subbing in for Nilay while he’s still out on parental leave, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry. It’s been a very [&#8230;]",
+      "source": "theverge.com",
+      "ts": "2025-10-09T16:00:00Z",
+      "score": 73.43
+    },
+    {
+      "id": "hn-45491057",
+      "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
+      "url": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
+      "summary": "",
+      "source": "gpuopen.com",
+      "ts": "2025-10-06T13:15:00Z",
+      "score": 63.86
+    },
+    {
+      "id": "hn-45489881",
+      "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
+      "url": "https://github.com/scribeocr/scribeocr",
+      "summary": "",
+      "source": "github.com",
+      "ts": "2025-10-06T10:39:50Z",
+      "score": 57.73
+    },
+    {
+      "id": "hn-45512342",
+      "title": "Interactive Double Pendulum Playground",
+      "url": "https://theabbie.github.io/DoublePendulum/",
+      "summary": "",
+      "source": "theabbie.github.io",
+      "ts": "2025-10-08T05:18:44Z",
+      "score": 56.4
+    },
+    {
+      "id": "hn-45492809",
+      "title": "The product of the railways is the timetable",
+      "url": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
+      "summary": "",
+      "source": "springbett.substack.com",
+      "ts": "2025-10-06T16:02:44Z",
+      "score": 46.71
     },
     {
       "id": "c4c17fc22989",
@@ -394,16 +421,7 @@
       "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
       "source": "openai.com",
       "ts": "2025-10-08T08:00:00Z",
-      "score": 57.2
-    },
-    {
-      "id": "hn-45514245",
-      "title": "A 16.67 Millisecond Frame",
-      "url": "https://koolcodez.com/blog/inside-the-frame/",
-      "summary": "",
-      "source": "koolcodez.com",
-      "ts": "2025-10-08T10:01:42Z",
-      "score": 54.9
+      "score": 44.55
     },
     {
       "id": "4c4ccc30221b",
@@ -412,16 +430,7 @@
       "summary": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
       "source": "aws.amazon.com",
       "ts": "2025-10-08T16:26:47Z",
-      "score": 52.46
-    },
-    {
-      "id": "hn-45490403",
-      "title": "A case for learning GPU programming with a compute-first mindset",
-      "url": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
-      "summary": "",
-      "source": "themaister.net",
-      "ts": "2025-10-06T11:57:33Z",
-      "score": 36.78
+      "score": 40.86
     },
     {
       "id": "ef0be25f55f7",
@@ -430,16 +439,7 @@
       "summary": "<p>Meta open-sourced React over a decade ago to help developers build better user experiences. Since then, React has grown into one of the world’s most popular open source projects, powering over 50 million websites and products built by companies such as Microsoft, Shopify, Bloomberg, Discord, Coinbase, the NFL, and many others. With React Native, React [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/\" rel=\"nofollow\">Introducing the React Foundation: The New Home for React &#038; React Native</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-07T18:00:01Z",
-      "score": 32.87
-    },
-    {
-      "id": "hn-45489311",
-      "title": "Neutts-air – Open-source, on device TTS",
-      "url": "https://github.com/neuphonic/neutts-air",
-      "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-06T09:06:12Z",
-      "score": 32.76
+      "score": 25.6
     },
     {
       "id": "04d6a1d695c6",
@@ -448,16 +448,25 @@
       "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
       "source": "openai.com",
       "ts": "2025-10-07T03:00:00Z",
-      "score": 31.26
+      "score": 24.35
     },
     {
-      "id": "hn-45490591",
-      "title": "Show HN: Turn your OpenAPI spec into negative tests",
-      "url": "https://github.com/dochia-dev/dochia-cli",
+      "id": "hn-45489757",
+      "title": "Ohno Type School",
+      "url": "https://ohnotype.co/blog/ohno-type-school-a",
       "summary": "",
-      "source": "github.com",
-      "ts": "2025-10-06T12:25:11Z",
-      "score": 24.35
+      "source": "ohnotype.co",
+      "ts": "2025-10-06T10:18:20Z",
+      "score": 21.63
+    },
+    {
+      "id": "hn-45489761",
+      "title": "Automated Lean Proofs for Every Type",
+      "url": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
+      "summary": "",
+      "source": "galois.com",
+      "ts": "2025-10-06T10:19:04Z",
+      "score": 18.03
     },
     {
       "id": "393918f8efb4",
@@ -466,7 +475,7 @@
       "summary": "<p>OpenZL is a new open source data compression framework that offers lossless compression for structured data. OpenZL is designed to offer the performance of a format-specific compressor with the easy maintenance of a single executable binary. You can get started with OpenZL today by visiting our Quick Start guide and the OpenZL GitHub repository. Learn more [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/\" rel=\"nofollow\">Introducing OpenZL: An Open Source Format-Aware Compression Framework</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T16:00:53Z",
-      "score": 19.13
+      "score": 14.9
     },
     {
       "id": "31d83e438443",
@@ -475,7 +484,7 @@
       "summary": "<p>We’re introducing Candle, a new submarine cable connecting countries across East Asia and Southeast Asia. We’re also announcing several updates to our subsea cables across the Asia-Pacific, including the completion of the Bifrost cable system. The Asia-Pacific (APAC) region is home to over 58% of the world’s internet users1 – many who rely on robust [...]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\">Read More...</a></p>\n<p>The post <a href=\"https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/\" rel=\"nofollow\">Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects</a> appeared first on <a href=\"https://engineering.fb.com\" rel=\"nofollow\">Engineering at Meta</a>.</p>",
       "source": "engineering.fb.com",
       "ts": "2025-10-06T02:30:07Z",
-      "score": 14.43
+      "score": 11.24
     }
   ]
 }
